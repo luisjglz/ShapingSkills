@@ -57,3 +57,28 @@ df = pd.DataFrame(data_dict['data'])
 
 <img src='images/dataframeexample.png'>
 
+We can also save the dataframe as a CSV file:
+
+```
+# Save the DataFrame to a CSV file
+df.to_csv('some_occupation_job_posts.csv', index=False)
+```
+
+<span style='color: red'>Note:</span>
+After some test it seems that JSearch is returning repeated results.
+For an example try the following:
+
+Search for: "Marketing manager in Mexico", the query would be something like: 
+
+```
+conn.request("GET", "/search?query=Marketing%20manager%20in%20Mexico&page=1&num_pages=1", headers=headers)
+```
+
+If we play with the `page` and the `num_pages` we seem to get different ammount of results. We tried the following series:
+
+**num_pages** fixed in 20 and **page** changing from 1 to 4 incrementally.
+
+And got 4 CSV's that added for around 370 job posts. But after cleaning it and removing dupicates we ended with 114 (see folder marketing_manager for the files).
+
+Could we run more tests with more occupations? For example, I got 0 results when looking for *ICT Sales Professional* 
+
