@@ -64,7 +64,7 @@ We can also save the dataframe as a CSV file:
 df.to_csv('some_occupation_job_posts.csv', index=False)
 ```
 
-<span style='color: red'>Note:</span>
+**Note:**
 After some test it seems that JSearch is returning repeated results.
 For an example try the following:
 
