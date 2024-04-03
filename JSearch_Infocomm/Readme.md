@@ -12,7 +12,7 @@ import http.client
 conn = http.client.HTTPSConnection("jsearch.p.rapidapi.com")
 
 headers = {
-    'X-RapidAPI-Key': "791b869b5emshb57f8df007e7a9cp1e92b7jsn8ae0d140dc8d",
+    'X-RapidAPI-Key': "use-your-api-key",
     'X-RapidAPI-Host': "jsearch.p.rapidapi.com"
 }
 
