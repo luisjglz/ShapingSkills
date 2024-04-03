@@ -1,0 +1,936 @@
+job_id,employer_name,employer_logo,employer_website,employer_company_type,job_publisher,job_employment_type,job_title,job_apply_link,job_apply_is_direct,job_apply_quality_score,apply_options,job_description,job_is_remote,job_posted_at_timestamp,job_posted_at_datetime_utc,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_offer_expiration_datetime_utc,job_offer_expiration_timestamp,job_required_experience,job_required_skills,job_required_education,job_experience_in_place_of_education,job_min_salary,job_max_salary,job_salary_currency,job_salary_period,job_highlights,job_job_title,job_posting_language,job_onet_soc,job_onet_job_zone,job_occupational_categories,job_naics_code,job_naics_name
+Y3JeKm8pG_vxH3utAAAAAA==,"Westcon Mexico, S.A. de C.V.",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHe1uF4THhN9i7z9JSaSbG8vI6X9osoSOHYexH&s=0,,,TD SYNNEX Careers,FULLTIME,Security Architect (IBM),https://careers.tdsynnex.com/us/en/job/TSQTSBUSR25017EXTERNALENUS/Security-Architect-IBM,False,0.7833,"[{'publisher': 'TD SYNNEX Careers', 'apply_link': 'https://careers.tdsynnex.com/us/en/job/TSQTSBUSR25017EXTERNALENUS/Security-Architect-IBM', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/security-architect-ibm-td-synnex-JV_IC5017436_KO0,22_KE23,32.htm?jl=1009150334739', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4438108253', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18147233-security-architect-ibm-/', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/security-architect-ibm-td-synnex-JV_IC5017436_KO0,22_KE23,32.htm?jl=1009150334739', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/c589a4dbe15717b785dccfd6ea303a0d', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240314-0c0dfff52a9902fbb7c13d816498dbc3', 'is_direct': False}, {'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=81a241170a19', 'is_direct': False}]","Job Description:
+
+The Security Architect will support more complex technology, like Virtualization, Data Center, Storage, UC, and Cloud Solutions for IBM.
+
+May specialize in one vendor or support multiple technologies.
+
+Must be available to travel in the field, to help our resellers understand the interworking’s of today's complex technologies.
+
+“Let’s Achieve Great Outcomes. TD SYNNEX is the partner that helps unlock business results for all.”
+
+What You'll Do:
+• Provide technical solutions expertise to customers and their end users in a consultative sales environment.
+• Develop complete solutions to meet the requirements/specifications of the customer.
+• Maintain new and current technical expertise across many technologies, such as data center, virtualization, security, mobility, unified communication, and cloud solutions.
+• Provide internal and external technical presentations and training.
+• Act as a visionary for recommending strategic vendors to enhance TD SYNNEX's line card.
+• Work with sales to identify new or existing customers for specific technologies.
+• Assist in determining developmental needs of other technical resources and provide training and/or mentoring as required.
+• Performs additional duties as assigned.
+• Meets attendance and punctuality standards.
+
+What We’re Looking For:
+• College Degree or equivalent experience (5+ years) from which comparable knowledge and job skills can be obtained.
+• Proficient in English (level B2 or higher) required.
+• Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+• Able to recognize and attend to important details with accuracy and efficiency.
+• Able to use relevant computer system applications (which may include spreadsheets, word processors, databases, etc.) at a basic level.
+• Able to build solid, effective working relationships with others.
+• Able to constructively work under stress and pressure when faced with high workloads and deadlines.
+• Able to listen attentively and foster two-way dialogue.
+• Able to maintain a positive attitude in the face of criticism, rejection, or failure.
+• Able to provide courteous, timely service when addressing questions and concerns.
+• Able to maintain social, ethical, and organizational standards in conducting internal and external business activities.
+
+Other Education / High End Certifications in 3 of:
+• BS/MS Degree in IT, Engineering, Cloud preferred.
+• Virtualization, Storage, Cloud, Networking, Servers
+• Specific certifications in VMWare/Microsoft; Cisco/HP/IBM; SAN, Networking, Data Center
+
+Working Conditions:
+• Professional environment (Remote/Hybrid).
+• Able to maintain confidentiality of sensitive information.
+• Occasional non-standard work hours or overtime as business requires.
+
+What’s in it for You?
+• Elective Benefits: Our programs are tailored to your country to best accommodate your lifestyle.
+• Grow Your Career: Accelerate your path to success (and keep up with the future) with formal programs on leadership and professional development, and many more on-demand courses.
+• Elevate Your Personal Well-Being: Boost your financial, physical, and mental well-being through seminars, events, and our global Life Empowerment Assistance Program.
+• Diversity, Equity & Inclusion: It’s not just a phrase to us; valuing every voice is how we succeed. Join us in celebrating our global diversity through inclusive education, meaningful peer-to-peer conversations, and equitable growth and development opportunities.
+• Make the Most of our Global Organization: Network with other new co-workers within your first 30 days through our onboarding program.
+• Connect with Your Community: Participate in internal, peer-led inclusive communities and activities, including business resource groups, local volunteering events, and more environmental and social initiatives.
+
+Don’t meet every single requirement? Apply anyway.
+
+At TD SYNNEX, we’re proud to be recognized as a great place to work and a leader in the promotion and practice of diversity, equity, and inclusion.
+
+If you’re excited about working for our company and believe you’re a good fit for this role, we encourage you to apply.
+
+You may be exactly the person we’re looking for!
+
+What’s In It For You?
+• Elective Benefits: Our programs are tailored to your country to best accommodate your lifestyle.
+• Grow Your Career: Accelerate your path to success (and keep up with the future) with formal programs on leadership and professional development, and many more on-demand courses.
+• Elevate Your Personal Well-Being: Boost your financial, physical, and mental well-being through seminars, events, and our global Life Empowerment Assistance Program.
+• Diversity, Equity & Inclusion: It’s not just a phrase to us; valuing every voice is how we succeed. Join us in celebrating our global diversity through inclusive education, meaningful peer-to-peer conversations, and equitable growth and development opportunities.
+• Make the Most of our Global Organization: Network with other new co-workers within your first 30 days through our onboarding program.
+• Connect with Your Community: Participate in internal, peer-led inclusive communities and activities, including business resource groups, local volunteering events, and more environmental and social initiatives.
+
+Don’t meet every single requirement? Apply anyway.
+
+At TD SYNNEX, we’re proud to be recognized as a great place to work and a leader in the promotion and practice of diversity, equity and inclusion. If you’re excited about working for our company and believe you’re a good fit for this role, we encourage you to apply. You may be exactly the person we’re looking for!",False,1710288000,2024-03-13T00:00:00.000Z,Ciudad de México,CDMX,MX,19.381365,-99.16802,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=Y3JeKm8pG_vxH3utAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Security architect,en,15112200,4,['Sales and Business Development'],,
+T0fzl8vFwFlmFepzAAAAAA==,Carrier,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_of_the_Carrier_Corporation.svg/1200px-Logo_of_the_Carrier_Corporation.svg.png,https://www.carrier.com,Manufacturing,WhatJobs,FULLTIME,Cybersecurity Architect,https://es-mx.whatjobs.com/Trabajo-para-Cybersecurity-Architect-en-santa-catarina-coop107508842,False,0.4253,"[{'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Cybersecurity-Architect-en-santa-catarina-coop107508842', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/184914541', 'is_direct': False}]","**Date Posted**:
+2023-03-17
+• *Country**:
+Mexico
+• *Location**:
+LOC5019: Carrier - UTEC, Carretera. Villa de García Km 3.0, Santa Catarina, 66350 Mexico
+Responsibilities:
+Experience in Cloud and underlying technology (Azure, AWS, GCP, etc..) or advanced technologies supporting security
+
+Responsible for defining security baselines within multiple cloud environments (Azure, AWS, GCP, etc..)
+
+Provide oversight over the implementation of approved security architecture, policies, and procedures. Conduct project security reviews to identify Cloud infrastructure security risks
+
+Review and oversee the implementation of approved recommendations on cloud security design and implementation
+
+Analyze tactical network architectures and topologies to assess security risks.
+
+Determine and establish security best practices and standards normalized across all cloud providers
+
+Work in tandem with our Cloud Engineering, Operations, and other teams to identify and implement the most secure and optimal cloud-based solutions
+
+Establish and maintain the security architecture framework, standards, and roadmap.
+
+Ensure that Cybersecurity deploys solutions that not only secure but also enable business operations
+
+Consult with business and IT partners on secure technical solutions to achieve business goals. This includes system-level architecture and design, risk assessments, and the definition of technical security controls necessary to achieve security requirements.
+
+Lead the design, implementation, enforcement, and roadmap of security solutions in a hybrid infrastructure environment.
+
+Collaborate with fellow architects and department leaders to assess near
+- and long-term security needs.
+
+Design highly reliable, scalable, extensible, maintainable, and operable products and platforms.
+
+Develop enterprise-wide technical perspectives, standards, solutions, and strategies that resolve significant security friction points
+
+Analyze technology, industry, and market trends and determine potential impacts to and opportunities for the enterprise
+
+Perform identification and analysis of enterprise business drivers to develop enterprise security architecture requirements
+
+Work closely with product management and development teams to define the next generation of digital, enterprise, Cloud, and data systems
+
+Serve as an expert resource to IT and business leaders in the development of security solutions to meet business needs
+
+Ensure that the enterprise is making the best use of the latest security technologies to improve performance
+
+Manage day-to-day tasks and have in-depth involvement to allow for early identification of potential challenges
+
+Coordinate a balanced pursuit of enterprise business, information, technical and solution architectures within IT and business units to implement security architecture solutions successfully
+
+Define security architecture standards
+
+Ensure enterprise security solutions are scalable and adaptable according to changing business needs
+
+Basic Qualifications:
+5+ years of work experience in Cloud security architecture and system development.
+
+7+ years of demonstrated experience leading complex cross-functional projects within information security.
+
+2+ years experience with each one of the following: (AWS, Azure).
+
+3+ years proven track record of leading large, complex projects with multiple stakeholders and driving organizational change.
+
+3+ years of progressive experience in leading projects with employees in multiple locations, and significant experience developing and implementing solutions
+
+3+ years experience combined experience with the following: O365, Data Protection, and endpoint security.
+
+5+ years in strategic planning and documenting architecture deliverables (target architecture, security policies, IT principles & reference architecture, technology standards, conceptual patterns, detailed design patterns, etc.)
+
+Preferred Qualifications:
+Bachelor’s degree in Information Systems, Computer Sciences, or related discipline to computer science or cyber security.
+
+3+ years experience information technology infrastructure (Network/Systems administration).
+
+Possesses problem-solving, collaboration, critical thinking, team-building, and presentation skills
+
+Proven experience working with a variety of cultures across the globe and have the patience, understanding, and empathy to work collaboratively and effectively
+
+Understanding of cyber-security threats, vulnerabilities, controls, and remediation strategies
+
+Recognized enterprise architecture-related certification (e.g., TOGAF, Zachman, ITIL, COBIT)
+
+GEVA, CySA+, CISSP, or CISM
+• *Carrier is An Equal **Opportunity/Affirmative** Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.**
+• *Job Applicant's Privacy Notice**:
+Click on this link to read the Job A",False,1712102400,2024-04-03T00:00:00.000Z,Ciudad Santa Catarina,N.L.,MX,25.674606,-100.44232,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=T0fzl8vFwFlmFepzAAAAAA%3D%3D,2024-05-01T10:34:00.000Z,1714559640.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Architect,en,15112200,4,,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+1fP0Yy47ftWBwty7AAAAAA==,TD SYNNEX,https://www.synnexcorp.com/wp-content/uploads/sites/1/2021/11/TD-SYNNEX_Logo_Color_441x85.png,https://www.synnex.com,Computer Services,LinkedIn,FULLTIME,Security Architect (IBM),https://mx.linkedin.com/jobs/view/security-architect-ibm-at-td-synnex-3878801697,False,0.6904,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/security-architect-ibm-at-td-synnex-3878801697', 'is_direct': False}]","Security Architect (IBM)
+
+In this job you will focus on the leverage of the IBM IT solutions within the Latin America Region using the technical and communications skills to enable and influence IBM business partners and its customers.
+
+You will be part of a team of TD Synnex architects whose mission is to technically support business initiatives of IBM resellers in Latin America, in addition to promoting IBM solutions for its ecosystem associated with TD Synnex and for the IT market, in a general way.
+
+Connected to a wider team, you’ll be surrounded by other leaders and colleagues who are always willing to help and be helped for creating and delivering technical proof points through technical accelerators, to include demonstrations, Proof-of-Concepts, Solution Design, Proposals, MVPs definitions and Workshops.
+
+What You'll Do:
+• Engage in developing and deploying Security solutions to solve business problems in a wide array of industries around the market.
+• Advises IT and Security leaders in evolving security strategies, technologies and processes.
+• Responsible for security architectures and their effectiveness as security-by-design.
+• Perform risk assessments, drive remediation and propose improvements.
+• Present the value proposition with a technical & commercial language, according to the public and the means of communication.
+• Design security solutions, plan and implement security technologies that meet the requirements/specifications of the client.
+• Learn about the IBM solutions related to Security.
+• Provide technical solutions expertise to clients and their end users in a consultative sales environment.
+• Act as a visionary for recommending strategic vendors to enhance TD SYNNEX's line card.
+• Work with sales to identify new or existing customers for specific technologies (IBM Security).
+• Support other professionals from TD Synnex and IBM business partners in Latin America in the design and configuration of the solutions that will be offered to meet the business demands of the LATAM market.
+
+What We’re Looking For:
+
+Experience and knowledge requiered:
+• College Degree or equivalent experience from which comparable knowledge and job skills can be obtained.
+• Proficient in English (level B2 or higher) required.
+• 3 + of proven experience working as pre-sales specialist or IT architect for Security solutions.
+• Proven leadership experience in understanding and presenting the value proposition of IT Security solutions and products.
+• Experience working with hybrid multicloud environments.
+• Knowledge of the IT infrastructure alternatives with servers, virtual machines, and containers.
+• Knowledge of information security governance process.
+• Knowledge of technological platforms such as SOAR, Threat Intelligence and SIEM.
+
+Good to Have:
+• Work experience on an enterprise product vendor like IBM, Oracle, Microsoft. (PREFFED)
+• Experience with the IT solution sizing and pricing process.
+• Good knowledge about cloud solutions and its adoptions.
+• Knowledge of IBM Cloud Paks products.
+• Good understand of IT containers platforms, such as Docker, Kubernetes and Openshift.
+• Experience with Incident Response - CSIRT 7.
+• Practical experience within a SOC - Security Operation Center
+• Knowledge of security and technologies in Cloud.
+
+Personal competencies:
+• Good communication and documentation skills.
+• Leadership and deep analytical skills.
+• Collaborative work enthusiast.
+• Good on working with heterogeneous and dynamic teams.
+• Good communications skills on English.
+• Self-Learning
+
+Benefits:
+
+Benefits above the law.
+
+Food vouchers and teleworking.
+
+Saving Fund.
+
+Insurance for major, minor and dental medical expenses.
+
+English and Portuguese language classes.
+
+Opportunities for development and professional growth. (Certifications with Vendors).",False,1712086040,2024-04-02T19:27:20.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=1fP0Yy47ftWBwty7AAAAAA%3D%3D,2024-05-02T19:27:16.000Z,1714678036.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15112200,4,,541512,Computer Systems Design Services
+aKOxOzt0aZgjnmcfAAAAAA==,Backbase,https://sdk.finance/wp-content/uploads/2020/02/Backbase-vs-Mambu-scaled.jpg,http://www.backbase.com,Information,Greenhouse,FULLTIME,Security Architect,https://boards.greenhouse.io/workatbackbase/jobs/5038081,False,0.7594,"[{'publisher': 'Greenhouse', 'apply_link': 'https://boards.greenhouse.io/workatbackbase/jobs/5038081', 'is_direct': False}]","The job in short
+
+Join our team at Backbase, one of the LinkedIn Top Companies of 2023 in the Netherlands! We're known for our great work environment and providing opportunities for career growth. We’re also committed to fostering a culture of collaboration, innovation, and growth. As a member of our team, you'll have the chance to work with some of the brightest and most talented people in the industry, as well as help shape the future of digital banking. Come join us and be part of something special.
+
+As an Identity and Security Architect, it’s your job to ensure that envisaged solutions become reality. Taking this client-facing role, you are equally comfortable in deep-dive security workshops and in board-level sales presentations. Having earned your stripes in designing modern security architecture, you have no problem finding the scope in large-scale, complex projects. millions of users and their banking data safe and secure.
+
+Meet the job
+
+You will be the go-to-person for all Identity and Security related topics in a Backbase Engagement Banking Platform implementation. You will work alongside our Solution Architects and multidisciplinary implementation teams to gather requirements, design and implement modern, standards-based security solutions; positioning and integrating our own IAM product (Backbase Identity) in complex banking environments.
+
+Your day-to-day responsibilities will include leading security workshop sessions, refinements and providing guidance to both our customers and our internal organization. We are looking for someone who is able to inspire and motivate customers and colleagues alike, asking the right questions and translating business requirements into actionable designs.
+
+You understand modern authentication flows and the demands of digitally-able end customers. You will educate customers on how to leverage best-in-class security patterns to ensure smooth end user experience, including passwordless authentication.
+
+You will take the lead in advising customers and peers regarding defensible, zero-trust architecture. You will play a key role during penetration testing cycles by understanding, triaging and mitigating items uncovered.
+
+As part of a product company, you will also work as the bridge between R&D and our customers, ensuring that field feedback is captured and new features / improvements are seen through to completion and adopted by product.
+
+How about you?
+
+To the development team, you are the vital mainstay during processes of implementation. To customers and partners, you are the expert liaison with a keen feel for their needs. So besides being a great architect, you are also a considerate companion who delivers remarkable results on a continuous basis. You have a hacker mindset and always strive to think like an attacker.
+
+In order to really own this role, we think you’ll need:
+• Excellent understanding of IAM, application security and cloud security domains;
+• Successful track record delivering security and identity workshops;
+• Extensive experience in guiding customers towards a modern and secure architecture;
+• Comfortable speaking to a technical audience as well as board-level management roles;
+• Collaborative and pragmatic approach to balancing the demands of security, functional, non-functional and user experience objectives;
+• Bachelor's degree in Computer Science, Information Security, Cyber Security or equivalent;
+• Expert understanding of modern authentication flows such as FIDO, OIDC and OAuth 2.0;
+• Ability to deal with security architecture related discussions in public cloud ecosystems as well as in hybrid infrastructure.;
+• Last but not least, you have excellent communication and presentation skills in English.
+
+We’ll be delighted if you bring experience in the following topics but otherwise these would be opportunities for you to grow your knowledge working in Backbase:
+• Experience with Standards based Identity and Access Management solutions e.g. Keycloak;
+• Ability to lead Architecture Risk Analysis and Threat Modelling;
+• Experience working and integrating with multiple Identity and Access Management solutions, such as Ping, Okta, Keycloak, ForgeRock etc;
+• Deep understanding of pen testing web applications and mobile applications;
+• Deep understanding of security in the SDLC including a SAST/SCA/DAST/IAST toolset;
+• Deep understanding of frontend, backend and mobile security domains;
+• Deep understanding of relevant, security sensitive regulations such as GDPR, PSD2 and PCI-DSS;
+• Deep understanding of cloud-native technologies, such as Kubernetes;
+• One or more security certifications such as CSSLP, CISSP, OSCP, GWEB;
+• Banking domain knowledge.",False,1683590400,2023-05-09T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=aKOxOzt0aZgjnmcfAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Security architect,en,15112200,4,,511210,Software Publishers
+NZhzSuV8ATcbe84OAAAAAA==,The Home Depot México,https://corporate.homedepot.com/sites/default/files/image_gallery/THD_logo.jpg,http://www.homedepot.com,Retail,LinkedIn,FULLTIME,SECURITY ARCHITECT,https://mx.linkedin.com/jobs/view/security-architect-at-the-home-depot-m%C3%A9xico-3868027406,False,0.7634,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/security-architect-at-the-home-depot-m%C3%A9xico-3868027406', 'is_direct': False}, {'publisher': 'Hireline', 'apply_link': 'https://hireline.io/mx/empleos/security-architect/102197', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/e18d08f3ee2565ada86c266f8a2844aed', 'is_direct': False}]","The Home Depot México está en búsqueda de talento para la posición de Security Architect con sede en Monterrey, N.L.
+
+Objetivo del puesto:
+
+Asegurar la confidencialidad, integridad y disponibilidad de los activos de información y los sistemas encargados de almacenar, procesar y transmitir estos activos de información, esto a través del cumplimiento de leyes, regulaciones y normativas de seguridad, identificando riesgos de seguridad con impacto en la organización.
+
+Principales Funciones:
+
+Alinear a la estrategia de seguridad de la organización en el diseño de los componentes de la infraestructura tecnológica, mediante ejercicios de dimensionamiento de diseño y arquitectura de solución, para su correcto desarrollo, implementación y puesta en operación.
+• Apoyar en la habilitación de un modelo de seguridad desde el diseño
+• Dar seguimiento y vigilar que los proyectos/servicios operen de acuerdo con la arquitectura de seguridad diseñada para su operación.
+• Evaluar nuevas tecnologías de información, para ofrecer una propuesta de entrega de nuevas soluciones mediante la constante investigación de las tendencias de seguridad de la industria.
+• Participar en la definición de controles de seguridad, estándares y modelos de referencia de seguridad para los componentes que integran la infraestructura tecnológica (centro de datos, telecomunicaciones, Nube).
+• Gestionar la documentación de estándares, modelos de referencia y especificaciones técnicas de seguridad específicos de cada proyecto, que deben ser considerados durante el diseño de nuevos servicios y/o proyectos.
+• Contribuir activamente en el establecimiento y gestión de un programa de gestión de configuraciones seguras de los activos de infraestructura.
+• Colaborar con Arquitectura empresarial para la definición de controles, estándares y requerimientos para proyectos nuevos y existentes
+• Apoyar a las áreas funcionales y de TI en la creación de diagramas conceptuales del flujo de información de las comunicaciones de los servicios y soluciones, considerando que se atiendan los riesgos de SI.
+
+Requisitos:
+• Carrera profesional terminada en Ingeniería o Licenciatura en sistemas o afín.
+• Inglés Avanzado.
+• Contar con experiencia de al menos 2 años en puesto similar.
+• Conocimiento en administración de vulnerabilidades.
+• Conocimiento en herramientas de identificación de vulnerabilidades (Qualys, Tenable/Nessus, etc.)
+• Conocimientos de redes, infraestructura, cifrado, protección de datos, normatividad.
+• Conocimiento de mejores prácticas y estándares internacionales como ISO27000, PCI, SOX, CIS, etc.
+
+Si cumples con el perfil y esta oportunidad es de tu interés, ¡postúlate por este medio!
+
+Todos nuestros procesos de reclutamiento y selección son incluyentes y libres de discriminación; sin importar género, edad, nacionalidad, raza, cultura, religión, estado civil, creencias, discapacidad, orientación sexual, identidad y expresión de género.",False,1711411454,2024-03-26T00:04:14.000Z,San Pedro Garza García,N.L.,MX,25.657345,-100.40175,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=NZhzSuV8ATcbe84OAAAAAA%3D%3D,2024-04-25T00:04:13.000Z,1714003453.0,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,es,15112200,4,,4441,Building Material and Supplies Dealers
+Nfaq877UK5oJddjbAAAAAA==,Cognizant Technology Solutions,https://news.cognizant.com/images/COG-Logo.svg,http://www.cognizant.com,Computer Services,Cognizant,FULLTIME,Cyber Security Architect,https://careers.cognizant.com/global/en/job/00057998661/Cyber-Security-Architect,False,0.8949,"[{'publisher': 'Cognizant', 'apply_link': 'https://careers.cognizant.com/global/en/job/00057998661/Cyber-Security-Architect', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/cyber-security-architect-at-cognizant-3838196104', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4589900813', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=ce2a5a9fc066202f', 'is_direct': False}, {'publisher': 'JobServe', 'apply_link': 'https://www.jobserve.com/mx/en/extjob/CYBER-SECURITY-ARCHITECT-in-Guadalajara-Jalisco-MEX-1BBD03FAB425054C2E/', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/ac075b52d74db5fceb50a10c9424d118', 'is_direct': False}, {'publisher': 'KXAN Jobs', 'apply_link': 'https://jobs.kxan.com/jobs/cyber-security-architect-guadalajara-jalisco/1253663158-2/', 'is_direct': False}, {'publisher': 'Aspire Media Group Jobs', 'apply_link': 'https://jobs.aspiremediagroup.net/jobs/cyber-security-architect-guadalajara-jalisco/1253663158-2/', 'is_direct': False}]","Chief Architect Cyber Security
+
+Qualification:
+
+Degree:
+Bachelors Degree, Diploma, PG
+
+Certifications:
+CCIE Security or Equivalent
+
+Responsibility:
+
+Technology thought leadership / Stakeholder management:
+• â€¢ Interface with community network to retain technology competitiveness.
+• â€¢ Work with the client team to design solutions.
+• â€¢ Evaluate emerging technologies and create pilots.
+• â€¢ Envisioning the solution and creating the system architecture.
+
+Project Management:
+• â€¢ Provide solution strategies for upgrades migration consolidation virtualization technology refresh and other infrastructure changes.
+• â€¢ Provide technical consultancy to projects.
+• â€¢ Identify opportunities for technology improvement.
+• â€¢ Conduct Proof of Concept activities when necessary.
+• â€¢ Consult on architectural aspects of the project.
+• â€¢ Undertake project specific Proof of Concepts activities to validate technical feasibility with guidance.
+• â€¢ Implement best practices in specific technology area.
+• â€¢ Recommend new technology solutions to the customer to improve efficiency.
+
+People Management:
+• â€¢ Identify training requirements for the engagement.
+• â€¢ Provide guidance to community members on relevant technology area.
+• â€¢ Publish best practice document.
+• â€¢ Participate in providing support/solution across vertical.
+• â€¢ Participate in recruitment.
+• â€¢ Conduct advanced training sessions to associates across practice Participate in course design process.
+
+Organization:
+• â€¢ Ensure team contributes and participates in all organizational technology events and knowledge sharing forums.
+• â€¢ Adherence to Organizational policies and processes (including Cognizantâ€™s security policies LP timelines etc).
+• Participate in recruitment drives.
+
+Must Have Skills
+• CyberArk PIM
+• Sailpoint IdentityIQ
+• Engineering & Design",False,1710979200,2024-03-21T00:00:00.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=Nfaq877UK5oJddjbAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Security architect,en,15112200,4,['IT Infrastructure'],541511,Custom Computer Programming Services
+lsgkBfMi8aW6n0pVAAAAAA==,OCDTECH,,,,LinkedIn,FULLTIME,Security Architect,https://mx.linkedin.com/jobs/view/security-architect-at-ocdtech-3866692821,False,0.7725,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/security-architect-at-ocdtech-3866692821', 'is_direct': False}, {'publisher': 'Hireline', 'apply_link': 'https://hireline.io/mx/empleos/security-architect/104416', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/-8515859542838911725', 'is_direct': False}, {'publisher': 'JOBATUS', 'apply_link': 'https://www.jobatus.mx/oferta-trabajo/security-architect-597712719', 'is_direct': False}]","Description
+
+A Security Architect in a Cybersecurity IT role within a finance company plays a critical and multifaceted role focused on designing, building, and overseeing the implementation of network and computer security for the organization. Their primary goal is to ensure that the company digital assets are protected from unauthorized access, data breaches, and cyberattacks, which is crucial in the financial sector due to the sensitive nature of the information handled and the regulatory requirements for data protection and privacy.
+
+Shift Requirements
+• Hybrid position in Mexico City.
+• Regular working hours EST/CST.
+• Candidates must be located in Mexico to be considered.
+
+Main Responsibilities
+• Assess architectural patterns for service account authentication, Privileged Access Management, secdevops pipeline, security logging and monitoring, audit logging, and compliance guidance and monitoring.
+• Responsible for protecting the information, customers and employees by mitigating and identifying technology threats to the company
+• Provide expertise for cyber security technical and non-technical solutions; review and provide guidance enabling business system while leveraging solutions such as Platform as a Service (PaaS), Infrastructure as a Service (IaaS) and Software as a Service (SaaS) in a manner that adheres to the company information security policy and standards.
+• Review and approve target state deployment topology, High-Level Architecture and data flows
+• Share technology expertise with application architects and provide consultative support to application teams including assessment of connectivity requirements, VNet/VPC, and subnet design and recommendations
+
+Requirements
+• At least 10 years of Experience (Infosec Experience)
+• 5 Years in Architecture Experience
+• Designed application authentication and authorization solutions including Single-SignOn, Multi-Factor Authentication, OAuth, OpenID Connect, and related technologies.
+• Experience with Scrum, Kanban and SAFe Agile practices and strong aptitude to work in a DevOps culture and environment.
+• Full-stack development experience building application software, test automation, and infrastructure as code
+• Hands-on experience with cloud automation frameworks (Terraform, Ansible) and cloud provided automation tools (e.g. Azure Resource Manager Templates).
+• Hands-on work experience working with SOAP and REST APIs, microservices design
+• Experience in network topologies and multi-tier architecture
+• Familiarity with load balancing technologies - ILB (Internal Load Balancers), Application Gateway, WAF (Web App Firewall), F5 appliance solutions, etc.
+• Familiarity with network security principles (Network Security Groups, Application Security Groups), Private Link Services, Service Endpoint, Service Tags, etc.and Malware
+
+Plusses
+• Communication.
+• Problem Solving.
+• Problem Analysis.
+• Negotiation.
+• Accountability.
+• Stress management.
+• Decision making.
+
+Benefits
+• 20 vacation days per year
+• Aguinaldo superior
+• Major an Minor medical insurance expenses
+• Learning Platform
+• Grocery Vouchers",False,1711129894,2024-03-22T17:51:34.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=lsgkBfMi8aW6n0pVAAAAAA%3D%3D,2024-04-21T17:51:34.000Z,1713721894.0,"{'no_experience_required': False, 'required_experience_in_months': 120, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112200,4,,,
+_PU_7PQITXBdECuWAAAAAA==,Michael Page,https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PageGroup_Logo.svg/1280px-PageGroup_Logo.svg.png,http://www.page.com,Consulting,Michael Page,FULLTIME,Senior Security Architect CRM - Global Healthcare Company,https://www.michaelpage.com.mx/job-detail/senior-security-architect-crm-global-healthcare-company/ref/jn-022024-6341118,False,0.9216,"[{'publisher': 'Michael Page', 'apply_link': 'https://www.michaelpage.com.mx/job-detail/senior-security-architect-crm-global-healthcare-company/ref/jn-022024-6341118', 'is_direct': False}, {'publisher': 'Page Personnel', 'apply_link': 'https://www.pagepersonnel.com.mx/job-detail/senior-security-architect-crm-global-healthcare-company/ref/jn-022024-6341118', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/senior-security-architect-crm-global-healthcare-company-page-personnel-JV_IC5017436_KO0,55_KE56,70.htm?jl=1009204818526', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=c688c80e2d58cd02', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/senior-security-architect-crm-global-healthcare-company-page-personnel-JV_IC5017436_KO0,55_KE56,70.htm?jl=1009204818526', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/94974171/senior-security-architect-crm-global-healthcare-company-vv-305-ciudad-mexico/', 'is_direct': False}]","Sobre nuestro cliente
+
+Multinational pharmaceutical company known for its development and production of innovative medicines and healthcare solutions.
+
+Descripción
+• Providing in-depth expertise to business leaders and technical audiences about cybersecurity best practices for CRM, CMS, and Interactive Product assets
+• Advising to engineering and website development teams about approved security patterns and practices
+• Reviewing and challenging defined IT security related internal standards for the ongoing improvement of policies and procedures
+• Acting as single point of contact, collaborating closely with other Security Architects and IT Architects on IT security related matters
+• Promoting IT Security within the business and application management team
+• Defining pragmatic solutions and recommending alternatives that meet or exceed security requirements
+• Reporting on security status of projects, builds external network regarding IT security relevant to the business function
+• Performing risk/threat assessment of all IT project related to the function.
+• Managing pool of external security and solution architects assigned to portfolio.
+
+Perfil buscado
+• University working and thinking level, degree in business/technical/scientific area or comparable education/experience.
+• 7+ years' work experience
+• 5+ years as an IT security expert
+• 2+ years' work experience as an Information Security Architect.
+• Experience with security practices for CRMs.
+• Experience with Salesforce.com and Drupal are essential or equivalent.
+• Expert knowledge of enterprise IT infrastructure technology, systems, vulnerability management, and change management processes, especially in large scale implementations
+• Desirable: Professional information security certification, such as CISSP, CISM or ISO 27001 auditor / practitioner is preferred. Professional (information system) risk or audit certification such as CIA, CISA or CRISC is preferred
+• Desirable: CSSLP, GSSP, ECCSP, CASS
+
+Qué Ofrecemos
+
+Competitive salary and benefits, including company car, 23% annual bonus, 30 days Christmas bonus, 100% vacation prime, $4,200 savings fund, $3,300 meal vouchers, family medical insurance, life insurance and pension plan.",True,1711324800,2024-03-25T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=_PU_7PQITXBdECuWAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 84, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,1200000.0,1560000.0,MXN,YEAR,{},,en,15112200,4,,541613,Marketing Consulting Services
+8T34pHlCilWPbQMgAAAAAA==,Citibanamex,https://upload.wikimedia.org/wikipedia/commons/b/b8/Citibanamex_Logo.png,http://www.banamex.com,Finance,LinkedIn,FULLTIME,Security Architect,https://mx.linkedin.com/jobs/view/security-architect-at-citibanamex-3849838078,False,0.7,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/security-architect-at-citibanamex-3849838078', 'is_direct': False}]","Job Id: 24726565
+
+The Architecture Group Manager is accountable for management of complex/critical/large professional disciplinary areas. Leads and directs a team of professionals. Requires a comprehensive understanding of multiple areas within a function and how they interact in order to achieve the objectives of the function. Applies in-depth understanding of the business impact of technical contributions. Strong commercial awareness is a necessity. Generally accountable for delivery of a full range of services to one or more businesses/ geographic regions. Excellent communication skills required in order to negotiate internally, often at a senior level. Some external communication may be necessary. Accountable for the end results of an area. Exercises control over resources, policy formulation and planning. Primarily affects a sub-function. Involved in short- to medium-term planning of actions and resources for own area. Full management responsibility of a team or multiple teams, including management of people, budget and planning, to include performance evaluation, compensation, hiring, disciplinary actions and terminations and budget approval.
+
+Responsibilities:
+• Manages multiple architectural teams or an architecture functional area (depending on size of business).
+• Evaluates subordinates' performance and makes recommendations for pay increases, promotions, terminations and other personnel actions.
+• Develops the architectural strategy for a group (portfolio) of IT systems.
+• Develops and recommends solutions that conform to enterprise standards.
+• Develops technological and business application portfolio road maps, based on emerging technologies and market trends/direction.
+• Responsible for all technical directions and decisions based on technical expertise, experience, vision and market directions.
+• Supports the business/clients in evaluating and articulating the technical benefits of a solution to stakeholders.
+• Analyzes and evaluates strategic technologies offered by vendors.
+• Exhibits sound understanding of theories and practices in architecture and multiple related areas.
+• Has in depth understanding of how architecture integrates within technology and has commercial awareness.
+• Shares responsibility for budget, policy formulation and planning.
+• Requires evaluative judgment based on analysis of factual information in complicated or novel situations; uses multiple sources of information.
+• Impacts engineering through responsibility for planning, finances/ budget, end results and setting of policies.
+• Influences and negotiates with senior leaders (across functions); may communicate and negotiate with external parties.
+• Performs other job duties and functions as assigned
+• Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency, as well as effectively supervise the activity of others and create accountability with those who fail to maintain these standards.
+
+Qualifications:
+• 10+ years relevant experience
+• Consistently demonstrates clear and concise written and verbal communication
+• Management and prioritization skills
+• Ability to develop working relationships
+• Ability to manage multiple activities and changing priorities and work under pressure to meet tight deadlines
+• Self-starter with ability to take the initiative and master new tasks quickly
+• Methodical, attention to detail
+
+Education:
+• Bachelor’s/University degree or equivalent experience, potentially Masters degree
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+• Knowledge in cloud services
+• TOGAF certification, security frameworks.
+• Agile methodologies.
+• Knowledge of Integrations, APIS, containers, microservices.
+• Knowledge of information security
+• Advanced english
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Architecture
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting",False,1709952073,2024-03-09T02:41:13.000Z,,,MX,19.533775,-99.01289,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=8T34pHlCilWPbQMgAAAAAA%3D%3D,2024-04-08T02:41:13.000Z,1712544073.0,"{'no_experience_required': False, 'required_experience_in_months': 120, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15112200,4,,522110,Commercial Banking
+08coGFlTc5-RUy3_AAAAAA==,Bain & Company,https://www.bain.com/contentassets/0b88e3e10a7b4592809517c28b75847e/logo_red_bain.svg,http://www.bain.com,Consulting,LinkedIn,FULLTIME,Cloud Security Architect,https://mx.linkedin.com/jobs/view/cloud-security-architect-at-bain-company-3853079059,False,0.7654,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/cloud-security-architect-at-bain-company-3853079059', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4607124216', 'is_direct': False}, {'publisher': 'Mogul', 'apply_link': 'https://onmogul.com/jobs/information-security-staff-architect', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1344-20240313-a6f3937f611ae1dfa3d5ea114f428b53', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/674286651562660140', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/e23f2bcad9fd86f76faaad60930da926f', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/314656629', 'is_direct': False}, {'publisher': 'Trabajo En México', 'apply_link': 'https://mx.trabajo.bz/view/7257887.html', 'is_direct': False}]","We are looking for an architect who is excited by cloud and innovation to join our team! The successful candidate will possess advanced administration and troubleshooting skills, along with knowledge to support architecture, engineering, and design principles for cloud computing and networking environments. They will be adept at working with business units and have good listening and communication skills. As a member of our team they will leverage those skills to advise, champion, and implement efficient, secure solutions across a variety of teams and environments. As a security leader, they will consistently assess the threat landscape and adapt quickly to protect the business from risk.
+
+The Staff Architect within the Bain's Cyber Security Department is responsible for leveraging their knowledge and expertise in cloud, application, and infrastructure to collaborate on the development of standards and implementation of solutions that support the pursuit of business objectives. The Staff Architect I will drive the improvement and innovation of work processes, ensuring that established standards and best practices are followed. Additionally, they will provide guidance to colleagues, advice internal customers, offer mentorship to more junior staff members and work with stakeholders throughout the organization to champion security best practices. The Staff Architect I will demonstrate strong communication skills, both internally and externally, maintain high standards of analytical thoroughness and quality of work, take ownership of workstream with minimal oversight and prioritize efforts appropriately.
+
+Communications, Leadership, and Teaming (20%)
+
+• Understand and promote common security principles, practices, and frameworks.
+
+• Draft cybersecurity strategies that align with business objectives and meet compliance and regulations and champion them throughout the organization
+
+• Stay up to date with cybersecurity threats, risks, and vulnerabilities with potential impact to services and utilize that knowledge to actively secure the organization
+
+• Communicate the state of cloud and network security posture to cybersecurity leaders, stakeholders, IT and developers
+
+• Participate in professional security groups and consortiums for knowledge and building relationships
+
+• Provide guidance to colleagues in realizing their educational and professional objectives and offer mentorship to more junior staff members.
+
+Architecture Subject Matter Expertise (80%)
+
+• Advise on the development of standards, frameworks, and solutions for Cloud Compute & Network security, driving standards, security best practices, and adoption
+
+• Track and automate metrics for usage, costs, risks, and overall compliance.
+
+• Participate in architecture process, reviews, and standards.
+
+• Collaborate with our Platform Infrastructure, Enterprise Architecture, and other teams to support secure design, testing, implementation, and operationalization of
+
+scalable, resilient solutions across on-prem, hybrid, SaaS, PaaS, and IaaS environments and across geographies
+
+• Recommend and implement cloud security tools and controls
+
+• Use cloud security tools for asset discovery, cloud workload protection platform (CWPP), control plane configuration and cloud security posture management (CSPM)
+
+Skills & Experience
+
+• Demonstrates a strong ability in applying automation to all aspects of technical operations
+
+• Possesses an established track record of continuous learning and improvement, particularly with emerging technologies and security subject matters
+
+• Exhibits deep analytical, conceptual, and problem-solving skills
+
+• Has the ability to effectively communicate at all levels of the entire organization and with internal and external customers
+
+• Displays strong attention to detail and excels in priority/time management.
+
+• Demonstrates the ability to balance customer needs with seamless security delivery
+
+• Possesses a strong understanding of network design principles and implements zero trust/least privilege architecture.
+
+• Proficient in one or more: Terraform, Kafka, Kubernetes, scripting (Python, JavaScript, Bash)
+
+• Experience applying security principles such as zero trust and tools such as WAF, APIM, micro-segmentation, IaC, CNAPP, and others to deploy effective, resilient, secure solutions
+
+• Ability to influence and collaborate with technical teams and business units and collaborate to reduce attack surface
+
+• Preferably one or more certifications such as GCSA, CCSP, CCSK or CISSP, or one offered by AWS, Google or Microsoft",False,1710518515,2024-03-15T16:01:55.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=08coGFlTc5-RUy3_AAAAAA%3D%3D,2024-05-11T16:00:37.000Z,1715443237.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15112200,4,,541613,Marketing Consulting Services
+S4_0V2cL-DoVc1IKAAAAAA==,NEORIS,https://cdn2.hubspot.net/hubfs/449799/Logo%20Black%20V2.png,http://www.neoris.com,Computer Services,LinkedIn,FULLTIME,Applications Security Architect,https://mx.linkedin.com/jobs/view/applications-security-architect-at-neoris-3863339697,False,0.698,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/applications-security-architect-at-neoris-3863339697', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=4502750449ded9fb', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/f5759b260d6cc6c909b8b7449dfb99ac', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/iltEkexHIF1nN2CQOH9P_hVsGb31HloKTtVb907beR96JGqHY7BWgA', 'is_direct': False}, {'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=ee1155ff3815', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/applications-security-architect-monterrey-neoris-ee1155ff38/', 'is_direct': False}, {'publisher': 'Tech Startup Jobs', 'apply_link': 'https://techstartupjobs.info/job/applications-security-architect-monterrey-neoris-ee1155ff38-mexico/', 'is_direct': False}]","En NEORIS es un acelerador Digital que ayuda a las compañías a entrar en el futuro, teniendo 20 años de experiencia como Socios Digitales de algunas de las mayores compañías del mundo. Somos más de 4,000 profesionales en 11 países, con nuestra cultura multicultural de startup en donde cultivamos innovación, aprendizaje continuo para crear soluciones de alto valor para nuestros clientes.
+
+Estamos en búsqueda de Applications Security Architect en Monterrey, N.L. (esquema de trabajo semi-presencial) ,
+
+Principales Responsabilidades
+• Investigación de tecnologías y amenazas de seguridad
+• Diseño y liderazgo en la implementación de soluciones y servicios de seguridad
+• Liderar la implementación de controles de seguridad alineados a la estrategia de negocio.
+• Participar en el Equipo de Respuesta a Incidentes de Seguridad de la Información
+• Evaluar las implicaciones de seguridad para los servicios o aplicaciones actuales y nuevos
+• Proporcionar el punto de vista de seguridad para el proceso de traslado a operaciones (M2O)
+• Realizar comprobaciones de seguridad y coordinar las pruebas de aplicación
+• Supervisar la operación de seguridad de la información en el ciclo de vida de DevSecOps
+• Definir la estrategia para las soluciones de seguridad de aplicaciones y el marco de evolución.
+
+Requerimientos
+• Licenciatura de tecnologías de la información, seguridad de la información o afin.
+• Inglés avanzado
+• Más de 4 años de experiencia en
+• Arquitectura de seguridad
+• Consultor de seguridad
+• Tecnologías de seguridad
+• Integración de sistemas
+• Gestión de proyectos
+• Risk & Compliance
+• Políticas y Procesos
+• Al menos una certificación de una organización independiente de seguridad de la información
+• Certified Information Systems Security Professional (CISSP) or Certified Information Security Manager (CISM)
+
+Ofrecemos
+• Esquema 100% nómina.
+• Crecimiento Profesional
+• Ambiente laboral dinámimico
+• Plan de beneficios.
+• Prestaciones de ley
+• Oportunidades de Desarrollo
+
+Te invitamos a conocernos en http://www.neoris.com, Facebook, LinkedIn, Twitter o Instagram: @NEORIS.
+
+Carolina Cruz Soriano",False,1710964012,2024-03-20T19:46:52.000Z,Monterrey,N.L.,MX,25.686615,-100.31612,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=S4_0V2cL-DoVc1IKAAAAAA%3D%3D,2024-04-19T19:46:52.000Z,1713556012.0,"{'no_experience_required': False, 'required_experience_in_months': 240, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,es,15112200,4,,541512,Computer Systems Design Services
+jdKI0-ew0vB3Y6zfAAAAAA==,The Coca-Cola Company,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Coca-Cola_Company_%282020%29.svg/1280px-The_Coca-Cola_Company_%282020%29.svg.png,http://www.coca-colacompany.com,Foods & Beverages,Infosec-Jobs.com,FULLTIME,Cybersecurity Engineer,https://infosec-jobs.com/job/89238-cybersecurity-engineer/,False,0.6511,"[{'publisher': 'Infosec-Jobs.com', 'apply_link': 'https://infosec-jobs.com/job/89238-cybersecurity-engineer/', 'is_direct': False}, {'publisher': 'JOBATUS', 'apply_link': 'https://www.jobatus.mx/oferta-trabajo/cybersecurity-engineer-597688392', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/68689f95039ffef8d12a264368a004c5', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-c7513ad2501b20a0861f26eebafd01a5', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/317566651', 'is_direct': False}]","Location(s):MexicoCity/Cities:MexicoTravel Required:00% - 25%Relocation Provided:NoJob Posting End Date:March 10, 2024Shift:Job Description Summary: Position Overview: As a security engineer, you will directly support enterprise-wide initiatives in delivering security solutions in the environment. You should be familiar with various IT security technologies and operations such as endpoint security solution and controls, client-server computing, network security platform, cloud security solution and controls (SaaS/PaaS/IaaS). You will work closely with other engineers, developers, and stakeholders to ensure that security best practices are followed and that compliance requirements are met. What You’ll Do for Us:Design, implement, and maintain security solutions to protect the organization's data and systems from unauthorized access, modification, or disclosure. Perform security assessments, audits, and reviews to identify and remediate vulnerabilities and risks. Automate security remediation where applicable. Research and evaluate emerging security trends, threats, and best practices, and provide recommendations for improvement. Provide security guidance and support to other teams and stakeholders and promote security awareness and education. Develop best practices and security standards for the organization. Be responsive to changing priorities and able to pivot quickly. Qualifications & Requirements:Bachelor's degree in computer science, engineering, or a related field, or equivalent work experience3+ years of experience with security tools and frameworks, such as firewalls, IDS/IPS, SIEM, NIST, OWASP, etc. Experience with scripting languages, such as Python, Bash, PowerShell, etc. Experience with DevSecOps, CI/CD, and agile methodologies A solid understanding of network security, cryptography, web security, cloud security, and mobile security Functional Skills: Strong communication, problem-solving, and analytical skills Relevant certifications, such as CISSP, CEH, GSEC, etc., are a plus Strong analytical and problem-solving skills.What We Can Do for You: Innovation & Technology: The ability to work with an award-winning team that is on the cutting edge of innovation.Exposure to World Class Leaders: Availability to global technology leaders that will expand your network and exposure you to emerging technologies and techniques.Agile Work Environment: We embrace agile with management that believes in removing barriers, so you are empowered to experiment, iterate and innovate* This is a single-contributor position without any direct reports.Skills:Our Purpose and Growth Culture:We are taking deliberate action to nurture an inclusive culture that is grounded in our company purpose, to refresh the world and make a difference. We act with a growth mindset, take an expansive approach to what’s possible and believe in continuous learning to improve our business and ourselves. We focus on four key behaviors – curious, empowered, inclusive and agile – and value how we work as much as what we achieve. We believe that our culture is one of the reasons our company continues to thrive after 130+ years. Visit Our Purpose and Vision to learn more about these behaviors and how you can bring them to life in your next role at Coca-Cola.",False,1709840602,2024-03-07T19:43:22.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=jdKI0-ew0vB3Y6zfAAAAAA%3D%3D,2024-04-16T00:00:00.000Z,1713225600.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,121100.0,201400.0,USD,YEAR,{},Engineer,en,15112200,4,,31151,Dairy Product (except Frozen) Manufacturing
+oIgZLcWeoTfZMU_cAAAAAA==,Capital Humano Laguna,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCceb4QVLeEdfagBpJKfpZV_ST4C8wKoSOZkN&s=0,,,Glassdoor,FULLTIME,IAM ARCHITECT,"https://www.glassdoor.com/job-listing/iam-architect-capital-humano-laguna-JV_KO0,13_KE14,35.htm?jl=1009101363350",True,0.559,"[{'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/iam-architect-capital-humano-laguna-JV_KO0,13_KE14,35.htm?jl=1009101363350', 'is_direct': True}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/91203735/rd69-iam-architect-saltillo/', 'is_direct': False}]","MAJOR COMPANY REQUESTING "" IAM ARCHITECT""
+
+REQUIREMENTS:
+• Bachelor's degree required or equivalent work experience
+• Knowledge of Information Security topics desired and preferred.
+• Strong understanding of the full lifecycle of workforce identity lifecycle processes with working knowledge of relevant SOX controls strongly preferred.
+• Strong knowledge of complex identity and access offerings involving MFA, biometrics, workflows, custom services and processes for user support on prem and in the cloud.
+• Experience in 2 or more of the following product areas: IAM enterprise processes (onboarding, offboarding, transfers, access certifications), Privileged Access Management, Secrets Management, Single-Sign on, Strong Authentication, Multi Factor Authentication, Policy, or Risk.
+• Direct prior work related to one or more IAM products such as: OKTA, Sailpoint, Saviant, ForgeRock, Active Directory, OKTA, Ping, Azure AD or enterprise directories, Hashicorp Vault, Cyberark, Beyondtrust, or Microsoft Identity Manager
+• Experience with reviewing identity access management services, methodologies and patterns for custom and SaaS solutions.
+• Must exhibit strong written and oral communication skills and the ability to tailor messaging to the different levels of the organization in Business and Technical areas.
+• Demonstrated analytical and quantitative skills and the ability to use data to support decision-making
+• Passion for solving hard, complicated problems
+• Security knowledge as proven through relevant security training or certification such as Security+, CISM, CISA, CAMS, CIGE, CIMP, CIPA, CIST, CRFS, CISSP, SANS, Udemy, etc. preferred.
+
+WE OFFER:
+• GOOD WORKING ENVIRONMENT
+• SALARY TO BE DISCUSSED IN THE INTERVIEW
+• LAW BENEFITS
+
+Tipo de puesto: Tiempo completo
+
+Salario: A partir de $1.00 al mes
+
+Horario:
+• Incluye fines de semana
+• Turno de 8 horas
+
+Lugar de trabajo: Empleo presencial",False,1711843200,2024-03-31T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=oIgZLcWeoTfZMU_cAAAAAA%3D%3D,2024-08-01T00:00:00.000Z,1722470400.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Architect,en,15119900,4,,,
+T6_Aew4v0W8OnmdhAAAAAA==,MetaMap,,,,Infosec-Jobs.com,FULLTIME,Senior Security Engineer,https://infosec-jobs.com/job/84483-senior-security-engineer/,False,0.6315,"[{'publisher': 'Infosec-Jobs.com', 'apply_link': 'https://infosec-jobs.com/job/84483-senior-security-engineer/', 'is_direct': False}, {'publisher': 'IT Jobs ICT Information Technology Computer Software Vacancy', 'apply_link': 'https://itjobvacancies.com/job/senior-security-engineer/', 'is_direct': False}]","We’re living at the dawn of a borderless world, but most people still don't have the tools needed to engage in critical high-trust services including everything from access to financial services, to sharing assets in peer-to-peer marketplaces, and even managing talent. At MetaMap, our work is centered on addressing this gap by building an identity data protocol that surfaces merits in the form of legal, financial, and work data. We’re energized by the unlimited potential that comes from this collective coordination, the removal of barriers to access, and the future we’re building towards — one that is interconnected and equitable. If you believe in our mission to help unlock borderless growth too, come join the MetaMap team!About the Role : As a Senior Security Engineer, you will lead and manage a variety of projects in MetaMap's Cybersecurity team. In this role, you will introduce new security services, technologies, and technical solutions to secure MetaMap Application & infrastructure. What You'll Do : Implement best practices and tools for secure SDLC: SAST, DAST, SCA, etc. Review and develop security architecture for new features and products Conduct manual and automated source code reviews Carry out manual security assessment and automated scans for web applications and network services Implement best security practices for AWS cloud infrastructure Harden the infrastructure at the database and network levels Report security bugs and help other teams deliver fixes Own the vulnerability management process for instances and images Respond to security incidents and data breaches Skills & Experience : At least 6 years of relevant experience You have in-depth experience as a security engineer at a scaling startup Strong knowledge of OWASP Top 10 risks, discovery and exploitation techniques for them Strong knowledge of AWS environments and their security tools Strong knowledge of cryptographic concepts like encryption, hashing, digital signature, etc Knowledge of the following concepts, protocols, and standards SSO, Auth2.0, SAML, OIDC, etc Knowledge of endpoint and server operating systems (e.g., Windows, macOS, Linux) and relevant security risks, controls, and vulnerabilities Familiarity with enterprise security tools (antivirus, firewalls, email monitoring, two-factor authentication, SIEM, IDS/IPS, etc.) Familiarity with vulnerability management concepts, such as CVE and CVSS Knowledge of engineering controls for the the frameworks and standards like SOC 2 Type II, ISO 27001, CIS Benchmark MetaMap is building tools that power a borderless world where everyone has equal access to opportunity based on their merits. As a proud equal opportunity employer, we live by these same values, celebrate diversity, and are committed to creating an inclusive environment for all of our employees. We are also committed to a fair and inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. We evaluate all employees and job applicants consistently, without regard to race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, or any other legally protected class. All employment decisions including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis.",False,1708770720,2024-02-24T10:32:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=T6_Aew4v0W8OnmdhAAAAAA%3D%3D,2024-04-04T00:00:00.000Z,1712188800.0,"{'no_experience_required': False, 'required_experience_in_months': 72, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,138000.0,210000.0,USD,YEAR,{},Security engineer,en,15112200,4,,,
+tQ2kwsKlGwuCN-tkAAAAAA==,EPIKSO MEXICO vía OCCMundial,,,,OCCMundial,FULLTIME,Platform Security Architect,https://www.occ.com.mx/empleo/oferta/18193394-platform-security-architect/,False,0.5742,"[{'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18193394-platform-security-architect/', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/91411042/ho477-platform-security-architect-mexico/', 'is_direct': False}]","We're looking for a Senior Platform Security Architect with good experience in GCP Platform Security. 100% remote role. Based in Mexico. English required. (Conversational)
+
+Job Description
+
+l ·GCP Platform security expertise
+
+l ·Extensive terraform expertise / GCP knowledge
+
+l ·GCP Network policies, organizational policies and firewalls
+
+l ·Security As Code using Github toolset and Sentinel
+
+l ·GKE Security posture, Threat Detection
+
+l ·Kubernetes expertise , helm, gke clusters etc
+
+l ·HCL (Hashicorp Configuration Language), IAC and ability to script in perl/python",True,1709510400,2024-03-04T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=tQ2kwsKlGwuCN-tkAAAAAA%3D%3D,2024-04-26T23:59:59.000Z,1714175999.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,80000.0,100000.0,MXN,MONTH,{},,en,15112200,4,,,
+HaxTddsoYAcW3U1ZAAAAAA==,1000 ASTRAZENECA S.A DE C.V. Company,,http://www.azmed.com.mx,,Workday,FULLTIME,Cyber Security Solution Review Manager,https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Cyber-Security-Solution-Review-Manager_R-192996-1,False,0.7832,"[{'publisher': 'Workday', 'apply_link': 'https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Cyber-Security-Solution-Review-Manager_R-192996-1', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/95264611/zt-257-cyber-security-solution-review-manager-guadalajara/', 'is_direct': False}]","Positions are open to Mexican Citizens and official residents of Mexico. Location: Guadalajara (hybrid) Strong English interpersonal skills required About the AstraZeneca AstraZeneca is a global, science-led, patient-focused pharmaceutical company that focuses on the discovery, development, and commercialization of prescription medicines for some of the world’s most serious disease. But we’re more than one of the world’s leading pharmaceutical companies. At Astra Zeneca, we’re dedicated to being a Great Place to work! Job Description AstraZeneca is a global, science-led biopharmaceutical business whose innovative medicines are used by millions of patients worldwide. We are increasing our focus on leading with AI insights, accelerating delivery and innovation, optimizing how we run and prioritizing our people and sustainability. Cyber Security will need to be the cornerstone of our IT strategy as we move towards our future objectives. Our goal is to protect patients by protecting ourselves. We’re looking for Cyber Security professionals that can help us on the journey through this challenging and ever-changing technology landscape. Individuals who: Understand that security is a journey and not a destination. Cyber Security is not something that can be “fixed”, and we instead need to focus on innovation to maintain a sustainable risk position against the evolving threat landscape. Have a passion for ensuring and maintaining the Confidentiality, Integrity, and Availability of the data that they are entrusted to protect. Acknowledge that we are potentially working against state-sponsored attacks and multi-billion-dollar organized crime syndicates. So, they need to understand attackers, their motivations, and their ways of working to be able to get ahead and keep ahead of them. Will do good things for AstraZeneca and our Cyber Security organization. Accountabilities In this role of Cyber Security Solution Review Manager, you’ll be part of AstraZeneca’s Cyber Security Governance organization to lead review and analyze solutions against established Cyber Security standards and best practices, to strengthen our security position across the enterprise. You will collaborate with Business, Solution Delivery, Architecture, Engineering, Quality and GRC functions across a global organization spanning US, UK, Sweden, China, Japan, Mexico, India and beyond. The core accountabilities for the role include: Manage and lead the solution review processes and team, conducting security assessments of suppliers, IT solutions, software, and data transfer processes. Drive continuous improvement of security assurance processes by analyzing and identifying innovative ways to simplify processes while maintaining a security by-design mindset and improving user experience. Work closely with solution architects, solution engineering, and support functions to ensure that solutions are secure and align with AZ Security policies and guidelines. Provide guidance and advice to solution architects and engineers on security considerations during solution design decisions. Analyze whether security controls for a computer system are suitable based on an understanding of both use and context, and how the system will likely be attacked. Conduct security architectural reviews throughout the project and solutions design lifecycle to identify and address potential security issues. Keep up with the latest security trends and technologies considered for secure solution design to ensure the organization remains ahead of emerging threats. Help drive awareness of security principles, policies, standards, and governance through the security solution review processes to foster a culture of security awareness within the organization. Requirements Must have 7+ years of direct experience in Cyber Security, and 3+ years of experience with IT Technologies & Architecture. Experience being a team lead/manager/coach. Proven experience with securing networks, systems, and applications. A deep understanding of Security Architecture and technologies including firewalls, proxies, SIEM, antivirus software, and IDPs. Experience with security protocols, cryptography, authentication, authorization, and network security implementations. Working knowledge of common attack techniques and their remediation/defence including DoS, DDoS, Social engineering, Virus, Malware, Vulnerability exploitation, Phishing & Spear Phishing, Worms, Trojans, Rootkits, Ransomware, XSS, SQL Injection, Remote Command Execution, Session Hijacking, etc. Effective team management and coaching Process analysis and improvement Ability to carry out reviews, analysis and assessments for different technologies and applications. Security Architecture and solution design. Ability to think critically and innovatively about keeping data safe within a solution while still allowing the business to operate and grow. Ability to prioritise and validate the threats that really matter. Able to collaborate across multiple teams spanning many geographic regions. Excellent written and oral communication skills Desirable Knowledge of risk assessment tools, technologies, and methods. Exposure to Cyber Security Frameworks and regulations. Experience working closely with Governance, Risk and Compliance functions. Knowledge of Enterprise Architecture. Knowledge of Cloud Security and Architecture. Professional Security Certifications such as CISSP, CRISC, CISM, etc. Cloud Security and solution design Development of security policies, standards, and procedures Demonstrated leadership skills interacting with senior leaders Expectation of working in the office 3 days a week statement When we put unexpected teams in the same room, we ignite ambitious thinking with the power to inspire life-changing medicines. In-person working give us the platform we need to connect, work at pace and challenge perceptions. That’s why we work, on average, a minimum of three days per week from the office. But that doesn’t mean we’re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our outstanding and bold world. AstraZeneca is an equal opportunity employer. AstraZeneca will consider all qualified applicants for employment without discrimination on grounds of disability, sex or sexual orientation, pregnancy or maternity leave status, race or national or ethnic origin, age, religion or belief, gender identity or re-assignment, marital or civil partnership status, protected veteran status (if applicable) or any other characteristic protected by law. Date Posted 22-feb-2024 Closing Date 02-may-2024 AstraZeneca embraces diversity and equality of opportunity. We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills. We believe that the more inclusive we are, the better our work will be. We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics. We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements. AstraZeneca is an exciting global, innovation-driven biopharmaceutical company. We’re inspired by what science can do. Driven by the desire to meet unmet patient needs in our core therapeutic areas. Bold in our thinking. Proactive in pursuing discoveries beyond imagination. At sites across the world, we bring teams together in a spirit of collaboration to turn great ideas into life-changing medicines – strengthening our product portfolio and harnessing the potential of a pipeline across all stages of the drug development process. You’ll be part of a team that’s rolling back the frontiers of science to turn yesterday’s impossible into the normal of tomorrow. So, if you share our focus and passion, join us and make a difference to patients – and in return, we’ll help you develop way beyond what you thought possible.",True,1708560000,2024-02-22T00:00:00.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=HaxTddsoYAcW3U1ZAAAAAA%3D%3D,2024-05-02T00:00:00.000Z,1714608000.0,"{'no_experience_required': False, 'required_experience_in_months': 84, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Manager,en,15112200,4,,,
+fvtjviFzfGS-cTYHAAAAAA==,Page Personnel,,,,Jobrapido.com,FULLTIME,Senior Security Architect Crm - Global Healthcare,https://mx.jobrapido.com/jobpreview/320662739,False,0.3816,"[{'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/320662739', 'is_direct': False}]","Functional Security Architect for Salesforce- Remote position with monthly travel to Mexico City**Sobre nuestro cliente**:Multinational pharmaceutical company known for its development and production of innovative medicines and healthcare solutions.**Descripción**:- Providing in-depth expertise to business leaders and technical audiences about cybersecurity best practices for CRM, CMS, and Interactive Product assets- Advising to engineering and website development teams about approved security patterns and practices- Reviewing and challenging defined IT security related internal standards for the ongoing improvement of policies and procedures- Acting as single point of contact, collaborating closely with other Security Architects and IT Architects on IT security related mattersDefining pragmatic solutions and recommending alternatives that meet or exceed security requirements- Reporting on security status of projects, builds external network regarding IT security relevant to the business function- Performing risk/threat assessment of all IT project related to the function.- Managing pool of external security and solution architects assigned to portfolio.**Perfil buscado (Hombre / Mujer)**:- University working and thinking level, degree in business/technical/scientific area or comparable education/experience.- 7+ years' work experience- 5+ years as an IT security expert- 2+ years' work experience as an Information Security Architect.- Experience with security practices for CRMs.- Expert knowledge of enterprise IT infrastructure technology, systems, vulnerability management, and change management processes, especially in large scale implementations- Desirable: Professional information security certification, such as CISSP, CISM or ISO 27001 auditor / practitioner is preferred. Professional (information system) risk or audit certification such as CIA, CISA or CRISC is preferred- Desirable: CSSLP, GSSP, ECCSP, CASS**Qué Ofrecemos**:Competitive salary and benefits, including company car, 23% annual bonus, 30 days Christmas bonus, 100% vacation prime, $4,200 savings fund, $3,300 meal vouchers, family medical insurance, life insurance and pension plan.",False,1711584000,2024-03-28T00:00:00.000Z,Veracruz,Ver.,MX,19.173773,-96.134224,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=fvtjviFzfGS-cTYHAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 84, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},,en,15112200,4,,,
+9R10Op1U4tqGDuLHAAAAAA==,"Method360, Inc.",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYnwT5raZbW3f2G01tYILzdjkJS2ugo1TMHUfM&s=0,,,LinkedIn,CONTRACTOR,SAP S/4HANA Security Architect,https://mx.linkedin.com/jobs/view/sap-s-4hana-security-architect-at-method360-inc-3821087806,False,0.7695,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/sap-s-4hana-security-architect-at-method360-inc-3821087806', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-20240312-2695dde800364fccff833e85b867c921', 'is_direct': False}]","Location: Mexico City, MX **Must be located in Mexico and able to commute to office occasionally
+
+Start Date: ASAP
+
+Duration: 6 - 12 months
+
+Description
+
+SAP S/4HANA Security consultant to support the continued deployment of the client global template to markets in LATAM and elsewhere. The resource must be within a commutable distance to their office in Mexico City and able to work from the office occassionally.
+
+Required Qualifications:
+• Hands-on experience with SAP Security design, build, deployment, and audits for standard role-based Security
+• Hands on working experience of SAP roles and authorizations in both end user and project environment in the following SAP modules: S/4HANA, Fiori, GRC, ECC, BW, SolMan, BOBJ, Success Factors and other Cloud Apps etc.
+• Experience in design and implementation of user and role administration in S/4HANA
+• SAP GRC and IDM Integration, Single Sign-on, User access reviews, IDM provisioning automations
+• Knowledgeable in GRC Access Controls configurations including BRF+ configuration
+• SoD Risk Remediation and engaging in discussion with functional leads for implementation of mitigating controls
+• Excellent troubleshooting and problem-solving skills
+• Thorough experience with strategies/methods to support SAP S/4HANA Security design, build, testing and market deployments / hypercare
+• Assist in the development and execution of processes and techniques to ensure compliance with Security policies and guidelines
+• Ability to work effectively and interdependently with various team members, and to provide leadership and guidance to offshore resources
+
+Please apply through our on-line portal with your resume and contact information. Applications will be reviewed and assessed against position requirements. Qualified candidates will be contacted by the lead recruiter within 48 hours of submittal. No phone calls please. Method360 is proud to be an Equal Opportunity Employer",False,1709299027,2024-03-01T13:17:07.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=9R10Op1U4tqGDuLHAAAAAA%3D%3D,2024-04-08T22:03:22.000Z,1712613802.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112200,4,,,
+kgi5ThUJfKmap7v4AAAAAA==,Avature,https://www.avature.net/wp-content/themes/avature/img/avature-logo.svg,http://www.avature.net,Computer Services,BeBee México,FULLTIME,Cybersecurity Architect,https://mx.bebee.com/job/1c2b6e8ac3b2af2aa44b5f1dfa9c44a8,False,0.5453,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/1c2b6e8ac3b2af2aa44b5f1dfa9c44a8', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-20240322-34200e594907f2eb329b0349a52cfa92', 'is_direct': False}]","Cybersecurity Architect - Remote Access Koch
+
+Georgia-Pacific is seeking an experienced secure remote access focused, Cybersecurity Architect who, under minimal supervision, will design, develop, and maintain secure remote access platform. A successful candidate will be a highly skilled member of a team responsible for manufacturing infrastructure emphasizing security and operational reliability.
+
+Our Team
+
+This role will give you the opportunity to use your skills to support the entire Georgia-Pacific enterprise, including 110 manufacturing locations, corporate HQ, and many carpeted spaces. We are a technology enabled company seeking a professional network resource interested in using knowledge to drive superior business results.
+
+What You Will Do
+
+•Scope of work to cover secure remote access platform for all Georgia-Pacific's manufacturing facilities, including mills, plants, and warehouses.
+
+•Increase infrastructure reliability by partnering with other IT capabilities leveraging an agile approach to address reliability opportunities.
+
+•Function as a platform owner for secure remote access
+
+•Evaluation of market alternatives every 3 years.
+
+•Works with Security and Architect groups to define access roles within the platform.
+
+•Audits Access and removes unused accounts. Preferably automated using Salepoint or like tool.
+
+Who You Are (Basic Qualifications)
+
+•Experience in secure remote access platforms supporting manufacturing environments and the support of included systems.
+
+•Working Knowledge of secure remote access platforms and tools: (Honeywell ICS Shield, Secure Remote Access platforms, ServiceNow/ITOM, LogicMonitor, Splunk, Python, Ansible)
+
+•Experience in technical or cyber security related position administering secure remote access to wired and wireless networks or firewall security.
+
+•Experience with the management of secure remote access and troubleshooting
+
+•Experience with Project Management
+
+What Will Put You Ahead
+
+•Contribution mindset with a desire to create 'always on / always connected' facilities
+
+•Experience supporting a manufacturing operation environment.
+
+•Experience with Secure Remote Access, Networking and Firewalls.
+
+•Experience with security related to business infrastructure assets and process control assets.
+
+•Experience with the Purdue model for industrial controls
+
+At Koch companies, we are entrepreneurs. This means we openly challenge the status quo, find new ways to create value and get rewarded for our individual contributions. Any compensation range provided for a role is an estimate determined by available market data. The actual amount may be higher or lower than the range provided considering each candidate's knowledge, skills, abilities, and geographic location. If you have questions, please speak to your recruiter about the flexibility and detail of our compensation philosophy.
+
+Who We Are
+
+At Koch, employees are empowered to do what they do best to make life better. Learn how ourbusiness philosophy helps employees unleash their potential while creating value for themselves and the company. #LI-FR1
+#J-18808-Ljbffr",False,1711764321,2024-03-30T02:05:21.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=kgi5ThUJfKmap7v4AAAAAA%3D%3D,2024-04-07T00:00:00.000Z,1712448000.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Architect,en,15112200,4,,541511,Custom Computer Programming Services
+90VJqYYooy85ohIlAAAAAA==,NORMA Group,https://upload.wikimedia.org/wikipedia/de/thumb/6/6d/Logo_Norma_Group.svg/1200px-Logo_Norma_Group.svg.png,http://www.normagroup.com,,Infosec-Jobs.com,FULLTIME,Junior Network Security Engineer,https://infosec-jobs.com/job/92999-junior-network-security-engineer/,False,0.6373,"[{'publisher': 'Infosec-Jobs.com', 'apply_link': 'https://infosec-jobs.com/job/92999-junior-network-security-engineer/', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240315-3be1deea837911dfb1ab5e0e21e92dae', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/junior-network-security-engineer-monterrey-nuevo-leon-norma-group-25275', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/5f05a9e1ada0505391e328620cbd77a6', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/316494544', 'is_direct': False}, {'publisher': 'JobsfromGermany', 'apply_link': 'https://jobs.jobsfromgermany.com/job/1353956/junior-network-security-engineer-monterrey-mx-mty-mx/', 'is_direct': False}, {'publisher': 'IT Jobs ICT Information Technology Computer Software Vacancy', 'apply_link': 'https://itjobvacancies.com/job/junior-network-security-engineer/', 'is_direct': False}]","Junior Network Security Engineer If you like change, change to us We are an international mid sized group with appetite for innovations, approachable management, lead by objectives / targets which give the opportunity of a wide range of empowerment. We as a growth oriented market leader invite you to join us on our journey from good to great! Your Role: As a Junior position in the global team, you will support the availability of IT systems and services for an international company with more than 65 locations worldwide including multiple cloud-based and physical data centers. You provide 1st and 2nd Level support solving current network security related incidents, service requests, changes and problems. You will pro-actively monitor and improve IT network security systems to provide optimal performance. Perform regular system health-checks including but not limited to: Review and resolution of network alerts generated via NORMA Group monitoring systems. Ensuring system recoverability by actively monitoring and maintaining regular fail-over testing processes. Proactive resolution of network and network security related incidents and alerts. Regularly prepare, implement and review firewall policy rule changes. Handle configuration, maintenance and monitoring of active LAN, NAC (802.1x), global-WAN, switches, routers, load balancers, reverse-web-proxy, firewalls, SD-WAN, wireless infrastructure and other network equipment from a variety of manufacturers: Check Point, VMWare, Velocloud, HP/Aruba, Cisco, Citrix, Netscaler, Microsoft Azure. Actively participate in projects related to new implementations, architecture changes, upgrades, optimisation and migrations of business acquisitions. Implement and maintain documentation for networks and systems, SOPs (Standard Operating Procedures), licenses, etc. including using diagramming tools such as MS Visio. Requirements: Education / Experience: Degree in computer science or 1-year experience working in IT, ideally as Network Analyst or Administrator or an IT role where general network administration was over 50% of duties Licences / Certifications: Holding or working towards Industry recognized certifications such as: CCNA or Network+ You have a good understanding of technologies such as: SD-WAN, MPLS, VPN, Encryption, Cloud-based Software Defined Networking, Network-based Security: IDS-IPS, Network Access Control, and 802.11ac-ax (WiFi5 and 6) Wireless Infrastructure. You have strong communication skills (including fluent English) working with and coordinating actions with third-parties/ external consultants You are a team player and you like to work in an international environment Contact for this position: Alma Reyna Chaparro NORMA Group Mexico, S.De R.L. De C.V. Av. Aristóteles No. 201 Monterrey, CP 66603, Mexico",False,1710571075,2024-03-16T06:37:55.000Z,Monterrey,N.L.,MX,25.686615,-100.31612,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=90VJqYYooy85ohIlAAAAAA%3D%3D,2024-04-25T00:00:00.000Z,1714003200.0,"{'no_experience_required': False, 'required_experience_in_months': 12, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,37800.0,70200.0,USD,YEAR,{},Security engineer,en,15112200,4,,,
+AZumbr58uh9OLp_iAAAAAA==,Ford Motor Company,https://www.ford.com/cmslibs/content/dam/brand_ford/en_us/brand/legacy/general-assets/logos/ford_logo.png,http://www.ford.com,Manufacturing,"Trabajo.org - Vacantes De Empleo, Trabajo",FULLTIME,DevSecOps Security Engineer,https://mx.trabajo.org/oferta-867-a9e6fadc89e0d03bf106b9aaaae0fced,False,0.4363,"[{'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-a9e6fadc89e0d03bf106b9aaaae0fced', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/devsecops-security-engineer-mexico-city-ford-motor-company-6030366644/', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/300413289', 'is_direct': False}]","The DevSecOps Security engineer ensures that every step of the software development lifecycle (SDLC) follows security best practices. They are also responsible for adhering to secure coding principles and aid in testing the application against security risks/parameters before release.
+
+Skillset required:
+Able to work well with software development teams. Experience identifying security issues through code review. Excellent and professional communication skills (written and verbal) with an ability to articulate complex topics in a clear and concise manner. Familiarity with some common security libraries and tools (. static analysis tools, proxying / penetration testing tools). Familiarity and ability to explain common security flaws and ways to address them (. OWASP Top 10). Experience in integrating, monitoring and improving DevSecOps tools and processes, automate routine tasks and improve system reliability Basic development or scripting experience and skills. A basic understanding of network and web related protocols (such as TCP/IP, UDP, HTTP, HTTPS, protocols) Designing and implementing Zero Trust Security model, automated enforcement, and monitoring of security controls, vulnerability management, code based compliance and gate reviews, platform based security controls and guardrails
+
+Position responsibilities include:
+Perform security-focused code reviews Assist teams in reproducing, triaging, and addressing application security vulnerabilities. Knowledge of Risk mitigation techniques and fixing the code bugs Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement Support and consult with product and development teams in the area of application security Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management Providing security training and outreach to internal development teams Mentoring, guiding team members and customers Monitoring, measuring customer experience and KPIs
+
+Qualifications required:
+English proficiency (written and verbal) Bachelor (undergraduate) degree in a relevant field (Computer Science, Software Engineer, Security, or others) OR an equivalent combination of education, training, and experience Minimum of 5 years of professional experience with any combination of at least 2 technical disciplines, including the following: DevSecOps, cloud security, network security, application security, mobile security, secure development methodologies, software development and coding, identity management, authentication and authorization, network architecture, system administration, and systems engineering",False,1712025395,2024-04-02T02:36:35.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=AZumbr58uh9OLp_iAAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112200,4,,336111,Automobile Manufacturing
+5PRCKaW6yFuNbsxFAAAAAA==,1210 Kyndryl Mexico S. de R.L. de C.V.,,,,Workday,FULLTIME,Network Infrastructure Architect,https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Network-Administration_R-12252-1,False,0.8674,"[{'publisher': 'Workday', 'apply_link': 'https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Network-Administration_R-12252-1', 'is_direct': False}]","Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Do you want to be at the forefront of designing and implementing cutting-edge network solutions? Within our Network Services team at Kyndryl, you will be the go-to expert for providing top-of-the-line technical solutions throughout the entire solution lifecycle. You will be responsible for creating local and wide-area network solutions that utilize multiple platforms and protocols, ensuring that our customers have the best possible network infrastructure to support their business needs. Your skills in routers, networking controllers, bridges, and networking software will be essential as you troubleshoot network issues and coordinate with vendors to install the latest hardware and software, such as routers and switches. Not only will you help keep our customer’s networks running smoothly, but you will also work on project implementation, conduct project planning and cost analysis, and build proof-of-concept solutions with networking system technology. In this role, you will have the opportunity to review project requirements, communicate them accurately to the team, and ensure they are appropriately fulfilled. You will use your expertise to design and implement local and wide-area network solutions, including IP and VOIP, that address customer requirements. You will also provide high-quality technical solutions to our customers to prepare them for implementation, go-live, and maintenance. If you are excited about using your technical expertise to create innovative network solutions and provide outstanding customer service, then this is the role for you! Your Future at Kyndryl At Kyndryl, we understand the importance of investing in our employees' professional growth and development. In Network Services, you can expect to receive a lot of support for training programs to keep your skills and knowledge up to date with the latest industry trends and technologies. By joining our team, you will have the opportunity to work on cutting-edge projects and contribute to the development of innovative solutions for our customers – including new wireless and 5G technologies – not yet adopted by most companies. Who You Are You’re good at what you do and possess the required experience to prove it. However, equally as important – you have a growth mindset; keen to drive your own personal and professional development. You are customer-focused – someone who prioritizes customer success in their work. And finally, you’re open and borderless – naturally inclusive in how you work with others. Required Technical and Professional Expertise •6+ years of experience focused on network support, configuration, and implementation •6+ years of experience in core switching, routing, MPLS, and firewalls •Networking and security architecture and engineering support experience across local, regional, and global domains •Ability to effectively execute multiple IT projects and deadlines with limited supervision Preferred Technical and Professional Experience •Application Centric Infrastructure (ACI) deployment and data center experience •Experience with design and implementing Software Defined Network (SDN) and large complex networks •Experience with protocols and technologies such as, BDP, OSPF, MP-FBP EVPN, VXLAN, or VPC Being You Diversity is a whole lot more than what we look like or where we come from, it’s how we think and who we are. We welcome people of all cultures, backgrounds, and experiences. But we’re not doing it single-handily: Our Kyndryl Inclusion Networks are only one of many ways we create a workplace where all Kyndryls can find and provide support and advice. This dedication to welcoming everyone into our company means that Kyndryl gives you – and everyone next to you – the ability to bring your whole self to work, individually and collectively, and support the activation of our equitable culture. That’s the Kyndryl Way. What You Can Expect With state-of-the-art resources and Fortune 100 clients, every day is an opportunity to innovate, build new capabilities, new relationships, new processes, and new value. Kyndryl cares about your well-being and prides itself on offering benefits that give you choice, reflect the diversity of our employees and support you and your family through the moments that matter – wherever you are in your life journey. Our employee learning programs give you access to the best learning in the industry to receive certifications, including Microsoft, Google, Amazon, Skillsoft, and many more. Through our company-wide volunteering and giving platform, you can donate, start fundraisers, volunteer, and search over 2 million non-profit organizations. At Kyndryl, we invest heavily in you, we want you to succeed so that together, we will all succeed. Get Referred! If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address. We’re glad you’re here. Take a look around at the many exciting career opportunities we have available and apply today! Can’t find a suitable job opening? Drop off your CV/Resume Drop off your CV/Resume and a Recruiter will reach out with related career information that match your experience and expertise. Sign up for Job Alerts Create your account and then sign up for job alerts. When new jobs become available that meet your criteria, you’ll be alerted right away! At Kyndryl, curiosity is at the core of innovation. It fuels the most vital need inside us—the need to progress. To be a Kyndryl means standing up for Progress and going all in, fully committing to our customers and their progress. As we grow, our curiosity opens new worlds, new ways of thinking and solving problems. It helps us in our career and to find joy in our work. What sparks your curiosity?",True,1706659200,2024-01-31T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=5PRCKaW6yFuNbsxFAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 72, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Infrastructure architect,en,15114300,4,,,
+oqHFUROPf-NNFZWSAAAAAA==,Celanese International Corporation,https://investors.celanese.com/celanese/img/celanese-logo.jpg,,,Salary.com,FULLTIME,O365 & Cloud Security Engineer,https://www.salary.com/job/celanese-international-corporation/o365-cloud-security-engineer/j202310251159169409448,False,0.5219,"[{'publisher': 'Salary.com', 'apply_link': 'https://www.salary.com/job/celanese-international-corporation/o365-cloud-security-engineer/j202310251159169409448', 'is_direct': False}]","Overview
+
+Celanese is a Fortune 500 global chemical and specialty materials company that engineers and manufactures products essential to everyday living. With global headquarters in Dallas, Texas, Celanese employs approximately 13,300 dedicated people working at more than 50 owned and operated manufacturing facilities across 27 countries. We are committed to employee growth and creating shareholder value, and strive to make a difference in the communities where we operate. Our company focuses on the safety of its employees, provides competitive compensation (including benefits starting Day 1), and emphasizes giving back to the community. For more information about Celanese and our products please visit www.celanese.com
+
+Responsibilities
+
+The O365 Security Engineer is responsible for helping to define, drive, and deliver major components of the Celanese O365 and Azure security strategyResponsible for maintaining and extending DLP controls via Microsoft MIP (Purview), as well as driving improvements on our Azure security postureThe position requires working with globally distributed teams to drive implementation of tools and controls to meet security objectivesThe engineer will serve as the key subject matter expert across all O365 and Azure security projects, and interface with security analysts to identify and align controls with emerging tactics and techniques.
+
+Qualifications
+
+Deep understanding of MIP (Microsoft Purview) based DLP controlsPersonal experience with establishing and implementing policies and procedures protecting information flow to and from large organizationsKnowledge of O365 security mechanisms and policiesExperience managing Intune conditional access policiesExperience managing and securing Azure AD objectsKnowledge of implementing Azure security controlsKnowledge of Azure policiesAbility to drive awareness via training, documentation, and workshops following information security standards, policies, and best practicesExcellent communication skillsDemonstrable ability to self-direct project outcomes, with minimal supervision to achieve program goals
+
+Recommended skills and credentials:
+• Cloud security certifications in O365 or Azure
+• Experience in Microsoft Purview technologies
+• Experience with Microsoft Teams an SharePoint security controls
+• Understanding of NIST security controls
+• Typically has 10 or more years of combined IT and security work experience in mid-size or large environment with a broad exposure to infrastructure/network and cloud environments
+• Bachelor's degree",False,1698278400,2023-10-26T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=oqHFUROPf-NNFZWSAAAAAA%3D%3D,2024-10-19T00:00:00.000Z,1729296000.0,"{'no_experience_required': False, 'required_experience_in_months': 120, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Security engineer,en,15112200,4,,,
+6m3yO2Ue0ALkcW9oAAAAAA==,Skyhigh Security,https://media.licdn.com/dms/image/D560BAQEfUaK0NEHV1A/company-logo_200_200/0/1688151215314/skyhighsecurity_logo?e=2147483647&v=beta&t=rRZZRZ9Pec8JLHsXej1rlMTIVRyOosykaA6jMr9vx5E,http://www.skyhighsecurity.com,,LinkedIn,FULLTIME,Web Security Gateway Implementation Engineer,https://mx.linkedin.com/jobs/view/web-security-gateway-implementation-engineer-at-skyhigh-security-3788192369,False,0.8666,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/web-security-gateway-implementation-engineer-at-skyhigh-security-3788192369', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18146484-web-security-gateway-implementation-engineer/', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=103412430341579462', 'is_direct': False}]","Job Title:
+
+Web Security Gateway Implementation Engineer
+
+Role Overview:
+
+As a Web Security Gateway Implementation Engineer, you will design and deploy Cloud Security solutions across large enterprise customers. You will follow best practices across the Cloud Security and Governance solutions for one or more of cloud services, web gateway and DLP solutions. You will be a trusted SME (Subject Matter Expert) and act as a trusted advisor to customers.
+
+About Skyhigh Security:
+
+Skyhigh Security is a dynamic, fast-paced, cloud company that is a leader in the security industry. Our mission is to protect the world’s data, and because of this, we live and breathe security. We value learning at our core, underpinned by openness and transparency.
+
+Since 2011, organizations have trusted us to provide them with a complete, market-leading security platform built on a modern cloud stack. Our industry-leading suite of products radically simplifies data security through easy-to-use, cloud-based, Zero Trust solutions that are managed in a single dashboard, powered by hundreds of employees across the world. With offices in Santa Clara, Aylesbury, Paderborn, Bengaluru, Sydney, Tokyo and more, our employees are the heart and soul of our company.
+
+Skyhigh Security Is more than a company; here, when you invest your career with us, we commit to investing in you. We embrace a hybrid work model, creating the flexibility and freedom you need from your work environment to reach your potential. From our employee recognition program, to our ‘Blast Talks' learning series, and team celebrations (we love to have fun!), we strive to be an interactive and engaging place where you can be your authentic self.
+
+We are on these too! Follow us on LinkedIn and Twitter@SkyhighSecurity.
+
+About the Role:
+
+As a Web Security Gateway Engineer, you will design and deploy Cloud Security solutions across large enterprise customers. You will follow best practices across the Cloud Security and Governance solutions for one or more of cloud services, web gateway and DLP solutions. You will be a trusted SME (Subject Matter Expert) and act as a trusted advisor to customers.
+• Work directly with customers, understand business and technical requirements, customer environments and Architect, design and implement security solution
+• Work with project managers to come up with project plan for customer deployments
+• Scope the implementation phases and execute them for the successful delivery
+• Partner with the product management team or Program Manager in aligning the solution delivery with the project timelines
+• Follow best-practices in deploying the organization's security solutions
+
+About You:
+• Strongly preferred experience with one or more of the cloud services such as Office 365, Box, SalesForce, ServiceNow, AWS, Azure or GCP
+• Proven hands-on experience with one or more the information security solutions such as Web Proxy/NGFW/Email Security Gateways, SIEM, SAML/SSO, DLP, Data Encryption technology
+• Worked as a Implementation engineer or professional services engineer in deploying security solutions or cloud solutions.
+• Proven experience working with customers and partners in successful design and deployment of solutions
+• Ability to develop a phased implementation plan for complex deployment projects
+• B.S. degree in Computer Science or equivalent years of professional experience in a relevant field
+• 8+ years of implementation experience in sr. Implementation engineer role or professional services consultant role
+• Experience in Cloud application or web gateway proxy implementation is highly desirable.
+
+Company Benefits and Perks:
+
+We work hard to embrace diversity and inclusion and encourage everyone to bring their authentic selves to work every day. We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees.
+• Retirement Plans
+• Medical, Dental and Vision Coverage
+• Paid Time Off
+• Paid Parental Leave
+• Support for Community Involvement
+
+We're serious about our commitment to diversity which is why we prohibit discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",True,1708606906,2024-02-22T13:01:46.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=6m3yO2Ue0ALkcW9oAAAAAA%3D%3D,2024-04-12T02:17:51.000Z,1712888271.0,"{'no_experience_required': False, 'required_experience_in_months': 96, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112200,4,,,
+tMt6os50TKs3etUPAAAAAA==,Compucom,https://media.licdn.com/dms/image/C4E0BAQHOJzQspby5IQ/company-logo_200_200/0/1651596530442/compucom_logo?e=2147483647&v=beta&t=9P5_gjsv6yI5-OVFETzrRHB033XUbGGZpAKXa-vWpp8,http://www.compucom.com,,LinkedIn,FULLTIME,Network & Security Engineer,https://mx.linkedin.com/jobs/view/network-security-engineer-at-compucom-3875965132,False,0.7802,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/network-security-engineer-at-compucom-3875965132', 'is_direct': False}]","Compucom Systems, Inc. provides end-to-end IT managed services to enable the digital workplace for enterprise, midsize and small businesses. To enable our clients to focus on what matters most, we employ a customer-centric, hard-working, and talented group of people that Act Like an Owner, Do the Right Thing, and Have Fun Doing It!
+• Implement, maintain, manage, and support Travel + Leisure’s global network and security infrastructure, both operationally and in support of key initiatives and projects.
+• Perform change control and device configuration management activities on all network and security infrastructure and services.
+• Provides management level reporting of firewall, proxy, and Intrusion Protection System (IPS) device activity on a periodic basis.
+• Participates in security incident response team activities, providing and implementing tactical risk mitigation to incidents.
+• Work with the business to develop network and security infrastructure solutions and strategies to satisfy customer requirements, all while ensuring adherence to formal processes, standards, and policies.
+• Work closely with fellow Network Engineers, various IT Architects, analysts, IT peers, outside vendors, partners, and other resources to evaluate, develop, and propose innovative new technologies, methodologies, processes, and other improvements aimed at improving the effectiveness of the organization.
+• Perform technical support coordination between Network & Security Services and other IT technical engineering groups, supporting the maintenance and installation, and modification of systems including interfaces, migration of new software releases, system upgrades, and general technical modifications.
+• Engineer will be required to participate in a rotating on-call shift.
+• Bachelor’s degree in an IT related discipline or equivalent experience
+• Advanced knowledge and experience with Cisco IOS, NXOS, Palo Alto PANOS, Cloud Proxy Solutions (Zscaler is a plus),
+• Expert knowledge of dynamic routing protocols such as OSPF, BGP, EIGRP, and RIP, including configuration, optimization, and troubleshooting in complex network environments.
+• Active Certifications CCNP, PCNSE, and AWS related certifications are highly desirable.
+• NetDevOps and/or SecDevOps and automation practices for the configuration, deployment, and management of related infrastructure (Python, Ansible, Terraform, bash scripting, etc.)
+• Experience with Splunk or similar SEIM platforms (CrowdStrike LogScale a plus)
+• Fundamental knowledge of SOX/PCI/PII standards and regulations to meet compliance demands.
+• Other preferred knowledge includes wireless networking, network monitoring, (SolarWinds HCO a plus)
+• 3 to 5 years of relevant work experience in a mid-to-large enterprise with 24x7 production operations
+• Advanced level of English speaking",False,1711677573,2024-03-29T01:59:33.000Z,,,MX,19.533775,-99.01289,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=tMt6os50TKs3etUPAAAAAA%3D%3D,2024-04-28T01:59:32.000Z,1714269572.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},,en,15112200,4,,,
+1J4eA8jckN65BbufAAAAAA==,Nuvit Service,,,,BeBee México,FULLTIME,Cloud Network Architect and Engineer,https://mx.bebee.com/job/eee66c48f25c8d3d6fdbc5de5ceb3ac2,False,0.553,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/eee66c48f25c8d3d6fdbc5de5ceb3ac2', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4394847156', 'is_direct': False}, {'publisher': 'Un Mejor Empleo', 'apply_link': 'https://www.unmejorempleo.com.mx/empleo-en_ciudad_de_mexico_cloud_network_architect_and_engineer-5493509.html', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=fc7f3dbec74d', 'is_direct': False}, {'publisher': 'Political Jobs', 'apply_link': 'https://politicaljobs.info/job/cloud-network-architect-and-engineer-mexico-nuvit-service-1451-80317-mexico/', 'is_direct': False}, {'publisher': 'Hair Jobs', 'apply_link': 'https://hairjobs.info/job/cloud-network-architect-and-engineer-mexico-nuvit-service-1451-80317-mexico/', 'is_direct': False}]","This role is responsible for the design and provisioning of network resources.
+
+This involves the creation of the VPC, subnets, needed gateways and load balancers, also the configuration of the DNS with Route 53, the network design for third party connectivity.
+As well this team will help as SRE support for the remaining services (i.e., compute services).
+
+Support reliable, secure, and scalable foundational network for IaaS and PaaS services.
+Identify and deploy networking tools to optimize cloud integration with the larger tech stack.
+Own data communication systems, including LANs, WANs, and other supporting devices in the network.
+Configure, implement, and maintain the cloud network according to the architecture.
+Identify and resolve network connectivity issues and outages.
+Coordinate with third-party environments for seamless and secure connectivity.
+Understand organizational needs and design communication networks accordingly.
+Update networks based on scope or requirements.
+Provide standards for devices used in the network to be procured from third parties.
+Plan and design network architectures for cloud environments, considering aspects like connectivity, redundancy, scalability, and geographical distribution.
+Configure and deploy cloud networks, creating virtual networks, subnets, routing, and firewall rules for efficient and secure connectivity.
+Implement security measures, such as firewalls, security groups, and network segmentation, to protect communications and cloud resources.
+Monitor and optimize network performance, identifying bottlenecks, latencies, and bandwidth issues.
+Configure virtual private networks (VPNs) for secure connections between local networks and cloud resources.
+Configure load balancing and traffic routing to distribute load between instances and regions.
+Use automation tools and scripts to streamline network deployment and management.
+Identify and resolve connectivity, performance, and network configuration issues, collaborating with other teams.
+Implement network monitoring and logging solutions for real-time visibility into network health.
+Perform application and workload migrations to the cloud from a network perspective.
+Collaborate with development, security, and systems administration teams for consistent and secure network implementation.
+Stay updated on the latest trends and technologies in cloud networking and provide training to team members.
+10+ years of overall industry experience.
+7+ years of experience in Technology areas (Programming, Infrastructure, Cloud Administration, etc.).
+2+ years within Network Engineering.
+2+ years as a Cloud Engineer, Cloud SysOps, or Cloud Architect.
+CloudFormation experience.
+Git-based repositories.
+AWS Cloud.
+SysOps experience.
+Bilingual in English/Spanish.
+Terraform.
+Jenkins.
+Gitlab CI or Github Actions.
+AWS certified Networking Specialist.
+Solutions Architect Associate or AWS SysOps Associate.
+#NuvitService",False,1711498896,2024-03-27T00:21:36.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=1J4eA8jckN65BbufAAAAAA%3D%3D,2024-04-04T00:00:00.000Z,1712188800.0,"{'no_experience_required': False, 'required_experience_in_months': 120, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114300,4,,,
+77IV82VUcp5EwKuJAAAAAA==,Kyndryl,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kyndryl_logo.svg/640px-Kyndryl_logo.svg.png,http://www.kyndryl.com,,LinkedIn,FULLTIME,Network Infrastructure Architect,https://mx.linkedin.com/jobs/view/network-infrastructure-architect-at-kyndryl-3793087633,False,0.6996,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/network-infrastructure-architect-at-kyndryl-3793087633', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/network-infrastructure-architect-kyndryl-JV_IC5017436_KO0,32_KE33,40.htm?jl=1009045247591', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4498093000', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=dfc71f521e751ec0', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/network-infrastructure-architect-kyndryl-JV_KO0,32_KE33,40.htm?jl=1009045247591', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=88671303717790406', 'is_direct': False}, {'publisher': 'EchoJobs', 'apply_link': 'https://echojobs.io/job/kyndryl-network-infrastructure-architect-pgs6l', 'is_direct': False}]","Who We Are
+
+At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities.
+
+The Role
+
+Do you want to be at the forefront of designing and implementing cutting-edge network solutions? Within our Network Services team at Kyndryl, you will be the go-to expert for providing top-of-the-line technical solutions throughout the entire solution lifecycle. You will be responsible for creating local and wide-area network solutions that utilize multiple platforms and protocols, ensuring that our customers have the best possible network infrastructure to support their business needs.
+
+Your skills in routers, networking controllers, bridges, and networking software will be essential as you troubleshoot network issues and coordinate with vendors to install the latest hardware and software, such as routers and switches. Not only will you help keep our customer’s networks running smoothly, but you will also work on project implementation, conduct project planning and cost analysis, and build proof-of-concept solutions with networking system technology.
+
+In this role, you will have the opportunity to review project requirements, communicate them accurately to the team, and ensure they are appropriately fulfilled. You will use your expertise to design and implement local and wide-area network solutions, including IP and VOIP, that address customer requirements. You will also provide high-quality technical solutions to our customers to prepare them for implementation, go-live, and maintenance.
+
+If you are excited about using your technical expertise to create innovative network solutions and provide outstanding customer service, then this is the role for you!
+
+Your Future at Kyndryl
+
+At Kyndryl, we understand the importance of investing in our employees' professional growth and development. In Network Services, you can expect to receive a lot of support for training programs to keep your skills and knowledge up to date with the latest industry trends and technologies. By joining our team, you will have the opportunity to work on cutting-edge projects and contribute to the development of innovative solutions for our customers – including new wireless and 5G technologies – not yet adopted by most companies.
+
+Who You Are
+
+You’re good at what you do and possess the required experience to prove it. However, equally as important – you have a growth mindset; keen to drive your own personal and professional development. You are customer-focused – someone who prioritizes customer success in their work. And finally, you’re open and borderless – naturally inclusive in how you work with others.
+
+Required Technical and Professional Expertise
+• 6+ years of experience focused on network support, configuration, and implementation
+• 6+ years of experience in core switching, routing, MPLS, and firewalls
+• Networking and security architecture and engineering support experience across local, regional, and global domains
+• Ability to effectively execute multiple IT projects and deadlines with limited supervision
+
+Preferred Technical And Professional Experience
+• Application Centric Infrastructure (ACI) deployment and data center experience
+• Experience with design and implementing Software Defined Network (SDN) and large complex networks
+• Experience with protocols and technologies such as, BDP, OSPF, MP-FBP EVPN, VXLAN, or VPC
+
+Being You
+
+Diversity is a whole lot more than what we look like or where we come from, it’s how we think and who we are. We welcome people of all cultures, backgrounds, and experiences. But we’re not doing it single-handily: Our Kyndryl Inclusion Networks are only one of many ways we create a workplace where all Kyndryls can find and provide support and advice. This dedication to welcoming everyone into our company means that Kyndryl gives you – and everyone next to you – the ability to bring your whole self to work, individually and collectively, and support the activation of our equitable culture. That’s the Kyndryl Way.
+
+What You Can Expect
+
+With state-of-the-art resources and Fortune 100 clients, every day is an opportunity to innovate, build new capabilities, new relationships, new processes, and new value. Kyndryl cares about your well-being and prides itself on offering benefits that give you choice, reflect the diversity of our employees and support you and your family through the moments that matter – wherever you are in your life journey. Our employee learning programs give you access to the best learning in the industry to receive certifications, including Microsoft, Google, Amazon, Skillsoft, and many more. Through our company-wide volunteering and giving platform, you can donate, start fundraisers, volunteer, and search over 2 million non-profit organizations. At Kyndryl, we invest heavily in you, we want you to succeed so that together, we will all succeed.
+
+Get Referred!
+
+If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address.",False,1712100026,2024-04-02T23:20:26.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=77IV82VUcp5EwKuJAAAAAA%3D%3D,2024-05-02T23:20:26.000Z,1714692026.0,"{'no_experience_required': False, 'required_experience_in_months': 72, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114300,4,,,
+_Ljhcc8NoOUBmyxgAAAAAA==,Sequoia Connect,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE41turLX-2SDIq1nRNrK5MobCJD6ct0MTZBV4&s=0,,,BeBee México,FULLTIME,Senior IT Network Security,https://mx.bebee.com/job/2cb781bd6e296833e5265fb89ae86b94,False,0.5642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/2cb781bd6e296833e5265fb89ae86b94', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4630045074', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240318-a1383610037b2f0c83955060723eb586', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/senior-it-network-security-mexico-city-sequoia-connect-f76d1f72b9/', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/317429657', 'is_direct': False}]","Our client is a global technology consulting and digital solutions company helping more than 750 clients succeed in a converging world. They go the extra mile for their clients and accelerate their digital transformation with the Mosaic platform enabling their mobile, social, analytics, IoT, and cloud journeys.
+
+Our client is a USD 3.4 billion company with 90,000+ professionals across five continents, helping global customers with innovative solutions.
+
+The Group operates in the key industries that drive economic growth, enjoying a leadership position in the construction industry, financial industry, and technology.
+
+We are currently searching for a Senior IT Network Security Manager:
+
+Responsibilities:
+• Plan and implement enterprise networks and associated hardware and software.
+• Design and document network architecture.
+• Assess existing technologies to identify performance and capacity gaps.
+• Establish security measures such as firewalls and intrusion detection systems.
+• Define connectivity and access parameters.
+• Provide recommendations to optimize network infrastructure.
+• Test and fine-tune security devices and systems.
+• Configure routers and switches.
+• Implement communication technologies, including data and voice.
+• Manage network services from planning to implementation phase.
+
+Requirements:
+• Possess top-tier troubleshooting skills with all described technologies.
+• Install, configure, and maintain all specified technologies.
+• Serve as a technical resource on projects for Santander Capital Market.
+• Prepare technical procedures, standards, and network schematics for all solutions.
+• Have 5-10 years of experience with the specified technologies.
+• Experience with Firewall (Check Point + Cisco) and IPS (Check Point).
+• Competence in Cisco + Check Point Client & Site to Site VPN configuration and maintenance.
+• Experience with Check Point Provider-1/MDM (Upgrading, Troubleshooting & Maintenance).
+• Familiarity with Check Point VSX + Cluster XL (Upgrading, Troubleshooting & Maintenance).
+
+Desired:
+• Check Point Certifications (CCSA or CCSE).
+• ITIL Foundations certification.
+
+Languages
+• Advanced Oral English.
+• Native Spanish.
+
+Note:
+• Fully remote.
+
+If you meet these qualifications and are pursuing new challenges, Start your application to join an award-winning employer. Explore all our job openings | Sequoia Career's Page: sequoia-
+Keywords:
+Firewall , CISCO, Check Point , manteinance
+None",False,1711934983,2024-04-01T01:29:43.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=security+architectin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=security+architectin+mexico&htidocid=_Ljhcc8NoOUBmyxgAAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15112200,4,,,

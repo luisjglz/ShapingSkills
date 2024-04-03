@@ -1,0 +1,880 @@
+job_id,employer_name,employer_logo,employer_website,employer_company_type,job_publisher,job_employment_type,job_title,job_apply_link,job_apply_is_direct,job_apply_quality_score,apply_options,job_description,job_is_remote,job_posted_at_timestamp,job_posted_at_datetime_utc,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_offer_expiration_datetime_utc,job_offer_expiration_timestamp,job_required_experience,job_required_skills,job_required_education,job_experience_in_place_of_education,job_min_salary,job_max_salary,job_salary_currency,job_salary_period,job_highlights,job_job_title,job_posting_language,job_onet_soc,job_onet_job_zone,job_naics_code,job_naics_name,job_occupational_categories
+T47DlopXXw2ZweHnAAAAAA==,Marriott International,https://pbs.twimg.com/profile_images/779174597572825089/rqFEczhf_400x400.jpg,http://www.marriott.com,Accommodation,Marriott Careers,FULLTIME,Systems Analyst,https://jobs.marriott.com/jobs/24055543?lang=en-us,True,0.8002,"[{'publisher': 'Marriott Careers', 'apply_link': 'https://jobs.marriott.com/jobs/24055543?lang=en-us', 'is_direct': True}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4586027624', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/4473213169401916909', 'is_direct': False}, {'publisher': 'GrabJobs', 'apply_link': 'https://grabjobs.co/mexico/job/full-time/accounting-finance/systems-analyst-44056184', 'is_direct': True}, {'publisher': 'Hospitality Online', 'apply_link': 'https://www.hospitalityonline.com/jobs/4026630-systems-analyst', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=c60c1ff38b3b9432', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18327104-systems-analyst/', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/f4e18e73fb4eddbbf172b93320a8c1fc', 'is_direct': False}]","Job Number 24055543
+Job Category Information Technology
+Location Sheraton Mexico City Maria Isabel Hotel, Paseo de la Reforma 325 Col. Cuauhtemoc, Mexico City, Distrito Federal, Mexico VIEW ON MAP
+Schedule Full-Time
+Located Remotely? N
+Relocation? N
+Position Type Non-Management
+
+POSITION SUMMARY
+
+Install, configure, manage, maintain, test, evaluate, and repair computer networks, workstations, support server system(s), supporting hardware/software, user accounts, and computer/telephone rooms. Train/instruct users in proper use and security of all systems. Troubleshoot/repair/resolve technical problems/issues related to computer hardware/software/LAN and WAN/internet. Respond to program error messages. Provide network communications support and technical guidance. Refer major problems to vendors/technicians. Analyze, recommend, and implement process improvements. Consult with others to assess/analyze/resolve computing needs and system requirements. Inspect, test, and diagnose computer equipment/systems. Plan and coordinate information technology-related equipment installations, moves, additions, changes, and system enhancements. Plan, coordinate, and implement network security measures. Provide end-user support for all applications. Plan and manage disk space for entire network. Maintain accurate inventory of all technological devices. Enter commands and activate controls on computers and equipment. Ensure backup tapes are locked in a fireproof safe.
+
+Follow all company policies and procedures; report accidents, injuries, and unsafe work conditions to manager. Maintain confidentiality of proprietary information; protect company assets. Address guests’ service needs; assist other employees. Speak with others using clear and professional language; answer telephones using appropriate etiquette. Serve as role model and first point of contact of the Guarantee of Fair Treatment/Open Door Policy process. Develop and maintain positive working relationships with others; support team to reach common goals. Ensure adherence to quality expectations/standards; identify, recommend, develop, and implement new ways to increase organizational efficiency, productivity, quality, safety, and/or cost-savings. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds. Stand, sit, or walk for extended periods of time. Enter and locate information using computers/ Point of Sale (POS) systems. Move up and down stairs/ramps. Perform other reasonable job duties as requested by Supervisors.
+
+Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.
+
+When you join the Sheraton family, you become a member of its global community. We’ve been a place to gather and connect since 1937. At Sheraton, associates create a sense of belonging in more than 400 communities around the world. We invite, we welcome, and we connect guests through engaging experiences and thoughtful service. If you’re a team player who is excited to deliver a meaningful guest experience, we encourage you to explore your next career opportunity with Sheraton. Join us on our mission to be ‘The World’s Gathering Place’. In joining Sheraton Hotels & Resorts, you join a portfolio of brands with Marriott International. Be where you can do your best work,​ begin your purpose, belong to an amazing global​ team, and become the best version of you.",False,1711584000,2024-03-28T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=T47DlopXXw2ZweHnAAAAAA%3D%3D,2025-03-28T23:18:15.000Z,1743203895.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",['UNAVAILABLE'],"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Systems analyst,en,15112100,4,7211,Traveler Accommodation,
+_rUjve7gOIuHqQQ_AAAAAA==,Skyworks,https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Skyworks_logo.svg/1200px-Skyworks_logo.svg.png,http://www.skyworksinc.com,Manufacturing,WhatJobs,FULLTIME,SAP System Analyst for Manufacturing,https://es-mx.whatjobs.com/Trabajo-para-SAP-System-Analyst-en-mexicali-coop107551270,False,0.4253,"[{'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-SAP-System-Analyst-en-mexicali-coop107551270', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/107332498', 'is_direct': False}]","If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high performance analog semiconductors whose solutions are powering the wireless networking revolution. At Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, mínimal layers of management and the freedom to make meaningful contributions in a setting that encourages creativity and out-of-the-box thinking. Our work culture values diversity, social responsibility, open communication, mutual trust and respect. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together can change the way the world communicates._
+- Please access _Privacy Notice for Mexico_ for important information on personal data and electronic communications._
+• *SAP system analyst for Manufacturing**
+- SAP system analyst for Manufacturing
+- System analyst for Manufacturing is responsible for creating a strong partnership between Information Technology team, Factory systems and Business Commodities. Enable functional business units of Manufacturing by defining strategic planning, analytics, and solution assessments. Hands-on to manage the resolution of operational critical issues.
+- Functional analyst with technical SAP skills, supports the processes and the tools for Manufacturing business units.- Partnership skills of business to provide a continuous improvement mindset will thrive in this role. Skyworks environment is dynamic and fast-paced with daily opportunities to make a significant impact on the success of the business. Additional critical skills in this role include understanding semiconductor design and manufacturing processes, knowledge of SAP capabilities and modules, process-orientation, analytical, ability to work well in matrixed teams, project management and managing multiple priorities.- The role:
+
+- Responsible for the administration of software resources at the assigned area and/or operation, focused on the achievement of objectives, making sure that the defined production plan is executed within the required safety, quality and volume parameters, distributing the workloads of the area. Manage human, material and time resources for the correct execution of production, monitoring key indicators that allow to make decisions through leadership and empowerment towards group of collaborators.- Requirements:
+
+- SAP ECC 6.0: PP, MM, WM, QM- Qualifications:
+
+- Exposure to manufacturing environment
+- Functional ERP knowledge for PP, MM, WM, QM. Implement modules using standard SAP configuration.
+- Document detailed functional specifications for custom programs and test scenarios
+- Functional review of system configuration and customization
+- Manage external consulting services. Organize IT consulting resources assigned to projects: Functional & Programmers
+- Verbal and written communication skills
+- Proactive, well organized, and detail oriented with the ability to manage projects
+- Excellent analytical and problem-solving skills- Education requirements:
+
+- Bachelor’s degree in Computer Science, Information Systems
+- English language fluent speaking, written and reading
+- Master’s degree in related area considered a plus- Skyworks is proud to be an equal opportunity employer supporting diversity in the workplace._
+• *Job Segment**:SAP, Systems Analyst, Testing, Consulting, ERP, Technology",False,1712102400,2024-04-03T00:00:00.000Z,Mexicali,B.C.,MX,32.62454,-115.45226,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=_rUjve7gOIuHqQQ_AAAAAA%3D%3D,2024-05-01T10:37:00.000Z,1714559820.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},System analyst,en,15112100,4,334412,Bare Printed Circuit Board Manufacturing,
+yp05UO_ErQemKBTUAAAAAA==,Marriott International,https://pbs.twimg.com/profile_images/779174597572825089/rqFEczhf_400x400.jpg,http://www.marriott.com,Accommodation,Marriott Careers,FULLTIME,Systems Analyst,https://jobs.marriott.com/jobs/23083805?lang=en-us,True,0.8002,"[{'publisher': 'Marriott Careers', 'apply_link': 'https://jobs.marriott.com/jobs/23083805?lang=en-us', 'is_direct': True}]","Job Number 23083805
+Job Category Information Technology
+Location The Westin Resort & Spa Puerto Vallarta, Paseo de la Marina Sur #205, Puerto Vallarta, Jalisco, Mexico VIEW ON MAP
+Schedule Full-Time
+Located Remotely? N
+Relocation? N
+Position Type Non-Management
+
+POSITION SUMMARY
+
+Install, configure, manage, maintain, test, evaluate, and repair computer networks, workstations, support server system(s), supporting hardware/software, user accounts, and computer/telephone rooms. Train/instruct users in proper use and security of all systems. Troubleshoot/repair/resolve technical problems/issues related to computer hardware/software/LAN and WAN/internet. Respond to program error messages. Provide network communications support and technical guidance. Refer major problems to vendors/technicians. Analyze, recommend, and implement process improvements. Consult with others to assess/analyze/resolve computing needs and system requirements. Inspect, test, and diagnose computer equipment/systems. Plan and coordinate information technology-related equipment installations, moves, additions, changes, and system enhancements. Plan, coordinate, and implement network security measures. Provide end-user support for all applications. Plan and manage disk space for entire network. Maintain accurate inventory of all technological devices. Enter commands and activate controls on computers and equipment. Ensure backup tapes are locked in a fireproof safe.
+
+Follow all company policies and procedures; report accidents, injuries, and unsafe work conditions to manager. Maintain confidentiality of proprietary information; protect company assets. Address guests’ service needs; assist other employees. Speak with others using clear and professional language; answer telephones using appropriate etiquette. Serve as role model and first point of contact of the Guarantee of Fair Treatment/Open Door Policy process. Develop and maintain positive working relationships with others; support team to reach common goals. Ensure adherence to quality expectations/standards; identify, recommend, develop, and implement new ways to increase organizational efficiency, productivity, quality, safety, and/or cost-savings. Move, lift, carry, push, pull, and place objects weighing less than or equal to 50 pounds. Stand, sit, or walk for extended periods of time. Enter and locate information using computers/ Point of Sale (POS) systems. Move up and down stairs/ramps. Perform other reasonable job duties as requested by Supervisors.
+
+Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.
+
+At Westin, we are committed to empowering the well-being of our guests by providing a refreshing environment, thoughtful amenities, and revitalizing programming to help ensure that they leave feeling better than when they arrived. We recognize that travel can be disruptive to our guests’ well-being, and we’re energized to assist as partners in helping them maintain control and soaring above it all while on the road. Everything we do is designed to help guests be at their best, and they appreciate our supportive attitude, anticipatory service and extensive knowledge on how to best assist them throughout their stay. We are looking for dynamic people who are excited to join the team and ready to jump into any situation to give a helping hand. If you’re someone who has is positive, adaptable and intuitive, and has a genuine interest in the well-being of others around you, we invite you to discover how at Westin, together we can rise.",False,1683244800,2023-05-05T00:00:00.000Z,,Jal.,MX,20.659538,-103.349434,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=yp05UO_ErQemKBTUAAAAAA%3D%3D,2024-05-05T10:49:38.000Z,1714906178.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",['UNAVAILABLE'],"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Systems analyst,en,15112100,4,7211,Traveler Accommodation,
+dawzfjJtBqtK_wTdAAAAAA==,Jabil Circuit,https://careers.jabil.com/images/logo.png,http://www.jabil.com,Manufacturing,BeBee México,FULLTIME,Business Systems Analyst,https://mx.bebee.com/job/d74c2c502a99fb03dcdc80a02d511965,False,0.4663,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/d74c2c502a99fb03dcdc80a02d511965', 'is_direct': False}]","Summary: Business Systems Analyst - based onsite in Austin, TX or Guadalajara, Mexico
+
+As a Business Systems Analyst at Jabil, you will play a pivotal role as a change agent and provide essential support to the IT/technical teams for global sites undergoing new transformation activities. You will be primarily responsible for facilitating the implementation of SAP, Engineering Change Notices (ECN), B2B configurations, and Bill of Materials Management (BOM). Additionally, you will engage directly with customers, lead implementation project plans, and train team members on new BOM structures. This role requires a proactive approach to conduct gap analysis reviews between current and new systems, as well as providing ongoing support for SAP setup, ECNs, and Oracle.
+
+What can you expect to do?
+• Act as a change agent, supporting global sites in implementing new transformation activities related to SAP, ECN, B2B configurations, and BOM management.
+• Lead the implementation of project plans for BOM changes, ensuring timely and accurate execution.
+• Conduct gap analysis reviews to identify differences between current processes/systems and new requirements.
+• Collaborate with cross-functional teams to gather business requirements and translate them into system solutions.
+• Provide support for SAP setup, configuration, and maintenance activities.
+• Interface directly with customers to understand their needs and incorporate them into system configurations.
+• Train team members on new BOM structures and system functionalities.
+• Assist in troubleshooting system issues and providing solutions to ensure continuous operations.
+• Stay updated on industry best practices and technological advancements to recommend improvements and optimizations.
+
+What is the experience needed to be successful in this role?
+• Bachelor's degree in Computer Science, Information Systems, Business Administration, or related field required.
+• Proven experience as a Business Systems Analyst or similar role, preferably in a manufacturing or supply chain environment.
+• Proficiency in SAP implementation and configuration is highly desirable.
+• Strong understanding of Engineering Change Notice (ECN) processes and B2B configurations.
+• Experience with Bill of Materials Management (BOM) systems and practices.
+• Excellent analytical and problem-solving skills with keen attention to detail.
+• Ability to effectively communicate and collaborate with cross-functional teams and customers.
+• Self-motivated with the ability to work independently and manage multiple tasks simultaneously.
+• Flexibility to adapt to changing priorities and business needs.
+
+BENEFITS PACKAGE WITH JABIL
+
+Along with growth, stability, and the opportunity to be challenged, Jabil offers a competitive benefits package that includes:
+• Competitive Base Salary
+• Medical, Dental, Prescription Drug, and Vision Insurance with HRA and HSA options
+• 401K Match
+• Employee Stock Purchase Plan
+• Paid Time Off
+• Tuition Reimbursement
+• Life, AD&D, and Disability Insurance
+• Commuter Benefits
+• Employee Assistance Program
+• Pet Insurance
+• Adoption Assistance
+• Annual Merit Increases
+• Community Volunteer Opportunities
+#J-18808-Ljbffr",False,1712125832,2024-04-03T06:30:32.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=dawzfjJtBqtK_wTdAAAAAA%3D%3D,2024-04-11T00:00:00.000Z,1712793600.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},Systems analyst,en,15112100,4,334412,Bare Printed Circuit Board Manufacturing,
+DsQhNHpF_6nezeliAAAAAA==,Autoliv Mexico,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_YrxbhWF9D4uKAChO5ymOr7PA0LfFYKeTgvL&s=0,,,Glassdoor,FULLTIME,IT Analyst,"https://www.glassdoor.com/job-listing/it-analyst-autoliv-mexico-JV_KO0,10_KE11,25.htm?jl=1009107954432",False,0.5568,"[{'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/it-analyst-autoliv-mexico-JV_KO0,10_KE11,25.htm?jl=1009107954432', 'is_direct': False}]","IT Analyst
+
+What you’ll do:
+
+Job Summary Level 1 Support to AST and AST2 local users. Support local Lan admin, maintaining local infrastructure. Strategic Context and Challenges Depends on Lan admin infrastructure. Provides continuity to service delivery. Deliverables Maintain Service Net Local AST IT incidents and request. Guided by LAN admin, close project actions Core Responsibilities and Activities Support local users to resolve issues that prevents them from using the IT tools and applications. First level support to any event, elevate to LAN admin and support groups in division in case is necessary.
+
+What is required:
+
+Engineering/Bachelor's Degree, Functional Competencies Basic IT knowledge. Focus on hardware and network support. Personal Characteristics Enabling Success Good Follow up Team oriented Education Information systems, computer science degree. Previous Experience 1 year or less Languages English 3- Intermedio (Lectura y Conversación a nivel Técnico
+
+What’s in it for you:
+• Attractive compensation package
+• Recognition awards, company events, family events, university discount options and many more perks.
+• Gender Pay Equality
+
+Autoliv is proud to be an equal opportunity employer. Autoliv does not discriminate in any aspect of employment based on race, color, religion, national origin, ancestry, gender, sexual orientation, gender identify and/or expression, age, disability, or any other characteristic protected by federal, state, or local employment discrimination laws where Autoliv does business.",False,1712016000,2024-04-02T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=DsQhNHpF_6nezeliAAAAAA%3D%3D,2024-08-01T00:00:00.000Z,1722470400.0,"{'no_experience_required': False, 'required_experience_in_months': 12, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},It analyst,en,15112100,4,,,
+PIUc0vBpxv4UGLJUAAAAAA==,Pegasys Systems & Technologies,,,,Indeed,FULLTIME,Computer System Analyst,https://mx.indeed.com/viewjob?jk=b55ae3ff191e5ec1,True,0.6267,"[{'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=b55ae3ff191e5ec1', 'is_direct': True}]","Pegasys is recruiting qualified individuals for full time opportunities we have currently in our organization for our growing client needs.
+We are looking for candidates with TN / Mexicans as their immigration status
+
+Company profile: “Pegasys is an E-verified company”. Located in Michigan, USA founded in 200
+
+We Recruit candidates in Various Technologies
+• e: •
+• ava •
+• .Net • An
+• id •
+• SAS •
+• cle DBA •
+• ormatica •
+• ata stage
+
+ETL We also provide training for Mexican Citizen candidates according to the requirement on differen
+
+echnologies.
+• quired Skills: • 3 to 10yr. experience on any technology with c
+• uter knowledge. • Open for relocation in USA after the consult
+• is in Michigan. • Willing to wor
+
+k on our company W2.",False,1540496566,2018-10-25T19:42:46.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=PIUc0vBpxv4UGLJUAAAAAA%3D%3D,2024-07-26T14:40:09.000Z,1722004809.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,,,
+TVrkkC7MYVbEH5rTAAAAAA==,Siemens Digital Industries Software,https://media.licdn.com/dms/image/D560BAQGza0ladawKLQ/company-logo_200_200/0/1689958987400?e=2147483647&v=beta&t=R8YwPfacGC5dstZG3QBTqlM49S9iJx9sH9a0iU7CCBg,http://www.siemens.com,Information,Jobs | Siemens Digital Industries Software - Siemens,FULLTIME,SAP IT Applications Analyst,https://jobs.sw.siemens.com/mexico-city-mex/sap-it-applications-analyst/BC4D2CE20D79419B868602F3D26AAE27/job/,False,0.7175,"[{'publisher': 'Jobs | Siemens Digital Industries Software - Siemens', 'apply_link': 'https://jobs.sw.siemens.com/mexico-city-mex/sap-it-applications-analyst/BC4D2CE20D79419B868602F3D26AAE27/job/', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=0d33e98e016ef4b8', 'is_direct': False}, {'publisher': 'Siemens Digital Industries Software Jobs', 'apply_link': 'https://sw-siemens.dejobs.org/mexico-city-mex/sap-it-applications-analyst/E704A1BBEE054FA08EE42DD931B738ED/job/', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18138048-sap-it-applications-analyst/', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/7ba382b60e5808ca2b59b78e48e7bcf7', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-2b779773ddd40067e5c432a2a55403fc', 'is_direct': False}, {'publisher': 'Hispanic Today', 'apply_link': 'https://hispanic-today.com/mexico-city-mex/sap-it-applications-analyst/BC4D2CE20D79419B868602F3D26AAE27/job/', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=804ffa0ee390', 'is_direct': False}]","As an SAP IT Applications Analyst, you will facilitate support of our Global SAP Financial Accounting solutions to enhance business functionality and overall performance, while maintaining a high degree of customer satisfaction. In addition, you will partner with customers to analyze and define requirements. Analysts in this IT support role will implement, customize, test solutions, write documentation and develop specific enhancements to meet business requirements as needed.
+
+Responsibilities:
+• Provide functional and technical support for SAP Accounts Payable, Accounts Receivable, Fixed Asset, Procure to Pay, FSCM, Credit Management & Collections, Travel, and GL systems in the capacity of an IT Analyst.
+• Deliver end-user support utilizing Service Now (help desk) to address IT-related issues.
+• Engage in SAP system configuration and support, including integration design, system enhancement design, issue resolution, and process improvement.
+• Establish and maintain effective support mechanisms for long-term sustainability.
+• Collaborate closely with business stakeholders to comprehend their requirements and goals, ensuring alignment with IT systems.
+• Work in tandem with business and IT representatives to design, implement, and test solutions using SAP standard functionality.
+• Maintain, enhance, and offer upgrade support for SAP FI modules and their integrations based on business requirements
+• Foster knowledge sharing and collaboration with colleagues and teams.
+• Apply critical thinking skills to prepare test and process documentation as required.
+• Desired skill set includes proficiency in documenting business processes and configuration.
+
+Job Qualifications:
+• 2-3 years of hands-on experience in SAP Finance configuration.
+• Bachelor’s degree or equivalent in a technical or relevant business process area (e.g., Accounting) is required. A relevant (e.g., Computer Science, IT, MBA) master’s degree is a plus.
+• Possess advanced accounting skills and a comprehensive understanding of financial processes.
+• Strong analytical skills are a prerequisite for success in this role.
+• In-depth knowledge of SAP Finance solutions, covering end-to-end processes.
+• Expertise in SAP Configuration and Processes, specifically in Accounts Payable, Accounts Receivable, FSCM credit and collections, Fixed Assets, General Ledger, Purchasing, SAP Query, and LSMW.
+• Familiarity with SAP purchasing, Procure to Pay (P2P), and finance implications.
+• Proficient in using SAP LSMW and SAP query tools (e.g., SQVI / SQ01) for creating and editing.
+• Demonstrated strong presentation and English communication skills, with the ability to communicate effectively across all levels of a global organization.
+• Self-motivated analyst with a deep understanding of business processes.
+• Skilled at collaborating with personnel and management at all levels on a global scale.
+• Strong team player, proactive learner, committed to keeping knowledge and skills up to date, and adaptable to working with team members and end users from diverse backgrounds.
+
+Preferred Skills, Education or Experience:
+• Functional and technical expertise in Procure to Pay (P2P) and workflows
+• Proficiency in the MS Office Product Suite.
+• Familiarity with Microsoft Teams collaboration platform.
+• Experience with Worksoft Certify for efficient test automation.
+• Knowledge of qTest for effective test management.
+• Proven experience in supporting SAP user security roles.
+• Background in SAP support for multiple countries on a global instance.
+• Desired skill set includes hands-on experience in documenting business processes and configuration.
+
+Working Conditions/Physical Requirements:
+• Role will be remote with some flexibility in location.
+• Will support discussions in various time zones, so virtual meetings outside of home time zone will be necessary.
+• Travel required to support customer engagements: <10%
+
+Siemens Software. Transform the Everyday
+
+#LI-PLM
+
+#LI-REMOTE
+
+Job Family: Information Technology
+
+Req ID: 404013",False,1707562332,2024-02-10T10:52:12.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=TVrkkC7MYVbEH5rTAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Applications analyst,en,15112100,4,511210,Software Publishers,
+-G_h9zA_q29CiObtAAAAAA==,Remotestar,,,,BeBee México,FULLTIME,Business Systems Analyst,https://mx.bebee.com/job/035d8051901156094ab30224280480ca,False,0.4706,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/035d8051901156094ab30224280480ca', 'is_direct': False}]","RemoteStar is looking to hire a Business System Analyst(Data Modeling, Taxation & Invoicing) for our client in India.
+
+Immediate joiners are preferred
+
+Location: Mumbai – On Site
+
+Travel Requirements: This position is expected to travel approximately 10% of the time
+
+About Client:
+
+It's a Brazil-based leading tech company, specializing in mobile-supported business process automation with a significant presence in the USA, Mexico, the UK, and Europe. Their global footprint is expanding, with projects in over 27 countries and a user base exceeding 100,000. They are expanding their business in Spain and India.
+
+Responsibilities:
+• Work with program managers and customers to analyze and solve business problems.
+• Work on complex and high-impact issues. Understand business objectives and problems, identify alternative solutions, and suggest the best course of action;
+• Determine project requirements by gathering information and studying customers' needs;
+• Share the project requirements with the technical team, following through with its start and implementation;
+• Provide solutions expertise to analyze and identify gaps, participate in solution design, and implement our application to meet business requirements;
+• Support the data integration between our and other systems;
+• Prepare functional and technical specifications and other documents related to the project;
+• Develop reports and analytics.
+
+Requirements:
+
+Must-Have Requirements:
+• 5+ years of relevant experience as a Business/Systems Analyst required;
+• Experience in gathering functional requirements, specifications, and documentation;
+• Data Modeling (ERM)
+• Database (PostgreSQL)
+• Experience in India Tax and Invoicing Solutions: The candidate must have proven experience in designing and implementing solutions that cater to varied tax regulations and invoicing models across the country.
+
+Nice to Have:
+• Knowledge of data integration.
+• Experience in data manipulation through ETL
+• Knowledge in UML
+• Knowledge of markup languages such as HTML and XML
+• Previous experience in software development in object-oriented languages and visual frameworks
+• Full Proficiency in English is mandatory
+• Advanced Spanish and/or Portuguese is a plus
+#J-18808-Ljbffr",False,1712125843,2024-04-03T06:30:43.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=-G_h9zA_q29CiObtAAAAAA%3D%3D,2024-04-11T00:00:00.000Z,1712793600.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Systems analyst,en,15112100,4,,,
+1rmOJ4KNNHnnw6B_AAAAAA==,Tiger Text,https://tigerconnect.com/wp-content/uploads/2018/02/TigerConnect-full-color-tm-logo.svg,http://tigerconnect.com,Information,BeBee México,FULLTIME,IT Business Systems Analyst,https://mx.bebee.com/job/c22b6222b4ca0617afde87fd3b551092,False,0.5582,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/c22b6222b4ca0617afde87fd3b551092', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-9b9dc4dc9f13b4a5115984feb518c156', 'is_direct': False}]","Zurich Capability Center is currently hiring a :
+
+IT Business Systems Analyst
+
+IT Business Systems Analyst (BSA) who can contribute and support a dynamic digital transformation program within the Accident and Health Insurance domain.
+
+As a Technical BSA, the candidate will play a pivotal role in bridging the gap between business needs and technology solutions (implemented on a Low code - No Code platform), ensuring the successful implementation of complex IT initiatives.
+
+Responsibilities :
+
+1. Requirements Gathering and Ana
+• Collaborate with stakeholders to elicit, elaborate and document, and business requirements
+• Analyze and translate business needs into technical specifications, ensuring alignment with Design / Architectural decisions
+• Should be familiar in creating Business process flows, IT / data flow artifacts
+• Experience using design, prototyping tools like Figma, Adobe XD etc.
+
+2. System Design and Architecture :
+
+Work closely with the development and architecture teams to design robust and scalable systems that meet the requirements to support B2P2C, Partner to Consumer products
+
+Provide inputs in shaping the architecture of key integrations and digital solutions.
+
+3. Integration and Interoperability :
+
+Collaborate with cross-functional teams to define and implement integration points
+
+between various systems.
+
+Ensure interoperability and seamless data flow across different components of the program.
+
+4. Testing and Quality Assurance :
+• Support Quality Assurance / Testing teams in reviewing Testing strategy, Test plans and provide support through various testing phases (Sprint, SIT, UAT etc)
+• Collaborate with QA teams to ensure the quality and reliability of developed solutions.
+
+5. Documentation and Communication :
+• Maintain comprehensive documentation of technical specifications, business requirements, data models, and system architecture.
+• Communicate effectively with both technical and non-technical stakeholders, ensuring a clear understanding of project progress and outcomes.
+
+6. Presentation and Demos :
+• Demo features developed incrementally during Sprint Ceremonies - Should possess strong presentation / articulation skills
+• Work with Scrum team and create Power point presentations for Business Demos and other sprint ceremonies
+
+Qualifications :
+• Proven experience as a Technical BSA in large-scale digital transformation programs within the Accident and Health Insurance domain.
+• Strong knowledge of business processes and operations in the insurance industry
+• Experience with system integration and interoperability.
+• Excellent communication and collaboration skills.
+• Familiarity with Agile methodologies.
+
+Certifications :
+
+Relevant certifications in Business Analysis or related field are a plus
+
+Who we are
+
+Looking for a challenging and inspiring work environment where you can make a difference? At Zurich millions of individuals and businesses place their trust in our products and services every day.
+
+Our 53,000 employees worldwide form the basis of our success, enabling, businesses and communities to face a world of risk with confidence.
+
+Imagine if you could help people do this all over the world. You'd give them confidence and reassurance by protecting what they love most.
+
+It's a big challenge, but you will be supported by a world-class team who believe in helping you to reach your full potential and deliver on our promises.
+
+So be challenged. Be inspired. Help us make a difference.
+
+At Zurich we are an equal opportunity employer. We attract and retain the best qualified individuals available, without regard to race / ethnicity, religion, gender, sexual orientation, age, or disability.
+#J-18808-Ljbffr",False,1711634241,2024-03-28T13:57:21.000Z,Naucalpan de Juárez,Méx.,MX,19.473713,-99.233665,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=1rmOJ4KNNHnnw6B_AAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Systems analyst,en,15112100,4,511210,Software Publishers,
+Rh5SXgJ05AGuClmaAAAAAA==,Infosys,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Infosys_logo.svg/1280px-Infosys_logo.svg.png,http://www.infosys.com,Information,Talentify,FULLTIME,Technology Analyst,https://www.talentify.io/job/technology-analyst-mexico-city-monterrey-infosys-115411br,False,0.5122,"[{'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/technology-analyst-mexico-city-monterrey-infosys-115411br', 'is_direct': False}]","Qualifications:
+Experience in developing solutions in and supporting automation, container technologies and back end APIs.
+
+Experience as a Developer / Software Engineer in the following:
+
+• Web Browser Optimization: The ability to select the ""best available"" values of some objective function to improve the functional effectiveness of web browsers.
+• User Interface Design: Knowledge of user interface design. This includes an understanding of how to provide an optimal industrial design experience through User Interface (UI) Design.
+• Back-end Programming Languages: Knowledge of and ability to develop back-end (e.g., Python, Java, C++, PHP) code in support of package and product development. This includes the extension of capabilities of packages and products.
+• API Generation: The ability to develop and utilize Application Program Interfaces (APIs), a set of routines, protocols, and tools for building software applications that specify how software components should interact and are used when programming graphical user interface (GUI) components. An API may be for a web-based system, operating system, database system, computer hardware, or software library.
+• Language Expertise: Expertise in one or more general development languages (e.g., Java, C#, C++)
+• Builder: Experience building and deploying modern services and web applications with quality and scalability
+• Learner: Constant drive to learn new technologies such as Angular, React, Kubernetes, Docker, etc.
+• Required to be able to perform 'On Call Support' on rotational basis.
+• Advanced English Communication
+
+About Us
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+Infosys is an equal opportunity employer and all qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, spouse of protected veteran, or disability.",False,1707723094,2024-02-12T07:31:34.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=Rh5SXgJ05AGuClmaAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Technology analyst,en,15112100,4,518210,"Data Processing, Hosting, and Related Services",
+aoWsUV00K9uy9Y7DAAAAAA==,AutoZone,https://www.autozone.com/images/az-logo-full.svg,https://www.autozone.com,Retail,AutoZone Careers,FULLTIME,Associate Financial Systems Analyst,https://careers.autozone.com/jobs/240001Z4?lang=en-us,True,0.809,"[{'publisher': 'AutoZone Careers', 'apply_link': 'https://careers.autozone.com/jobs/240001Z4?lang=en-us', 'is_direct': True}, {'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/associate-financial-systems-analyst-at-autozone-3875998121', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18330008-associate-financial-systems-analyst/', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=b970b7c62609f95b', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4628892400', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=108409260791997126', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/associate-financial-systems-analyst-chihuahua-chihuahua-autozone-240001z4', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/e2817953440fc1b09d3b1d47070336104', 'is_direct': False}]","SUMMARY:
+
+The primary objective of this role is to support the commercial business by enhancing and implementing automated electronic data transmissions for Commercial customers. This position supports AR/BI functionality by researching issues, documenting processes and working with IT to resolve functional and technical issues. This role also assists users with query and reporting services, enabling them to provide WOW customer service to Commercial customers and achieve financial objectives.
+
+RESPONSIBILITIES:
+• Tracks requests and manages implementations for electronic data transmissions to commercial customers
+• Collaborates with Commercial Credit team to understand requirements and configure transmission set-up in PeopleSoft
+• Participates in customer phone calls when needed to determine requirements and identify potential enhancements needed to meet customer needs
+• Configures and tests new set-ups to insure customer requirements are met
+• Works with Commercial Credit and IT teams to coordinate implementation of EDI810 (Invoice) and EDI820 (Payment Remittance Detail) implementation for commercial customers
+• Ensures requirements are clearly defined and communicated to all involved teams; assists with testing and validation in PeopleSoft
+• Utilize Office365 and other technologies to streamline the end-to-end process
+• Work with IT to research, test and implement enhancements to electronic data transmission functionality that WOW our customers and support sales growth
+
+REQUIREMENTS
+• Bachelor’s degree in Finance, Business, Computer Science or equivalent
+• Minimum 2 years’ experience in business analyst role, IT development or equivalent
+• Knowledge of SQL, SAS and WebFOCUS
+• Bilingual in Spanish & English (verbal & written)
+• Preferred:
+• Experience with Trintech products: ReconNET and Certification
+• Experience writing process design documentation
+• Experience with SharePoint 365",False,1711638206,2024-03-28T15:03:26.000Z,Chihuahua,Chih.,MX,28.643375,-106.05879,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=aoWsUV00K9uy9Y7DAAAAAA%3D%3D,2025-03-28T15:03:26.000Z,1743174206.0,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': True, 'experience_preferred': False}",['UNAVAILABLE'],"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Systems analyst,en,13205100,4,441,Motor Vehicle and Parts Dealers,
+a6lkwqQSF8a8-CvpAAAAAA==,ZF Group,https://upload.wikimedia.org/wikipedia/commons/9/94/ZF_logo_STD_Blue_3CC.svg,http://www.zf.com,Manufacturing,ZF Jobs - ZF Friedrichshafen AG,FULLTIME,IT Analyst I-PrdctnSys(MES),https://jobs.zf.com/job/El-Marqu%C3%A9s-IT-Analyst-I-PrdctnSys%28MES%29-Quer-76246/1052180801/,False,0.8977,"[{'publisher': 'ZF Jobs - ZF Friedrichshafen AG', 'apply_link': 'https://jobs.zf.com/job/El-Marqu%C3%A9s-IT-Analyst-I-PrdctnSys%28MES%29-Quer-76246/1052180801/', 'is_direct': False}]","Req ID 64498 El Marques - El Marqués, Mexico
+
+Company Overview
+
+ZF is a global technology company supplying systems for passenger cars, commercial vehicles and industrial technology, enabling the next generation of mobility. ZF allows vehicles to see, think and act. In the four technology domains of Vehicle Motion Control, Integrated Safety, Automated Driving, and Electric Mobility, ZF offers comprehensive product and software solutions for established vehicle manufacturers and newly emerging transport and mobility service providers. ZF electrifies a wide range of vehicle types. With its products, the company contributes to reducing emissions, protecting the climate and enhancing safe mobility.
+
+Your tasks:
+• Responsible for supporting of MES/SCADA systems, participating in projects related to deploy applications and interconnecting production lines (3rd Shift);
+• Support Tier 1 problems/incidents for Strategic System and MES/SCADA Applications.
+• Change and Release Management responsibility MES/SCADA applications
+• Works close with PLC and Controls Teams to implement MES/SCADA Systems
+• Provide Global MES/SCADA Tier 1 production on time support and ticket resolution within agreed SLAs;
+• Interact closely with IT Launch, Service teams and Business during Strategic MES implementations.
+• Analyses and approval of releases and changes as required by Functional Team
+• Document and implement changes/enhancements/solutions in conjunction with business departments such as production, quality, and maintenance;
+• Be willing to work flexible with other colleagues in the supporting area;
+• Collaborate with internal and external IT professionals on technical issues and developments;
+• Support bar code printers
+
+Your Profile:
+• Bachelor's in Information Technology, Computer Science, or similar technically related field;
+• Desirable professional experience in MES/SCADA;
+• Desirable experience in a IT Integrated manufacturing environment (MES, SCADA, IIoT, etc)
+• Ability to work and communicate effectively with people at all levels of the organization and external partners
+
+What We Offer:
+• Benefits above the law
+• Major Medical Expenses Insurance
+• Global growth opportunities
+• Competitive Wages
+
+Be part of our ZF team as IT Analyst I-PrdctnSys(MES) and apply now!
+
+Contact
+
+Marisol Zambrano
+
+marisol.zambrano@zf.com",False,1710979200,2024-03-21T00:00:00.000Z,,Qro.,MX,20.597834,-100.33027,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=a6lkwqQSF8a8-CvpAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},It analyst,en,15112100,4,336111,Automobile Manufacturing,
+o9q6spmCMbByUqeqAAAAAA==,Zendesk,https://web-assets.zendesk.com/images/part-header/zendesk-logo-amp.png,http://www.zendesk.com,Information,The Muse,FULLTIME,"Sr Business Systems Analyst, Zendesk",https://www.themuse.com/jobs/zendesk/sr-business-systems-analyst-zendesk,True,0.665,"[{'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/zendesk/sr-business-systems-analyst-zendesk', 'is_direct': True}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=f6f24aac041bdc05', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20231229-a2f8f85337f654e0be560147ced51101', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/t6qZ03N4UOr7jYfPqInLD8ynw_SihdPyDfkBe7Rr3OA6Rd7Ljq5kGQ', 'is_direct': False}, {'publisher': 'Job BG', 'apply_link': 'https://www.jobbg.com/jobs/cvs-reliability-/job-search/job-listing/sr-business-systems-analyst,-zendesk?jobid=b7521535f74a1b065c60f26bc', 'is_direct': False}, {'publisher': 'HTML CSS Javascript Jobs', 'apply_link': 'https://htmljobs.info/job/sr-business-systems-analyst-zendesk-mexico-city-zendesk-1e7d153ba6-mexico/', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/267311838', 'is_direct': False}]","Who we're looking for
+
+Zendesk is a service-first CRM company that builds powerful, customizable software designed to improve customer relations. At Zendesk, we encourage growth, innovation and believe in giving back to the communities we call home!
+
+We are looking for a hands-on, techno-functional Technical Lead that thrives in a multi-project, fast-paced, and lively environment. As a Technical Lead , you will be responsible for optimizing and automating the internal implementation of Zendesk, by partnering with business system analysts, functional leaders, and Zendesk agents.
+
+In this role, you will strive to scale our systems, while focusing on globally consistent and automated solutions to increase efficiency and improve the employee experience!
+
+What you'll be doing
+• Configure, develop, and deploy custom solutions using Zendesk APIs, SDKs, and developer tools
+• Manage technical activities related to application operations, migrations, and upgrades, ensuring timely and accurate execution.
+• Troubleshoot system pain points and provide effective solutions within established timeframes.
+• Create procedures and scripts for monitoring and automating manual processes.
+• Maintain up-to-date system documentation for configuration and troubleshooting known issues.
+• Ensure the technical health of the Zendesk product on an ongoing basis.
+• Keep a centralized record of Zendesk enhancements and releases, and maintain subject matter expertise in the product.
+• Provide guidance on how to maximize our implementations and stay updated on the latest features.
+• Act as an escalation point for departmental and business technical issues
+
+What you bring to the role
+• 5+ years of hands-on technical experience with analyzing, designing, and supporting Zendesk implementations
+• Experienced Zendesk Administrator with deep product knowledge
+• Recommend, manage, and perform advanced Zendesk configurations
+• Familiar with Zendesk APIs and can design new automations and integrations
+• Experience with HTML, JSON, JavaScript, CSS, and RESTful APIs is expected, but server side experience with Java, Ruby, or another modern language is also great
+• You have a strong understanding of other related technologies (Curley Bars, Javascript, REST APIs, HTML, etc)
+• Experience with Product Development Lifecycle and DevOps Tools like GIT, and JIRA
+• Experience using BI Tools (ex. Tableau) and integrating with data warehouses (ex. BigQuery, Snowflake)
+• Good verbal and written communication skills, with the ability to work with both technical and non-technical stakeholders.
+• Confident and able to multi-task and manage expectations in a fast-paced environment with competing priorities.
+• Passionate about process optimization and system implementations
+
+Where We Work:
+
+Hybrid:
+
+Being digital first doesnt mean were digital only. In this role, our hybrid experience is designed at the team level to give you a rich onsite experience packed with connection, collaboration, learning, and celebration - while also giving you flexibility to work remotely for part of the week. This role must attend our Mexico City office on a weekly basis for part of the week. The specific in-office schedule is to be determined by the hiring manager.
+
+#LI-WO1
+
+Please note that anyone hired into this position must be physically located in and plan to work from Mexico City (CDMX) or Mexico State (Estado de Mexico).
+
+Zendesk software was built to bring a sense of calm to the chaotic world of customer service. Today we power billions of conversations with brands you know and love.
+
+Zendesk believes in offering our people a fulfilling and inclusive experience. Our hybrid way of working, enables us to purposefully come together in person, at one of our many Zendesk offices around the world, to connect, collaborate and learn whilst also giving our people the flexibility to work remotely for part of the week.
+
+Hybrid: In this role, our hybrid experience is designed at the team level to give you a rich onsite experience packed with connection, collaboration, learning, and celebration - while also giving you flexibility to work remotely for part of the week. This role must attend our local office for part of the week. The specific in-office schedule is to be determined by the hiring manager.
+
+The intelligent heart of customer experience
+Zendesk software was built to bring a sense of calm to the chaotic world of customer service. Today we power billions of conversations with brands you know and love. We advocate for digital first customer experiences-and we stick with it in our workplace. Over 5,000 employees worldwide are collaborating from kitchen tables, home offices, coworking spaces, and Zendesk workspaces to make one team.
+
+Zendesk is an equal opportunity employer, and were proud of our ongoing efforts to foster global diversity, equity, & inclusion in the workplace. Individuals seeking employment and employees at Zendesk are considered without regard to race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, disability, military or veteran status, or any other characteristic protected by applicable law. We are an AA/EEO/Veterans/Disabled employer. If you are based in the United States and would like more information about your EEO rights under the law, please click here.
+
+Zendesk endeavors to make reasonable accommodations for applicants with disabilities and disabled veterans pursuant to applicable federal and state law. If you are an individual with a disability and require a reasonable accommodation to submit this application, complete any pre-employment testing, or otherwise participate in the employee selection process, please send an e-mail to peopleandplaces@zendesk.com with your specific accommodation request.",False,1698448156,2023-10-27T23:09:16.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=o9q6spmCMbByUqeqAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Systems analyst,en,15112100,4,511210,Software Publishers,
+ENXFeCPb49-pABDlAAAAAA==,10000364 - HR Info Systems Business Senior Analyst,,,,AstraZeneca Careers,FULLTIME,T&D Business Analyst - Learning Systems,https://careers.astrazeneca.com/job/zapopan/t-and-d-business-analyst-learning-systems/7684/62949731584,False,0.7937,"[{'publisher': 'AstraZeneca Careers', 'apply_link': 'https://careers.astrazeneca.com/job/zapopan/t-and-d-business-analyst-learning-systems/7684/62949731584', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/t-d-business-analyst-learning-systems-at-astrazeneca-3867933498', 'is_direct': False}, {'publisher': 'Jobba På AstraZeneca', 'apply_link': 'https://job-search.astrazeneca.se/jobb/zapopan/t-and-d-business-analyst-learning-systems/21384/62951589936', 'is_direct': False}]","Introduction to role:
+Join AstraZeneca, a science-led, patient-focused global pharmaceutical business committed to transforming the lives of patients with improved outcomes and a better quality of life. We are growing our Operations and Technology Solutions team, a key part of our global Talent & Development function. This is an exciting time to join Talent & Development as we are on a transformational journey building a culture of lifelong learning.
+
+Accountabilities:
+As a T&D Business Analyst, you will play a crucial role in identifying, analyzing, and optimizing talent & development systems and processes. Your primary role will be to support the release management process for our cloud-based global talent & development platforms. You will be a key driver in evaluating existing T&D systems, recommending improvements, implementing new technologies to support our global learning initiatives, and working with business stakeholders to determine the deployment of new functionality and impacts on end users.
+
+Essential Skills/Experience:
+- Bachelor’s degree or equivalent experience
+- Expert business analyst with extensive experience with HR technology implementations (> 5 years)
+- Proficiency in business analysis methodologies, tools, and techniques to optimally drive projects from inception to implementation
+- Superb communication and interpersonal skills to effectively engage and collaborate with collaborators at all levels in the organization
+- Strong analytical and problem-solving skills, to translate sophisticated requirements into practical solutions
+- Meticulous mentality with a focus on accuracy and quality in all work
+- Strong documentation skills with the ability to produce clear and concise requirement specifications, user stories and process flows
+- Effective time management skills – to work across multiple projects concurrently
+
+Desirable Skills/Experience:
+- Experience with HRIS systems/platforms (i.e. Workday)
+- Robotic / process automation experience
+- Experience with working with agile methodologies
+
+When we put unexpected teams in the same room, we ignite ambitious thinking with the power to encourage life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That’s why we work, on average, a minimum of three days per week from the office. But that doesn't mean we’re not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our outstanding and ambitious world.
+
+Why AstraZeneca?
+Join a versatile distributed team that's powering AstraZeneca to better serve patients, every day. We're here to help unlock the power of what science can do and ultimately have a huge impact on patients' lives. With countless opportunities available, this is the place to build an outstanding reputation. And, as you take your career in new directions and to even greater heights you'll be rewarded for your successes.
+
+Ready to delve into intellectually stimulating work? Have the opportunity to be involved in a great variety of technically challenging, exciting and com-sophisticated. It keeps us engaged every day and makes our contributions feel valuable.
+
+Apply now and join us in redefining the future of healthcare!
+
+   Positions are open to Mexican Citizens and official residents of Mexico.
+   Location: Guadalajara (hybrid)
+  Strong English communication skills required.
+
+   Please submit your resume on english
+
+AstraZeneca embraces diversity and equality of opportunity. We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills. We believe that the more inclusive we are, the better our work will be. We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics. We comply with all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.",False,1711065600,2024-03-22T00:00:00.000Z,Zapopan,Jal.,MX,20.671957,-103.416504,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=ENXFeCPb49-pABDlAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Business analyst,en,13111100,5,,,
+4wAhQadWKU6UR0BTAAAAAA==,Sanmina,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sanmina_Corporation_logo.svg/1200px-Sanmina_Corporation_logo.svg.png,http://www.sanmina.com,Manufacturing,Ominee,FULLTIME,Analyst,https://ominee.com/en/job-ad/post/65c15e6e829ae721368de167/analyst_job,True,0.4691,"[{'publisher': 'Ominee', 'apply_link': 'https://ominee.com/en/job-ad/post/65c15e6e829ae721368de167/analyst_job', 'is_direct': True}]","Job DescriptionBusiness Systems Analyst 3EducationBachelor's degree in Computer Science or related careerExperienceAt least 5 years as an IT engineer, IT supervisor or MES administrator.KnowledgeAdvanced English, Knowledge of MES systems, Flowcharts, Process Mapping, Project management life cycle methodology, SQL, postgress, ZPL language, Business Intelligence Experience, Gantt charts, timelines.Skills / CompetenciesExcellent communication, technical, problem-solving, organizational and project management skills.Ability to handle details while maintaining a general focus.Ability to handle multiple priorities in a fast-paced environment.Demonstrated leadership and management skills. Ability to administer policies equitably. Expert in employee relations, including performance management, employee motivation and hiring & Shooting. Excellent security record.Strong administrative, budgeting and record keeping skills.Proactive personManufacturing skills desired.Follow configuration management documentation, policies, and procedures.Responsibilities/ActivitiesThis function will be responsible for providing analytical support to project management for a number of projects in one or more IT portfolios within the IT Global Business Services team. Projects will vary in size and complexity. and will focus on specific business areas or functions. Some will involve changes to IT and business processes. aspects. Projects can target productivity improvement, cost reduction, reduction in total cost of ownership (through improved system architecture) and/or improved compliance. Carry out analysis of business processes, needs preliminary cost/benefit assessments and analyzes in an effort to align information technology solutions with business initiatives.",False,1707091200,2024-02-05T00:00:00.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=4wAhQadWKU6UR0BTAAAAAA%3D%3D,2024-04-07T00:00:00.000Z,1712448000.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}","['Size (clothes)', 'Gantt chart', 'Cost', 'Business Systems', 'Business Services', 'FOCUS (programming language)', 'Performance', 'Number', 'Details', 'Business', 'Regulatory compliance', 'Document', 'Business process', 'Configuration management', 'Transcription (music)', 'Language', 'Security', 'Manufacturing execution system', 'Performance management', 'Fringe benefits', 'Fast', 'Computer', 'Information technology', 'Communication', 'Computer science', 'Industrial relations', 'Management', 'Teamwork', 'Communication skills', 'Cost saving', 'Flowchart', 'Systems Architecture', 'Budget', 'Project Management', 'Motivation', 'Improvement', 'Accountability', 'Leadership', 'English', 'Business Intelligence (BI)', 'Structured Query Language (SQL)', 'ZPL']","{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15203100,5,334412,Bare Printed Circuit Board Manufacturing,
+1eNsgPZIdD759lshAAAAAA==,BorgWarner,https://mma.prnewswire.com/media/1020093/BorgWarner_new_Logo.jpg?p=facebook,http://www.borgwarner.com,Manufacturing,LinkedIn,FULLTIME,Systems Analyst SAP / FICO,https://mx.linkedin.com/jobs/view/systems-analyst-sap-fico-at-borgwarner-3671802207,False,0.8005,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/systems-analyst-sap-fico-at-borgwarner-3671802207', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=85b193475322a62c', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/84cf96b32358da8619f13f51dc36b5f5', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=137280187722015430', 'is_direct': False}, {'publisher': 'Military Spouse Connection Jobs', 'apply_link': 'https://militaryspouseconnection.dejobs.org/san-luis-potos%C3%AD-mex/systems-analyst-sap-fico/77751B8A197B41B38073104835E0CD0E/job/?vs=28', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-02fce01fa9b423b18d4703c4e4e82ce3', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/systems-analyst-sap-fico-san-luis-potosi-san-luis-potosi-borgwarner-r2022-6250', 'is_direct': False}, {'publisher': 'Diverse Job Seeker', 'apply_link': 'https://diversejobseeker.com/san-luis-potosi-mex/systems-analyst-sap-fico/77751B8A197B41B38073104835E0CD0E/job/', 'is_direct': False}]","BorgWarner is a global product leader in powertrain solutions. We focus on developing leading powertrain Technologies that improve fuel economy, emissions and performance. Our facilities are located across the globe to provide local support for our diverse customer base.
+
+We operate in two groups The Engine Group develops air management strategies and products to optimize engines for fuel efficiency, reduced emissions and enhanced performance. BorgWarner’s expertise includes engine timing systems, boosting systems, ignition systems, air and noise management, cooling and controls. The Drivetrain Group harnesses a legacy of more than 100 years as an industry innovator in transmission and all-wheel drive technology. The group leverages this understanding of powertrain clutching technology to develop interactive control systems and strategies for all types of torque management.
+
+BorgWarner PowerDrive Systems is currently looking for “dynamic, results driven” individual to join as a System Analyst SAP / FICO at our PDS SLP Plant in Mexico.
+
+In this role, and under direct supervision of the Sr. Manager, IT; the System Analyst SAP / FICO will be primarily responsible for the SAP Functional Analyst for the FICO modules will provide knowledge and expertise in the SAP ERP environment in multiple functional areas with a FICO focus. This person is responsible for managing multiple and simultaneous projects from conception to completion. Responsibilities include planning and coordinating activities to meet SLP business requirements and project completion dates. This person will also provide continuous improvement coaching in multiple modules, but especially the Financial Accounting and Controlling modules of SAP. This role may also deliver hands-on support in the areas of data manipulation, migration, validation and analysis.
+
+Key Accountabilities
+
+Activities include championing the use of common concepts, standards, procedures and best practices within SAP. A successful candidate must be able to work well with end users to provide system support, while sharing knowledge and understanding. This person needs to have the ability to gather business requirements and convert them into development design/programming specifications. This role needs to be able to work independently while gathering requirements, performing functional testing, and, creating documentation, and conducting end user training. This person should also be experienced in SAP customizing/configuration and able to work modifications through the SAP landscape in alignment with the BorgWarner core team. This person will work towards continuous improvement in processes and end-user skill levels, diligently pursuing enhancements to ensure the system is being used properly and fully to meet the business needs.
+
+The SAP Functional Analyst will be responsible for establishing and maintaining positive business relationships throughout the business community, consistently adding value back to the business by leveraging their knowledge and experience to manage multiple projects. This person will work with both internal or external design/implementation teams and work cross-functionally between the business and IT to bridge gap between design, content and technology. They will also work with a distributed team to provide this support across North America, focusing on the 2 PDS plants in Mexico. Travel will be required up to 5% of their time.
+
+Qualifications
+
+Schooling Bachelor’s degree in Computer Science, MIS, other related technical degree, Accounting, or Finance; MBA a plus
+
+Experience time in similar position 5+ years of SAP experience in multiple modules; especially FICO
+
+Technical Knowledge Required
+• Strong knowledge and understanding of Information Technology systems and software development
+• Strong business analysis, definition, and design skills
+• Understanding of both US GAAP and Mexican Government financial reporting requirements (examples Mexican Licensed Manufacturer, Maquiladora setups)
+• Ability and desire to solve complex process/software functional problems
+• Proven ability to successfully analyze and formulate technical solutions to business problems
+• Strong customer management skills and ability to understand translate and define complex business requirements
+• Ability to provide IT solutions that meet the business needs while staying within budget and often rapid timeframes
+• Attention to detail and ability to quickly learn new technologies and tools
+• Qualified candidates should possess a strong understanding of project management
+• Results oriented with strong problem solving and analytical skills
+• Excellent interpersonal, oral and written communication skills
+• Ability to establish and maintain effective working relationships with others, work harmoniously and effectively as part of a team
+• Ability to work directly with middle to senior management as well as employees at all levels throughout the organization
+• Ability to work in a fast-paced and dynamic environment
+• Ability to respond with a sense of urgency to meet deadlines
+• Ability to work with minimal supervision
+• Ability to prioritize multiple projects, work under tight deadlines, and handle changing priorities
+
+POSITION COMPETENCIES
+
+Customer Focus
+
+Organizational Agility
+
+Dealing with Ambiguity
+
+Informing
+
+Drive for Results
+
+Interpersonal Savvy
+
+Process Management
+
+Priority Setting
+
+Functional/Technical Skills
+
+Creativity
+
+SAFETY
+
+This position will adhere to the Safety Program, including safety rules, practices and training as outlined in the BorgWarner SLP Safety Policy Manual, which includes the use of equipment, protective devices, or clothing that the employer requires. This individual will work in manners that stress the importance of preventing accidents and illnesses. He/she must take every precaution reasonable in the given circumstance for the protection of themselves and co-workers. In addition, he/she is responsible for reporting all injuries and/or possible dangerous situations, incidents, or occurrences to the immediate supervisor.
+• Disclaimer statement Career Scam Disclaimer BorgWarner makes no representations or guarantees regarding employment opportunities listed on any third-party website. To protect against career scams, job applicants should take the necessary precautions when interviewing for and accepting employment positions allegedly offered by BorgWarner. Applicants should never provide their Social Security numbers, birth dates, credit card numbers, bank account information or other private information when communicating with prospective employers or responding to employment opportunities online. Job applicants are invited to contact BorgWarner through BorgWarner’s website to verify the authenticity of any employment opportunities.
+
+Internal Use Only Salary
+
+Global Terms of Use and Privacy Statement
+
+Carefully read the BorgWarner Privacy Policy before using this website. Your ability to access and use this website and apply for a job at BorgWarner are conditioned on your acceptance and compliance with these terms.
+
+Please access the linked document by clicking here, select the geographical area where you are applying for employment, and review. Before submitting your application you will be asked to confirm your agreement with the terms.
+
+Career Scam Disclaimer BorgWarner makes no representations or guarantees regarding employment opportunities listed on any third-party website. To protect against career scams, job applicants should take the necessary precautions when interviewing for and accepting employment positions allegedly offered by BorgWarner. Applicants should never provide their national ID numbers, birth dates, credit card numbers, bank account information or other private information when communicating with prospective employers or responding to employment opportunities online. Job applicants are invited to contact BorgWarner through BorgWarner’s website to verify the authenticity of any employment opportunities.",False,1710668693,2024-03-17T09:44:53.000Z,San Luis Potosí,S.L.P.,MX,22.15209,-100.973305,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=1eNsgPZIdD759lshAAAAAA%3D%3D,2024-07-30T21:47:02.000Z,1722376022.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,336111,Automobile Manufacturing,
+fW4iSa0QpUKzEDzgAAAAAA==,Oracle,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png,http://www.oracle.com,Information,Eeho.fa.us2.Oraclecloud.com,FULLTIME,Principal Technical Analyst,https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/228608?utm_medium=search+engine&utm_source=google,False,0.7197,"[{'publisher': 'Eeho.fa.us2.Oraclecloud.com', 'apply_link': 'https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/228608?utm_medium=search+engine&utm_source=google', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=ec27861e4c4f3609', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/technical-analyst-4-support-oracle-JV_IC3487018_KO0,27_KE28,34.htm?jl=1009137822901', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/technical-analyst-4-support-oracle-JV_IC3487018_KO0,27_KE28,34.htm?jl=1009137822901', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20240313-82b0091e6fd31d5dc17e8b320dac06a2', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/hn2vnpFOg-lY4hvq-nnymImFzTXgzOtvv2A7I3K8e9ipQTS1qN5HkQ', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240324-af5c836a9cce866ae1567db8858dc968', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/principal-technical-analyst-zapopan-oracle-d0a0f96ad0/', 'is_direct': False}]","Experience in the accounting lifecycle with knowledge of common enterprise structures setup, transaction processing, financial reporting, interfaces, period close processes and activities, knowledge of Oracle Hyperion Essbase Cube, Smart View and Financial Reporting Workspace are highly desired. Support or Consulting experience with Oracle Financials or other ERP Financial solution is preferred.
+
+Responsible for providing excellence in customer service support, track-incidence, diagnosis, replication, troubleshooting, and resolution of complicated and critical cases. The focus of this position is to provide Customer Service on a technical and functional level and to ultimately drive complete resolution of each service incident.
+
+Candidate Profile:
+• Provides outstanding customer service
+• Ability to handle difficult or sensitive situations with diplomacy and tact
+• Very good verbal and written communication skills.
+• Bilingual in English and Spanish
+
+Desired Technical Skills:
+
+Applied Technologies - knowledge / experience in one or more of:
+• ERP Applications – General Ledger, Account Receivables, Account Payables, Fixed Assets, Subledger Accounting, Tax (Fusion, Oracle EBS, PeopleSoft or JD Edwards Application)
+• OBIEE, OBIA, BI Publisher, OTBI
+• Oracle (Hyperion) Essbase or Financial Reporting
+
+Foundational Technologies - knowledge / experience in one or more of:
+• Application Server Architecture (WebLogic Server)
+• Java
+• XML
+• SQL
+• PL/SQL
+
+Analytical Skills:
+• Ready to perform in an ever changing environment with a can-do attitude
+• Must have well-developed troubleshooting skills and preferably a support background
+• Ability to analyze details, log/trace files, work with incomplete or ambiguous data to fix issues
+• Ability to test/replicate the issue in labs and provide adequate support to customers
+
+Top 4 skills in the ideal candidate:
+• Troubleshooting experience (Detail Oriented Mindset)
+• Experience with an Enterprise Resource Planning (ERP) Application
+• Java experience (SOA connections / web services / web applications)
+• Excellent communication skills
+
+Shift hours will be based on business requirements. The job may require the flexibility to work beyond standard business hours, to include weekends and holidays, as required. Base shift hours may change over time.
+
+Detailed Description and Job Requirement:
+
+As a member of the Support organization, your focus is to deliver post-sales support and solutions to the Oracle customer base while serving as an advocate for customer needs. This involves resolving post-sales non-technical customer inquiries via phone and electronic means, as well as, technical questions regarding the use of and troubleshooting for our Electronic Support Services.
+
+A primary point of contact for customers, you are responsible for facilitating customer relationships with Support and providing advice and assistance to internal Oracle employees on diverse customer situations and escalated issues.
+
+As a Principal Support Engineer, you will offer strategic technical support to assure the highest level of customer satisfaction. A primary focus is to create/utilize automated technology and instrumentation to diagnose, document, and resolve/avoid customer issues. You are expected to be an expert member of the technical problem solving/problem avoidance team, routinely sought after to address extremely complex, critical customer issues. You will be the technical interface to customers for resolution of problems related to the installation, recommended maintenance and use of Oracle products. Have an understanding of all Oracle products in their competencies and in-depth knowledge of several products and/or platforms. Also, you should be highly experienced in multiple platforms and be able to complete assigned duties with minimal direction from management. In this position, you will routinely act independently while researching and developing solutions to customer issues. Job duties are varied and complex utilizing independent judgment. May have project lead role.
+
+7 years of experience with Core products or eight years of experience with Applications products, and have a technical degree i.e., BS Computer Science/Management Information Systems/Science/ Engineering/Math/Physics/Chemistry with a 3.0 GPA OR (for Applications) proven professional/ technical experience, i.e., demonstrating an understanding of Applications at a functional and technical level (preferably Oracle)",False,1708532005,2024-02-21T16:13:25.000Z,Zapopan,Jal.,MX,20.671957,-103.416504,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=fW4iSa0QpUKzEDzgAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 84, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},Technical analyst,en,15112100,4,511210,Software Publishers,
+UIC1Xc9kYhoVL5FbAAAAAA==,Luxoft,https://www.luxoft.com/theme/luxoft/assets/images/logo/luxoft-new-white.svg,http://www.luxoft.com,Computer Services,BeBee México,FULLTIME,Senior System Analyst,https://mx.bebee.com/job/f58521577de7e807addd054ed3c1b750,False,0.5448,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/f58521577de7e807addd054ed3c1b750', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=67337e6b208e', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/senior-system-analyst-mexico-city-luxoft-67337e6b20/', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-fa2afc95f4a98f572922078142201e98', 'is_direct': False}]","Location
+
+Remote Mexico
+
+Office Address
+
+Project Description
+
+An international Investment Bank is enhancing its IT systems by introducing new technology and integrating with new third-party providers. Several projects will take place in the coming years, focusing on Trading, Market data, and Risk Management.
+
+Responsibilities
+
+Architectural responsibilities to assist in designing comprehensive systems
+- Delving into complex system infrastructure
+- Actively working with vendors to clearly document their specifications and articulate them to the development teams
+- Requirement gathering, system analysis, functional and technical specifications development
+- Partnering with business teams to clearly document requirements and workflows for new developments
+- Helping write JIRA stories for the workstreams as needed
+- Developing and maintaining strong relationships with stakeholders in the business
+- Working with the development teams to ensure business needs are met
+
+Skills
+
+Must have
+
+5+ years of Proven Experience in System Analysis
+Engineering/technical background
+Comprehensive understanding of System Design
+Architectural knowledge to assist in designing comprehensive systems
+Strong Knowledge of SDLC
+Extensive hands-on experience with Distributed Systems
+Proficiency in gathering, analyzing, and translating user needs into Functional Specifications.
+Expertise in Data Exchange Methods: REST, GraphQL, WebSockets, gRPC, queues, and other integration mechanisms.
+Comprehensive Understanding of Data Formats: JSON, XML, YAML, CSV, and others
+In-depth Knowledge of Data Serialization Challenges
+Hands-on Experience with SQL
+Proficiency in Visualization Tools: Visio, , or similar software to create comprehensive system diagrams and process flows.
+Experience with Agile, Waterfall, and hybrid approaches
+
+Nice to have
+
+Experience in the Capital Markets field
+Engineering background
+Linux knowledge
+Experience with CI/CD tools: Jenkins, TeamCity, etc.
+Familiarity with Job Schedules: AutoSys, Tidal, etc.
+Experience with Distributed cache
+
+Languages
+
+English: C1 Advanced
+
+Seniority
+
+Senior",False,1711935003,2024-04-01T01:30:03.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=UIC1Xc9kYhoVL5FbAAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,541512,Computer Systems Design Services,
+v2mApokvWj4_-Db7AAAAAA==,ChildFund International,https://149730534.v2.pressablecdn.com/wp-content/uploads/2022/03/CFI_black-green.png,http://www.childfund.org,"Professional, Scientific, and Technical Services",Salesforce,FULLTIME,"Analyst I, IT Support, GSS",https://weconnectchildfund.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN1140,False,0.5633,"[{'publisher': 'Salesforce', 'apply_link': 'https://weconnectchildfund.my.salesforce-sites.com/careers/fRecruit__ApplyJob?vacancyNo=VN1140', 'is_direct': False}]",This is a generic vacancy template.,False,1634774400,2021-10-21T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=v2mApokvWj4_-Db7AAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Analyst,en,15115100,3,541,"Professional, Scientific, and Technical Services",
+0GO1QCOdJgiCu_14AAAAAA==,Flextronics - The Flex Company,https://flex.com/sites/all/themes/flextronics/logo.png,http://www.flex.com,Manufacturing,BeBee México,FULLTIME,business system analyst,https://mx.bebee.com/job/90fc38b325cb8f44120793a90a9d3598,False,0.5624,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/90fc38b325cb8f44120793a90a9d3598', 'is_direct': False}]","• We may use pixel tags or scripts supplied by various job boards to track when you navigate to our website from a job board and submit a job application.Flex uses this information on an anonymous basis, this helps us understand the efficiency of our recruiting campaigns. Further information on these pixel tags or scripts may be provided by the job board site you have used.
+The page you are looking for doesn't exist.
+#J-18808-Ljbffr",False,1711937832,2024-04-01T02:17:12.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=0GO1QCOdJgiCu_14AAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,334412,Bare Printed Circuit Board Manufacturing,
+IPw1eiJxLtoUpOOpAAAAAA==,AutoZone,https://www.autozone.com/images/az-logo-full.svg,https://www.autozone.com,Retail,Glassdoor,FULLTIME,Associate Financial Systems Analyst,"https://www.glassdoor.com.mx/job-listing/associate-financial-systems-analyst-autozone-JV_KO0,35_KE36,44.htm?jl=1009211234228",False,0.5794,"[{'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/associate-financial-systems-analyst-autozone-JV_KO0,35_KE36,44.htm?jl=1009211234228', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18324096-associate-financial-systems-analyst/', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/92063793/okj-755-finance-systems-associate-chihuahua/', 'is_direct': False}]","SUMMARY:
+
+The primary objective of this role is to support the commercial business by enhancing and implementing automated electronic data transmissions for Commercial customers. This position supports AR/BI functionality by researching issues, documenting processes and working with IT to resolve functional and technical issues. This role also assists users with query and reporting services, enabling them to provide WOW customer service to Commercial customers and achieve financial objectives.
+
+RESPONSIBILITIES:
+• Tracks requests and manages implementations for electronic data transmissions to commercial customers
+• Collaborates with Commercial Credit team to understand requirements and configure transmission set-up in PeopleSoft
+• Participates in customer phone calls when needed to determine requirements and identify potential enhancements needed to meet customer needs
+• Configures and tests new set-ups to insure customer requirements are met
+• Works with Commercial Credit and IT teams to coordinate implementation of EDI810 (Invoice) and EDI820 (Payment Remittance Detail) implementation for commercial customers
+• Ensures requirements are clearly defined and communicated to all involved teams; assists with testing and validation in PeopleSoft
+• Utilize Office365 and other technologies to streamline the end-to-end process
+• Work with IT to research, test and implement enhancements to electronic data transmission functionality that WOW our customers and support sales growth
+
+REQUIREMENTS
+• Bachelor’s degree in Finance, Business, Computer Science or equivalent
+• Minimum 2 years’ experience in business analyst role, IT development or equivalent
+• Knowledge of SQL, SAS and WebFOCUS
+• Bilingual in Spanish & English (verbal & written)
+• Preferred:
+• Experience with Trintech products: ReconNET and Certification
+• Experience writing process design documentation
+• Experience with SharePoint 365",False,1711670400,2024-03-29T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=IPw1eiJxLtoUpOOpAAAAAA%3D%3D,2024-07-27T00:00:00.000Z,1722038400.0,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},,en,13205100,4,441,Motor Vehicle and Parts Dealers,
+sWpk378rQdVWTj_hAAAAAA==,AFL,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy6PGr-6sUbKgtpFc6ofOezXrclninGSyxQvKM&s=0,,,LinkedIn,FULLTIME,SR. System Analyst,https://mx.linkedin.com/jobs/view/sr-system-analyst-at-afl-3829125947,False,0.6872,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/sr-system-analyst-at-afl-3829125947', 'is_direct': False}]","• Direct the requirements development for applying technology to satisfy business needs.
+• Elicit requirements using interviews, document analysis, requirements workshops, surveys, site visits, business process descriptions, use cases, scenarios, business analysis, tasks and workflow analysis. Analyze and prioritize requirements
+• Develop, maintain and perform processes to continuously monitor data quality and integrity in AFL’s systems
+• Document changes to the design/setup for AFL’s systems.
+• Train end users with new features; develop working instructions to ensure that new releases are implemented correctly.
+• Provide support for day-to-day activities for end users
+• 4 year undergraduate degree in Information Sciences, Computer Science, Software Engineering or significant relevant experience required
+• Very good English oral and written communication skills required",False,1711558034,2024-03-27T16:47:14.000Z,Ciudad Apodaca,N.L.,MX,25.776468,-100.185875,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=sWpk378rQdVWTj_hAAAAAA%3D%3D,2024-05-16T17:05:00.000Z,1715879100.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,,,
+iU0F7CT49Ih5OCPCAAAAAA==,Franke Group,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Franke_logo.svg/1280px-Franke_logo.svg.png,http://www.franke.com,Manufacturing,GrabJobs,FULLTIME,Business Systems Analyst I,https://grabjobs.co/mexico/job/full-time/food-beverage/business-systems-analyst-i-43991205,True,0.4639,"[{'publisher': 'GrabJobs', 'apply_link': 'https://grabjobs.co/mexico/job/full-time/food-beverage/business-systems-analyst-i-43991205', 'is_direct': True}]","About Franke
+
+We, the Franke company with its three divisions, are a world's leading supplier of products and services for domestic kitchens, the professional foodservice systems and the convenience store sector as well as for professional coffee making. With around 60 companies, we are at home on five continents. Over 8,000 employees constantly take on new perspectives to identify opportunities and turn them into inspiring, innovative solutions for tomorrow’s demands.
+
+The Franke Foodservice Systems division is a world-leading supplier of kitchen facilities, equipment and supplies solutions. As a full system manufacturer, distributor and program management partner, we supply global chains in the quick-service restaurant, convenience store and supermarket segments, helping to manage unit growth and upgrade their facilities.
+
+About the job
+
+Reviews, analyzes, and evaluates IT business systems and business requirements. Writes detailed description of requirements, program functions, and steps required to develop or modify computer programs. Tests and coordinates testing of changed computer programs. Coordinates implementation of new functionality. Provides secondary support for business software. Familiar with relational database concepts, and client-server concepts. Manages medium sized IT system projects.
+
+Your tasks
+
+Acts as Project Manager for medium sized IT system projects.
+• Designs new system functionality through collaboration with the development team
+• Assists business partners in implementing new functionality.
+• Consults with users and gathers, analyzes and prioritizes their problems and requirements.
+• Analyze requests and develop system requirements from workflow charts or diagrams to support business processes.
+• Consults with managerial and systems analysis personnel to clarify program intent, identify problems, suggest changes, and determine extent of programming and coding required.
+• Manages system requirements including prioritization and coordination with representatives from other business units.
+• Tests computer software, tracks bugs and coordinates end user testing.
+• Compiles documentation of program development and subsequent revisions.
+• Coordinates version control and Release Notice communications with users.
+
+Requirements
+
+Bachelor’s Degree in relevant field.
+
+Minimum four years’ prior related work experience and/or training.
+
+Or equivalent combination of education and experience.
+
+Business English Advanced Level
+
+What we offer you
+
+Competitive salary and Comprehensive benefits
+
+Contact details
+
+Original job Business Systems Analyst I posted on GrabJobs ©. To flag any issues with this job please use the Report Job button on GrabJobs.",False,1711703058,2024-03-29T09:04:18.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=iU0F7CT49Ih5OCPCAAAAAA%3D%3D,2024-04-29T09:04:18.000Z,1714381458.0,"{'no_experience_required': False, 'required_experience_in_months': 48, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,333911,Pump and Pumping Equipment Manufacturing,['Food & Beverage Executive']
+VoQ05MRJ0-IE_1PBAAAAAA==,Dana Canada Corp.,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0,,,"Trabajo.org - Vacantes De Empleo, Trabajo",FULLTIME,IT Business Analyst Escobedo,https://mx.trabajo.org/oferta-1270-0f2ddbdb1b76c8bdce7a071a633ab704,False,0.5277,"[{'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-0f2ddbdb1b76c8bdce7a071a633ab704', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/4664537820310767873', 'is_direct': False}]","Select how often (in days) to receive an alert:
+
+Job Description Content for Job Profiles is a work in progress. If you need content to finalize this requisition for posting, please send a message to mydanahrplatform@dana.com.
+Job Duties and Responsibilities
+
+Job Description Content for Job Profiles is a work in progress. If you need content to finalize this requisition for posting, please send a message to mydanahrplatform@dana.com.
+
+Join our team of 40,000 problem solvers who are fostering a culture of innovation by leveraging the diverse perspectives of our global team. We believe in facing challenges head-on by finding opportunity and uncovering possibility, where roadblocks and barriers become targets instead of obstacles. We are One Dana with limitless opportunity.
+#J-18808-Ljbffr",False,1711600828,2024-03-28T04:40:28.000Z,Monterrey,N.L.,MX,25.686615,-100.31612,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=VoQ05MRJ0-IE_1PBAAAAAA%3D%3D,2024-04-04T00:00:00.000Z,1712188800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,13111100,5,,,
+2m1xxBaPicyG8ksEAAAAAA==,Beiersdorf,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Beiersdorf_Logo.svg/1280px-Beiersdorf_Logo.svg.png,http://www.beiersdorf.com,Toiletries,BeBee México,FULLTIME,IT EDI Business Analyst,https://mx.bebee.com/job/4fda66811488a75dae4e3508905f3a5c,False,0.5826,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/4fda66811488a75dae4e3508905f3a5c', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/91411633/pxc-837-edi-business-analyst-mexico/', 'is_direct': False}]","At Beiersdorf, we want to help people feel good about their skin – and our commitment goes far beyond caring for skin. For 140 years, we have developed innovative skin and body care products for well-known brands such as NIVEA, Eucerin, La Prairie, Hansaplast, and Labello. We act according to our purpose, WE CARE BEYOND SKIN, and take responsibility for our consumers, our employees, the environment and society.
+
+At Beiersdorf Shared Services HUB in Mexico City, we are one of the IT HUBs for Beiersdorf IT.
+
+Within IT we are a proactive business enabler, co-creating value for our brands, functions and markets by delivering innovative, reliable, and efficient information and data technologies. You have passion for business processes and would like to further develop your skills and career? We have the right opportunity for you
+Your Tasks
+• You support users in whole Americas in the Sales Order, Supply Chain and Finance area
+• You analyze issues and advice the effected departments on steps to solve problems
+• You inform second level support teams about issues that need changes in ERP or middle-ware systems
+• You analyze existing processes according to local and international requirements and support users in training / adaption
+• You contribute to global projects and subprojects with a focus on waterfall and agile working methods
+• You keep close contact with Implementation Managers to make sure that Beiersdorf guidelines are followed
+
+Your Profile
+• You have a degree in computer science or business administration or a comparable qualification
+• You have gained first professional experience in consulting or a similar working environment
+• You are experienced in agile and waterfall projects
+• You have gained experience in the whole ANSI X12 message are
+• You enjoy varied and demanding tasks in the project environment
+• You feel enthusiastic about innovations and their implementation
+• You have an international mindset and the capability to work in globally operating teams
+• Your English is excellent
+
+We embrace Diversity and Inclusion and are committed to providing equal opportunities to all of our applicants – regardless of race, gender, age, religion and beliefs, sexual orientation and gender identity, disability, cultural, ethnic or national origins. We would therefore kindly ask you to include only information and data in your documents which are relevant for the assessment of your application (e.g. curriculum vitae, salary expectations, relevant references and certificates).",False,1711571558,2024-03-27T20:32:38.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=2m1xxBaPicyG8ksEAAAAAA%3D%3D,2024-04-04T00:00:00.000Z,1712188800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},Business analyst,en,13111100,5,325620,Toilet Preparation Manufacturing,
+Rw3fXh7wyucflE04AAAAAA==,Sanmina,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sanmina_Corporation_logo.svg/1200px-Sanmina_Corporation_logo.svg.png,http://www.sanmina.com,Manufacturing,BeBee México,FULLTIME,Business Systems Analyst 3,https://mx.bebee.com/job/c7b3e79e9bfdccc9d9c9522394bd70a6,False,0.5433,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/c7b3e79e9bfdccc9d9c9522394bd70a6', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=8a16a0aed75e', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/eaf9abfc8e713ddd55a32b042cd6a261e', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/business-systems-analyst-3-n--monterrey-sanmina-8a16a0aed7/', 'is_direct': False}]","Job Description
+
+Business Systems Analyst 3
+
+Education:
+• Bachelor's degree in Computer Science or related career
+
+Experience :
+• At least 5 years as an IT engineer, IT supervisor or MES administrator.
+
+Knowledge:
+• Advanced English, Knowledge of MES systems, Flowcharts, Process Mapping, Project management life cycle methodology, SQL, postgress, ZPL language, Business Intelligence Experience, Gantt charts, timelines.
+
+Skills / Competencies :
+• Excellent communication, technical, problem-solving, organizational and project management skills.
+• Ability to handle details while maintaining a general focus.
+• Ability to handle multiple priorities in a fast-paced environment.
+• Demonstrated leadership and management skills. Ability to administer policies equitably. Expert in employee relations, including performance management, employee motivation and hiring & Shooting. Excellent security record.
+• Strong administrative, budgeting and record keeping skills.
+• Proactive person
+• Manufacturing skills desired.
+• Follow configuration management documentation, policies, and procedures.
+
+Responsibilities/Activities:
+• This function will be responsible for providing analytical support to project management for a number of projects in one or more IT portfolios within the IT Global Business Services team. Projects will vary in size and complexity. and will focus on specific business areas or functions. Some will involve changes to IT and business processes. aspects. Projects can target productivity improvement, cost reduction, reduction in total cost of ownership (through improved system architecture) and/or improved compliance. Carry out analysis of business processes, needs preliminary cost/benefit assessments and analyzes in an effort to align information technology solutions with business initiatives.",False,1711992874,2024-04-01T17:34:34.000Z,Monterrey,N.L.,MX,25.686615,-100.31612,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=Rw3fXh7wyucflE04AAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,334412,Bare Printed Circuit Board Manufacturing,
+D7Xy6uSvEz5A3p1jAAAAAA==,Citi,,http://www.citi.com,Finance,Kit Empleo,FULLTIME,Management Information System Analyst (YY659),https://www.kitempleo.com.mx/empleo/95457856/management-information-system-analyst-yy659-ciudad-mexico/,False,0.4165,"[{'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/95457856/management-information-system-analyst-yy659-ciudad-mexico/', 'is_direct': False}]","The MIS Analyst is a developing professional role. Applies specialty area knowledge in monitoring, assessing, analyzing and/or evaluating processes and data. Identifies policy gaps and formulates policies. Interprets data and makes recommendations. Researches and interprets factual information. Identifies inconsistencies in data or results, defines business issues and formulates recommendations on policies, procedures or practices. Integrates established disciplinary knowledge within own specialty area with basic understanding of related industry practices. Good understanding of how the team interacts with others in accomplishing the objectives of the area. Develops working knowledge of industry practices and standards. Limited but direct impact on the business through the quality of the tasks/services provided. Impact of the job holder is restricted to own team.
+• *Responsibilities**:
+- Responsible for the management of information and reporting systems
+- Should be able to provide intelligent analysis by using all available and relevant data
+- Advanced automation skills and reporting
+- Ensures the data integrity according to information security and integrity policies
+- Correct design and execution of control mechanisms
+- Generates and maintains documentation of existing reports or MIS
+• *Qualifications**:
+- 0-2 years relevant experience
+- High proficiency in Excel and aptitude in Access, Word, Visual Basic Prior
+- experience with SAS Knowledge of computer language is preferred
+- High degree of accuracy and eye for detail
+- Ability to establish effective working relationship amongst staff and foster group cohesiveness and teamwork
+• *Education**:
+- Bachelor’s/University degree or equivalent experience
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+Análisis de métricas regulatorias
+Diseño de estrategias para cumplir con regulaciones CNVB y CONDUSEF
+Sistemas de quejas y aclaraciones OD, OC BPM.
+Deseable conocimiento en riesgo, control y regulaciones
+Documentación de procesos, controles ARCM
+Analisis de datos en Excel SQL o cualquier manejador de base de datos
+Disponibilidad de horario
+- **Job Family Group**:
+Operations - Core
+- **Job Family**:
+MIS Analysis
+- **Time Type**:
+Full time
+- Citi is an equal opportunity and affirmative action employer.
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+View the ""**EEO is the Law**"" poster. View the **EEO is the Law Supplement**.
+View the **EEO Policy Statement**.
+View the **Pay Transparency Posting",True,1711584000,2024-03-28T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=D7Xy6uSvEz5A3p1jAAAAAA%3D%3D,2024-04-18T00:00:00.000Z,1713398400.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15112100,4,522110,Commercial Banking,
+1WeGQJZ9Mm0SFRfFAAAAAA==,British American Tobacco,https://www.bat.com/group/control.nsf/vwFiles/logo/$file/logo_UK__9D9KCY.png,http://www.bat.com,Management,BeBee México,FULLTIME,IT Compliance Analyst,https://mx.bebee.com/job/9c47df5f953a6492b7a90a6b6f49778e,False,0.5467,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/9c47df5f953a6492b7a90a6b6f49778e', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/ef1c91040a23fb696f288180808bd3bd4', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/it-compliance-analyst-monterrey-british-american-tob-d745dedb5c/', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-9c9563b88c13b7336f17fdbf5439b7c6', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-IT-Compliance-Analyst-en-monterrey-coop106837604', 'is_direct': False}]","BAT is evolving at pace - truly like no other organization.
+
+To achieve the ambition, we have set for ourselves, we are looking for colleagues who are ready to live our ethos every day. Come be a part of this journey
+
+BAT MEXICO IS LOOKING FOR AN IT COMPLIANCE ANALYST
+
+SENIORITY LEVEL: Entry Level
+
+FUNCTION: Digital Business Solutions - IDT
+
+LOCATION: Monterrey, Mexico
+
+ROLE POSITIONING AND OBJECTIVES
+
+This role is responsible for internal IT Controls which the organization is required to comply while maintaining process documentation and testing of controls.
+
+Reports to: Cloud & DC Operations Manager
+
+Reporting Level: Managerial
+
+Geographic Scope: USA
+
+WHAT YOU WILL BE ACCOUNTABLE FOR
+• Govern compliance by alignment to IT General Controls (ITGCs) requirements especially SOX controls.
+• Review outstanding actions from previous review.
+• Cooperate with appropriate actions to maintain / improve compliance status.
+• Perform analysis and impact assessment on compliance data and reports.
+• Acts as co-ordination point for internal and external infrastructure audit.
+• Manage compliance discussion and escalation within internal involved parties. Work with service owners and 3rd party vendors to resolve/manage compliance remediations.
+• Report the levels of IT compliance risk and control efficiency to internal and external involved parties such as: Leadership Team, senior management, legal, regulators and internal/external auditors.
+• Engage local compliance team for any changes/evergreening of process.
+
+CAN THIS BE YOUR FUTURE ROLE?
+• Do you have great comunnication skills and are goal driven?
+• Do you have a process or controls mindset?
+• Do you have an advanced English level?
+
+ESSENTIAL EXPERIENCE, SKILLS, AND KNOWLEDGE
+• Graduate in Finance, Business Administration, or IT administration.
+• 1 - 2 years of work experience in IT audit or business internal controls.
+• Advanced English. (Working language)
+• Understanding of SOX controls or process mindset.
+• Detailed oriented.
+• Strong analytical and comunnication skills.
+• Experience in large global organization managing vendor and supplier relationships.
+
+BENEFICIAL
+• Industry-recognised risk management qualification.
+• ITIL certification.
+• SOX experience.
+
+WE ARE BAT
+
+At BAT we are committed to our Purpose of creating A Better Tomorrow. This is what drives our people and our passion for innovation. See what is possible for you at BAT.
+• Global Top Employer with 53,000 BAT people across more than 180 markets
+• Brands sold in over 200 markets, made in 44 factories in 42 countries
+• Newly established Tech Hubs building world-class capabilities for innovation in 4 strategic locations
+• Diversity leader in the Financial Times and International Women's Day Best Practice winner
+• Seal Award winner – one of 50 most sustainable companies
+
+BELONGING, ACHIEVING, TOGETHER
+
+Collaboration, diversity and teamwork underpin everything we do here at BAT. We know that collaborating with colleagues from different backgrounds is what makes us stronger and best prepared to meet our business goals. Come bring your difference",False,1711934977,2024-04-01T01:29:37.000Z,Monterrey,N.L.,MX,25.686615,-100.31612,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+systems+analystin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+systems+analystin+mexico&htidocid=1WeGQJZ9Mm0SFRfFAAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': 12, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,13104100,3,551112,Offices of Other Holding Companies,

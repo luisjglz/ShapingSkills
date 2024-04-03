@@ -1,0 +1,1424 @@
+job_id,employer_name,employer_logo,employer_website,employer_company_type,job_publisher,job_employment_type,job_title,job_apply_link,job_apply_is_direct,job_apply_quality_score,apply_options,job_description,job_is_remote,job_posted_at_timestamp,job_posted_at_datetime_utc,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_offer_expiration_datetime_utc,job_offer_expiration_timestamp,job_required_experience,job_required_skills,job_required_education,job_experience_in_place_of_education,job_min_salary,job_max_salary,job_salary_currency,job_salary_period,job_highlights,job_job_title,job_posting_language,job_onet_soc,job_onet_job_zone,job_naics_code,job_naics_name,job_occupational_categories
+462Qm70P0C2xwk2RAAAAAA==,DigitalOcean,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1200px-DigitalOcean_logo.svg.png,http://www.digitalocean.com,Information,WhatJobs,FULLTIME,Associate Cloud Support Engineer (Databases As a,https://es-mx.whatjobs.com/Trabajo-para-Associate-Cloud-Support-en-ciudad-de-m%C3%A9xico-coop107464332,False,0.4176,"[{'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Associate-Cloud-Support-en-ciudad-de-m%C3%A9xico-coop107464332', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/299976599', 'is_direct': False}]","**Do you ever wonder what happens inside the cloud?**:
+• *We're looking for someone passionate about customer advocacy, improving the customer experience, and providing world-class support for our Managed Databases offering.**:
+We are looking for a passionate Cloud Support Engineer to work in our 2nd shift 4PM-12AM EST (2:30AM-10:30AM IST/ 2AM-10AM PKT). As a Cloud Support Engineer, you'll work both independently and collaboratively with your team to troubleshoot and resolve highly-technical issues that customers encounter while using our platform. You'll partner cross-functionally with our product and engineering teams to drive feedback, improve internal & external tooling, launch new products & features, and deliver an exceptional customer experience.
+• *What You'll Be Doing**:
+
+- Troubleshooting and resolving technical support requests created by our customers spanning a growing range of database engines, including: MySQL, PostgreSQL, Redis, MongoDB and Kafka.
+- Representing the voice of support, speaking on behalf of our customers through direct engagement with our product and engineering teams.
+- Contributing to internal documentation that provides your team with the resources they need to perform in their role and external documentation that allows our customers to self-serve.
+- Engaging customers and responding to technical questions received through our community Q&A forum.
+• *What We'll Expect From You**:
+
+- Knowledge of at least one database engine (MySQL, PostgreSQL, Redis, Kafka and MongoDB), with the ability to quickly learn new engines ranging from those currently available to those we may offer in the future
+- Highly self-motivated with the ability to work independently, collaboratively, and with a high degree of autonomy in a remote work environment
+- Growth mindset, with an unrelenting focus on improving your knowledge and skill set
+- **Bonus**: Experience using and troubleshooting MongoDB (in production is a plus!)
+- **Bonus**: Experience with one or more programming languages (PHP, Python, NodeJS)
+• *Why You'll Like Working for DigitalOcean**:
+
+- **We reward our employees**. The salary range for this position is based on relevant years of experience and skills. Employees may qualify for a bonus in addition to base salary; bonus amounts are determined based on company and individual performance. We also provide equity compensation to eligible employees including grants of equity upon hire and the option to participate in our Employee Stock Purchase Program.
+- **We value development.** You will work with some of the smartest and most interesting people in the industry. We are a high-performance organization that is always challenging our teams and employees to continuously grow. We maintain a growth mindset in everything we do and invest deeply in employee development through formalized mentorship and other internal programs. We provide all employees with reimbursement for relevant conferences, training, and education.
+- **We care about your well-being. **In addition to cash and equity compensation, we also offer employees a competitive array of benefits. In the United States, these include health insurance, unlimited vacation, retirement benefits, a generous parental leave program, and additional resources to support employees' overall well-being. While the philosophy around our benefits is the same worldwide, specific benefits may vary in other countries due to local regulations and preferences.
+- **We value diversity and inclusivity.** We are an equal opportunity employer and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+- This is a remote role
+- #LI-Remote_",False,1712102400,2024-04-03T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=462Qm70P0C2xwk2RAAAAAA%3D%3D,2024-05-01T10:31:00.000Z,1714559460.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support engineer,en,15115100,3,5112,Software Publishers,
+wZuVAiJXykaseNtKAAAAAA==,Altinity,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrgnFF5j0cJH1YwuLyj7ixQYki-bEaW4ft9Pj4&s=0,http://www.altinity.com,,Wellfound,FULLTIME,ClickHouse DBA / Technical Support Engineer,https://wellfound.com/jobs/2020296-clickhouse-dba-technical-support-engineer,True,0.7133,"[{'publisher': 'Wellfound', 'apply_link': 'https://wellfound.com/jobs/2020296-clickhouse-dba-technical-support-engineer', 'is_direct': True}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=dc722938378579db', 'is_direct': True}]","Altinity is looking for database geeks able to guide users around the globe in building ClickHouse applications. We serve a rapidly expanding customer base as well as the broader ClickHouse open source community.
+
+Your responsibilities will be divided as follows:
+
+Support (75% of time)
+• Helping build production-grade systems based on ClickHouse: advise how to design schemas, plan clusters etc. Environments range from single node setups to clusters with 100s of nodes, including Altinity.Cloud, our managed ClickHouse service.
+• Working with the community – GitHub, Stack Overflow, Telegram.
+
+Research and development (25% of time)
+• Studying new usage patterns, ClickHouse functions, & integration with other products.
+• Writing tech articles – for Altinity blog and internal KB.
+• Working on infrastructure projects related to ClickHouse
+• Improving ClickHouse itself – fixing bugs, improving docs, creating test-cases, etc.
+
+Candidates need to meet the following qualifications:
+
+- Experience with ClickHouse is a MUST
+• Expert SQL knowledge for one of: MySQL, PostgreSQL, Oracle, SQL Server.
+• Strong Linux shell skills / bash scripting skills
+• Experience with running production-grade systems
+• Technical English writing and speaking skills
+• Docker self-defense skills
+• Basic knowledge of distributed system concepts and big data technology stacks
+• Knowledge of at least one programming language (Python, C++, Java, Go)
+• University degree (IT/math) or equivalent experience
+
+The following additional qualifications are a significant plus:
+• Kubernetes knowledge and operating experience
+• Experience with big data stack components like Hadoop, Spark, Kafka, Nifi, …
+• Experience with data science/data analysis
+• Knowledge of SRE / DevOP stacks – monitoring/system management tools (Prometheus, Ansible, ELK, …)
+• Version control using git
+
+Our Benefits:
+• Work from Anywhere, Anytime: We are not your typical nine-to-five shop! Enjoy the flexibility of working from literally wherever and whenever. Create a schedule that works for you and your family or lifestyle. Recharge your batteries with our open vacation policies
+• Cultural Diversity: We love that we get to work with passionate people from around the world. Currently, our team is made of professionals from 12 different countries!
+• Career Development: We provide opportunities to learn new technologies as well as try out new roles. We also offer access to training on leading-edge technologies, plus flexible work schedules for external education.
+• Company Travel: We come together in person two to three times per year in locations across the globe. During non-pandemic times, of course! We also fund travel to conferences and encourage presentations as well as contributions in open source communities.
+
+This is a full-time position and includes equity in the company. Altinity is venture-funded and financially stable.
+
+We are 100% remote. You may work anywhere you have work permits
+
+To apply, send your resume and a cover letter to applynow@altinity.com
+
+Altinity focuses on Enterprise Software, Big Data Analytics, and Data Warehousing. Their company has offices in London. They have a small team that's between 11-50 employees.
+
+You can view their website at https://www.altinity.com/",True,1710826996,2024-03-19T05:43:16.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=wZuVAiJXykaseNtKAAAAAA%3D%3D,2024-05-19T22:35:26.000Z,1716158126.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,70000.0,100000.0,USD,YEAR,{},,en,15115100,3,,,
+4Qkh-gOJ2Q_5GjGlAAAAAA==,Capgemini,https://prod.ucwe.capgemini.com/wp-content/uploads/2022/05/Capgemini.gif,http://www.capgemini.com,Consulting,Capgemini Careers,FULLTIME,PaaS DBA Support Engineer,https://jobs.capgemini.com/mx-es/job/Ciudad-de-Mexico-PaaS-DBA-Support-Engineer-AGU/1025272201/,False,0.9017,"[{'publisher': 'Capgemini Careers', 'apply_link': 'https://jobs.capgemini.com/mx-es/job/Ciudad-de-Mexico-PaaS-DBA-Support-Engineer-AGU/1025272201/', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=38de982c60e43f9d', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18125506-paas-dba-support-engineer/', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/J4IB738t4gKuE0lSaZC_5hwcdJa-eOv_UBBXQAz6CfDUyyf2R8tKVA', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/81d995e85e045b56639ea7dc4883fe94', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/paas-dba-support-engineer-mexico-city-capgemini-85d089cec4/', 'is_direct': False}, {'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=85d089cec456', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-b53f0a6de92bc625d5d941ab5fc06669', 'is_direct': False}]","RH: Raul Garcia
+
+Location: Aguascalientes
+
+Industry - MALS
+
+What you’ll do?
+• Cloud native operations Services shall cover the activities associated with managing the virtual machine instances, storage and network supporting Customer workloads (e.g., internal, and external business functionality) in in-scope Customer’s AWS public clouds.
+• Virtual machine management Services are the activities associated with managing the virtual machine instances, storage and network supporting Customer workloads (e.g., internal, and external business functionality) in in-scope Customer AWS public clouds.
+• Virtual machine management Services are the activities associated with managing the virtual machine instances, storage and network supporting Customer workloads (e.g., internal, and external business functionality) in in-scope Customer AWS public clouds.
+• Storage management Services are the activities associated with managing the servers, storage and network Services supporting Customer’s AWS public cloud environments (e.g., business applications, web applications, enterprise applications) in the in-scope Customer public clouds.
+• Backup and recovery Services are the activities associated with providing ongoing backup and recovery capabilities according to Customer schedules and requirements.
+
+What you’ll bring:
+• Operations and administration Services are the activities associated with the day-to-day operation and management of Customer’s AWS public cloud environments.
+• PaaS operations Services are the activities associated with deploying a set of practices tailored to the in scope public cloud PaaS services.
+• Database Services are the activities associated with the installation, maintenance, and support of the Customer in-scope AWS cloud native databases (e.g., RDS, and Non-RDS, Public Cloud SQL) and Snowflake. These Services shall also consist of that the Supplier manage data (e.g., database performance, data recovery and integrity) at a database instance level.
+• Supplier shall provide database administration for the in-scope Customer’s public cloud database environment. Database administration is outlined in Schedule 3 and shall comprise of the aspects of database administration such as database installation, configuration, startup, shutdown, managing downtime related to patching, upgrades, backups, restores, refreshes, tuning, imports and exports of data, continuous database performance improvements, and maintenance, and collaboration with development teams in deployment of performance/load test artifacts operations assurance.
+
+Soft skills:
+
+Good communication and leadership skills
+
+What can YOU expect in a career with Capgemini?
+• Working in a team environment, Consultants will focus on the analysis, design and development of technology-based solutions for Capgemini’s clients.
+• You will work alongside technical, functional and industry specialists to assist with the development, implementation and integration of innovative system solutions including methods, techniques and tools.
+• You will contribute to client satisfaction by providing timely and responsive value-added services and work products.
+• Capgemini offers a competitive compensation and benefits package.
+• Headquartered in Paris, France, Capgemini has a presence of more than 340 thousand professionals in Mexico distributed among 3 sites located in Mexico City, Monterrey and Aguascalientes. A deeply multicultural organization.
+• Capgemini has developed its own way of working, the Collaborative Business ExperienceTM, and draws on Rightshore, its worldwide delivery model.
+
+You will love this job because
+• Capgemini focuses on giving each new hire a YOU-nique experience through our recruitment process and on-boarding program, as well as by helping you to build your own career and professional skills foundation.
+• Capgemini provides a collaborative environment that embodies and holds the following stated values close to heart: Honesty, Boldness, Trust, Freedom, Team Spirit, Modesty, and Fun.
+• Capgemini cultivates an atmosphere for development that enables YOU to be hands-on, planning for your growth, both horizontally and vertically.
+
+“At Capgemini Mexico, we aim to attract the best talent and are committed to creating a diverse and inclusive work environment, so there is no discrimination based on race, sex, sexual orientation, gender identity or expression, or any other characteristic of a person. All applications welcome and will be considered based on merit against the job and/or experience for the position”",False,1710381600,2024-03-14T02:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=4Qkh-gOJ2Q_5GjGlAAAAAA%3D%3D,2024-06-01T06:00:00.000Z,1717221600.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support engineer,en,15114100,4,541613,Marketing Consulting Services,
+mB8DqWeAf7y8q_29AAAAAA==,Percona,https://www.percona.com/wp-content/uploads/2023/02/logo.jpg,http://www.percona.com,Information,LinkedIn,FULLTIME,MySQL Database Support Engineer,https://mx.linkedin.com/jobs/view/mysql-database-support-engineer-at-percona-3834887134,False,0.7725,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/mysql-database-support-engineer-at-percona-3834887134', 'is_direct': False}, {'publisher': 'The Org', 'apply_link': 'https://theorg.com/org/percona/jobs/mysql-database-support-en-3ab5f399', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=b9c0a660c23ec8bb', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/database-performance-consultant-postgresql-percona-JV_KO0,42_KE43,50.htm?jl=1009217352491', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/database-performance-consultant-postgresql-percona-JV_KO0,42_KE43,50.htm?jl=1009217352491', 'is_direct': True}, {'publisher': 'Remotely', 'apply_link': 'https://tryremotely.com/jobs/percona-mysql-database-support-engineer-76510', 'is_direct': False}, {'publisher': 'Emprego.pt', 'apply_link': 'https://www.emprego.pt/en/jobs/show/31089507364895430093440284494', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/322206795', 'is_direct': False}]","Who is Percona?
+
+Percona is a respected thought leader in the open-source community. We provide services and software for MySQL, MongoDB, PostgreSQL and Maria DB to open-source users globally.
+
+Percona is remote-first and globally dispersed; we have 320 people in almost 52 countries. We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard. The growth and development of our staff is a top priority; we provide funding for training, certifications, conferences and more.
+
+Discover what it means to work with some of the smartest people in the industry, who also know how to have fun and are always willing to lend a helping hand. We offer flexible hours, the ability to work remotely and the amazing experience of working with a multinational team of experts.
+
+The Percona Support Team…
+
+Percona Support is a global, elite team of engineers who love getting to the bottom of weird and interesting database behaviour. We understand our customer’s business needs and the nuances of their technical environments. This allows us to help our customers see the big picture and identify opportunities to improve their overall database infrastructures.
+
+What you’ll be doing…
+
+You’ll be teaming up with some of the most well-known database experts in the industry who are even better teammates, friends and mentors. You’ll have the opportunity to develop your own skills and become more powerful than you can possibly imagine…. with databases.
+
+This is not a boring, entry-level role where you’ll just be triaging the boring and monotonous.
+
+Your main responsibility will be helping our customers’ DBA teams when they need expert assistance. You’ll do that by gathering relevant data and investigating issues to provide a detailed analysis of your findings in a digestible format by email, instant message or voice. For more serious and production-impacting issues, you’ll perform screen-sharing sessions to help them quickly navigate and resolve issues.
+
+When you’re not fixing things, you’ll be authoring new blog posts on interesting topics for our open-source community to digest, answering questions on our forum, creating new articles in our customer-facing knowledge base for more frequently seen issues, and hosting webinars amongst other things.
+
+This is a remote role, so you can be located anywhere in the world. All you need is a decent, stable internet connection.
+
+You’ll stand out if you have the following:
+• Good hands-on knowledge of both MySQL and InnoDB
+• Be a skilled with some of the MySQL ecosystem of tools and technologies
+• Knowledgeable about performance tuning, query optimization, & index tuning
+• Know-how of backup solutions such as Xtrabackup, mydumper, etc, and also of Point-in-Time-Recovery
+• Some experience with high-availability solutions (replication, routers, proxies, etc)
+• Exposure and practice with zero-downtime procedures
+• Good understanding of monitoring requirements
+• Demonstrable experience in administering Linux-based systems
+• Ability to troubleshoot methodically, identifying and applying fixes for known errors, and when necessary, capacity to think outside of the box to resolve complex issues
+• Self-taught and enthused to grow your skill set with new technologies as the industry continues to evolve
+• Availability to travel for the occasional team meeting, conference or customer visit
+• Experience working with customers in English
+• Very desirable to have related Kubernetes knowledge
+
+It's a bonus if you have experience with these:
+• Experience working in SLA-bound operations
+• OpenSource Community contributions (could be a blog)
+• Good practice with working over screen-sharing/phone
+• Galera / XtraDB Cluster / ProxySQL / Orchestrator
+• Cloud Services such as AWS and RDS, Azure, GCP
+• Percona Monitoring & Management (PMM) and other monitoring tools
+• Configuration management solutions such as Ansible, Puppet or Chef
+• Percona Toolkit suite
+• MySQL DBA professional certifications
+• MongoDB
+• PostgreSQL
+• MyRocks
+• Kubernetes / OpenShift / Docker
+• Advanced Linux troubleshooting tools (gdb, perf, strace, bpftrace, tcpdump, etc)
+
+Percona is a respected thought leader in the open-source community. We provide services and software for MySQL, MongoDB, PostgreSQL and MariaDB to open-source users globally.
+
+Percona is remote-first and globally dispersed; we have colleagues in more than 50 countries. We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard. The growth and development of our staff is a top priority; we provide funding for training, certifications, conferences and more.
+
+Discover what it means to work with some of the smartest people in the industry, who also know how to have fun and are always willing to lend a helping hand. We offer flexible hours, the ability to work remotely and the amazing experience of working with a multinational team of experts.
+
+Percona's Lifestyle:
+• Enjoy the freedom to work remotely from anywhere in the world!
+• With top talent sourced globally, you will enjoy an international and culturally diverse team
+• Flexibility in your working hours means you can prioritize your personal life, pursue hobbies, volunteer, and stay active
+• Our internal programs include groups like:
+• The Percona Adventure Team: This team embarks on unforgettable journeys to breathtaking locations around the world for activities such as mountain climbing, hiking, white water rafting and more
+• Women Transforming Technology is a grassroots program committed to building a supportive community of women in technology. Their goals are to connect, empower and inspire women in all areas and levels of the organization
+• Flow days: Fridays at Percona are for focusing on finding your workflow. Meetings and distractions are limited on Fridays so you can focus on getting things done
+• FryDays: With Percona being so globally dispersed there are not many holidays that overlap for everyone. FryDays are four Fridays each year where everyone at Percona can unplug and enjoy the same 3-day weekend
+
+Percona is remote-only and globally dispersed – we have colleagues in more than 50 countries! We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard.
+
+Our staff receives generous benefits including flexible work hours and paid time off, all your equipment for your remote office, funds for career development (external training, certifications, conferences) and the opportunity to participate in an equity incentive plan.
+
+Connect with us and stay up to date on our latest news and developments by following us on LinkedIn and Twitter. We look forward to connecting with you!
+
+Location: Remote, work-from-home position anywhere. 5-day work week including weekend
+
+Participation with the on-call team schedule. You will need to be able to travel to company events, conferences, etc. as safety permits.",True,1708961751,2024-02-26T15:35:51.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=mB8DqWeAf7y8q_29AAAAAA%3D%3D,2024-04-23T16:02:21.000Z,1713888141.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': True, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114100,4,51121,Software Publishers,
+12Puqx0cC5g9exitAAAAAA==,Paypal,https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png,http://www.paypal.com,,NSBE Career Center,FULLTIME,Database Engineer,https://careers.nsbe.org/job/database-engineer/72918395/,False,0.6899,"[{'publisher': 'NSBE Career Center', 'apply_link': 'https://careers.nsbe.org/job/database-engineer/72918395/', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/database-engineer-at-paypal-3855898200', 'is_direct': False}, {'publisher': 'Eightfold.ai', 'apply_link': 'https://paypal.eightfold.ai/careers/job/274898991296-database-engineer-mexico-city-distrito-federal-mexico?domain=paypal.com', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18283515-database-engineer/', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4611459702', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/database-engineer-mexico-city-mexico-city-paypal-r0110263', 'is_direct': False}]","At PayPal (NASDAQ: PYPL), we believe that every person has the right to participate fully in the global economy. Our mission is to revolutionize commerce globally to make moving money, selling and shopping, personalized and secure.
+
+Job Description Summary:
+At PayPal, we continually evolve the business by promoting a culture where solutions from the Engineering team help transform our business through customer-focused incentives, innovative design, and creative excellence. We are a purpose-driven company, and our beliefs are the foundation of our daily business. Our core values of Inclusion, Innovation, Collaboration, and Wellness guide us.
+
+Job Description:
+
+In your day-to-day role, you will:
+• Design, implement and operate data infrastructure's initiatives to provide secure, scalable, reliable, and performant platform, analytics, and the other infrastructure teams.
+• Automate provisioning, management, and monitoring solutions for the supported data platforms.
+• Ensure systems are running at highest possible performance level by analyzing and tuning queries.
+• Implement solutions to measure and remediate bottlenecks in the data platforms.
+
+What do you need to bring:
+• 3+ years' experience in software development or a related field and 3+ years' experience operating on-prem/cloud databases/data-warehouses and/or distributed systems 24x7x36.
+• Hands-on experience with database operations including, but not limited-to- AWS DynamoDB, AWS DocumentDB, Cassandra, MySQL, AWS Aurora, Redis, ElasticSearch.
+• Experience with query profiling, reviewing optimizer dump, data modeling and relational schema design and ability to troubleshoot problems.
+• Hands-on experience with designing and implementing infrastructure to support global scale services, hand- on IaaS and PaaS solutions from AWS (or similar cloud provider).
+• Infrastructure as code (AWS CLI, AWS CloudFormation, Terraform, Ansible, Puppet)
+• Hands-on programming and scripting (Lambda, API GW, Python, Java, Bash)
+
+Language requirement:
+• Proficient (B2: Upper-Intermediate) in both written and spoken English.
+• We kindly request that your resume be submitted in English, preferably.
+
+Workplace Model:
+• Hybrid (recommended to be in-office three days a week).
+
+Benefits:
+
+We're committed to building an equitable and inclusive global economy at PayPal. We offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health.
+• Assistance Program, stress management, educational assistance program, and various time off.
+• One Month Christmas Bonus, 12 vacation days, 50% vacation bonus.
+• Expert Medical Opinion - Employee Stock Purchase Plan.
+• Family Healthcare: Major Medical Insurance and Dental.
+• 4-week sabbatical after five years of service.
+• Learning and training opportunities.
+• Food, Gas and Restaurant Tickets.
+• Life and Disability Insurance.
+• Home Office Voucher.
+• Savings Fund Plan.
+
+Additional Job Description:
+
+Subsidiary:
+PayPal
+
+Travel Percent:
+0
+
+Our Benefits:
+At PayPal, we're committed to building an equitable and inclusive global economy. And we can't do this without our most important asset-you. That's why we offer benefits to help you thrive in every stage of life. We champion your financial, physical, and mental health by offering valuable benefits and resources to help you care for the whole you.
+We have great benefits including a flexible work environment, employee shares options, health and life insurance and more. To learn more about our benefits please visit https://www.paypalbenefits.com
+
+Who We Are:
+Click Here to learn more about our culture and community.
+
+PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com , https://about.pypl.com and https://investor.pypl.com.
+
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at paypalglobaltalentacquisition@paypal.com.
+
+Any general requests for consideration of your skills, please Join Our Talent Community.",False,1711584000,2024-03-28T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=12Puqx0cC5g9exitAAAAAA%3D%3D,2024-04-27T00:00:00.000Z,1714176000.0,"{'no_experience_required': False, 'required_experience_in_months': 300, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+KvjXkPaTfyLRiBCKAAAAAA==,Percona,https://www.percona.com/wp-content/uploads/2023/02/logo.jpg,http://www.percona.com,Information,Adzuna,FULLTIME,MySQL Database Support Engineer,https://www.adzuna.com.mx/details/4584987037,False,0.5451,"[{'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4584987037', 'is_direct': False}]","Who is Percona?
+
+Percona is a respected thought leader in the open-source community. We provide services and software for MySQL, MongoDB, PostgreSQL and Maria DB to open-source users globally.
+
+Percona is remote-first and globally dispersed; we have 320 people in almost 52 countries. We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard. The growth and development of our staff is a top priority; we provide funding for training, certifications, conferences and more.
+
+Discover what it means to work with some of the smartest people in the industry, who also know how to have fun and are always willing to lend a helping hand. We offer flexible hours, the ability to work remotely and the amazing experience of working with a multinational team of experts.
+
+The Percona Support Team…
+
+Percona Support is a global, elite team of engineers who love getting to the bottom of weird and interesting database behaviour. We understand our customer's business needs and the nuances of their technical environments. This allows us to help our customers see the big picture and identify opportunities to improve their overall database infrastructures.
+
+What you'll be doing…
+
+You'll be teaming up with some of the most well-known database experts in the industry who are even better teammates, friends and mentors. You'll have the opportunity to develop your own skills and become more powerful than you can possibly imagine…. with databases.
+
+This is not a boring, entry-level role where you'll just be triaging the boring and monotonous.
+
+Your main responsibility will be helping our customers' DBA teams when they need expert assistance. You'll do that by gathering relevant data and investigating issues to provide a detailed analysis of your findings in a digestible format by email, instant message or voice. For more serious and production-impacting issues, you'll perform screen-sharing sessions to help them quickly navigate and resolve issues.
+
+When you're not fixing things, you'll be authoring new blog posts on interesting topics for our open-source community to digest, answering questions on our forum, creating new articles in our customer-facing knowledge base for more frequently seen issues, and hosting webinars amongst other things.
+
+This is a remote role, so you can be located anywhere in the world. All you need is a decent, stable internet connection.
+
+You'll stand out if you have the following:
+• Good hands-on knowledge of both MySQL and InnoDB
+• Be a skilled with some of the MySQL ecosystem of tools and technologies
+• Knowledgeable about performance tuning, query optimization, & index tuning
+• Know-how of backup solutions such as Xtrabackup, mydumper, etc, and also of Point-in-Time-Recovery
+• Some experience with high-availability solutions (replication, routers, proxies, etc)
+• Exposure and practice with zero-downtime procedures
+• Good understanding of monitoring requirements
+• Demonstrable experience in administering Linux-based systems
+• Ability to troubleshoot methodically, identifying and applying fixes for known errors, and when necessary, capacity to think outside of the box to resolve complex issues
+• Self-taught and enthused to grow your skill set with new technologies as the industry continues to evolve
+• Availability to travel for the occasional team meeting, conference or customer visit
+• Experience working with customers in English
+• Very desirable to have related Kubernetes knowledge
+
+It's a bonus if you have experience with these:
+• Experience working in SLA-bound operations
+• OpenSource Community contributions (could be a blog)
+• Good practice with working over screen-sharing/phone
+• Galera / XtraDB Cluster / ProxySQL / Orchestrator
+• Cloud Services such as AWS and RDS, Azure, GCP
+• Percona Monitoring & Management (PMM) and other monitoring tools
+• Configuration management solutions such as Ansible, Puppet or Chef
+• Percona Toolkit suite
+• MySQL DBA professional certifications
+• MongoDB
+• PostgreSQL
+• MyRocks
+• Kubernetes / OpenShift / Docker
+• Advanced Linux troubleshooting tools (gdb, perf, strace, bpftrace, tcpdump, etc)
+
+Percona is a respected thought leader in the open-source community. We provide services and software for MySQL, MongoDB, PostgreSQL and MariaDB to open-source users globally.
+
+Percona is remote-first and globally dispersed; we have colleagues in more than 50 countries. We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard. The growth and development of our staff is a top priority; we provide funding for training, certifications, conferences and more.
+
+Discover what it means to work with some of the smartest people in the industry, who also know how to have fun and are always willing to lend a helping hand. We offer flexible hours, the ability to work remotely and the amazing experience of working with a multinational team of experts.
+
+Percona's Lifestyle:
+• Enjoy the freedom to work remotely from anywhere in the world!
+• With top talent sourced globally, you will enjoy an international and culturally diverse team
+• Flexibility in your working hours means you can prioritize your personal life, pursue hobbies, volunteer, and stay active
+• Our internal programs include groups like:
+• The Percona Adventure Team: This team embarks on unforgettable journeys to breathtaking locations around the world for activities such as mountain climbing, hiking, white water rafting and more.
+• Women Transforming Technology is a grassroots program committed to building a supportive community of women in technology. Their goals are to connect, empower and inspire women in all areas and levels of the organization.
+• Flow days: Fridays at Percona are for focusing on finding your workflow. Meetings and distractions are limited on Fridays so you can focus on getting things done.
+• FryDays: With Percona being so globally dispersed there are not many holidays that overlap for everyone. FryDays are four Fridays each year where everyone at Percona can unplug and enjoy the same 3-day weekend.
+
+Percona is remote-only and globally dispersed - we have colleagues in more than 50 countries! We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard.
+
+Our staff receives generous benefits including flexible work hours and paid time off, all your equipment for your remote office, funds for career development (external training, certifications, conferences) and the opportunity to participate in an equity incentive plan.
+
+Connect with us and stay up to date on our latest news and developments by following us on LinkedIn and Twitter. We look forward to connecting with you!
+
+Location: Remote, work-from-home position anywhere. 5-day work week including weekend
+
+Participation with the on-call team schedule. You will need to be able to travel to company events, conferences, etc. as safety permits.",False,1708970400,2024-02-26T18:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=KvjXkPaTfyLRiBCKAAAAAA%3D%3D,2024-04-09T15:40:00.000Z,1712677200.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Support engineer,en,15114100,4,51121,Software Publishers,
+xVf6pY1KENavfTGUAAAAAA==,Maersk,https://assets.maerskline.com/integrated-global-nav/2/2.4.37//assets/img/logos/maeu.svg,http://www.maersk.com,Logistics,Maersk,FULLTIME,SQL Support Engineer,https://www.maersk.com/careers/vacancies/wd/SQL-Support-Engineer_R96111/jt-sql-support-engineer,False,0.7985,"[{'publisher': 'Maersk', 'apply_link': 'https://www.maersk.com/careers/vacancies/wd/SQL-Support-Engineer_R96111/jt-sql-support-engineer', 'is_direct': False}, {'publisher': 'Workday', 'apply_link': 'https://maersk.wd3.myworkdayjobs.com/es/Maersk_Manual/job/MX---Mexico-City/SQL-Support-Engineer_R96111-1', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/90580580/sql-support-engineer-g167-ciudad-mexico/', 'is_direct': False}]","At Maersk, we have a vision larger than the ocean: to be a true integrator of container logistics connecting and simplifying our customers’ supply chain. We count on our people to make it happen.
+
+Besides focusing on creating value for our customers and the business, a key priority for us is to drive personal and professional development for our people to prepare for further career progression.
+
+We value the diversity of our talent and will always strive to recruit the best person for the job. If you believe you would add value to Maersk but don’t meet all the criteria we have included in this advert, we would still love to hear from you.
+
+We Offer:
+
+We offer you an exciting global career at the forefront of world trade. And thanks to our global scale, you will be well-positioned to explore opportunities at Maersk around the world. The many other highlights include the most modern talent development initiatives and competitive benefits. We are proud of our people who define our company’s industry leadership, global team culture and customer-centric focus every day.
+
+Key Responsibilities:
+
+The Fulfilled by Maersk Platform is looking for a SQL Support Engineer who will provide support to FbM Level 1 Support Engineer.
+
+The right candidates for these positions will possess a need to provide agile and quality support services for business operations, and then coordinate the installation, upgrading and daily maintenance of FbM Applications (Warehouse Management System, Depot Management System, Yard Management System, Middleware, Legacy, Omni Channel Transportation …) used by the Platform. Understanding of technology in an FbM operational environment, having earned this experience through a career spent on-site supporting operational teams.
+• Has the capability & take ownership to drive the analysis, evaluation and troubleshooting the SQL tasks (MSSQL, MYSQL) and related issues for all the FbM Applications.
+• Provide database application support for all FbM Applications.
+• Providing Hypercare database support during FbM project go-live.
+• Responsible for database performance monitoring.
+• Responsible for database administration.
+• Take ownership of documenting the support tasks.
+• Having basic knowledge on access management and security compliance.
+• Having a good understanding of incident management, problem management, change management, and adherence to the SLA, KPI.
+
+Required Experience:
+• Problem-solving and troubleshooting skills with the ability to analyse and resolve complex technical issues in a time-sensitive environment.
+• It is nice to have if you have hands-on experience in application support in the Logistics and Services domain Or in Warehouse Management Systems or Depot Management System support. (Like KorberOne / Highjump, Manhattan Scale, Infor, WebEC/FT, or Other WMS).
+• Must have basic knowledge of MS SQL, Oracle SQL
+
+Having substantial operations in over 130 countries, we work across continents, across cultures and with individuals from all walks of life. This drives our ambition, to create equitable and inclusive workplaces where every individual can have a sense of belonging. ​
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com.",False,1709078400,2024-02-28T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=xVf6pY1KENavfTGUAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support engineer,en,15115100,3,483111,Deep Sea Freight Transportation,
+EJ30Y6dLC5oqrJiKAAAAAA==,NTT Data vía OCCMundial,,,,OCCMundial,FULLTIME,Master Data Support Engineer,https://www.occ.com.mx/empleo/oferta/18338483-master-data-support-engineer/,False,0.573,"[{'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18338483-master-data-support-engineer/', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/322230575', 'is_direct': False}]","NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+We are currently seeking a Master Data Support Engineer to join our team in Guadalajara, Jalisco (MX-JAL), Mexico (MX).
+Job Description – Master Data Support Engineer
+The candidate will support and facilitate data governance initiatives and work with relevant stakeholders, IT Leadership and Product teams to efficiently manage risks associated with managing MDM platform. The key governance activities that are expected to be facilitated by this role are:
+Adhering to service operations and activities in accordance with the mission and goals of the organization
+Work with operations leads and other service owners across the global teams in time zones across US,
+Europe and Asia
+Ensure service operations goals are achieved (SLAs and OLAs)
+Analyzing operations risks
+Project Transition -take transitions from delivery teams and be the primary support for the application/platform in future.
+Govern and monitor data delivery SLAs and communicate to business partners
+Perform impact analysis of a new change to the data platform
+Independently perform RCA and come up with timely resolution steps
+Participate in Product Retrospective - Project (postmortem) review. Include assessment of benefits realization, lessons learned, operating costs, support, usage. Assess product lifecycle
+(lO)Bring New ideas for improving Operations (ll)Participate in on-call rotation.
+Preferred skills:
+Leverages available Service management tools like Service Now, Product/program roadmap, Operations schedules, and present the relevant data and metrics to support and contribute to the governance related activities
+Strong communication skills
+Strong data collation, analysis, and presentation skills
+Strong problem solving and analytical skills with the ability to convey in clear and concise summaries
+Strong tactical and thinking skills with the ability to look beyond the obvious
+Working with remote and global teams
+Demonstrated ability to manage multiple tasks and projects and adapt to a changing environment
+Expertise with debugging and scripting tools and automation tasks
+Be a driven and motivated team player
+Proven team management qualities
+Technical Skills:
+3+ years of hands-on experience as a Data Engineer or Software Engineer role
+Experience using the following software/tools:
+Experience with data management toolds such ""Riversand MDM or PIM""
+Experience with DevOps -Test Automation, CICD, etc.
+Good working knowledge on REST based APl's and SOA architecture
+Extensive knowledge on JSON/ Core Java programming
+Experience working with stream-processing systems: Kafka or Azure Eventhub
+Advanced SQL coding, Stored Procedures, optimizing and tunning queries on Snowflake and/or other large databases.
+Creative problem solver and be able to jungle between multiple priorities
+Education and Experience Requirements
+University degree in Science, Engineering or a related discipline
+Significant experience working in Operations (Application services) in a complex data platform or MOM
+About NTT DATA Services
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more.
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team.
+Job Segment:
+Cloud, Testing, PLM, Database, Application Developer, Technology, Management",False,1712016000,2024-04-02T00:00:00.000Z,,Jal.,MX,20.659538,-103.349434,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=EJ30Y6dLC5oqrJiKAAAAAA%3D%3D,2024-04-04T00:00:00.000Z,1712188800.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},Support engineer,en,15115100,3,,,
+AGdpStK2X443DCdZAAAAAA==,Percona,https://www.percona.com/wp-content/uploads/2023/02/logo.jpg,http://www.percona.com,Information,LinkedIn,FULLTIME,MongoDB Database Support Engineer,https://mx.linkedin.com/jobs/view/mongodb-database-support-engineer-at-percona-3834886308,False,0.7725,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/mongodb-database-support-engineer-at-percona-3834886308', 'is_direct': False}, {'publisher': 'The Org', 'apply_link': 'https://theorg.com/org/percona/jobs/mongodb-database-support--2ec169f6', 'is_direct': False}, {'publisher': 'Built In', 'apply_link': 'https://builtin.com/job/mongodb-database-support-engineer/2335012', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=fb9b597d2eac8806', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/mongodb-database-support-engineer-percona-JV_KO0,33_KE34,41.htm?jl=1009143631061', 'is_direct': True}, {'publisher': 'Remotely', 'apply_link': 'https://tryremotely.com/jobs/percona-mongodb-database-support-engineer-81411', 'is_direct': False}]","If you are passionate about all things MongoDB, love helping customers succeed, and want to play a critical role in the evolution of technical support for open source databases, Percona's MongoDB Engineer position was made for you.
+
+You will serve on the front line, providing our customers with best of breed professional technical support services for MongoDB, resolving complex problems for customers with demanding deployments and business needs.
+
+At the same time, you will form the backbone of our MongoDB support organization, assisting your fellow support engineers, leading the way in blogging and Support content creation, collaborating with other departments, and having a direct, positive impact on our product strategy.
+
+If you are ready to be a part of our team, then contact us today!
+
+Your Experience, Skills, Attributes
+• Excellent knowledge of both RDBMS's and MongoDB, including:
+• All aspects of configuration and best practices
+• Schema design, performance tuning, query optimization, & index tuning
+• Backup solutions
+• Replica set and sharding topologies
+• Engine selection and usage
+• etailed understanding of monitoring requirements
+• Demonstrable experience of administering Linux based systems
+• Knowledge about virtualized environments such as VMWare, Docker and/or Kubernetes
+• Knowledge about cloud providers (AWS, Google Cloud, Digital Ocean and/or Azure)
+• Ability to troubleshoot methodically, identifying and applying fixes for known errors, and when necessary, capacity to think outside of the box to resolve complex issues
+• Enthused to expand your skill set with new technologies as the industry continues to evolve
+• Availability to travel for the occasional team meeting, conference and customer visit
+• Experience working with customers in English
+• Completed MongoDB University courses
+
+What will make you stand out
+• Percona Backup for MongoDB
+• Experience with MongoDB Atlas
+• Postgres DBA troubleshooting (basic level or higher)
+• Nagios, Percona Monitoring Plugins and other monitoring tools
+• Configuration management solutions such as Ansible, Puppet or Chef
+• Percona Toolkit suite
+• Writing Python and golang is preferred
+• Hands on experience of MySQL (Minimum 2+ years)
+
+Percona is a respected thought leader in the open-source community. We provide services and software for MySQL, MongoDB, PostgreSQL and MariaDB to open-source users globally.
+
+Percona is remote-first and globally dispersed; we have colleagues in more than 50 countries. We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard. The growth and development of our staff is a top priority; we provide funding for training, certifications, conferences and more.
+
+Discover what it means to work with some of the smartest people in the industry, who also know how to have fun and are always willing to lend a helping hand. We offer flexible hours, the ability to work remotely and the amazing experience of working with a multinational team of experts.
+
+Percona's Lifestyle:
+• Enjoy the freedom to work remotely from anywhere in the world!
+• With top talent sourced globally, you will enjoy an international and culturally diverse team
+• Flexibility in your working hours means you can prioritize your personal life, pursue hobbies, volunteer, and stay active
+• Our internal programs include groups like:
+• The Percona Adventure Team: This team embarks on unforgettable journeys to breathtaking locations around the world for activities such as mountain climbing, hiking, white water rafting and more
+• Women Transforming Technology is a grassroots program committed to building a supportive community of women in technology. Their goals are to connect, empower and inspire women in all areas and levels of the organization
+• Flow days: Fridays at Percona are for focusing on finding your workflow. Meetings and distractions are limited on Fridays so you can focus on getting things done
+• FryDays: With Percona being so globally dispersed there are not many holidays that overlap for everyone. FryDays are four Fridays each year where everyone at Percona can unplug and enjoy the same 3-day weekend
+
+Percona is remote-only and globally dispersed – we have colleagues in more than 50 countries! We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard.
+
+Our staff receives generous benefits including flexible work hours and paid time off, all your equipment for your remote office, funds for career development (external training, certifications, conferences) and the opportunity to participate in an equity incentive plan.
+
+Connect with us and stay up to date on our latest news and developments by following us on LinkedIn and Twitter. We look forward to connecting with you!",True,1708961754,2024-02-26T15:35:54.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=AGdpStK2X443DCdZAAAAAA%3D%3D,2024-04-23T16:02:17.000Z,1713888137.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': True, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114100,4,51121,Software Publishers,
+GlCLnJwF2MoK7X3oAAAAAA==,Thomson Reuters,https://app-data.gcs.trstatic.net/wel-trdotcom/static/tr-logo-schema.png,http://www.tr.com,Information,Thomson Reuters Careers,FULLTIME,Sr MSSQL Database Admin,https://careers.thomsonreuters.com/us/en/job/JREQ170752/Sr-MSSQL-Database-Admin,False,0.9012,"[{'publisher': 'Thomson Reuters Careers', 'apply_link': 'https://careers.thomsonreuters.com/us/en/job/JREQ170752/Sr-MSSQL-Database-Admin', 'is_direct': False}, {'publisher': 'Hireline', 'apply_link': 'https://hireline.io/mx/empleos/sr-mssql-database-admin/103956', 'is_direct': False}, {'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/thomsonreuters/sr-mssql-database-admin', 'is_direct': True}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4597219395', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/-3638590562642929559', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20240314-9a80d5ca7489aec723cf776210d32fcd', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=0a1d256107b5', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sr-mssql-database-admin-mexico-city-thomson-reuters-b49586f98d/', 'is_direct': False}]","Senior MSSQL Database Admin
+
+Behind every great on-line eCommerce site and technology service is an equally great database.  These databases provide mission critical data processing services and it takes highly skilled DBA’s to build and maintain these systems.  To meet the challenges of our fast growing business products and services lines, we need to grow our DBA team.  We’re looking for exceptional DBA’s who are interested in using the latest database technologies to deliver industry leading systems, with results that go directly to the bottom line.
+
+                                                                                                                                                            
+
+Thomson Reuters (TR) is the world’s largest international multimedia company.  With approximately 50,000 employees, TR has more than 300 offices in 93 countries.  The technology organization within TR is a centralized unit providing shared software and services to TR business units across the globe. 
+
+We are looking to add a Senior Database Engineer to our SQL Support database team.  This global team interacts directly with key technical groups, collaborating to implement change and provide support for major databases systems that deliver data to the critical, revenue generating applications that drive the TR business.  These systems rely upon MS SQL and Sybase database software running on versions of Windows operating systems.
+
+About the role:
+
+Technology (70%)
+
+Database Support
+• Provide primary support for critical, complex production MS SQL databases
+• Troubleshoot, investigate and drive resolution of incidents
+• Work closely with internal technical teams during incident resolution and root cause analysis
+• Coordinate interaction with vendors, creating service requests and escalating as needed to ensure timely resolution
+• Provide problem management and resolution for repeat issues
+• Make recommendations and contribute to the design and development of long-term solutions
+• Respond to inquiries from business partners related to performance, application errors, storage capacity, etc.
+• Review and execute medium to low risk changes including DDL, database configuration changes, patching, and well defined, well documented upgrades
+• Participate in new system builds;  create databases, schemas and deploy standard jobs and monitoring
+• Through review and solid handoffs, ensure system supportability prior to production utilization
+• Adhere to documented change and incident management policies
+• Use established Shared Services support processes and tools to document and track problem resolution
+• Develop technical documentation for use in future incident resolution
+• Provide support outside of normal office hours only on rare occasions (emergency and infrequent pre-planned occurrences)
+
+Ongoing Education and Training
+• Learn and stay current on the features and functionality of MS SQL databases, focusing on technology to improve performance, availability, reliability, stability and work efficiencies.
+• Learn and stay current on standard database solutions designed by the Systems Engineering Database group.
+
+Leadership and Communication (15%)
+• Translate highly technical solutions/problems into clear language useful to audiences at varying technical levels
+• Prepare high quality technical documentation, present it clearly to interested parties
+• Communicate in a professional manner when interacting across staff levels and internal/external customers
+• Mentor and coach database engineers
+• Research and develop team leadership skills.
+
+Management and Administration (5%)
+• Contribute to and influence a variety of work streams concurrently
+• Set individual goals that are consistent with business goals
+• Participate in initiatives to define, measure, and report on database quality and stability
+
+Business Acumen and Strategy (10%)
+• Has broad knowledge of Thomson Reuters product lines and supported technologies
+• Proactively generates relevant ideas for new and improved operations or use of technology
+• Understands the impact of new projects and technical impacts to supported systems
+• Collaborates with peers, Design & Engineering DBAs and managers to determine system strategy and how best to implement and support it
+
+About you:
+• Bachelor's Degree — Computer Science, technical or engineering degree preferred
+• 5+ years experience providing 24x7 support for MS SQL 2005/2008/2012/2014/2016 on windows (2008/2012/2016 preferred)
+• Strong quantitative, analytical, communication and verbal skills with a strong customer service focus
+• Ability to problem solve in high pressure situations
+• Ability to work as part of a team, as well as independently toward assigned goals
+• Preferable 2+ years experience with  batch scripting
+• Preferable 2+ years in a development or support organization supporting large applications
+
+What’s in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+• Hybrid Work Model: We’ve adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connected.
+• Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+• Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+• Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+• Social Impact: Nine employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+• Purpose Driven Work: We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+#LI-SB3
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.",False,1710201600,2024-03-12T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=GlCLnJwF2MoK7X3oAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114100,4,511210,Software Publishers,['Technology Careers']
+nKjMwX_b7YTi56yoAAAAAA==,Oracle,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png,http://www.oracle.com,Information,Eeho.fa.us2.Oraclecloud.com,FULLTIME,ERP Principal Support Engineer,https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/226337/?sortBy=POSTING_DATES_DESC,False,0.7197,"[{'publisher': 'Eeho.fa.us2.Oraclecloud.com', 'apply_link': 'https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/226337/?sortBy=POSTING_DATES_DESC', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/erp-principal-support-engineer-at-mygwork-3848257908', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4563398912', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=68ba8863561285ef', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/principal-support-engineer-oracle-JV_IC3487018_KO0,26_KE27,33.htm?jl=1009115792102', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/GORUwQmLASZFV2WV9tWUDZotBq82sDrwQMoLTVaKK4hBEQ46ajlpxg', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20240227-8cbe9cc6182c309e1b6a4308e8209283', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=129827391892529862', 'is_direct': False}]","Key Qualifications:
+• 7+ years of technical and functional expertise, including proficiency in modules, data flows, and integration points within Fusion ERP Financials Cloud Applications, Broad understanding of modules such as General Ledger, Payables, and Projects, as well as how Fixed Assets integrates with these modules.
+• Asset Lifecycle flow, common enterprise structures setup, transaction processing, interfaces, business processes, period close processes, and activities. This includes setup and configuration of asset books, depreciation methods, asset categories, and tax rules.
+• Knowledge of implementing local and international accounting standards and regulations related to fixed assets accounting to ensure compliance.
+• Strong proficiency in identifying functionality and usability bugs within applications code written in SQL, PL/SQL, J2EE applications, and Oracle RDBMS Database.
+• Experience with Oracle's recommended implementation methodologies during implementation phases and data migration processes. This includes extracting data from legacy systems, mapping data to Oracle Fusion Financials structures, and loading data into the new system for compatibility with Oracle Fusion Financials Fixed Assets.
+• Understanding of the security model within Oracle Fusion applications, including roles, permissions, and data security.
+
+Supporting Skills:
+
+In addition to the preferred qualifications, the following skills will be helpful:
+• Oracle ERP Cloud Implementation Certifications
+• Experience with reporting tools and analytics features in Fusion Financials for Fixed Assets for creating custom reports and applying built-in reporting capabilities.
+
+Responsibilities:
+
+As a Principal Support Engineer, your primary responsibilities will include:
+• Resolving complex technical problems with meticulous attention to detail, ensuring efficient issue diagnosis and problem resolution for Oracle customers.
+• Serving as an effective communicator and negotiator in problem resolution and management.
+• Collaborating with teams to improve automation and the knowledge base for application services.
+• Demonstrating the ability to collaborate and work successfully with diverse and globally distributed teams spanning multiple time zones.
+• Ability to develop and deliver training programs for end users, ensuring they understand how to use the products successfully.
+
+Shift hours will be based on business requirements. The job may require the flexibility to work beyond standard business hours, to include weekends and holidays, as required. Base shift hours may change over time.
+
+as the need arises
+
+LADREFAYMAR",False,1707334040,2024-02-07T19:27:20.000Z,Zapopan,Jal.,MX,20.671957,-103.416504,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=nKjMwX_b7YTi56yoAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Support engineer,en,15115100,3,511210,Software Publishers,
+Lty25SrmghlzTvOLAAAAAA==,Infosys Mexico,,,,Talent.com,FULLTIME,SQL/ UNIX Support Engineer,https://mx.talent.com/view?id=bd1bdc921ada,False,0.4817,"[{'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=bd1bdc921ada', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sql-unix-support-engineer-mexico-city-infosys-mexico-bd1bdc921a/', 'is_direct': False}, {'publisher': 'Federal Jobs', 'apply_link': 'https://federaljobs.info/job/sql-unix-support-engineer-mexico-city-infosys-mexico-bd1bdc921a-mexico/', 'is_direct': False}]",Job description Must HaveTechnical SkillsUnixSQLShell ScriptingFunctional SkillsSupport experience preferably in Retail Good to HaveTechnical SkillsAzure DataBricksPysparkData Issue AnalysisFunctional / Other SkillsManhattan WMS Inbound and Outbound flows Experience on ServiceNowProduction support analysis,False,1711670400,2024-03-29T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=Lty25SrmghlzTvOLAAAAAA%3D%3D,2024-06-29T00:00:00.000Z,1719619200.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15115100,3,,,['2521.5']
+V31Y7wzy3RJqIz_5AAAAAA==,A.P. Moller - Maersk,https://assets.maerskline.com/integrated-global-nav/2/2.4.37//assets/img/logos/maeu.svg,http://www.maersk.com,Logistics,LinkedIn,FULLTIME,SQL Support Engineer,https://mx.linkedin.com/jobs/view/sql-support-engineer-at-a-p-moller-maersk-3841843720,False,0.6885,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/sql-support-engineer-at-a-p-moller-maersk-3841843720', 'is_direct': False}]","At Maersk, we have a vision larger than the ocean: to be a true integrator of container logistics connecting and simplifying our customers’ supply chain. We count on our people to make it happen.
+
+Besides focusing on creating value for our customers and the business, a key priority for us is to drive personal and professional development for our people to prepare for further career progression.
+
+We value the diversity of our talent and will always strive to recruit the best person for the job. If you believe you would add value to Maersk but don’t meet all the criteria we have included in this advert, we would still love to hear from you.
+
+We Offer:
+
+We offer you an exciting global career at the forefront of world trade. And thanks to our global scale, you will be well-positioned to explore opportunities at Maersk around the world. The many other highlights include the most modern talent development initiatives and competitive benefits. We are proud of our people who define our company’s industry leadership, global team culture and customer-centric focus every day.
+
+Key Responsibilities:
+
+The Fulfilled by Maersk Platform is looking for a SQL Support Engineer who will provide support to FbM Level 1 Support Engineer.
+
+The right candidates for these positions will possess a need to provide agile and quality support services for business operations, and then coordinate the installation, upgrading and daily maintenance of FbM Applications (Warehouse Management System, Depot Management System, Yard Management System, Middleware, Legacy, Omni Channel Transportation …) used by the Platform. Understanding of technology in an FbM operational environment, having earned this experience through a career spent on-site supporting operational teams.
+• Has the capability & take ownership to drive the analysis, evaluation and troubleshooting the SQL tasks (MSSQL, MYSQL) and related issues for all the FbM Applications.
+• Provide database application support for all FbM Applications.
+• Providing Hypercare database support during FbM project go-live.
+• Responsible for database performance monitoring.
+• Responsible for database administration.
+• Take ownership of documenting the support tasks.
+• Having basic knowledge on access management and security compliance.
+• Having a good understanding of incident management, problem management, change management, and adherence to the SLA, KPI.
+
+Required Experience:
+• Problem-solving and troubleshooting skills with the ability to analyse and resolve complex technical issues in a time-sensitive environment.
+• It is nice to have if you have hands-on experience in application support in the Logistics and Services domain Or in Warehouse Management Systems or Depot Management System support. (Like KorberOne / Highjump, Manhattan Scale, Infor, WebEC/FT, or Other WMS).
+• Must have basic knowledge of MS SQL, Oracle SQL
+
+Having substantial operations in over 130 countries, we work across continents, across cultures and with individuals from all walks of life. This drives our ambition, to create equitable and inclusive workplaces where every individual can have a sense of belonging.
+
+Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.
+
+We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com.",False,1712043080,2024-04-02T07:31:20.000Z,,,MX,19.533775,-99.01289,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=V31Y7wzy3RJqIz_5AAAAAA%3D%3D,2024-05-02T07:31:20.000Z,1714635080.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': True, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15115100,3,483111,Deep Sea Freight Transportation,
+FybHU9H302dRH4ufAAAAAA==,Michael Page,https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PageGroup_Logo.svg/1280px-PageGroup_Logo.svg.png,http://www.page.com,Consulting,MX Talent,FULLTIME,MongoDB Database Engineer (Remote),https://mx.talent.com/view?id=cae2bd281383,False,0.4801,"[{'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=cae2bd281383', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/994a00dd365f40973a3032a568e7b3b2', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-MongoDB-Database-Engineer-en-ecatepec-coop107443172', 'is_direct': False}]","Detalles del cliente
+
+Innovative American medical device company targeted to people with diabetes and other conditions.
+
+Descripción de la vacante
+• Architect and implement solutions to solve database and application problems that involve database performance, scalability, and data security
+• Collaborate with product development team to ensure new features are architected and implemented such that MongoDB best practices are adopted and reinforced
+• Develop automation for deployment activities related to database changes, and collaborate with Dev Ops team on capacity planning, disk space management, redundancy / HA, and overall database operations
+• Oversee essential database administration install, configure, upgrade, back up, and archival.
+• Development of system configuration documentation, including designs for capacity and performance planning and will perform engineering activities, including risk assessments and analyses of alternatives for a variety of system related issues and concerns
+• Assist in the operational support of multiple global multi-tenant cloud-based applications Build and maintain tools for deployment, monitoring and operations, and troubleshoot and resolve issues in both production and non-production environments.
+• Manage the secure, scalable and resilient hosting of numerous applications in a regulated (HIPAA) environment that improves the lives of thousands of people on a daily basis.
+• Collaborate closely with the multiple technology and cross-functional groups within the
+
+Perfil del candidato
+
+Skills / Experience :
+• 3+ MongoDB database administration experience (5+ years) with production administration experience in a high availability 24x7 environment within a multi-site environment
+• Advanced understanding of data modeling, index analysis & disaster recovery plans and execution, optimization in MongoDB
+• Advanced understanding of MongoDB replication, sharding, and performance tuning
+• MongoDB performance management, and scaling - including query tuning and working with development teams to address issues
+• Indepth understand of MongoDB security best practices - including encryption, RBAC, and network controls.
+• Experience with Application and Infrastructure Monitoring such as AWS Cloudwatch, DataDog or monitoring tools
+• Excellent communications skills and extensive experience working with technical teams and management
+• Working experience using the Mongo AtlasPREFERRED QUALIFICATIONS
+• Experience working with AWS Compute
+• Experience with CI / CD tools including Jenkins and Jira
+• Experience with Agile software development
+• Experience programming with Python or any other language
+• Experience in supporting secure software platforms in a regulated environment (SOX, HIPAA, GDPR)
+
+Oferta de empleo
+• 54k annual tuition support for master's degrees, diplomas, certifications.
+• 15% of food vouchers : 2,600 in vouchers and the rest in payroll minus taxes
+• Savings fund 8% with cap of law
+• 20 days Christmas bonus
+• 40 dollars for remote work
+• Access to online courses (Coursera)
+• Major family medical expenses insurance
+• Life insurance
+• Dental and vision insurance
+• Vacations of 10 days and 5 additional days off (between Christmas and New Year the office is closed)
+• Stock purchase program capped at 10% monthly salary",False,1712016000,2024-04-02T00:00:00.000Z,Ecatepec de Morelos,Méx.,MX,19.605772,-99.036514,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=FybHU9H302dRH4ufAAAAAA%3D%3D,2024-07-03T00:00:00.000Z,1719964800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Database engineer,en,15114100,4,541613,Marketing Consulting Services,['2521.5']
+cIFq0e-O3fNC3ffFAAAAAA==,NTT DATA Services,https://www.nttdata.com/jp/ja/-/media/nttdatajapan/images/news/release/2022/082500/082500-01.png?la=ja-jp&hash=5325A3858BA7CD912B3FA5B285C60638647319CC,http://www.nttdata.com,,The Muse,FULLTIME,Remote L2 Production Support,https://www.themuse.com/jobs/nttdataservices/remote-l2-production-support,False,0.6684,"[{'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/nttdataservices/remote-l2-production-support', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://jooble.org/jdp/4446193493504646729', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18147364-remote-l2-production-support/', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/Qm-jikTZR6ArE4k214Gucp98EhxYvkojaKy2RoIUeNdOweLrUfgKjA', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1813-20240312-08f7fc4b0023e736a8ca5b8f2d46c080', 'is_direct': False}]","Req ID: 267644
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Remote L2 Production Support to join our team in or near CDMX, Jalisco (MX-JAL), Mexico (MX).
+
+The Remote L2 Production Support team member will work remotely from their home office in any city in Mexico.
+
+A Remote L2 Production Support team member is self-motivated with an ability to work on one's own with a strong sense of ownership and accountability, pays attention to detail, is highly organized, and possesses excellent follow-up skills. Via strong written and verbal skills, a Remote L2 Production Support team member can summarize complicated technical information for people who are less technical. A remote L2 Production Support team member is also excellent at influencing team members at all levels, and possesses the ability to develop and maintain good relationships with senior leadership, colleagues and clients.
+
+Basic qualifications
+• 3+ years of experience in technology
+• Experience using SQL and Linux/Unix
+• Strong analytical, communication, interpersonal, problem-solving, organizational, and time management skills
+
+Preferred qualifications
+• Prior experience in either a System Administrator or Application support role
+• An understanding of any one, or more, of the following Technology Risk domains to include information security, business continuity, technology resilience, controls monitoring, risk assurance and risk governance: Jira, ITIL
+• Ability to perform analysis or troubleshooting when an issue arises, and providing possible alternatives to help establish solutions and confirm remediation of the issue
+
+Benefits
+• Competitive salary (negotiable)
+• You can work remotely from any part of Mexico.
+• Grocery Tickets - 12% of base salary
+• 30 days of Christmas bonus
+• 12 days of vacation
+• 5 personal days per year
+• Medical insurance (You and your family)
+• Life insurance
+• Opportunity to grow in the company
+
+#LI-LATAM
+
+About NTT DATA Services
+
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit nttdata.com or LinkedIn to learn more.
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team.
+
+Job Segment: Cloud, Consulting, Database, Linux, SQL, Technology",False,1706743970,2024-01-31T23:32:50.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=cIFq0e-O3fNC3ffFAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15115100,3,,,
+_kjaw8fLWfPrtdg2AAAAAA==,Michael Page,https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/PageGroup_Logo.svg/1280px-PageGroup_Logo.svg.png,http://www.page.com,Consulting,BeBee México,FULLTIME,MongoDB Database Engineer,https://mx.bebee.com/job/1cdfe6d084368007ca0eff01ace05ec7,False,0.4553,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/1cdfe6d084368007ca0eff01ace05ec7', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-MongoDB-Database-Engineer-en-le%C3%B3n-coop107442051', 'is_direct': False}]","Detalles del cliente
+
+Innovative American medical device company targeted to people with diabetes and other conditions.
+Descripción de la vacante
+• Architect and implement solutions to solve database and application problems that involve database performance, scalability, and data security
+• Collaborate with product development team to ensure new features are architected and implemented such that MongoDB best practices are adopted and reinforced
+• Develop automation for deployment activities related to database changes, and collaborate with Dev Ops team on capacity planning, disk space management, redundancy/HA, and overall database operations
+• Oversee essential database administration install, configure, upgrade, back up, and archival.
+• Development of system configuration documentation, including designs for capacity and performance planning and will perform engineering activities, including risk assessments and analyses of alternatives for a variety of system related issues and concerns
+• Assist in the operational support of multiple global multi-tenant cloud-based applications Build and maintain tools for deployment, monitoring and operations, and troubleshoot and resolve issues in both production and non-production environments.
+• Manage the secure, scalable and resilient hosting of numerous applications in a regulated (HIPAA) environment that improves the lives of thousands of people on a daily basis.
+• Collaborate closely with the multiple technology and cross-functional groups within the
+Perfil del candidato
+
+Skills/Experience:
+• 3+ MongoDB database administration experience (5+ years) with production administration experience in a high availability 24x7 environment within a multi-site environment
+• Advanced understanding of data modeling, index analysis & disaster recovery plans and execution, optimization in MongoDB
+• Advanced understanding of MongoDB replication, sharding, and performance tuning
+• MongoDB performance management, and scaling - including query tuning and working with development teams to address issues
+• Indepth understand of MongoDB security best practices - including encryption, RBAC, and network controls.
+• Experience with Application and Infrastructure Monitoring such as AWS Cloudwatch, DataDog or monitoring tools
+• Excellent communications skills and extensive experience working with technical teams and management
+• Working experience using the Mongo AtlasPREFERRED QUALIFICATIONS
+• Experience working with AWS Compute
+• Experience with CI/CD tools including Jenkins and Jira
+• Experience with Agile software development
+• Experience programming with Python or any other language
+• Experience in supporting secure software platforms in a regulated environment (SOX, HIPAA, GDPR)
+Oferta de empleo
+
+54k annual tuition support for master's degrees, diplomas, certifications.
+• 15% of food vouchers: 2,600 in vouchers and the rest in payroll minus taxes
+• Savings fund 8% with cap of law
+• 20 days Christmas bonus
+• 40 dollars for remote work
+• Access to online courses (Coursera)
+• Major family medical expenses insurance
+• Life insurance
+• Dental and vision insurance
+• Vacations of 10 days and 5 additional days off (between Christmas and New Year the office is closed)
+• Stock purchase program capped at 10% monthly salary",False,1712123083,2024-04-03T05:44:43.000Z,León de los Aldama,Gto.,MX,21.125008,-101.68596,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=_kjaw8fLWfPrtdg2AAAAAA%3D%3D,2024-04-11T00:00:00.000Z,1712793600.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114100,4,541613,Marketing Consulting Services,
+bNCwVMBUUCxjsAP9AAAAAA==,Digital On Us,,http://www.digitalonus.com,,BeBee México,FULLTIME,Database Administrator,https://mx.bebee.com/job/5f24bf1daea76e2544e275f223e9ef83,False,0.5545,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/5f24bf1daea76e2544e275f223e9ef83', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/database-administrator-dba--mexico-city-digital-on-us-9e9407181b/', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240322-7c31ab1efdd513ab188b3f863174dfe3', 'is_direct': False}]","This position's location is Hybrid model in Mx City (Tecnoparque) due to the client's requirement for the hybrid working from home scheme. 2 day per week at office.
+
+Database Administrator (DBA)
+
+Database Administrator:
+• excellent problem-solving and analytical skills
+
+• good communication, teamwork and negotiation skills
+
+• familiarity with the main data manipulation languages and the principles of database design
+
+• the ability to work to tight deadlines under pressure
+
+• good organizational skills
+
+• flexibility and adaptability
+
+• the ability to create and maintain strong working relationships with colleagues and customers
+
+• business awareness and understanding of business requirements of IT
+
+• a willingness to keep up to date with developments in new technology
+
+• a commitment to continuing professional development (CPD
+
+• an understanding of information legislation, such as the Data Protection Act.
+
+Roles & Responsibilities:
+• Database patching and upgrades
+• Database Builds Oracle , Cassendra
+• Os patching support
+• Support Database failover activities
+• Support user maintenance activities
+• Take Data copy from Prod to Lower and Lower to Lower environments
+• Super cluster support
+• Support Replication technologies Sharefelx, Golden Gate/IBM CDG
+• KVDB support
+• Support Rehydration's in AWS environment.
+• Should be well aware of at least 2 DB platforms like – Oracle, Cassandra, RDS, KVDB, couch DB, Mongo, PostgreSQL, MS SQL.
+• Experience with running Jenkin jobs and ansible scripting.",False,1711934988,2024-04-01T01:29:48.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=bNCwVMBUUCxjsAP9AAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114100,4,,,
+ovzD-GTaDF2u9o_cAAAAAA==,Teradata,https://recruitcdn.com/publicimage/5843f17a5212e2d90f0806348df584ee3fb74fc4/193/1;type=1,http://www.teradata.com,Computer Services,BeBee México,FULLTIME,Product Support Engineer Migration,https://mx.bebee.com/job/a4752fadbe6448c1b98e2631c4b81d51,False,0.5573,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/a4752fadbe6448c1b98e2631c4b81d51', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1344-20240320-4371f1b87a9879fb82bf81ad68fb6a6f', 'is_direct': False}, {'publisher': 'Trabajo En México', 'apply_link': 'https://mx.trabajo.bz/view/7288050.html', 'is_direct': False}]","What You'll Do
+• Work as part of the team that ensures successful data migration over Teradata systems living on various flavors of OnPrem and Cloud based platforms.
+• Manage cases and incidents that address issues encountered over the entire migration lifecycle for planning, prep and deployment, pre migration throughput testing, actual migration and any clean up activities needing ""problem management"" follow through with other organizations such as GSO and/or engineering.
+
+Who You'll Work With
+• Candidate will work individually and directly with all other teams with a vested role in ensuring a successful, and hopefully smooth data migration is achieved.
+• They will work with other members of the GSO Migration team, other GSO PST representatives from other product areas that may have a role in root cause of any issue effecting the migration. They will build relationships with all the engineering organizations help with migrations as well. Emphasis on DTU Engineering and Network engineering.
+
+What Makes You a Qualified Candidate
+
+To be a quality contributor in this role, the candidate should have a passion for helping people. We address a wide and diverse range of migration related issues. Sometimes its about knowing the answer but more often its about finding the answer. The candidate should be a self-starter ready to get their hands in the mud so-to-speak. Ideal candidates would have experience with Teradata in some capacity. Previously supporting any of DBS, OS/PDE, Hardware is very helpful. Strong network analysis experience is a huge plus.
+
+What You Will Bring
+• The primary intangible needed for this role is the interest in helping in any capacity one's faculties will allow.
+• Strong technical skills in the areas of programming and network analysis are useful.
+• Good soft skills are obviously a must being this role requires cross collaboration between many other representatives of the company all vested in ensuring smooth migrations.",False,1711600517,2024-03-28T04:35:17.000Z,Tijuana,B.C.,MX,32.514946,-117.038246,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=ovzD-GTaDF2u9o_cAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support engineer,en,15115100,3,541512,Computer Systems Design Services,
+L0OhNHmoZVCPKV9jAAAAAA==,Oracle,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png,http://www.oracle.com,Information,Eeho.fa.us2.Oraclecloud.com,FULLTIME,Principal Advanced Services Engineer Database and Exadata,https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/221077/?ref=Boooom.co?utm_medium=search+engine&utm_source=google,False,0.7197,"[{'publisher': 'Eeho.fa.us2.Oraclecloud.com', 'apply_link': 'https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/221077/?ref=Boooom.co?utm_medium=search+engine&utm_source=google', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4573612872', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=36fcfbec8c65762b', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/f5FizuhZ98ySwSQXaEAU7IkbG0rZLdG5si5srLo1Eal0nwPNec7UaA', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/8f0d3f7092e7dea72d9f9a8dafffb460', 'is_direct': False}, {'publisher': 'Dejobs', 'apply_link': 'https://dejobs.org/zapopan-mex/principal-advanced-services-engineer-database-and-exadata/F3A4D4DB59394370976BCCA8145304EF/job/?utm_medium=NLX&utm_source=Wanted-NY.xml-DE&utm_campaign=Wanted-NY.xml', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Principal-Advanced-Services-en-zapopan-coop107315602', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/principal-advanced-services-engineer-database-and--zapopan-oracle-17c9088615/', 'is_direct': False}]","The team’s main responsibility is to troubleshoot highly complex technical issues related to the Oracle Database and Exadata stack and within areas like Real Application Clusters, High Availability, Data Guard, Corruption, Backup and Recovery, RMAN, Performance, Memory Management, Parallel query, Query tuning, Storage, ASM, Security, Networking, Storage and Linux operating system. The Engineer should have good hands on experience on Linux, Unix and/or Solaris platforms. The selected candidates are expected to work in partnership with customers, other support engineers and developers to deliver a superior ownership experience to the customer. The selected candidate will have opportunities to become an Expert in Oracle Database, Exadata and Cloud technologies. The candidate will be widely regarded as a subject matter expert in their current role and will demonstrate the ability to resolve complex problems or identify acceptable workarounds. He/she should be able to perform their assigned duties with a great degree of independence requiring minimal direction. The Engineer is expected to be a key member of the technical problem solving as well as problem avoidance team, routinely sought after to address extremely complex, critical customer issues.
+
+Technical Skills:
+
+The main role of a Support engineer is to troubleshoot highly complex technical problems (related to Oracle Database/Exadata) requiring a high level of technical expertise.
+• Extensive knowledge and solid troubleshooting experience in all areas of Oracle database technology.
+• Advanced level skills in RAC, ASM, Performance tuning, HA, Backup and RecoveryExperience in one or more of the following technical areas is a plus: Oracle Security products, Oracle Golden Gate, Exadata, Super Cluster, ZFS, ZDLRA.
+• Oracle Exadata - Database Machine Administration (DMA).
+• Oracle Exadata - implementation / configuration.
+• Oracle Exadata - full stack patching.
+• Good knowledge and technical experience on ZDLRA, ILOM, Hardware/DIMM replacement activities.
+• Good Experience in Oracle GoldenGate & troubleshooting skills.
+• General Oracle Database Administration tasks.
+• Experience in database upgrades, migrations, installations and patching
+• Good knowledge and experience on Oracle Database Backup and Recovery (RMAN).
+• Experience on Oracle Database High Availability, Real Application Clusters (RAC).
+• Implementation and Maintenance of Oracle Database Disaster Recovery, Data Guard.
+• Expertise in Oracle Database Performance Tuning.
+• Oracle Enterprise Manager - Cloud Control / Grid Control.
+• Good understanding of Server, Storage, Networking infrastructure.
+• Good understanding of Linux Server operating system, including scripting and troubleshooting.
+• Strong Communication, presentation, facilitation and influencing skills.
+• Ability to quickly learn and understand application of new technologies.
+• Ability to quickly grasp complex technical issues
+• Willingness to work in shifts and on weekends
+• Great problem-solving skills, with a strong bias for quality and engineering excellence at scale. Not only must you able to identify, analyze, diagnose and troubleshoot complex problems using appropriate tools under constraints, but able to handle with utmost professionalism without compromising customers’ satisfaction.
+• Will have strong customer-centricity mindset and the passion to work in Service Support line of business including to provide preventive support and proactive advice
+• Able to work with minimal supervision, self-motivated, self-directed and take initiative to collaborate and synthesize with members locally or globally across different geographical time zone.
+
+Preferred Qualifications:
+• Bachelor's degree in Computer Science, Information Technology, related filed or equivalent.
+• More than 6 years of experience as an Oracle database Administrator or Exadata Administrator.
+• Relevant certifications in Oracle Database, Exadata and Oracle Cloud Infrastructure are a plus.
+• Excellent written and spoken English communication skills. Candidate will be working remotely with high-profile customers around the world.",False,1702604744,2023-12-15T01:45:44.000Z,Zapopan,Jal.,MX,20.671957,-103.416504,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=L0OhNHmoZVCPKV9jAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 72, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Services engineer,en,15114100,4,511210,Software Publishers,
+UYQ3zncqeQlaVP-uAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/4c1b477ca8dac86e0211ae78df310952,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/4c1b477ca8dac86e0211ae78df310952', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587333,2024-03-28T00:55:33.000Z,Colonia Agrícola Miguel Hidalgo,Oax.,MX,18.527779,-96.71639,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=UYQ3zncqeQlaVP-uAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+yRBGFMgrSOw8HIWXAAAAAA==,NTD Software,,,,BeBee México,FULLTIME,PaaS DBA Support Engineer,https://mx.bebee.com/job/20240314-0830c3f44b2287113870b2e6d51246fe,False,0.5483,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20240314-0830c3f44b2287113870b2e6d51246fe', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-20240314-09e306399a1af37fe1b610324638848e', 'is_direct': False}]","The role of the PaaS DBA Support Engineer entails managing and supporting cloud-native database operations within the AWS public cloud environment for our customers. This includes virtual machine management, storage management, backup and recovery services, day-to-day operations and administration, as well as specialized PaaS operations tailored to the cloud platform.
+Responsibilities:
+• Virtual Machine Management:
+• Manage virtual machine instances, storage, and network infrastructure supporting customer workloads within AWS public clouds.
+• Ensure optimal performance and availability of virtual machines for internal and external business functionality.
+
+Storage Management:
+• Administer servers, storage, and network services supporting customer's AWS public cloud environments, including business applications and enterprise systems.
+• Monitor and optimize storage resources to meet performance and scalability requirements.
+
+Backup and Recovery:
+• Provide ongoing backup and recovery capabilities according to customer schedules and requirements.
+• Ensure data integrity and develop recovery procedures to minimize downtime and data loss.
+
+Operations and Administration:
+• Oversee day-to-day operation and management of customer's AWS public cloud environments.
+• Implement best practices for cloud-native operations and administration to maintain system reliability and performance.
+
+PaaS Operations:
+• Deploy and maintain practices tailored to the in-scope public cloud PaaS services.
+• Collaborate with development teams to ensure seamless deployment and integration of performance/load test artifacts.
+
+Database Services:
+• Install, maintain, and support AWS cloud-native databases such as RDS, Non-RDS, Public Cloud SQL, and Snowflake.
+• Manage database performance, data recovery, and integrity at the instance level.
+• Provide database administration including installation, configuration, patching, upgrades, backups, restores, tuning, imports/exports of data, and continuous performance improvements.
+Qualifications:
+• Bachelor's degree in Computer Science, Information Technology, or related field.
+• Proven experience in AWS cloud administration with a focus on PaaS components and database management.
+• Strong understanding of AWS services including RDS, Non-RDS, Public Cloud SQL, and Snowflake.
+• Experience in database administration tasks such as installation, configuration, backups, and performance tuning.
+• Familiarity with backup and recovery strategies in cloud environments.
+• Excellent problem-solving skills and ability to troubleshoot complex issues.
+• AWS certification (e.g., AWS Certified Database - Specialty) is a plus.
+• Strong communication and collaboration skills for working with cross-functional teams.
+#J-18808-Ljbffr",False,1711764337,2024-03-30T02:05:37.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=yRBGFMgrSOw8HIWXAAAAAA%3D%3D,2024-04-07T00:00:00.000Z,1712448000.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114100,4,,,
+t-z3X9Zi63JXkH5bAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/3e6d1d9aeee0b9b953dcc87118f08711,False,0.5542,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/3e6d1d9aeee0b9b953dcc87118f08711', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sr-cloud-database-engineer-puerto-vallarta-baubap-f1f819c530/', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587326,2024-03-28T00:55:26.000Z,Puerto Vallarta,Jal.,MX,20.656517,-105.21136,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=t-z3X9Zi63JXkH5bAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+iLJ9ymYM1WsqnVWCAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/4d2e0f7503738fb389dd5e800b45f290,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/4d2e0f7503738fb389dd5e800b45f290', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sr-cloud-database-engineer-monterrey-baubap-97e932c27d/', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587344,2024-03-28T00:55:44.000Z,Monterrey,N.L.,MX,25.686615,-100.31612,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=iLJ9ymYM1WsqnVWCAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114100,4,,,
+WVITnOxdkODgHv9sAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/516ebbc95a26505718043e89dd190a3f,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/516ebbc95a26505718043e89dd190a3f', 'is_direct': False}, {'publisher': 'Sercanto', 'apply_link': 'https://mx.sercanto.com/detail/a/sr-cloud-database-engineer_morelia_3979018', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587338,2024-03-28T00:55:38.000Z,Morelia,Mich.,MX,19.70595,-101.194984,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=WVITnOxdkODgHv9sAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+32560OT5gx5DqraOAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/31dc89bcf150b6745817658e5ab1b052,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/31dc89bcf150b6745817658e5ab1b052', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/321396467', 'is_direct': False}, {'publisher': 'Programming Jobs Near Me', 'apply_link': 'https://programmingjobsnearme.info/job/sr-cloud-database-engineer-guanajuato-baubap-c8b15fb380-mexico/', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587336,2024-03-28T00:55:36.000Z,Guanajuato,Gto.,MX,21.019014,-101.25736,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=32560OT5gx5DqraOAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+Ko-L4INjFiDITpx1AAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/9813daf6ff6883f41a3ef068abb58188,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/9813daf6ff6883f41a3ef068abb58188', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587321,2024-03-28T00:55:21.000Z,Zapopan,Jal.,MX,20.671957,-103.416504,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=Ko-L4INjFiDITpx1AAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+MYrvzwnNCTGv6vVhAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/a38b3ae63f869e42974773ad1f16e0d2,False,0.5557,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/a38b3ae63f869e42974773ad1f16e0d2', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sr-cloud-database-engineer-matamoros-baubap-e44faa926e/', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587338,2024-03-28T00:55:38.000Z,Heroica Matamoros,Tamps.,MX,25.86903,-97.50274,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=MYrvzwnNCTGv6vVhAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+mklSzYWvwN1K5buXAAAAAA==,"Svitla Systems, Inc.",,http://svitla.com,,BeBee México,FULLTIME,senior support l3 engineer pl/sql,https://mx.bebee.com/job/37fd947fb18f96b4e40bef68576e3267,False,0.5485,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/37fd947fb18f96b4e40bef68576e3267', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/senior-support-l3-engineer-pl-sql-mexico-svitla-systems-inc--4691b55cc6/', 'is_direct': False}]","Svitla Systems Inc. is looking for a Senior Support L3 Engineer (with PL/SQL) for a full-time position (40 hours per week) in Mexico. Our client is a global, science-led biopharmaceutical company specializing in discovering, developing, and commercializing prescription medicines. They work alongside the world's leading academic and biotech research institutions to stimulate innovation and evaluate emerging technologies. The client operates in over 100 countries, and its innovative medicines are used by millions of patients worldwide.You will provide technical and functional support for an application, ensuring its efficient operation and user satisfaction. Additionally, you will collaborate closely with the development team, end users, and other departments to identify and resolve issues, implement improvements, and optimize system performance.
+Requirements:
+• A minimum of 5 years experience in technical support of software applications, preferably in the pharmaceutical or life sciences sector.
+• Advanced knowledge of PL/SQL, including the ability to write complex queries, stored procedures, and functions, and optimize database performance.
+• Experience using ServiceNow (other project management tools and issue-tracking systems can be considered).
+• Excellent English communication skills, both verbal and written, with the ability to interact effectively with multidisciplinary teams and international stakeholders.
+• Demonstrated ability to work independently, manage multiple tasks and priorities, and proactively solve problems in a dynamic environment.
+Responsibilities:
+• Provide technical and functional support for an application, including troubleshooting, incident investigation, and solution implementation.
+• Collaborate with the development team to identify, analyze, and resolve application-related issues, including software errors, database queries, and functionality improvements.
+• Configure, maintain and optimize relational databases using advanced SQL to ensure data integrity, security, and performance.
+• Develop and execute complex SQL queries to analyze data, extract relevant information, and generate detailed reports to support pharmacovigilance activities.
+• Provide training and guidance to end users on effective application use and best practices in data management.
+• Participate in implementing software updates, security patches, and new application functionalities, ensuring a smooth transition and compatibility with existing systems.
+• Collaborate with other departments, including the pharmacovigilance team, quality, and regulatory compliance, to ensure compliance with regulatory requirements and best practices in pharmacovigilance.
+Will be a plus:
+• Familiarity with pharmacovigilance principles and processes, including detecting, evaluating, and managing adverse drug events.
+• Certification or additional training in SQL.
+We Offer:
+• Work with #1 winner of the 'Best Place to Work' award
+• US and EU projects based on advanced technologies.
+• Legal IMSS contract and competitive compensation.
+• Flexibility in workspace, either remote or in our welcoming office.
+• Remote work financial support.
+• Comprehensive medical insurance including family.
+• Life insurance, maternity policy, family days off.
+• Christmas Bonus in the amount of 30 days' salary.
+• Bonuses for recommendations of new employees.
+• Bonuses for article writing, public talks, other activities.
+• English lessons and education with Udemy.
+• Free webinars, meetups and conferences organized by Svitla.
+• Monthly Pantry Vouchers, free office snacks, and drinks.
+• Fun corporate online\offline celebrations and activities.
+• Awesome team, friendly and supportive community
+About Svitla:
+
+Svitla Systems is a global trusted IT solutions company headquartered in California, with business and development offices throughout the US, Latin America, Europe, and Asia.Svitla is an outspoken advocate of workplace flexibility, best known for its well-established remote culture, individual approach to our teammate's professional and personal growth, and family-like environment.
+
+Since 2003, Svitla has served a wide range of clients, from innovative start-ups in California to mega-large corporations such as Ingenico, Amplience, InvoiceASAP and Global Citizen. At Svitla, developers work with clients' teams directly, building lasting and successful partnerships, as a result of seamless integration with on-site processes.
+
+Svitla Systems' global mission is to build a business that contributes to the well-being of our partners, personnel and their families, improves our communities, and makes a lasting difference in the world. Join us
+
+Share
+
+If you are interested in our vacancy, please send your CV. We will be happy to see you in our friendly team :)
+#J-18808-Ljbffr",False,1712024609,2024-04-02T02:23:29.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=mklSzYWvwN1K5buXAAAAAA%3D%3D,2024-04-10T00:00:00.000Z,1712707200.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15113200,4,,,
+KCqkX4C-KW68AqH9AAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/01dd3a7fd72b497663bbb2c5678b74aa,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/01dd3a7fd72b497663bbb2c5678b74aa', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/321394907', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sr-cloud-database-engineer-ocampo-baubap-bb592910f2/', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587346,2024-03-28T00:55:46.000Z,Chihuahua,Chih.,MX,28.643375,-106.05879,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=KCqkX4C-KW68AqH9AAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+f47STyHcCyIQ4_jxAAAAAA==,Baubap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFl1bX_wDQ6Qe-dUOMUf9GnzXZkppDcD2fXnr&s=0,http://www.baubap.com,,BeBee México,FULLTIME,Sr. Cloud Database Engineer,https://mx.bebee.com/job/ff3ae44e2cde8a3b40677ba38f07feb6,False,0.4642,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/ff3ae44e2cde8a3b40677ba38f07feb6', 'is_direct': False}]","About your role
+
+We're currently seeking a Senior Cloud Database Engineer who will hold a central position in overseeing and enhancing our cloud infrastructure on AWS. Your main responsibility will involve ensuring the top-notch performance, availability, and security of our database systems, with a specific emphasis on RDS MySQL databases. Working closely alongside developers and stakeholders, you'll be instrumental in designing and executing highly scalable and secure database solutions that meet our business needs.
+
+Your mission
+
+The objective of the Platform & Site Reliability team is to guarantee the smooth operation and upkeep of cloud infrastructure, databases, security protocols, and developer operations.
+
+Responsabilities
+• Speed up infrastructure deployment and refine data architecture.
+• Enhance developer assistance and streamline infrastructure problem resolution.
+• Foster a culture of improved developer experience (DX), along with comprehensive documentation.
+• Develop and facilitate efficient onboarding processes and asynchronous work methods.
+• Improve monitoring systems and operational efficiency.
+• Generate thorough documentation and implement automated response systems.
+
+Day to day
+• Monitor and address performance and availability concerns regarding cloud-based databases through regular maintenance and optimization activities.
+• Engage with stakeholders to devise and execute efficient data models and schemas that align with business needs.
+• Refine database queries and indexes, incorporating caching mechanisms to enhance database performance.
+• Design and execute backup and disaster recovery strategies, safeguarding data integrity and accessibility during potential failures.
+• Automate database management tasks using scripting languages and embrace Infrastructure as Code principles for efficient deployments.
+• Collaborate with diverse teams, offering guidance and documenting database configurations and troubleshooting procedures.
+• Support the data team by providing expertise on database functionalities, data modeling, migration initiatives, and code assessments.
+• Implement stringent security protocols, access controls, and ensure adherence to data privacy regulations.
+
+Requirements
+• -More than 3 years of experience in roles such as DBA, Cloud Database Administrator, or similar positions.
+• Proficient in utilizing AWS. Skilled in leveraging AWS services and features to enhance database performance and manage routine maintenance tasks effectively.
+• Strong ability to devise efficient data models and schemas in AWS
+• Comprehensive understanding of AWS database services such as RDS, Aurora MySQL, DynamoDB, and Redshift.
+• Experienced in optimizing database queries, indexes, and implementing caching mechanisms using AWS database technologies.
+• Demonstrated expertise in developing and executing comprehensive backup and disaster recovery strategies in AWS.
+• Advanced proficiency in scripting languages supported by AWS, such as Python
+• Familiarity with Infrastructure as Code (IaC) practices using tools like AWS CloudFormation for streamlined deployments and consistent configuration.
+• Strong ability to collaborate closely with data teams in AWS, offering expertise on AWS database services, data modeling, migration projects, and code reviews.
+• In-depth knowledge of AWS security best practices for databases, including access controls, encryption, and compliance with AWS data privacy regulations.
+• Conducts research, evaluates new AWS technologies, and offers recommendations for enhancing the AWS database infrastructure.
+
+Nice to have:
+• Understanding of best practices in database security, encompassing areas such as data encryption, access control, and adherence to compliance standards like GDPR or HIPAA.
+• Hands-on experience with data warehouses, technical data architectures, infrastructure components, ETL/ELT processes (Extract, Transform, Load/Extract, Load, Transform), as well as reporting and analytic tools.
+• Readiness to engage in an on-call rotation to offer prompt support and resolution for critical database issues beyond standard business hours.
+What we offer
+• Remote working environment
+• 20 days of vacation annually plus a 75% holiday bonus
+• One month of Christmas bonus (proportional)
+• Monthly food vouchers worth 3,257.10 MXN
+• Comprehensive health and life insurance coverage
+• Paid parental leave
+• Budget for setting up a home office
+• Unlimited budget for Kindle books
+• Two psychological sessions per month with Terapify",False,1711587352,2024-03-28T00:55:52.000Z,Torreón,Coah.,MX,25.542845,-103.406784,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=20&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=f47STyHcCyIQ4_jxAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database engineer,en,15114100,4,,,
+i6SssO_wVj6F-UOZAAAAAA==,Vibo Capital,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpvo73b_jwJT1H_9agLsMzWD5zxqKA1nAo10o&s=0,,,BeBee México,CONTRACTOR,Senior Data Engineer Remote,https://mx.bebee.com/job/0874f83273d21fe4ba373aa15b038f37,False,0.5532,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/0874f83273d21fe4ba373aa15b038f37', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=e61619bd2e56', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-a45d1d34c5845dc09e94111dd534bdbf', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Senior-Data-Engineer-en-guadalajara-coop106839209', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/senior-data-engineer-remote-guadalajara-vibo-capital-e61619bd2e/', 'is_direct': False}]","At Vibo Capital, we're seeking an experienced data engineer to join our team. As a SQL Data Engineer, you'll play a pivotal role in transforming raw data into actionable insights, building efficient data systems, and aligning them with our business goals. The ideal candidate will possess strong analytical skills, a solid foundation in programming languages such as Java and Python, and hands-on experience with SQL database design. If you're detail-oriented, possess excellent organizational skills, and have a proven track record in the field, we're excited to hear from you.
+
+Key Responsibilities:
+• Analyze and organize raw data to extract meaningful insights.
+• Build and maintain data systems and pipelines to ensure efficient data flow.
+• Evaluate business needs and objectives to align data systems accordingly.
+• Interpret trends and patterns within data sets to inform decision-making processes.
+• Conduct complex data analysis and generate comprehensive reports on results.
+• Prepare data for prescriptive and predictive modeling to drive business strategies.
+• Build algorithms and prototypes to enhance data processing and analysis capabilities.
+• Combine raw information from various sources to enrich data sets.
+• Explore methods to enhance data quality and reliability for improved decision-making.
+• Identify opportunities for data acquisition to support business objectives.
+• Develop analytical tools and programs to streamline data processes.
+
+Qualifications:
+• Experience: 4-5 years of previous experience as a data engineer or in a similar role.
+• Technical Expertise: Proficiency with data models, data mining, and segmentation techniques.
+• Programming Languages: Strong knowledge of programming languages such as Java and Python.
+• SQL Database Design: Hands-on experience with SQL database design is essential.
+• Analytical Skills: Great numerical and analytical skills to interpret complex data sets.
+• Education: Bachelor's degree in Computer Science, IT, or a related field; a Master's degree is a plus.
+• English C1+ proficiency required.
+
+Why Join Vibo Capital:
+• Be a driving force in contributing to the success of an innovative company that thrives on pushing boundaries and redefining the future of real estate private equity.
+• Immerse yourself in an atmosphere of infectious energy, where passion and creativity collide to foster a collaborative and high-energy work environment.
+• At Vibo Capital, we believe in the growth of every team member contributing to the overall success of the company.
+
+Compensation:
+• $3,000-3,500 monthly based on experience
+• Type of contract: Independent contractor
+
+This is a remote position, offering the flexibility to contribute to Vibo Capital's success from anywhere.
+
+Join us, and let's conquer the world of real estate together.",False,1711587344,2024-03-28T00:55:44.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=database+support+engineerin+mexico&start=30&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=database+support+engineerin+mexico&htidocid=i6SssO_wVj6F-UOZAAAAAA%3D%3D,2024-04-05T00:00:00.000Z,1712275200.0,"{'no_experience_required': False, 'required_experience_in_months': 48, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15113200,4,,,

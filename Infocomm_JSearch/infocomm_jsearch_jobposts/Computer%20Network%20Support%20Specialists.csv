@@ -1,0 +1,444 @@
+job_id,employer_name,employer_logo,employer_website,employer_company_type,job_publisher,job_employment_type,job_title,job_apply_link,job_apply_is_direct,job_apply_quality_score,apply_options,job_description,job_is_remote,job_posted_at_timestamp,job_posted_at_datetime_utc,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_offer_expiration_datetime_utc,job_offer_expiration_timestamp,job_required_experience,job_required_skills,job_required_education,job_experience_in_place_of_education,job_min_salary,job_max_salary,job_salary_currency,job_salary_period,job_highlights,job_job_title,job_posting_language,job_onet_soc,job_onet_job_zone,job_naics_code,job_naics_name,job_occupational_categories
+jcTkYKZXrD-6nNv8AAAAAA==,Cisco Meraki,https://meraki.cisco.com/wp-content/uploads/2020/04/cisco-meraki-logo.png,http://meraki.cisco.com,Manufacturing,The Muse,FULLTIME,Network Support Engineer (Mexico City),https://www.themuse.com/jobs/ciscomeraki/network-support-engineer-mexico-city,False,0.5573,"[{'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/ciscomeraki/network-support-engineer-mexico-city', 'is_direct': False}]","As a Network Support Engineer, you will provide exceptional technical support for our growing client and partner base. As a confident and outspoken decision maker, you will investigate and resolve problems for the entire Meraki product line, including our wireless access points, security appliances, switches, and other technologies. Our support engineers are foremost problem-solvers, passionate about networking, and we seek hard-working, and tech-savvy individuals to build upon our always growing product lines and teams. Our customer-facing role will expose you to a diverse group of teams within Meraki - including but not limited to Engineering, Product Management, and Sales - providing opportunities for career growth in a lively and fast-paced environment.
+
+Within our Support Team, we see the problems our customers experience first hand, and we are able to influence the direction of our organization and products! We are looking for people who like to take charge, plan, and guide others through sophisticated problems, and can both teach and learn from those around them. Successful Support Engineers have previous experience in supporting or testing LANs, VLANs, VPNs, NAT devices, APIs, DHCP servers, experience installing and solving problems with WiFi networks. Additionally, they also have the ability to multi-task while thinking on their feet.
+
+Responsibilities
+• Effectively work alongside third parties such as partners and customers regarding technical issues and customer service inquiries, primarily over the phone and in writing.
+• Diagnose and solve wireless, security, switching, and other various network-related issues reported by Cisco Meraki customers and partners.
+• Own each customer case from initial creation to resolution.
+• Collaborate with other support team members to fix network outages, incorrect configurations, and sophisticated networking issues on customers' devices.
+• Read and analyze packet captures using Wireshark.
+• Work with our engineering and product management teams to diagnose and resolve critical, escalated issues.
+• Understand and use Linux console commands to identify and resolve issues with Meraki devices and Meraki Dashboard services.
+• Use acquired knowledge to suggest, edit, and write in-depth Knowledge Base articles.
+• Stay up to date on Meraki features and technology by completing instructor-led and self-paced training modules.
+
+Qualifications
+• A foundational understanding of and firsthand experience with network technologies including firewalls, content filters, routing/switching, VLANs, VPNs, and 802.11a/b/g/n/ac wireless.
+• Detailed and thorough comprehension of networking protocols including TCP, STP, ARP, Ethernet, OSPF, etc.
+• Experience supporting or testing LANs, VLANs, 802.11 wireless networks, VPNs, NAT devices, & DHCP servers.
+• Outstanding written and verbal communication skills.
+• Ability to clearly and concisely articulate both technical and non-technical concepts to third parties.
+• Outstanding customer service skills.
+• Bilingual in English/Spanish is a must. Portuguese fluency is a bonus.
+• Excellent time management, follow-through, and attention to detail.
+• Experience in computer networking-related problem solving, critical thinking, and troubleshooting.
+• Ability to multitask and work under stress.
+• Working towards or have a bachelor's degree in Computer Information Technology, Information and Computer Technology, Networking and IT Security, or a related field.
+• Networking certifications a plus: CCNA, CCNP, CWNA, etc.
+
+Why Cisco Meraki:
+
+We connect everything: people, processes, data, and things. We innovate everywhere, taking ambitious risks to craft the technologies that give us connected cities, connected cars, and handheld hospitals. And we do it in style with unusual personalities who aren't afraid to change the way the world works, lives, plays and learns. We are encouraging leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars! We celebrate the creativity and diversity that fuels our innovation. We are dreamers and we are doers. We Are Cisco Meraki.
+
+At Cisco Meraki, we're challenging the status quo with the power of diversity, inclusion, and collaboration. When we connect different perspectives, we can imagine new possibilities, encourage innovation, and release the full potential of our people. We're building an employee experience that includes appreciation, belonging, growth, and purpose for everyone.
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+Message to applicants applying to work in the U.S.:
+
+When available, the salary range posted for this position reflects the projected hiring range for new hire, full-time salaries in U.S. locations, not including equity or benefits. For non-sales roles the hiring ranges reflect base salary only; employees are also eligible to receive annual bonuses. Hiring ranges for sales positions include base and incentive compensation target. Individual pay is determined by the candidate's hiring location and additional factors, including but not limited to skillset, experience, and relevant education, certifications, or training. Applicants may not be eligible for the full salary range based on their U.S. hiring location. The recruiter can share more details about compensation for the role in your location during the hiring process.
+
+U.S. employees have access to quality medical, dental and vision insurance, a 401(k) plan with a Cisco matching contribution, short and long-term disability coverage, basic life insurance and numerous wellbeing offerings. Employees receive up to twelve paid holidays per calendar year, which includes one floating holiday, plus a day off for their birthday. Employees accrue up to 20 days of Paid Time Off (PTO) each year and have access to paid time away to deal with critical or emergency issues without tapping into their PTO. We offer additional paid time to volunteer and give back to the community. Employees are also able to purchase company stock through our Employee Stock Purchase Program.
+
+Employees on sales plans earn performance-based incentive pay on top of their base salary, which is split between quota and non-quota components. For quota-based incentive pay, Cisco pays at the standard rate of 1% of incentive target for each 1% revenue attainment against the quota up to 100%. Once performance exceeds 100% quota attainment, incentive rates may increase up to five times the standard rate with no cap on incentive compensation. For non-quota-based sales performance elements such as strategic sales objectives, Cisco may pay up to 125% of target. Cisco sales plans do not have a minimum threshold of performance for sales incentive compensation to be paid.",False,1686331222,2023-06-09T17:20:22.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=jcTkYKZXrD-6nNv8AAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Support engineer,en,15115200,4,3342,Communications Equipment Manufacturing,
+5QZ5j_9nYH9F8SfBAAAAAA==,ThousandEyes,https://pbs.twimg.com/profile_images/1674929360669917185/RodzH3gN_400x400.png,http://www.thousandeyes.com,Information,Greenhouse,FULLTIME,Network Support Engineer,https://boards.greenhouse.io/thousandeyes/jobs/5695255,False,0.76,"[{'publisher': 'Greenhouse', 'apply_link': 'https://boards.greenhouse.io/thousandeyes/jobs/5695255', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=47f6621f4fa55628', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/network-support-engineer-thousandeyes-JV_IC5017436_KO0,24_KE25,37.htm?jl=1009122841811', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/network-support-engineer-thousandeyes-JV_IC5017436_KO0,24_KE25,37.htm?jl=1009122841811', 'is_direct': True}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/GjJl9DYFfBAINj428Ugg54qWuNBarbQF6n8dnnZQTbI640R_yuu0sw', 'is_direct': False}]","Who We Are
+
+The name ThousandEyes was born from two big ideas: the power to see things not ordinarily possible and the ability to collect insights from a multitude of vantage points. As the world continues its digital transformation and relies more on cloud services and the Internet, the “network,” which is now both public and private, has become a black box our customers cannot see or understand.
+
+Our Internet and cloud intelligence platform delivers the only collectively powered real-time view of the Internet and private networks, cloud, and SaaS platforms, helping enterprises and service providers identify problems before they impact revenue, damage brand reputation, or halt employee productivity.
+
+In August 2020, Cisco Systems completed the acquisition of ThousandEyes, which now forms the ThousandEyes Business Unit within the Cisco Networking Business Group and is the Network Assurance solution for Cisco across the Cisco Networking Cloud and Cisco Security Cloud. ThousandEyes is also a foundational component of Cisco’s growing Full-Stack Observability (“FSO”) business.
+
+About The Role
+
+We're all familiar with the technology, but have you ever wondered how the Internet actually works? At ThousandEyes, we spend every day working to help customers understand the gotchas of Internet-based service delivery: how to identify problems, how to resolve, and how to avoid them in the future. Our Customer Engineering team is tasked with empowering our customers with ThousandEyes to ease their performance monitoring pains.
+
+If you enjoy variety in job responsibilities, this is the job for you. A day may involve helping a customer identify network loss in an undersea cable, diagnose the cause of a route leak impacting significant portions of internet traffic, scripting an approach to monitoring a website's login flow, spinning up a lab environment to reproduce a strange set of behaviors seen in a customer's environment, saving a company hours of bridge time during a significant outage impacting their infrastructure by finding the smoking-gun in a network outage, or simply helping someone understand the way that our applications work. The job is highly variable and requires both the ability to make data-driven decisions, and draw conclusions based on incomplete information. We're looking for out-of-the-box thinkers who can complement and extend the already formidable talents of our Customer Enablement organization.
+• ** We are looking for candidates who are already based in Mexico or Mexico City***
+
+What You’ll Do
+• Timely interaction with customers and internal teams requesting support via online-chat, email and phone
+• Take ownership of technical issues, working with cross-functional teams to document problem definition, troubleshooting procedures, and resolution steps
+• Take ownership of customer support forum and keep information current on best practices with ThousandEyes
+• Active participation in 24x7 Support Coverage model
+• Identify process & workflows ripe for improvement or automation
+
+Qualifications
+• A standout ""customer first"" attitude
+• Bachelor’s degree in Computer Science or a related field, or equivalent working experience
+• At least 2 year working in a customer-facing role
+• Firm grasp of network and application protocols (Cisco/Juniper certification strongly preferred - CCNA/DEVNET/JNCP, etc. )
+• Experience with Cloud/SaaS software products is highly desirable
+• Familiar with core networking principles - TCP/IP, DNS, web technologies, proxies and VoIP
+• Working knowledge of virtualization technology - containers, virtualBox, VMware, HyperV, Xen
+• Working knowledge in security - authentication, permissions, SSO
+• Knowledge of one computer languages and programming (Java, Python, XML, RESTAPI) frameworks desirable
+• Experience with the administration of Linux based Operations Systems a plus
+• Experience in technical writing is a plus
+• Ability to prioritize & complete tasks in a timely fashion
+• Ability to communicate clearly and concisely to technical and non-technical users
+• Proven troubleshooting and problem-solving skills
+
+Cisco values the perspectives and skills that emerge from employees with diverse backgrounds. That's why Cisco is expanding the boundaries of discovering top talent by not only focusing on candidates with educational degrees and experience but also placing more emphasis on unlocking potential. We believe that everyone has something to offer and that diverse teams are better equipped to solve problems, innovate, and create a positive impact.
+
+We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification. Research shows that people from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy. We urge you not to prematurely exclude yourself and to apply if you're interested in this work.
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.",False,1707436800,2024-02-09T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=5QZ5j_9nYH9F8SfBAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Support engineer,en,15115200,4,511210,Software Publishers,
+ERHST55ED6Ow67edAAAAAA==,NXP Semiconductors,https://www.nxp.com/resources/images/nxp-logo.svg,http://www.nxp.com,Manufacturing,Glassdoor,FULLTIME,IT Support Specialist,"https://www.glassdoor.com/job-listing/it-support-specialist-nxp-semiconductors-JV_IC3486357_KO0,21_KE22,40.htm?jl=1009113431474",False,0.5708,"[{'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/it-support-specialist-nxp-semiconductors-JV_IC3486357_KO0,21_KE22,40.htm?jl=1009113431474', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/efb02e7ff3bdc7ef5d08773e08bce866c', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-IT-Support-Specialist-en-guadalajara-coop107459221', 'is_direct': False}]","Role Overview
+
+The Workplace IT on-site team member addresses all incidents, tasks, and requests assigned to him/her promptly and efficiently.
+
+Job Responsibilities
+• Provides technical support for Infrastructure items and NXP devices within a defined scope. (i.e., data centers, telecommunication rooms, telephony, and PCs)
+• Perform technical activities related to PC lifecycle (Image, configure, deliver, refresh, and retire)
+• Help Personal Computer users troubleshoot problems and perform corrective actions for hardware and software.
+• Collaborate with other IT team members when the problem is beyond his/her capabilities or scope of work.
+• Provide a positive customer experience while addressing client issues, concerns, or questions.
+• Collaborate on administrative activities on-site, such as running inventory, managing stock levels, ordering devices, and following disposal procedures.
+
+Technical skills
+• 3 + years of experience in IT on-site support activities.
+• Advanced knowledge of:
+• Windows-based computers (Imaging, upgrading, troubleshooting, and repairing)
+• Windows operating system and applications
+• Authentication services
+• IT Management Systems (i.e., ServiceNow)
+• General knowledge of:
+• Datacenters and telecommunication infrastructure
+• Fixed telephony systems
+• Network Infrastructure
+
+Soft skills
+• Good verbal communication skills to explain technical problems and solutions to non-technical people.
+• Patience, Empathy, and Understanding of problems and concerns of non-technical clients.
+• Positive vocabulary and kind avoidance of political, religious, or other socially controversial topics
+• Friendly, cordial, and professional attitude
+
+Notes:
+• The job requires 100% On-Site presence during business hours.
+• The job is subject to Company/Area dress code.
+• The job requires flexibility in the workspace assignment (Building and Room within the same site)
+
+More information about NXP in Mexico...",False,1709683200,2024-03-06T00:00:00.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=ERHST55ED6Ow67edAAAAAA%3D%3D,2024-07-20T00:00:00.000Z,1721433600.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support specialist,en,15115100,3,334413,Semiconductor and Related Device Manufacturing,
+Q4urAneGi-xOMJCEAAAAAA==,Entrust,https://www.entrust.com/-/media/entrust/corporate/logo_entrust_lockup.svg?la=en&hash=896A6C2AECD8704CB0D5E2EBA147A9BA,http://www.entrust.com,Information,Adzuna,FULLTIME,Technical Support Specialist,https://www.adzuna.com.mx/details/4634161145,False,0.5382,"[{'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4634161145', 'is_direct': False}]","Career Growth, Flexibility and Collaboration!
+Entrust is dedicated to keeping the world moving safely by enabling trusted identities, payments, and data protection around the globe. Headquartered in Minnesota, we offer our colleagues the ability to work globally, in a flexible and collaborative environment. Our team makes an impact!!
+The Company: Entrust relies on curious, dedicated and innovative individuals whom anticipate the future and provide solutions for a more connected, mobile and secure world. Entrust's technologies and expertise help government agencies, enterprises and financial institutions in more than 150 countries serve and safeguard citizens, employees and consumers.
+We Believe: Securing identities is most effective when we value all identities. We are committed to ensuring that, through diversity and inclusion, the many voices that make up our communities are heard. From unconscious bias training for managers to global affinity groups that create connections both within and across our enterprise, Entrust expects and encourages all individuals to accept and respect one another. And, of course, to be themselves.
+We're looking for a Tech Support Specialist - A* *ve In surgentes Sur, Mexico
+The Technical Support Specialist works with internal and external customers to ensure the smooth and successful implementation of Entrust products. This individual also works with customers to answer questions about and resolve issues with already installed products and solutions. The Technical Support Specialist will perform the accountabilities detailed below and other duties as assigned.
+- We offer flexibility
+- We offer a diverse work environment
+- Futureproof your career with a job in information security
+How you will make an impact:
+Customer Service and Technical Support (50%)
+- Provide 2nd level support to assist customers and technicians with difficult technical issues.
+- High availability for support contact to ensure timely and accurate response to all inquiries.
+- Responds to inquiries for support requests from customers, distributors and Sales people in a timely manner
+- Utilizes phone, email and remote connections to investigate customer issues
+- Diagnoses underlying cause of customer complaints or performance issues
+- Works all customer problems to resolution, escalating to engineering for additional support when needed
+- Performs trace file analysis when needed
+- Ensures demonstrations at industry shows such as Cartes are successful
+- Provide technical support of products and professional services.
+- Analyze customer software/hardware/system needs.
+- Ensure quality of customer service.
+- Provide pre and post-sales support of hardware, software, systems, sub-systems and/or applications to internal and external customers via phone, email and on-site.
+- Support end-user installations, configurations, updates and migrations through problems.
+- Act as direct contact with internal and external customers.
+Implementation Support (35%)
+- Installs customer purchased Smart Card software which may include Instant Financial Issuance, Adaptive Issuance Suite, HSMs , TruCredential and/or custom applications
+- Tests system to ensure all aspects are fully functioning in accordance with the purchase agreement
+- Travels to customer site and works in partnership with Customer Engineer to ensure system is fully functional once installed.
+Training Development & Delivery (15%)
+- Performs training needs analysis for customer projects with defined timelines
+- Interfaces with subject matter experts to develop appropriate training program content and ensure that all course materials reflect current and relevant product features and benefits.
+- Prepares lesson plans, training guides, self-study tools and more, based on detailed needs assessments.
+- Leverages best practices to determine the right format and forum (online course, classroom, hands-on, etc.) to provide enjoyable and meaningful learning experiences.
+- Instructs participants using an appropriate mix of media and methods including but not limited to classroom presentations, skill practice activities, web-conferencing, and multimedia self-study.
+- May work with engineering on new product development and product continuation.
+- Provide technical training to customers on products and certification.
+- Provide cross training to other colleagues.
+- Provide technical content for documentation on contracts and manuals.
+Product Knowledge & Development (10%)
+- Attends relevant internal and/or external training programs to keep abreast of changes in Smart Card related technologies.
+- Reads journals or other market sources to ensure knowledge of market changes and or advances.
+Qualifications:
+Basic Qualifications:
+- B.S. Degree in Computer Science, Information Systems, Engineering (Software, Mechanical or Electrical) or Business
+- 3+ years working with software driven hardware.
+- Knowledge of MS Office products and related software programs
+- Unrestricted authorization to work in Mexico.
+- Selected candidate must be able to work from office in Ave Insurgentes Sur. Mexico, DF
+- Proven written and verbal English and Spanish communications skills.
+- Ability to work on a continuous on-call basis 24/7
+Preferred Qualifications:
+- Knowledge of: Windows Server 2016/2019/2022; Web servers (e.g., IIS, Apache); LDAP directories (e.g., Active Directory, Sun One Directory Server); Array disk SCSI; Data bases (e.g., Oracle); Networking (TCP/IP, routers, firewalls, load balancers); Application servers (e.g., WebSphere, WebLogic, Tomcat)
+- 2+ years' experience developing and delivering technical training
+- Knowledge of project management tools and techniques
+- Professional technical certification such as A+, MCSA, MCSE or similar
+- Ability to think analytically, solve problems, make decisions, and collaborate and work with a team.
+- Ability to juggle competing demands and priorities while maintaining strong attention to detail.
+- Experience supporting a global client base.
+- Experience working with Smart Card hardware and software.
+- Systematic and process driven
+- Proven ability to provide exceptional customer service and adapt quickly to new challenges in a fast-paced environment.
+- US VISA (or eligible to a US VISA)
+- Written and verbal Portuguese communications skills
+- Able to travel: 15% - 25% of the time throughout the America.
+Why Should You Apply?
+- Leader in the security industry
+- Friendly, supportive & knowledgeable teams
+- Opportunities for on-the-job training
+- You'll help secure identities!
+For more information, visit www.entrust.com (http://www.entrustdatacard.com/) . Follow us on LinkedIn (https://www.linkedin.com/company/entrust/) , Facebook (https://www.facebook.com/DiscoverEntrust/) , Instagram (https://www.instagram.com/discoverentrust/) , and YouTube (https://www.youtube.com/channel/UCsSZJjR1jryt134rkhK5Mhg) .
+#LI-XT1
+For US roles, or where applicable:
+Entrust is an EEO/AA/Disabled/Veterans Employer
+For Canadian roles, or where applicable:
+Entrust values diversity and inclusion and we are committed to building a diverse workforce with wide perspectives and innovative ideas. We welcome applications from qualified individuals of all backgrounds, and we strive to provide an accessible experience for candidates of all abilities.
+If you require an accommodation, contact accessibility@entrust.com _._
+Recruiter:
+Xochitl Ticas Lara
+Xochitl.TicasLara@entrust.com
+Entrust keeps the world moving safely by enabling trusted experiences for identities, payments, and data. We offer an unmatched breadth of solutions that are critical to enabling the future of secure data and networks and protecting trusted customer and citizen interactions. With more than 2,800 colleagues, a network of global partners, and customers in over 150 countries, it's no wonder the world's most entrusted organizations trust us.",False,1712038108,2024-04-02T06:08:28.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=Q4urAneGi-xOMJCEAAAAAA%3D%3D,2024-04-17T09:59:46.000Z,1713347986.0,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Support specialist,en,15115100,3,511210,Software Publishers,
+12ZowsDkTNHArccQAAAAAA==,Prometeo Talent,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzGB0Unf023_Oozt0WiYM5fDECWDcK0F4TEsL&s=0,,,Drjobpro.com,FULLTIME,IT Support Specialist Guadalajara,https://www.drjobpro.com/jobs/it-support-specialist-guadalajara-jobs-in-tlaquepaque-mexico-in-prometeo-talent-2497007,False,0.5449,"[{'publisher': 'Drjobpro.com', 'apply_link': 'https://www.drjobpro.com/jobs/it-support-specialist-guadalajara-jobs-in-tlaquepaque-mexico-in-prometeo-talent-2497007', 'is_direct': False}]","Introduction
+
+Hey there! At Prometeo Talent we aim to connect exceptional talents like you with innovative leaders in the industry. We are delighted to introduce our client a company that provides appropriate solutions to scale optimize and transform their commercial operations with personalized participation models to mediumsized companies.
+
+We invite you to read this positions details and then apply
+
+Position Overview
+Were currently looking for a Tech Support to join the team. Your main responsibilities will be:
+• Provide advanced technical assistance to endusers resolving intricate hardware and software issues.
+• Address escalated help desk tickets and deliver timely resolutions.
+• Collaborate with Level 1 support for efficient problem resolution.
+• Manage and uphold enduser computing environments including desktops laptops and mobile devices.
+• Perform regular health checks updates and optimizations for enduser systems.
+• Apply intermediatelevel networking knowledge to troubleshoot connectivity issues.
+• Assist in configuring and managing network devices such as routers switches and wireless access points.
+• Conduct training sessions for endusers on advanced IT procedures and tools.
+• Develop comprehensive user guides and documentation for Level 1 support and endusers.
+• Implement and monitor security measures at the enduser level including antivirus software firewalls and encryption (experience is a plus).
+
+Required Experience/Skills:
+• Bachelors degree in Information Technology Computer Science or a related field.
+• 5 to 7 years of experience in enduser support and IT Systems Administration.
+• Basic understanding of intermediate networking concepts.
+• Certifications such as ITIL Foundation or higher Microsoft Certified: Modern Desktop Administrator Associate and Azurerelated certifications are advantageous.
+• English level
+
+Enjoy great benefits
+• Competitive salary
+• Health insurance
+• Days of paid vacation per year
+• Hybrid work
+• Mexico holidays
+• Christmas bonus",False,1707004800,2024-02-04T00:00:00.000Z,San Pedro Tlaquepaque,Jal.,MX,20.60252,-103.33616,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=12ZowsDkTNHArccQAAAAAA%3D%3D,2024-05-04T00:00:00.000Z,1714780800.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},Support specialist,en,15115100,3,,,
+7ZJDVTef6JmphjaEAAAAAA==,Baubap,,http://www.baubap.com,,Ominee,FULLTIME,Senior IT Support Specialist,https://ominee.com/en/job-ad/post/65c15eb5829ae721368de17e/senior-it-support-specialist_job,True,0.4832,"[{'publisher': 'Ominee', 'apply_link': 'https://ominee.com/en/job-ad/post/65c15eb5829ae721368de17e/senior-it-support-specialist_job', 'is_direct': True}]","About BaubapWe are a fast-growing, Mexican fintech startup with the mission to become the bridge to people's financial freedom through technology.We are providing microloans to people in financial need through a fast and efficient process, always treating them with the respect and dignity they deserve.Our long-term vision is to become the largest inclusion bank in LATAM by 2030.About your role As an IT Support Specialist at Baubap, your mission is to ensure seamless access and effective functioning of our technological infrastructure. You'll manage critical tools, integrate mobile device management systems, and automate onboarding/offboarding processes. Your role is vital in maintaining our technological backbone, focusing on efficient, secure operations. You'll handle technical issues, support internal team needs, and contribute to enhancing our service request platform.Outcomes Efficient management and security of access to internal technological platforms.Effective implementation and maintenance of device management solutions.Streamlined automation of employee lifecycle processes.Quick resolution of technical issues and hardware management.Ensuring seamless technical support for the Baubap internal team.Effective management and enhancement of the internal service request platform.Maintaining optimal operation of computer systems and networks.Take charge of the IT knowledge management initiative aimed at upkeeping the self-service knowledge base for all internal usersDay to day Managing access to various technological platforms.Implementing and maintaining device management systems.Automating employee lifecycle processes.Addressing daily team requests through our service request platform, ensuring its functionality and continuous improvement.Installing, configuring, and maintaining hardware and software.Requirements 5+ years of experience in IT HelpDeskExperience in IT support, particularly in access and device management.Strong working knowledge of Apple systems and softwareStrong skills in troubleshooting, network management, and system security.Ability to troubleshoot and resolve technical issues efficiently.Excellent communication skills and the ability to explain technical concepts to non-technical team members.Remote Access, VPN & VDINice to have:Certifications in IT management or related fields.Experience in training program development and implementation.Specific expertise in areas like cloud computing, database management, and network security.Your skills Clear and transparent communication. You are able to able to express your thoughts clearly, concisely and to the point. You can openly discuss any blockers you have, and constructively point out areas for improvement.Relentlessly resourceful at execution and problem solving. You make things happen, no matter what. You are disciplined, organized and systematically follow through on your work. Instead of getting stuck thinking ""well, this doesn't work"", you look for creative / innovative / outside-of-the-box solutions to fix the issue and move on.Sense of urgency. You operate with a constant sense of urgency (as if there was a large, hungry wolf chasing you), constantly looking for ways to move ahead and push everything around you to get to your desired outcome in the most efficient and productive way. You don't wait around and make things happen.Flexibility / adaptability / resilience. You can maintain your composure and focus despite the constantly changing environment, and adequately adapt to new conditions. You can swiftly change the course of action when needed, and you don't get easily demotivated.Being self-driven /committed. You require very little guidance and intervention from your leader to move ahead. You can correctly read what the situation requires, and take the necessary action accordingly. If your leader were to disappear, you can still move ahead and make relevant things happen. You act because you want to, and not because someone else is telling you that you should.Strategic thinking / seeing the bigger picture. You can see further than just your immediate ""doorstep"". You can correctly assess the deeper implications of certain decisions that might materialise in the future, and take decisions accordingly. You often use data or previous research to inform your recommendations and decisions.Critical / analytical thinking. You can correctly analyse the root causes of a problem, without getting side-tracked by irrelevant, minor details. You can come to the right conclusion and propose a clear, logical plan of action. You don't stay on the surface of things.Helping others succeed / strong stakeholder focus. While tackling the responsibilities on your plate, you are constantly thinking ""How will this impact the other party? Am I doing the absolute best I can to offer excellent support / service? What more could I do to help the other side achieve their goal or grow? Am I optimising for myself, or for the common good?""What we can offer youBeing part of a multinational, highly driven team of professionals.Flexible and remote working environment.High level of ownership and independence.20 vacation days / year + 75% holiday bonus.1 month (proportional) of Christmas bonus.""Vales de despensa"" - 3257.10 MXN / month.Health & Life insurance.Home office set-up budget.Unlimited budget for Kindle books.Baubap Free Loan.Competitive salary.",False,1707091200,2024-02-05T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=7ZJDVTef6JmphjaEAAAAAA%3D%3D,2024-04-07T00:00:00.000Z,1712448000.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}","['Financial technology', 'MOST', 'Party', 'Stakeholder', 'Express', 'Integrate', 'Vision', 'FOCUS (programming language)', 'GOAL', 'AutoMate', 'IT Management', 'Impact', 'ACT', 'Things', 'FreeDOM', 'Details', 'Financial Information eXchange', 'ROOT', 'Vision Commerce Suite', 'Research', 'Data', 'Cloud (meteorology)', 'Effective', 'Absolute (perfumery)', 'Hardware design', 'Startup', 'Self service restaurant', 'Office', 'Apple', 'Bridge', 'Plate (dishware)', 'Bank', 'Development', 'Wolf', 'Infrastructure', 'Expertise', 'Security', 'Mobile phone', 'Acceptance and commitment therapy', 'Efficiency', 'Commercial offer', 'Fast', 'Apple', 'Computer', 'Hardware (computer)', 'Computer program', 'Manufacturing or operations', 'Computer Information System', 'Knowledge management (KM)', 'Communication', 'Box', 'Automation', 'Network administration', 'Management', 'Teamwork', 'Communication skills', 'Autonomous maintenance', 'Maintenance', 'Technical Support', 'Box.net', 'Database Administration', 'Cloud Computing', 'Budget', 'Initiative', 'Adaptability', 'Creativity', 'Decision Making', 'Leadership', 'Virtual private network (VPN)', 'Computer Network', 'Backbone.js', 'Inform', 'Microsoft Access', 'Microsoft Office']","{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},Support specialist,en,15115100,3,,,
+wvyFuumEgjCE-Yg1AAAAAA==,ThousandEyes,https://pbs.twimg.com/profile_images/1674929360669917185/RodzH3gN_400x400.png,http://www.thousandeyes.com,Information,Greenhouse,FULLTIME,Network Support Lead,https://boards.greenhouse.io/thousandeyes/jobs/5784060,False,0.7598,"[{'publisher': 'Greenhouse', 'apply_link': 'https://boards.greenhouse.io/thousandeyes/jobs/5784060', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/network-support-lead-thousandeyes-mexico-cisco-systems-JV_IC5017436_KO0,40_KE41,54.htm?jl=1009159673696', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=a75df094f7069a63', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4597219614', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18238150-network-support-lead-%7C-thousandeyes-%28mexico%29/', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/214b8cdeb3ee75fbb2da0a0a02689ea1', 'is_direct': False}, {'publisher': 'RecruitMilitary', 'apply_link': 'https://my.recruitmilitary.com/job/43004865/Network-Support-Lead-ThousandEyes-Mexico-Cisco-Systems-Inc-Mexico-D-F-DF', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/network-support-lead-thousandeyes-mexico-cisco-systems-JV_IC5017436_KO0,40_KE41,54.htm?jl=1009159673445', 'is_direct': False}]","Must reside in Mexico City
+
+Who We Are
+
+The name ThousandEyes was born from two big ideas: the power to see things not ordinarily possible and the ability to collect insights from a multitude of vantage points. As the world continues its digital transformation and relies more on cloud services and the Internet, the “network,” which is now both public and private, has become a black box our customers cannot see or understand.
+
+Our Internet and cloud intelligence platform delivers the only collectively powered real-time view of the Internet and private networks, cloud, and SaaS platforms, helping enterprises and service providers identify problems before they impact revenue, damage brand reputation, or halt employee productivity.
+
+In August 2020, Cisco Systems completed the acquisition of ThousandEyes, which now forms the ThousandEyes Business Unit within the Cisco Networking Business Group and is the Network Assurance solution for Cisco across the Cisco Networking Cloud and Cisco Security Cloud. ThousandEyes is also a foundational component of Cisco’s growing Full-Stack Observability (“FSO”) business.
+
+About The Role
+
+The Leader, Customer Engineering role is a player/coach role of a post-sales support team. You will be responsible for building and leading outstanding support team. In addition to your management responsibilities, you’ll need to be able to carry your own weight from a technical perspective.
+
+As a Customer Engineering Support manager, you will get to help build a new and important team. You’re also able to establish relationships with peer groups across the organization, including Product, Engineering, and various teams in the sales organization. You’re highly organized: able to seamlessly transition between projects and initiatives, and able to drive continuous progress on projects across your team. You’re also responsible for cultivating the experience of your team members - providing guidance to, and mentoring team members on critical skills development needed for driving longer term, valuable careers.
+
+What You’ll Do
+• Team Building - recruit, hire and onboard new team members.
+• Day-to-Day management of the regional support team.
+• Report metrics on workload volume to upper management and executive team.
+• Build, implement and improve internal reporting, and other processes to optimize team productivity, identify trends, team and product enhancement opportunities.
+• Coordinating handoff of ongoing issues to the next geographical region.
+• Assume the role of escalation manager and ensure timely communication to all stakeholders for escalated issues with a high-impact, or strategic visibility.
+• Mentor and develop team members to enhance and improve their skill-set and performance. Ensure training and enablement is a continuous process.
+• Establish and develop collaborative relationships with internal teams, external partners, and customers. Collaborating with Sales and Engineering to address product issues and identify workarounds & solutions.
+• Partner with customers to help investigate and diagnose network, and internet connectivity problems.
+
+Qualifications
+• A standout ""customer first"" attitude.
+• Minimum 7 years of working directly with customers in Technical Support Team.
+• Bachelor’s degree in computer science or a related field, or equivalent working experience
+• Excellent presentation skills coupled with a strong leadership presence.
+• Excellent time & project management skills, with a focus on delivery.
+• Committed to creating and developing a high-performing team that drives real additional value for both internal, and external customers.
+• Firm grasp of network and application protocols (Cisco/Juniper certification strongly preferred - CCNA/JNCP, etc)
+• Experience with Cloud/SaaS software products is highly desirable.
+• Excellent verbal and written communication skills and the ability to work effectively in a team environment.
+• Initiative and desire to learn new skills/technologies and remain up to date with the latest trends, real passion for problem-solving.
+
+Cisco values the perspectives and skills that emerge from employees with diverse backgrounds. That's why Cisco is expanding the boundaries of discovering top talent by not only focusing on candidates with educational degrees and experience but also placing more emphasis on unlocking potential. We believe that everyone has something to offer and that diverse teams are better equipped to solve problems, innovate, and create a positive impact.
+
+We encourage you to apply even if you do not believe you meet every single qualification. Not all strong candidates will meet every single qualification. Research shows that people from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy. We urge you not to prematurely exclude yourself and to apply if you're interested in this work.
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.",False,1710201600,2024-03-12T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=wvyFuumEgjCE-Yg1AAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': True}",False,,,,,{},,en,15115200,4,511210,Software Publishers,
+iAwcnD2NdLA5VXeiAAAAAA==,Bumeran México,,,,Talent.com,FULLTIME,Help Desk Support Specialist,https://mx.talent.com/view?id=f3149445e499,False,0.4795,"[{'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=f3149445e499', 'is_direct': False}]","Help Desk Senior Representative Help desk support specialists are the go-to people for providing technical assistance and support related to computer systems, hardware, and software.
+
+They are responsible for answering queries and addressing system and user issues in a timely and professional manner. Help desk support works with the IT team, and will often interact with system and computer users across the company.
+
+The help desk team will train users on basic system and computer functions. Understanding and proactively maintaining daily system performance, having the ability to troubleshoot customer problems, and innate follow-up and follow-through skills are all essential aspects of the help desk support’s day-to-day role.
+
+Duties & Responsibilities : The day-to-day tasks of a help desk support team vary depending on the needs of the users or systems on a given day.
+
+Help desk support personnel can plan for upgrades, updates, and maintenance tasks, but there will always be unexpected issues that arise in a given day.
+
+Monitor and respond quickly to incoming requests relate to IT issues. Maintain computer systems and act as support if any system goes down.
+
+Responsible for PC’s, Printers, Servers and related equipment (monitor, keyboard, mouse, hard drive, etc). Maintain user PCs, including upgrades and configuration as needed.
+
+Assist with onboarding of new users. Keep inventory of all equipment, software, and license users. Install, configure, and upgrade PC software.
+
+Skills Help desk support teams are patient task managers who know how to find or create solutions to unexpected problems General awareness of computer systems, PC repair, and network management Resourcefulness and quick-thinking nature to troubleshoot new and critical technical issues as they arise.
+
+Ability deploy, configure, and support operating systems on desktop and mobile Understanding and appreciation for information security within systems and user devices.
+
+Strong drive to provide excellent customer service and experience, with an awareness of prioritization of tasks, stakeholders, budget, and time.
+
+Proficient written and spoken communication with strong generalist skill set with SaaS platforms (Salesforce & ServiceNow).
+
+Clutch-decision making over Service Desk Process. Detail-oriented & Self-driven. About You Proficient in English(main) and Spanish.
+
+High-school or equivalent as minimum. Schedule flexibility. (And availability to, if needed, work on weekends and / or holidays) Experience with ticketing tools and effectively documenting interactions.
+
+An IT environment and / or IT Service Desk experience is a strong plus. At least 2 years in a customer service role Ability to apply negotiation and conflict resolution skill to difficult customer calls Empathetic, flexible and team-oriented personality.
+
+Strong knowledge of running a Service Desk & ticket management (Salesforce & ServiceNow) Strong knowledge in Salesforce & ServiceNow Strong knowledge in data analysis, SaaS Management, SLA & O365 Admin Strong knowledge in Disaster Recovery Plan (SaaS platforms) *We are an equal opportunity employer and value diversity at our company.
+
+We do not discriminate on the basis of race, religion, color, national origin, gender, including gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status.
+
+Interested candidates may apply via Bumeran and our HR will get in touch with you for more details.",False,1711584000,2024-03-28T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=iAwcnD2NdLA5VXeiAAAAAA%3D%3D,2024-06-29T00:00:00.000Z,1719619200.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support specialist,en,15115100,3,,,['3512.3']
+m862zKYiwGtuvZ3qAAAAAA==,Welocalize,https://www.parkip.com/wp-content/themes/welocalize/images/park-logo-orange.svg,http://www.welocalize.com,Information,Lever,FULLTIME,Senior Technical Support Specialist,https://jobs.lever.co/welocalize/4ea36db4-a994-4597-8d24-82bd0fa6fea8,False,0.7382,"[{'publisher': 'Lever', 'apply_link': 'https://jobs.lever.co/welocalize/4ea36db4-a994-4597-8d24-82bd0fa6fea8', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/senior-technical-support-specialist-monterrey-nuevo-leon-welocalize-4ea36db4-a994-4597-8d24-82bd0fa6fea8', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=3c3111bc21ae', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/5d40cc8f789c916ed4bce77eca88c642', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Senior-Technical-Support-en-monterrey-coop106819770', 'is_direct': False}]","As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welocalize delivers high-quality training data transformation solutions for NLP-enabled machine learning by blending technology and human intelligence to collect, annotate, and evaluate all content types. Our team works across locations in North America, Europe, and Asia serving our global clients in the markets that matter to them. www.welocalize.com
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+The Senior Technical Support Specialist is a crucial member of the Global Talent Community team, responsible for spearheading knowledge dissemination and strategic planning regarding programs and initiatives. They will take charge of projects and ensure their successful implementation. Serving as a strategic leader, they will drive the strategy within their designated focus area and provide valuable insights for decision-making processes. Constant innovation in both their work methods and team collaboration is a key aspect of their role. They are expected to embody the Welocalize Four Pillars of Customer Service, Quality, Innovation, and Global Teamwork in all their endeavors.
+
+The ideal candidate will have a strong background in text-based support, having worked as an agent proficient in resolving tickets, recognizing process improvements, and showcase critical thinking skills while handling change management. They will offer exceptional customer service to our global supplier base, predominantly utilizing our ticketing and knowledge management system, Zendesk.
+
+Main Duties
+• Provide fast, efficient text based support solving various platform issues.
+• Recognizing and reporting on support trends and helping problem solve solutions.
+• Uphold the Welocalize brand and 4 Pillars of Customer Service, Quality, Innovation, and Global Teamwork.
+• Demonstrate ownership of functional area when creating business cases to support talent initiatives
+• Represent the company and the Welocalize brand
+• Innovate strategies for the owned functional project
+• Support functional strategy definition and implementation (online and offline)
+• Provide analysis and valuable results from all initiatives
+• Act as escalation point for issues with team members or within the function
+• Ability to have technical conversations and use data to drive change in other departments
+
+Requirements
+• Bachelor's degree (B. A.) from a college or university in related field, or equivalent combination of education and experience.
+• Minimum of 3 years of relevant experience
+• Experience with Zendesk or other support management system. Demonstrated proficiency in using Zendesk or similar customer support platforms for ticket management, knowledge base creation, and reporting.
+• Experience in a customer support role, solving issues at speed and scale. Ability to handle customer inquiries, complaints, and escalations professionally and efficiently.
+• Experience in a fast-paced, client-centric environment, ability to adapt to business needs
+• Taking the initiative to proactively assess and mitigate risks
+• Ability to prioritize ongoing projects based on business needs and urgencies that arise
+• Fluency in written and verbal English
+• Strong computer literacy, MS Office, e-mail, internet
+
+Key Competencies
+• Ability to stay organized and informed in such an environment
+• Good communication skills, attention to detail, and self-driven with the ability to meet tight deadlines
+• An objective, problem-solving mindset, mental flexibility and a “can do” attitude, possessing a solution-oriented approach to every challenge
+• Enjoys working in a team and derives energy from being within a team, while contributing to the team's success
+• Team player with the ability to problem-solve and show initiative
+• Believes in teamwork and the goal of contributing to the whole team's success
+• Proven ability to learn new processes and tools",False,1606867200,2020-12-02T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=m862zKYiwGtuvZ3qAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Support specialist,en,15115100,3,5112,Software Publishers,
+tNX-A5mInviYGRsGAAAAAA==,Medium,,,,BeBee México,FULLTIME,Senior Technical Support Specialist,https://mx.bebee.com/job/ce33097019d0b327b05ba53daedfc3f9,False,0.5674,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/ce33097019d0b327b05ba53daedfc3f9', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/senior-technical-support-specialist-guadalajara-jalisco-welocalize-4ea36db4-a994-4597-8d24-82bd0fa6fea8', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=bf4dafa23be6', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/senior-technical-support-specialist-guadalajara-welocalize-bf4dafa23b/', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Senior-Technical-Support-en-guadalajara-coop106834840', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1270-3f88db02bd70edf8f58b398da1aad5c0', 'is_direct': False}, {'publisher': 'Jobrapido.com', 'apply_link': 'https://mx.jobrapido.com/jobpreview/316454044', 'is_direct': False}]","As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welocalize delivers high-quality training data transformation solutions for NLP-enabled machine learning by blending technology and human intelligence to collect, annotate, and evaluate all content types. Our team works across locations in North America, Europe, and Asia serving our global clients in the markets that matter to them.
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+The Senior Technical Support Specialist is a crucial member of the Global Talent Community team, responsible for spearheading knowledge dissemination and strategic planning regarding programs and initiatives. They will take charge of projects and ensure their successful implementation. Serving as a strategic leader, they will drive the strategy within their designated focus area and provide valuable insights for decision-making processes. Constant innovation in both their work methods and team collaboration is a key aspect of their role. They are expected to embody the Welocalize Four Pillars of Customer Service, Quality, Innovation, and Global Teamwork in all their endeavors.
+
+The ideal candidate will have a strong background in text-based support, having worked as an agent proficient in resolving tickets, recognizing process improvements, and showcase critical thinking skills while handling change management. They will offer exceptional customer service to our global supplier base, predominantly utilizing our ticketing and knowledge management system, Zendesk.
+Main Duties
+• Provide fast, efficient text based support solving various platform issues.
+• Recognizing and reporting on support trends and helping problem solve solutions.
+• Uphold the Welocalize brand and 4 Pillars of Customer Service, Quality, Innovation, and Global Teamwork.
+• Demonstrate ownership of functional area when creating business cases to support talent initiatives
+• Represent the company and the Welocalize brand
+• Innovate strategies for the owned functional project
+• Support functional strategy definition and implementation (online and offline)
+• Provide analysis and valuable results from all initiatives
+• Act as escalation point for issues with team members or within the function
+• Ability to have technical conversations and use data to drive change in other departments
+Requirements
+• Bachelor's degree (B. A.) from a college or university in related field, or equivalent combination of education and experience.
+• Minimum of 3 years of relevant experience
+• Experience with Zendesk or other support management system. Demonstrated proficiency in using Zendesk or similar customer support platforms for ticket management, knowledge base creation, and reporting.
+• Experience in a customer support role, solving issues at speed and scale. Ability to handle customer inquiries, complaints, and escalations professionally and efficiently.
+• Experience in a fast-paced, client-centric environment, ability to adapt to business needs
+• Taking the initiative to proactively assess and mitigate risks
+• Ability to prioritize ongoing projects based on business needs and urgencies that arise
+• Fluency in written and verbal English
+• Strong computer literacy, MS Office, e-mail, internet
+Key Competencies
+• Ability to stay organized and informed in such an environment
+• Good communication skills, attention to detail, and self-driven with the ability to meet tight deadlines
+• An objective, problem-solving mindset, mental flexibility and a ""can do"" attitude, possessing a solution-oriented approach to every challenge
+• Enjoys working in a team and derives energy from being within a team, while contributing to the team's success
+• Team player with the ability to problem-solve and show initiative
+• Believes in teamwork and the goal of contributing to the whole team's success
+• Proven ability to learn new processes and tools
+#J-18808-Ljbffr",False,1711937851,2024-04-01T02:17:31.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=tNX-A5mInviYGRsGAAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15115100,3,,,
+TH-tEw1ulGYeAebjAAAAAA==,NTT DATA Services,https://www.nttdata.com/jp/ja/-/media/nttdatajapan/images/news/release/2022/082500/082500-01.png?la=ja-jp&hash=5325A3858BA7CD912B3FA5B285C60638647319CC,http://www.nttdata.com,,BeBee México,FULLTIME,L2 Support Specialist,https://mx.bebee.com/job/21999a8ff109613347ac70ef361c589d,False,0.5565,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/21999a8ff109613347ac70ef361c589d', 'is_direct': False}, {'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=e57de14a8b20', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/l2-support-specialist-ciudad-apodaca-ntt-data-services-e57de14a8b/', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240314-b2ac266ff45180bcb8b2747155e1084f', 'is_direct': False}]","Req ID:
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a L2 Support Specialist to join our team in Remote, México (MX-MEX), Mexico (MX).
+
+Actively provide support for resolution of L2 issues with detailed analysis. Also help in code fixes and rigorous testing where required
+Good knowledge of Unix, SQL and scriptng langugages
+Work on supporting Product servers and clients on cutting-edge platforms.
+Contribute to our continuous improvement and continuous delivery
+Continually focus on enhancing the performance of the applications
+Work effectively in collaboration with other team members
+Provide technical feedback and support to Development teams
+Perform detailed RCA of issues in production, and implement corrective actions
+Validated collaboration and communication skills, being able to lead in a global environment
+
+Basic Qualifications:
+3+ years of relevant experience in application Maintenance and Support.
+Unix, SQL and knowledge of other scripting languages
+Knowledge of programming language – preferably Java
+
+#LI-LATAM
+
+About NTT DATA Services
+
+NTT DATA Services is a recognized leader in IT and business services, including cloud, data and applications, headquartered in Texas. As part of NTT DATA, a $30 billion trusted global innovator with a combined global reach of over 80 countries, we help clients transform through business and technology consulting, industry and digital solutions, applications development and management, managed edge-to-cloud infrastructure services, BPO, systems integration and global data centers. We are committed to our clients' long-term success. Visit or LinkedIn to learn more.
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team.",False,1711674212,2024-03-29T01:03:32.000Z,Ciudad Apodaca,N.L.,MX,25.776468,-100.185875,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=TH-tEw1ulGYeAebjAAAAAA%3D%3D,2024-04-06T00:00:00.000Z,1712361600.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15115100,3,,,
+mExvNJ4fwgUbEAijAAAAAA==,NTT DATA,https://www.nttdata.com/jp/ja/-/media/nttdatajapan/images/info/exclusion/logo.gif,http://www.nttdata.com,Computer Services,BeBee México,FULLTIME,L2 Support Specialist,https://mx.bebee.com/job/e5a8d89c2c5822c66b4df80526109288,False,0.5349,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/e5a8d89c2c5822c66b4df80526109288', 'is_direct': False}, {'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=71644ab47925', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/l2-support-specialist-ciudad-apodaca-ntt-data-71644ab479/', 'is_direct': False}]","Req ID:
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a L2 Support Specialist to join our team in Remote, México (MX-MEX), Mexico (MX).
+
+Actively provide support for resolution of L2 issues with detailed analysis. Also help in code fixes and rigorous testing where required
+Good knowledge of Unix, SQL and scriptng langugages
+Work on supporting Product servers and clients on cutting-edge platforms.
+Contribute to our continuous improvement and continuous delivery
+Continually focus on enhancing the performance of the applications
+Work effectively in collaboration with other team members
+Provide technical feedback and support to Development teams
+Perform detailed RCA of issues in production, and implement corrective actions
+Validated collaboration and communication skills, being able to lead in a global environment
+
+Basic Qualifications:
+3+ years of relevant experience in application Maintenance and Support.
+Unix, SQL and knowledge of other scripting languages
+Knowledge of programming language – preferably Java
+
+#LI-LATAM",False,1711934991,2024-04-01T01:29:51.000Z,Ciudad Apodaca,N.L.,MX,25.776468,-100.185875,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=computer+network+support+specialistsin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=computer+network+support+specialistsin+mexico&htidocid=mExvNJ4fwgUbEAijAAAAAA%3D%3D,2024-04-09T00:00:00.000Z,1712620800.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15115100,3,541512,Computer Systems Design Services,

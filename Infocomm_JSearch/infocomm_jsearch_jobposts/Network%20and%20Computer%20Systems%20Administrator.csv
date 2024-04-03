@@ -1,0 +1,547 @@
+job_id,employer_name,employer_logo,employer_website,employer_company_type,job_publisher,job_employment_type,job_title,job_apply_link,job_apply_is_direct,job_apply_quality_score,apply_options,job_description,job_is_remote,job_posted_at_timestamp,job_posted_at_datetime_utc,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_offer_expiration_datetime_utc,job_offer_expiration_timestamp,job_required_experience,job_required_skills,job_required_education,job_experience_in_place_of_education,job_min_salary,job_max_salary,job_salary_currency,job_salary_period,job_highlights,job_job_title,job_posting_language,job_onet_soc,job_onet_job_zone,job_naics_code,job_naics_name,job_occupational_categories
+ME4De9VNgizADFdRAAAAAA==,1210 Kyndryl Mexico S. de R.L. de C.V.,,,,Workday,FULLTIME,Network Administration,https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Network-Administration_R-12328-1,False,0.8673,"[{'publisher': 'Workday', 'apply_link': 'https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Mexico-City-Distrito-Federal-Mexico/Network-Administration_R-12328-1', 'is_direct': False}, {'publisher': 'JobLeads', 'apply_link': 'https://www.jobleads.com/mx/job/e45dc0c1be299b0e5185eeae9534923e9', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/91938497/security-firewall-engineer-g-785-xico/', 'is_direct': False}]","Who We Are At Kyndryl, we design, build, manage and modernize the mission-critical technology systems that the world depends on every day. So why work at Kyndryl? We are always moving forward – always pushing ourselves to go further in our efforts to build a more equitable, inclusive world for our employees, our customers and our communities. The Role Are you a tech-savvy problem-solver with a passion for ensuring optimal network performance? If so, look no further – Kyndryl is seeking a Network Support Specialist who will be the go-to expert for installing, maintaining, and troubleshooting computer networks. As our Network Support Specialist, you'll be working in a complex, multi-vendor environment, and will use your analytical skills to identify and resolve network issues, make configuration changes, and implement security policies. This role requires someone who can think on their feet, test and apply corrective actions (including emergency changes), and participate in change reviews as needed. And with the ever-changing nature of technology, you'll be constantly learning and growing in your role. You will work alongside a talented team of experts to plan and execute routine network changes, troubleshoot and solve network issues and outages, and maintain excellent communication with our end customers, project managers, and service engineers. You’ll be responsible for maintaining network components, monitoring network performance, and maintaining network security. You will also be providing user support for network-related issues, ensuring that our customers receive the highest level of support possible. If you're ready to take on a fast-paced and rewarding role in the world of network support, apply to join the Kyndryl team today! Your Future at Kyndryl Every position at Kyndryl offers a way forward to grow your career. We have opportunities that you won’t find anywhere else, including hands-on experience, learning opportunities, and the chance to certify in all four major platforms. Whether you want to broaden your knowledge base or narrow your scope and specialize in a specific sector, you can find your opportunity here. Who You Are You’re good at what you do and possess the required experience to prove it. However, equally as important – you have a growth mindset; keen to drive your own personal and professional development. You are customer-focused – someone who prioritizes customer success in their work. And finally, you’re open and borderless – naturally inclusive in how you work with others. Required Skills and Experience •Proven knowledge and experience in trouble-shooting, switching, and routing •2+ years of working experience in Networking •Minimum CCNP certification or equivalent knowledge •Experience with Network security, WAN •Working knowledge of ITIL Preferred Skills and Experience •Experience with BGP, Software Defined Networking (SDN) based on Cisco ACI, Checkpoint/Cisco Firepower firewalls, F5 load Balancers, NSX •Experience with Ansible automation Being You Diversity is a whole lot more than what we look like or where we come from, it’s how we think and who we are. We welcome people of all cultures, backgrounds, and experiences. But we’re not doing it single-handily: Our Kyndryl Inclusion Networks are only one of many ways we create a workplace where all Kyndryls can find and provide support and advice. This dedication to welcoming everyone into our company means that Kyndryl gives you – and everyone next to you – the ability to bring your whole self to work, individually and collectively, and support the activation of our equitable culture. That’s the Kyndryl Way. What You Can Expect With state-of-the-art resources and Fortune 100 clients, every day is an opportunity to innovate, build new capabilities, new relationships, new processes, and new value. Kyndryl cares about your well-being and prides itself on offering benefits that give you choice, reflect the diversity of our employees and support you and your family through the moments that matter – wherever you are in your life journey. Our employee learning programs give you access to the best learning in the industry to receive certifications, including Microsoft, Google, Amazon, Skillsoft, and many more. Through our company-wide volunteering and giving platform, you can donate, start fundraisers, volunteer, and search over 2 million non-profit organizations. At Kyndryl, we invest heavily in you, we want you to succeed so that together, we will all succeed. Get Referred! If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address. We’re glad you’re here. Take a look around at the many exciting career opportunities we have available and apply today! Can’t find a suitable job opening? Drop off your CV/Resume Drop off your CV/Resume and a Recruiter will reach out with related career information that match your experience and expertise. Sign up for Job Alerts Create your account and then sign up for job alerts. When new jobs become available that meet your criteria, you’ll be alerted right away! At Kyndryl, curiosity is at the core of innovation. It fuels the most vital need inside us—the need to progress. To be a Kyndryl means standing up for Progress and going all in, fully committing to our customers and their progress. As we grow, our curiosity opens new worlds, new ways of thinking and solving problems. It helps us in our career and to find joy in our work. What sparks your curiosity?",True,1703376000,2023-12-24T00:00:00.000Z,,,MX,23.6345,-102.55279,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=ME4De9VNgizADFdRAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 24, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114200,4,,,
+d2re_gNHQK7KUVLsAAAAAA==,Oracle,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/2560px-Oracle_logo.svg.png,http://www.oracle.com,Information,LinkedIn,FULLTIME,Senior System Administrator,https://mx.linkedin.com/jobs/view/senior-system-administrator-at-oracle-3869441945?refId=ftX59Q03gaiDBqPaGHnNrQ%3D%3D&trackingId=K7hLs6BCo2JLZT1xHVnmJw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card,False,0.7598,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/senior-system-administrator-at-oracle-3869441945?refId=ftX59Q03gaiDBqPaGHnNrQ%3D%3D&trackingId=K7hLs6BCo2JLZT1xHVnmJw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card', 'is_direct': False}, {'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/95262242/senior-system-administrator-cc345-mexico/', 'is_direct': False}]","Job Description
+
+As the Oracle MAA-PE Operations System Administrator, you will be providing Infrastructure support such as imaging, patching, monitoring, system security and maintain tools on Exadata and Oracle hardware platform.
+
+Act as technical liaison for our technical teams. champion standardization, innovate to simplify, increase efficiency while driving down cost. Ensure that the team are delivering quality services and that all SLAs are being met. You will need to understand all aspects of the equipment you support and provide a professional and customer focused service.
+
+Career Level - IC3
+
+Responsibilities
+
+Candidates should have:
+• Degree-level education in one of the following disciplines: [Computer Science / Management Information Systems / Science / Engineering / Mathematics / Physics / Chemistry ]
+• Be able to demonstrate relevant Industry experience of at least 5 years.
+• Excellent System Admin skills in Linux/Unix including commands and shell scripting. OEL/Redhat preferred.
+• Strong analytical/troubleshooting skills supporting the OS, Storage and Hardware for Applications platforms and Database
+• Some NAS and/or SAN Storage administration experience
+• Some understanding of fundamental Network concepts (e.g. Routing, DNS, Firewalls)
+• Excellent oral and written communication skills
+• The ability to work both independently and with members of a global team without close supervision
+• Experience in supporting cloud-base infrastructure a plus (e.g. Oracle OCI Platform)
+• Terraform, Kubernetes, Ansible, Puppet, and other automation skills are a plus
+
+A minimum of 3 years experience and advanced skills in several of the areas listed below:
+• Core OS Services: SSH, SFTP, NFS, DNS, DHCP, LDAP,
+• Scripting in Python or bash
+• Proficient in managing Virtualization technology, KVM preferred
+• Supporting X86 based technology, including fundamental hardware triage skills. Understanding Monitoring and diagnostics to maintain equipment health and reacting appropriately
+• Using Change Control tools to manage the site-service workflow
+• Exposure to Exadata or RAC is desirable
+• Key filesystem concepts – Ext, NFS, HW RAID and SCSI
+• Experience in performance monitoring and capacity management
+• Essential awareness of operations in a secure environment
+• Backup/Restore operations
+• Nice to have installation or administration on Oracle/MySQL Database experiences
+• Basic SQL query and Oracle APEX are a plus
+
+About Us
+
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+When everyone’s voice is heard, we’re inspired to go beyond what’s been done before. It’s why we’re committed to expanding our inclusive workforce that promotes diverse insights and perspectives.
+
+We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.
+
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer a highly competitive suite of employee benefits designed on the principles of parity and consistency. We put our people first with flexible medical, life insurance and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by calling +1 888 404 2494, option one.
+
+Disclaimer:
+
+Oracle is an Equal Employment Opportunity Employer*. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.
+• Which includes being a United States Affirmative Action Employer",True,1711513546,2024-03-27T04:25:46.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=d2re_gNHQK7KUVLsAAAAAA%3D%3D,2024-04-26T04:25:46.000Z,1714105546.0,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114200,4,511210,Software Publishers,
+SndcBli4oLf3S_IUAAAAAA==,Cloudflare,https://images.folloze.com/image/fetch/https://www.cloudflare.com/static/b30a57477bde900ba55c0b5f98c4e524/Cloudflare_default_OG_.png,http://www.cloudflare.com,Information,Greenhouse,FULLTIME,Enterprise Systems Administrator,https://boards.greenhouse.io/cloudflare/jobs/5750100?gh_jid=5750100,False,0.7349,"[{'publisher': 'Greenhouse', 'apply_link': 'https://boards.greenhouse.io/cloudflare/jobs/5750100?gh_jid=5750100', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4589900595', 'is_direct': False}, {'publisher': 'Dream Startup Job', 'apply_link': 'https://dreamstartupjob.com/job/47167/gtm-tools-administrator/', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-867-20240324-6014ed4155b5f6c5e5a6a2a10963a507', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/enterprise-systems-administrator-mexico-city-cloudflare-14e77d17c2/', 'is_direct': False}, {'publisher': 'StartupPlay', 'apply_link': 'https://startupplay.com/job/gtm__tools_administrator_cloudflare_mexico_city_mx_2804101', 'is_direct': False}]","About the department
+
+Cloudflare’s IT Enterprise Applications Team is a crucial pillar of the CIO Organization. The team operates Cloudflare’s enterprise systems end-to-end, providing process cohesiveness across the functional business areas.
+
+Role Overview:
+
+Cloudflare’s Enterprise Applications Team is seeking a dynamic and detail-oriented individual to fill the role of Go-To-Market Systems Administrator. Moreover, the ideal candidate will oversee SaaS license provisioning and management Cloudflare’s Enterprise Applications, look for innovative ways on where we can be efficient with SaaS licenses, perform frequent audits to optimize license usage, and work collaboratively with cross-functional teams to improve the onboarding process for Cloudflare employees.
+
+Key Responsibilities:
+• Oversee and sustain SaaS applications license management, with a particular emphasis on automating provisioning and streamlining onboarding processes in collaboration with IT Operations and Infrastructure teams to improve operational efficiency
+• Be the main point of contact to administer and oversee Enterprise Applications platform access for Sales, Marketing, Finance, Legal and BI departments. (Quip, SalesLoft, ZoomInfo, LinkedIn Sales Navigator, Gainsight and PRM platform)
+• Triage and/or support the operational needs of the Global sales team, as well as Marketing, Finance, Legal, Customer Support, and various internal stakeholders as it relates to Enterprise Applications.
+• Implement and maintain efficient automated processes for user provisioning and de-provisioning across multiple GTM Tools, while maintaining detailed documentation for onboarding and offboarding processes.
+• Use industry standardized tools for vendor and license management such as Zylo, Productiv etc to monitor and manage software license counts and ensure vendor contract compliance and cost-effectiveness on behalf of respective departments.
+• Conduct regular audits to assess license utilization and optimize allocation.
+• Continuously identify opportunities for process optimization and automation within the Go-To-Market systems landscape.
+• Work closely with cross-functional teams to Define,refine and document the employee onboarding process, ensuring a seamless and efficient experience for new joinees.
+• Collaborate with stakeholders to gather requirements and implement solutions that meet business needs while adhering to security and compliance standards.
+
+Qualifications:
+• Bachelor's degree in Computer Science, Information Systems, or a related field.
+• 3+ years Proven experience in system administration, with a focus on access management and automation within a heavily integrated Enterprise Systems landscape.
+• Good understanding of CRM platform, preferably Salesforce.
+• Experience administering integrated tools within the Salesforce ecosystem.
+• Ability to prioritize and manage multiple projects and tasks simultaneously
+• Self-starter and quick learner with the ability to work independently to tackle problems and build out unique scalable solutions
+• Excellent written, verbal communication and presentation skills with the ability to collaborate with diverse teams.
+• Experience working in a fast-paced environment
+• Excellent analytical and problem-solving skills
+• Prior experience with license management and auditing is a plus.",False,1708992000,2024-02-27T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=SndcBli4oLf3S_IUAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 36, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},Systems administrator,en,15114200,4,51121,Software Publishers,
+7pHvAFILU1O4b7zKAAAAAA==,Zoho Recruit EU vía OCCMundial,,,,OCCMundial,FULLTIME,System Administrator - Relocation to the USA,https://www.occ.com.mx/empleo/oferta/18337001-system-administrator---relocation-to-the-usa/,False,0.5734,"[{'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18337001-system-administrator---relocation-to-the-usa/', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4633836835', 'is_direct': False}, {'publisher': 'MX Talent', 'apply_link': 'https://mx.talent.com/view?id=1f814508fd18', 'is_direct': True}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/4b86ba14bac92bba8f9910011f3222a0', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-System-Administrator-en-ciudad-de-m%C3%A9xico-coop107316589', 'is_direct': False}, {'publisher': 'Trabajo.org - Vacantes De Empleo, Trabajo', 'apply_link': 'https://mx.trabajo.org/oferta-1344-dd5ea12e60cd3ca777257713189169e9', 'is_direct': False}, {'publisher': 'Trabajo En México', 'apply_link': 'https://mx.trabajo.bz/view/7350658.html', 'is_direct': False}]","We are offering a significant opportunity for System Administrators to advance their careers in the United States. This role is designed for IT professionals who are passionate about managing and maintaining IT infrastructures, ensuring system efficiency, and enhancing network security in a challenging and dynamic environment.
+Ideal candidates will have a comprehensive background in system administration, exceptional problem-solving skills, and a dedication to supporting and improving IT operations. Role: System Administrator Key Responsibilities: Install, configure, and maintain hardware and software systems, ensuring optimal performance and security. Monitor system performance, troubleshoot issues, and execute necessary maintenance and system upgrades.
+Manage network servers and technology tools, ensuring reliable connectivity and data integrity. Implement and maintain network security measures, including firewalls, backup protocols, and access controls. Support the setup of new users, including configuration of hardware and software access.
+Document system performance, including incident logs and system updates, for future reference and compliance. Collaborate with IT teams to ensure seamless technology integration and support organizational IT needs. Requirements: A Bachelor's degree in Computer Science, Information Technology, or a related field, with a strong foundation in system administration.
+Proven experience as a System Administrator, with a track record of managing and optimizing IT infrastructures. In-depth knowledge of system hardware, software, and networks, including familiarity with operating systems such as Windows, Linux, or UNIX. Strong analytical and problem-solving skills, with the ability to quickly diagnose and resolve system issues.
+Proficient level of English to effectively communicate technical information across diverse teams. Adaptability to new cultural and professional environments, with a proactive approach to continuous learning and IT advancements. Visa processing fees apply.
+Benefits: The opportunity to relocate to the United States, bringing your system administration expertise to one of the most innovative IT markets globally. Comprehensive support throughout the relocation process, including assistance with legal and logistical aspects of moving.
+A competitive salary package, reflecting the critical role of System Administrators in maintaining organizational IT infrastructure. Access to cutting-edge technology and continuous professional development opportunities in a fast-paced IT environment. A collaborative work culture that values innovation, efficiency, and the continuous improvement of IT operations.
+This System Administrator position offers a fantastic opportunity to enhance your career by working in the United States, where you can apply your technical skills, tackle complex IT challenges, and contribute to the success of dynamic IT operations. If youre a skilled System Administrator with a Bachelor's degree and a drive for IT excellence, we encourage you to apply for this transformative role.",False,1712016000,2024-04-02T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=7pHvAFILU1O4b7zKAAAAAA%3D%3D,2024-04-04T00:00:00.000Z,1712188800.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,3000.0,10011.0,MXN,MONTH,{},System administrator,en,15114200,4,,,
+T7oBjqlcnAWMThOmAAAAAA==,Safran Electrical & Power,,,,Safran,FULLTIME,Network and Security Administrator,https://www.safran-group.com/es/ofertas/mexico/chihuahua/network-and-security-administrator-132715,False,0.8817,"[{'publisher': 'Safran', 'apply_link': 'https://www.safran-group.com/es/ofertas/mexico/chihuahua/network-and-security-administrator-132715', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4482736670', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=e5761481cbd25c2d', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/-6860890210216384352', 'is_direct': False}, {'publisher': 'OCCMundial', 'apply_link': 'https://www.occ.com.mx/empleo/oferta/18132836-network-and-security-administrator/', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20240321-3b9abd2776f58f47f3dcc7397913c57d', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.mx/job/7pQEsVUoIU4dJTBWYKDjSJxP_9hd2rFgRvKiDhCaR_JPsEpP85F7yw', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/network-and-security-administrator-chihuahua-safran-electrical--7d0f4df870/', 'is_direct': False}]","Network and Security Administrator maintains a reliable, secure and efficient data communications network. The administrator will be able to deploy, configure, maintain and monitor all active network equipment in order to ensure smooth network operation.
+
+The Network & Security Administrator assumes a role of advice, assistance, information, training and alert. He/She can intervene directly on all the scope or part of a project within his/her domains of expertise including network and security on SEP perimeter.
+
+The Network & Security Administrator carries out a follow up of the new technologies, he/she participates to the studies of the general technical architecture and its evolution as well as the qualification of the new infrastructures.",False,1702425600,2023-12-13T00:00:00.000Z,Chihuahua,Chih.,MX,28.643375,-106.05879,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=T7oBjqlcnAWMThOmAAAAAA%3D%3D,2025-12-13T00:00:00.000Z,1765584000.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': False, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114200,4,,,['Empleado']
+xv1wutQmGAD7W-KlAAAAAA==,Keywords Studios,https://www.keywordsstudios.com/assets/img/logo.png,http://www.keywordsstudios.com,Information,Kit Empleo,FULLTIME,R336 | IT System Administrator,https://www.kitempleo.com.mx/empleo/96248621/r336-system-administrator-ciudad-mexico/,False,0.4107,"[{'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/96248621/r336-system-administrator-ciudad-mexico/', 'is_direct': False}]","Looking for a new experience in video games with all the latest technology?
+Are you someone who has an interest for finding solutions to challenging problems, who likes to work closely with the people they support, and who likes to be in the middle of the action?
+Already have experience as a System Administrator and looking for a new challenge in a rapidly growing and challenging environment?
+Do you want to contribute to the optimization and success of our technologically varied studios?
+If your answer is yes to all the above, then you are just the person we are looking for!
+- **To be considered for this role, you must submit your resume in English.**
+You will be working for an international group that is in full expansion because KWS is:
+- An international supplier of technical services and a partner of some of the biggest developers in the video game industry and global entertainment companies
+- More than 75 studios across 23 countries and 5 continents
+- An organization that employs ~11000 employees worldwide, ~3000 in the Americas region
+- Our pride is a diverse environment and where communication, listening, understanding and acceptance is part of who we are.
+- So, if you like the sound of that and feel ready for a new challenge, then read on!_
+• *_ Key Responsibilities:_**
+Your mission will be to design, implement and support the server infrastructure of Keywords Studios working alongside the rest of our Americas regional IT team. Your main mandate will be to work very closely with our development studios to provide specialized IT support in their day to day needs and to find new technologies and tools to help optimize their processes and workflows.
+- Take responsibility for, support, and manage the information technology and computer systems in the studios to serve the requirements of the service lines while ensuring regional and global IT standards are followed and enforced
+- Research, evaluate, and implement new technologies to keep Keywords up to date with industry trends and advancements, and to look at ways to drive automation and improve existing processes
+- Ensure Keywords Studios IT and Infosec security policies are enforced and adjust accordingly with local and client requirements
+- Develop and/or improve upon existing IT solutions to better support service line requirements
+- Desire to become a Subject Matter Expert in specific tools and methodologies to provide proactive solutions to internal customers/service lines
+- Perform other duties as assigned
+• *Requirements**:
+• *_Our ideal profile:_**
+- Autonomous, ability to take full ownership of a task/project/issue until completion/resolution
+- Ability to use good judgement to prioritize tasks
+- Working knowledge of system security including OS hardening, port and protocol management
+- Excellent communication skills, both verbal and written
+- Strong knowledge of, and experience in, a Microsoft enterprise environment
+- Strong knowledge of VMWare and/or Hyper-V environments
+- Experience with Linux server administration
+- Good technical knowledge and practical experience with corporate networking and security
+- Able to prioritize and juggle multiple tasks, remain nimble and flexible, and ready to go the extra mile
+- Able to manage sensitive and sometimes confidential information
+- Experience establishing network infrastructure for a distributed and remote software development environment
+- Experience with IT automation and version control software an asset
+- If your profile matches this description, then you have the key skills to join the KWS family and we look forward to meeting you!_
+• *Benefits**
+- Law benefits
+- Voluntary saving fund
+- PTO
+- Major and minor health insurance",True,1712016000,2024-04-02T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=xv1wutQmGAD7W-KlAAAAAA%3D%3D,2024-04-23T00:00:00.000Z,1713830400.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114200,4,511210,Software Publishers,
+zagjDkG4qisuh9PUAAAAAA==,Ll Oefentherapie,,,,BeBee México,FULLTIME,Fusion Middleware Systems Administrator,https://mx.bebee.com/job/22a15475e3ddf55c11a9221de66bf1a3,False,0.4713,"[{'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/22a15475e3ddf55c11a9221de66bf1a3', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/fusion-middleware-systems-administrator-mexico-oracle-1fc96dfcbb/', 'is_direct': False}]","We are looking for an ambitious, talented, energetic, and self-motivated Production Support Service Engineer for the Continuous Integration Services team in Oracle Cloud Infrastructure (OCI).
+
+Our team is a driven development organization, developing the applications that support source code management services, continuous integration tools, and services used by all Oracle development teams.
+Responsibilities Support Software Development Life Cycle operation and maintenance activities utilizing Shell, Python, or Java scripting languages.
+
+Troubleshoot and debug problems with solutions such as patch automation, custom health checks, self– healing functions to detect and correct run – time exceptions or failures, etc.
+Create and manage Ansible Playbooks or SaltStack to perform fleet management tasks such as application and platform configuration management.
+Configure, troubleshoot, and patch WebLogic, JRockit, or HotSpot ServersManage Java and WebLogic SSL keystores. Performing application server hardening to protect against malicious attacks.
+Automation of various IaaS and PaaS offerings using REST APIs and Inbuilt CLIs for Cloud Infrastructure.
+Resolve performance and scalability issues related to products and services.
+Contribute to architecture standards and practices.
+Identify opportunities to improve the health, scalability, and resiliency of products and services.
+Configure IDM components to protect applications and other FMW products, troubleshoot authentication issues, manage LDAP directories.
+
+Requirements BS or equivalent in Computer Science/Engineering or relevant field. MS or equivalent in Computer Science/Engineering will be desired.7 or more years of experience scripting utilizing Shell, Python, or Java.
+Proficient understanding and capability to use DevOps tools such as Git, Jenkins, Ansible, SaltStack, and Selenium.
+
+Experience with performance tuning, administering cluster topologies, and WLST scripting.5 years of Server knowledge, preferably WebLogic, including but not limited to security and vulnerability abilities.
+
+Knowledge of Platform as a service (PaaS) and Infrastructure as a service (laaS), preferably OracleSOA Cloud Service, Java Cloud Service, and various other Marketplace offerings in Oracle.
+
+Knowledge of Fusion Middleware (FMW) 11g and 12c:
+
+WebCenter Suite including Content and Imaging,BPM Suite, WebCenter SitesExcellent experience working on any of the two areas like SOA, OSB, ODI, MFT, JCS besides extensive knowledge of WebLogic platform including Oracle Market Place.
+Understanding and good knowledge of Identity Management (IDM) Suite and Access Management(IAM) Suite
+
+Career Level - IC4
+#J-18808-Ljbffr",False,1711822168,2024-03-30T18:09:28.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=zagjDkG4qisuh9PUAAAAAA%3D%3D,2024-04-07T00:00:00.000Z,1712448000.0,"{'no_experience_required': False, 'required_experience_in_months': 84, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114200,4,,,
+CX1F4FvD5vMkVMrCAAAAAA==,Thomson Reuters,https://app-data.gcs.trstatic.net/wel-trdotcom/static/tr-logo-schema.png,http://www.tr.com,Information,Thomson Reuters Careers,FULLTIME,Sr MSSQL Database Administrator,https://careers.thomsonreuters.com/us/en/job/JREQ170751/Sr-MSSQL-Database-Administrator,False,0.9028,"[{'publisher': 'Thomson Reuters Careers', 'apply_link': 'https://careers.thomsonreuters.com/us/en/job/JREQ170751/Sr-MSSQL-Database-Administrator', 'is_direct': False}, {'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/thomsonreuters/sr-oracle-database-administrator-24edc2', 'is_direct': True}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4581846256', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/20240321-9b4f49f6ba1bfbaeedd29df3a0864adf', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=142674527529116358', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://mx.jooble.org/jdp/3575362992070170995', 'is_direct': False}, {'publisher': 'Talent.com', 'apply_link': 'https://mx.talent.com/view?id=4300829d7b39', 'is_direct': False}, {'publisher': 'Expertini', 'apply_link': 'https://mx.expertini.com/jobs/job/sr-oracle-database-administrator-ciudad-de-mexico-thomson-reuters-4300829d7b/', 'is_direct': False}]","Sr MSSQL Database Administrator
+
+Behind every great on-line eCommerce site and technology service is an equally great database.  These databases provide mission critical data processing services and it takes highly skilled DBA’s to build and maintain these systems.  To meet the challenges of our fast growing business products and services lines, we need to grow our DBA team.  We’re looking for exceptional DBA’s who are interested in using the latest database technologies to deliver industry leading systems, with results that go directly to the bottom line.
+
+                                                                                                                                                            
+
+Thomson Reuters (TR) is the world’s largest international multimedia company.  With approximately 50,000 employees, TR has more than 300 offices in 93 countries.  The technology organization within TR is a centralized unit providing shared software and services to TR business units across the globe. 
+
+We are looking to add a Senior Database Engineer to our SQL Support database team.  This global team interacts directly with key technical groups, collaborating to implement change and provide support for major databases systems that deliver data to the critical, revenue generating applications that drive the TR business.  These systems rely upon MS SQL and Sybase database software running on versions of Windows operating systems.
+
+About the role:
+
+Technology (70%)
+
+Database Support
+• Provide primary support for critical, complex production MS SQL databases
+• Troubleshoot, investigate and drive resolution of incidents
+• Work closely with internal technical teams during incident resolution and root cause analysis
+• Coordinate interaction with vendors, creating service requests and escalating as needed to ensure timely resolution
+• Provide problem management and resolution for repeat issues
+• Make recommendations and contribute to the design and development of long-term solutions
+• Respond to inquiries from business partners related to performance, application errors, storage capacity, etc.
+• Review and execute medium to low risk changes including DDL, database configuration changes, patching, and well defined, well documented upgrades
+• Participate in new system builds;  create databases, schemas and deploy standard jobs and monitoring
+• Through review and solid handoffs, ensure system supportability prior to production utilization
+• Adhere to documented change and incident management policies
+• Use established Shared Services support processes and tools to document and track problem resolution
+• Develop technical documentation for use in future incident resolution
+• Provide support outside of normal office hours only on rare occasions (emergency and infrequent pre-planned occurrences)
+
+Ongoing Education and Training
+• Learn and stay current on the features and functionality of MS SQL databases, focusing on technology to improve performance, availability, reliability, stability and work efficiencies.
+• Learn and stay current on standard database solutions designed by the Systems Engineering Database group.
+
+Leadership and Communication (15%)
+• Translate highly technical solutions/problems into clear language useful to audiences at varying technical levels
+• Prepare high quality technical documentation, present it clearly to interested parties
+• Communicate in a professional manner when interacting across staff levels and internal/external customers
+• Mentor and coach database engineers
+• Research and develop team leadership skills.
+
+Management and Administration (5%)
+• Contribute to and influence a variety of work streams concurrently
+• Set individual goals that are consistent with business goals
+• Participate in initiatives to define, measure, and report on database quality and stability
+
+Business Acumen and Strategy (10%)
+• Has broad knowledge of Thomson Reuters product lines and supported technologies
+• Proactively generates relevant ideas for new and improved operations or use of technology
+• Understands the impact of new projects and technical impacts to supported systems
+• Collaborates with peers, Design & Engineering DBAs and managers to determine system strategy and how best to implement and support it
+
+About you:
+• Bachelor's Degree — Computer Science, technical or engineering degree preferred
+• 5+ years experience providing 24x7 support for MS SQL 2005/2008/2012/2014/2016 on windows (2008/2012/2016 preferred)
+• Strong quantitative, analytical, communication and verbal skills with a strong customer service focus
+• Ability to problem solve in high pressure situations
+• Ability to work as part of a team, as well as independently toward assigned goals
+• Preferable 2+ years experience with  batch scripting
+• Preferable 2+ years in a development or support organization supporting large applications
+
+What’s in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+• Hybrid Work Model: We’ve adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connected.
+• Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+• Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings, tuition reimbursement, and employee incentive programs; resources for mental, physical, and financial wellbeing.
+• Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+• Social Impact: Nine employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+• Purpose Driven Work: We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+#LI-SB3
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 25,000 employees across more than 75 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com.",False,1694736000,2023-09-15T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=CX1F4FvD5vMkVMrCAAAAAA%3D%3D,,,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': True}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},Database administrator,en,15114100,4,511210,Software Publishers,['Technology Careers']
+5iFR753Tr6za9gnrAAAAAA==,American Standard,https://www.americanstandard-us.com/-/media/project/sites/lixil/us/american-standard-us/logo/as-logo.svg,http://www.americanstandard.com,Manufacturing,LIXIL Careers,FULLTIME,Senior Database Administrator,https://careers.lixilamericas.com/jobs/5318?lang=en-us,True,0.6786,"[{'publisher': 'LIXIL Careers', 'apply_link': 'https://careers.lixilamericas.com/jobs/5318?lang=en-us', 'is_direct': True}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4511625830', 'is_direct': False}, {'publisher': 'Levels.fyi', 'apply_link': 'https://www.levels.fyi/jobs?jobId=90191270195929798', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/sr-database-administrator-cienega-de-flores-nuevo-leon-american-standard-5318', 'is_direct': False}]","About Us
+
+Cada persona en el planeta sueña con un hogar mejor. Y en LIXIL, estamos comprometidos en hacer realidad el mejor hogar para todos y en todas partes. Lo hacemos realidad con soluciones tecnológicas en agua y vivienda. Somos marcas líderes mundiales como INAX, American Standard, GROHE, TOSTEM y muchas más, tocamos la vida de más de mil millones de personas cada día, transformando casas en hogares.
+
+Nuestro planeta es el hogar que todos compartimos. Entonces, la forma en que hacemos negocios es importante. Nuestra cultura inclusiva y empoderada, nuestro espíritu emprendedor y nuestro compromiso de tener un impacto positivo en el planeta son parte integral de nuestra estrategia comercial.
+
+LIXIL hoy está en un viaje de transformación. El mundo que nos rodea está cambiando; avances tecnológicos, necesidades en evolución, nueva demografía, expectativas cambiantes. Estos cambios sirven como oportunidades para descubrir soluciones y desbloquear el progreso para todos.
+
+Te invitamos a hacer este viaje con nosotros, es tan desafiante como inspirador. Juntos podemos dar forma al futuro de la vida, somos un hogar para el crecimiento, la imaginación y la creatividad, un hogar para tu talento y ambición.
+
+Un hogar para todos.
+
+Every person on the planet dreams of a better home. And at LIXIL, we’re committed to making better homes a reality for everyone, everywhere. We make it happen with pioneering water and housing technology solutions. Home to world leading brands like INAX, American Standard, GROHE, TOSTEM and many more, we touch the lives of more than a billion people each day, transforming houses into homes.
+
+Our planet is the home we all share. So how we do business matters. Our inclusive and empowering culture, entrepreneurial spirit and commitment to having a positive impact on the planet are integral to our business strategy.
+
+LIXIL today is on a journey of transformation. The world around us is changing. Technological advances. Evolving needs. New demographics. Shifting expectations. These changes serve as opportunities for solutions to be discovered, and to unlock progress for all.
+
+We invite you to make this journey with us. It is as challenging as it is inspiring. Together we can shape the future of living. We’re a home for growth, for imagination, for creativity. A home for your talent and ambition.
+
+A home for everyone.
+
+Visión general
+
+Como parte del equipo de TI, eres el motor impulsor de la infraestructura tecnológica de la organización. Al trabajar directamente con colegas en todas las funciones, ayudará a garantizar que todas las aplicaciones de software y recursos digitales sean seguros, eficientes y efectivos. Su experiencia debe abarcar una amplia gama de temas y sus contribuciones son esenciales en un mundo que depende en gran medida de la tecnología. Con sólidas habilidades de resolución de problemas y gestión de proyectos, ayudará a mantener la capacidad de la organización para funcionar globalmente.
+
+Part of the IT team, you are the driving force behind the technological infrastructure of the organization. By working directly with colleagues across all functions, you will help ensure that all software applications and digital resources are secure, efficient, and effective. Your expertise must span across a wide range of subjects, and your contributions are essential in a world heavily reliant on technology. With strong problem solving and project management skills, you will help maintain the organization’s ability to function globally.
+
+Responsabilidades
+• Administer and support database in LIXIL Americas
+• Management of Oracle and SQL in on-prem and in public cloud environments
+• Providing support to the new implementations, improving performance, backups,
+troubleshooting, applying patches, and installing the new versions of the database
+• Lead database development projects acting as an advisor to improve functionality, cost, performance and/or efficiency.
+• Knowledge in other database platforms such as MySQL, PostgreSQL, DynamoDB, etc. highly desirable.
+• Knowledge of AWS RDS and Google Cloud Platform Cloud SQL is highly desirable.
+
+Requisitios
+
+1 Expert Designer to build and implement high availability Oracle databases (RAC, Data Guard) Oracle 12G or
+plus. SQL Server Standard & Enterprise
+2 Expert Designer to build and implement high availability SQL Server databases 2012 or higher
+3 Design, implement, and manage high availability and disaster recovery (DR) within databases per application
+requirements
+4 Manage Oracle and MS SQL RDS systems in the AWS cloud. Manage Cloud SQL databases running
+Postgres/MySQL/Microsoft SQL Server in Google Cloud Platform. Knowledge of NoSQL databases is
+preferred.
+5 Work on local tickets as they pertain to database issues
+6 Work on global tickets as they pertain to database issues
+7 Assist and lead on database migration projects from on-prem to cloud
+8 Lead various projects from the database side and execute all related responsibilities. Ability to train
+subordinates or other team members as required.
+9 Design and implement database in accordance to end users’ information needs
+10 Use high-speed transaction recovery techniques and backup data
+11 Minimize database downtime and manage parameters to provide fast query responses
+12 Provide proactive and reactive data management support and training to users
+13 Determine, enforce, and document database policies, procedures, and standards
+14 Perform tests and evaluations regularly to ensure data security, privacy, and integrity
+15 Monitor database performance, implement changes, and apply new patches/versions as required
+16 Good knowledge in All in memory Process of Oracle 12g or plus
+
+Updated: October 2019 Proprietary and Confidential
+17 Hands-on experience with database standards and end-user applications
+18 Excellent knowledge of data backup, recovery, security, integrity, and SQL. Conduct periodic tests to recover
+databases. Develop and manage processes for carrying out these tests.
+19 Familiarity with database design, documentation, and coding. Ability to write scripts.
+20 Previous experience with DBA case tools (frontend/backend) and third-party tools
+21 Flexibility to work depending upon the time zone of geographically dispersed teams
+22 Develop and implement database strategy for licensing on-prem and in the cloud for various databases
+including Oracle, MS SQL Server, MySQL, PostgreSQL, etc.
+23 Basic systems knowledge of Microsoft Windows and major Linux distributions
+24 Learn and support Google Big Query from a database perspective
+25 Willingness to learn continuously and pickup newer skills as required by the job
+
+EEO Statement
+
+Declaración de Igualdad de Oportunidades de Empleo: AS Maquila México S. de R.L. de C.V. y American Standard B&K México, son empleadores que ofrecen igualdad de oportunidades. Todos los solicitantes que resulten calificados para la posición para la que apliquen, serán considerados para el empleo sin distinción de raza, color, religión, lugar de origen, ascendencia, orientación sexual, identidad de género, genética, discapacidad, estado civil, edad, estado civil, estado de salud, condición o cualquier otra característica protegida por la ley.",False,1702066500,2023-12-08T20:15:00.000Z,Ciénega de Flores,N.L.,MX,25.954395,-100.166336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=5iFR753Tr6za9gnrAAAAAA%3D%3D,2025-01-02T17:52:58.000Z,1735840378.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",['UNAVAILABLE'],"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,es,15114100,4,3329,Other Fabricated Metal Product Manufacturing,
+RejdsYtNwmdHRx53AAAAAA==,EPAM Systems,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Effective_Programming_for_America_logo.svg/1200px-Effective_Programming_for_America_logo.svg.png,http://www.epam.com,Computer Services,LinkedIn,FULLTIME,Senior Database Administrator,https://mx.linkedin.com/jobs/view/senior-database-administrator-at-epam-systems-3878113993,False,0.6843,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/senior-database-administrator-at-epam-systems-3878113993', 'is_direct': False}, {'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/epamsystems/senior-database-administrator-e94cc8', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com.mx/job-listing/database-administrator-cassandra-epam-systems-JV_KO0,32_KE33,45.htm?jl=1009086395486', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=794088ef48d02c9f', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/database-administrator-cassandra-epam-systems-JV_KO0,32_KE33,45.htm?jl=1009086395486', 'is_direct': False}]","Description
+
+Are you a seasoned Database Administrator with a passion for innovation and strategic thinking?
+
+We are seeking a dynamic professional to join our diverse and inclusive team. At EPAM, you will have the opportunity to work on a variety of interesting projects for some of the world's biggest brands. You will be part of a supportive team, driving strategic initiatives and making a significant impact.
+
+If you are passionate about database management, optimization, and security, we invite you to apply and learn more about this exciting opportunity.
+
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.
+
+Responsibilities
+• Provide 24x7 rotational on-call support for production databases
+• Participate in database technology planning, project support, and consulting
+• Maintain and improve Oracle, SQL Server, MySQL database design
+• Coordinate database disaster recovery planning and testing
+• Manage database security administration across various platforms including Z/OS, Windows, Linux, AIX, ESX
+
+Requirements
+• Experience with MySQL. SQL Server and Maria DB are added advantages
+• Agile and innovative individuals who can manage in an environment of change and ambiguity
+• Creative thinkers who take initiative and are capable of building, launching, and managing projects/programs that drive results
+• Problem solvers with the ability to analyze and prioritize to meet business objectives
+• Collaborative team players with superior influencing skills, who build relationships easily across various stakeholder groups
+
+Technologies
+• MySQL
+• SQL Server
+• Maria DB
+
+We Offer
+• Career plan and real growth opportunities
+• Unlimited access to LinkedIn learning solutions
+• International Mobility Plan within 25 countries
+• Constant training, mentoring, online corporate courses, eLearning and more
+• English classes with a certified teacher
+• Support for employee’s initiatives (Algorithms club, toastmasters, agile club and more)
+• Enjoyable working environment (Gaming room, napping area, amenities, events, sport teams and more)
+• Flexible work schedule and dress code
+• Collaborate in a multicultural environment and share best practices from around the globe
+• Hired directly by EPAM & 100% under payroll
+• Law benefits (IMSS, INFONAVIT, 25% vacation bonus)
+• Major medical expenses insurance: Life, Major medical expenses with dental & visual coverage (for the employee and direct family members)
+• 13 % employee savings fund, capped to the law limit
+• Grocery coupons
+• 30 days December bonus
+• Employee Stock Purchase Plan
+• 12 vacations days plus 4 floating days
+• Official Mexican holidays, plus 5 extra holidays (Maundry Thursday and Friday, November 2nd, December 24th & 31st)
+• Relocation bonus: transportation, 2 weeks of accommodation for you and your family and more
+• Monthly non-taxable amount for the electricity and internet bills
+
+Conditions
+• By applying to our role, you are agreeing that your personal data may be used as in set out in EPAM´s Privacy Notice and Policy
+
+Apply
+
+EPAM Systems is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, gender identity, sexual orientation, age, status as a protected veteran, status as a qualified individual with disability, or any other protected characteristic under law.
+
+Background investigations are required for all new hires as a condition of employment, after the job offer is made. Employment will not begin until EPAM Systems receives and approves the results of the background check.",True,1711991105,2024-04-01T17:05:05.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=RejdsYtNwmdHRx53AAAAAA%3D%3D,2024-05-01T17:05:05.000Z,1714583105.0,"{'no_experience_required': False, 'required_experience_in_months': None, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114100,4,541512,Computer Systems Design Services,
+SihFvk2Lho9LPnFlAAAAAA==,Plexus Corp.,https://cdn.cookielaw.org/logos/21dc6d31-09cc-497c-8a2e-296e24b82a89/92b85ddc-9302-4a67-925d-4b9140ea0561/be3db524-465d-490f-b436-0d860c3eee9d/Plexus_Logo_Grey_Reg.jpg,http://www.plexus.com,Manufacturing,LinkedIn,FULLTIME,Database Administrator II - DBA SQL,https://mx.linkedin.com/jobs/view/database-administrator-ii-dba-sql-at-plexus-corp-3865697076,False,0.7566,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/database-administrator-ii-dba-sql-at-plexus-corp-3865697076', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com.mx/details/4621391443', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://mx.indeed.com/viewjob?jk=1cae50aa742c84c3', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/database-administrator-ii-dba-sql-plexus-JV_IC3486357_KO0,33_KE34,40.htm?jl=1009196992124', 'is_direct': False}, {'publisher': 'BeBee México', 'apply_link': 'https://mx.bebee.com/job/2fb3e486d5c3ba3cd2af2b7d30249730', 'is_direct': False}, {'publisher': 'Talentify', 'apply_link': 'https://www.talentify.io/job/database-administrator-ii-dba-sql-guadalajara-jalisco-plexus-r028611', 'is_direct': False}, {'publisher': 'Sercanto', 'apply_link': 'https://mx.sercanto.com/detail/a/database-administrator-ii-dba-sql_guadalajara_68817', 'is_direct': False}, {'publisher': 'WhatJobs', 'apply_link': 'https://es-mx.whatjobs.com/Trabajo-para-Database-Administrator-II-en-guadalajara-coop106821967', 'is_direct': False}]","Purpose Statement: The Database Administrator is responsible for the design, implementation, and maintenance of database systems and related applications. The individual will also define and administer effective database standards, access methods, and security procedures. The Database Administrator provides technical consulting to applications development staff on the use of database solutions in solving business needs. Additionally, this individual acts as the subject matter expert and technical liaison with respect to business intelligence and enterprise reporting for various business units.
+
+Key Job Accountabilities:
+• Implement databases to meet organizational goals and requirements.
+• Implement database replication and automation tools.
+• Analyze database and database application performance.
+• Implement database backup policies to meet organizational goals and requirements.
+• Implement database security standards.
+• Code review database deployments; provide feedback and training to developers regarding database code.
+
+Additional Accountabilities:
+• Regulatory Compliance: Ensure that solutions support Plexus and customer policies surrounding key controls and compliance, such as SOX, ITAR, EAR, FDA, and others as appropriate by properly specifying these needs as part of the overall delivery of requirements.
+• Technical Currency: Remain current on Plexus business, industry and IT technology trends in order to provide forward looking solutions.
+• Focus on continuous improvement: personal, the team, and processes. Develop, discuss and adapt to those enhancements and changes.
+• Participate in implementation of new and major enhancements of business applications.
+• Interact with and assist system administrators to provide a compatible and effective database environment
+• Additional duties as assigned.
+
+Education/Experience Qualifications:
+• A minimum of a Bachelor’s degree or equivalent experience is required; a Bachelor’s degree in Information Technology is preferred.
+• 4 years of related experience is required, assuming all education requirements are met.
+• Equivalent industry experience of 4 or more years is highly desirable.
+
+An equivalent combination of education and experience sufficient to successfully perform the key job accountabilities may be considered.
+
+Other Qualifications:
+• Action oriented
+• Ability to escalate issues appropriately
+• Present information for decision making purposes with little to no direction
+• Ability to multi-task i.e. managing multiple projects
+• Experience with at least one version of either Oracle or SQL Server
+• Experience with database development and administration
+• Experience supporting HA and DR solutions
+• Experience supporting Business Intelligence reporting tools
+
+Work Environment:
+• The work setting should consist of an office environment with suitable lighting, comfortable temperatures, and a low noise level.
+
+This document does not represent a contract of employment and is not intended to capture every possible assignment the incumbent could be asked to perform.",False,1710975953,2024-03-20T23:05:53.000Z,Guadalajara,Jal.,MX,20.67517,-103.347336,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=SihFvk2Lho9LPnFlAAAAAA%3D%3D,2024-04-19T23:05:53.000Z,1713567953.0,"{'no_experience_required': False, 'required_experience_in_months': 48, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': True, 'degree_preferred': True, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114100,4,33421,Telephone Apparatus Manufacturing,
+meyrrN2QzvHDBtlMAAAAAA==,Itransition Group,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgpEB0pwwB8BKgqs5msjHFdboMiy8LCFKKlQ&usqp=CAU,http://www.itransition.com,Computer Services,LinkedIn,FULLTIME,Senior Database Administrator,https://mx.linkedin.com/jobs/view/senior-database-administrator-at-itransition-group-3853538076,False,0.7789,"[{'publisher': 'LinkedIn', 'apply_link': 'https://mx.linkedin.com/jobs/view/senior-database-administrator-at-itransition-group-3853538076', 'is_direct': False}]","We are looking for experienced Remote Database Engineers that are willing to solve complex technical issues while developing high quality software systems using modern technologies.
+
+Responsibilities:
+• Proactively identify database performance problems and resolve them by proposing and delivering changes to the codebase
+• Providing database expertise to our architects, engineering and data science teams through code reviews, pairing and training to help deliver secure and performant database designs and queries
+• Review, optimize and refactor the existing database schema
+• Create and improve documentation
+• Database security best practices
+• Database best practices
+• Workflows and team processes
+• Long term scalability and architecture planning
+• Improve tooling to detect performance bottlenecks and security issues, early in the development cycle
+• Participate in the incident management processes to ensure reliability goals (SLOs) are met by working with the Platform Reliability Team
+
+Requirements:
+• 5+ years of working experience as DataBase Engineer
+• Significant experience in using MySQL for mission-critical applications
+• In-depth knowledge of MySQL backup/recovery and replication
+• It would be desirable to have a knowledge of MySQL clustering technologies like Galera Cluster
+• SQL and query optimizing techniques with a demonstrable ability to both diagnose and prevent performance problems
+• Assist the development teams with database design and schema modifications
+• Expert understanding of high-performance MySQL (>50k QPS)
+• Working knowledge of PostgreSQL, Redis, MongoDB, Snowflake or Clickhouse.
+
+Core skills and attributes
+• Customer focused
+• Thrive in a highly collaborative and fast-paced organisation that has distributed teams and individuals
+• Proficiency in the English language, both written and verbal, sufficient for success in a remote workplace
+
+Bonus points if you have knowledge of:
+• Helm
+• Ansible
+• GCP (We are GCP focussed) or AWS data products and services
+• You are a good Linux admin
+• Excellent English communication skills
+
+What we offer:
+• 100% Remote
+• Payroll long-term contract with benefits
+• Career development system with clear skill qualifications
+• A chance to join a Multinational Company with a presence across continents
+• Flexible working hours aligned to your schedule
+• More to come!
+
+About us:
+
+We’re a global software engineering company born in East Europe making success stories for over 20 years. Since 1998, Itransition has served over 800 clients, 50 of them for +5 years; includes IATA, AiBUY, adidas, Wargaming, Philips, and PayPal.
+
+The geography of our projects extends across 40 countries and counting, while our US and European offices house 3,000+ professionals working daily to deliver business value through technology
+
+Principles that shape our culture: Commitment, Excellence, Passion and Clarity",True,1710195259,2024-03-11T22:14:19.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=meyrrN2QzvHDBtlMAAAAAA%3D%3D,2024-04-10T22:14:19.000Z,1712787259.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': True, 'degree_mentioned': False, 'degree_preferred': False, 'professional_certification_mentioned': False}",False,,,,,{},,en,15114100,4,541511,Custom Computer Programming Services,
+7TWbDqPYwi4rrJRSAAAAAA==,Acxiom,,,,Kit Empleo,FULLTIME,Senior Database Administrator (Mexico) | [L469],https://www.kitempleo.com.mx/empleo/96148602/senior-database-administrator-mexico-l469-ciudad-mexico/,False,0.4165,"[{'publisher': 'Kit Empleo', 'apply_link': 'https://www.kitempleo.com.mx/empleo/96148602/senior-database-administrator-mexico-l469-ciudad-mexico/', 'is_direct': False}]","The Database Administrator creates, maintains, designs, monitors and troubleshoots Acxiom or client databases. They use specific relational database management systems, develop and implement database recovery mechanisms and procedures.
+
+And coordinate security measures to safeguard database integrity.
+
+Location : Lomas Atlas, Mexico City, MX
+
+What you will do :
+
+Support multiple database technologies on public and private cloud infrastructure for business-critical applications
+
+Troubleshoot, patch, upgrade, report, tune for performance and handle operational issues
+
+Improve and promote operational scalability and standardization
+
+Managing SLA (service level agreement) for thousands of customer data sources
+
+Work with development team to help them create highly reliable data applications
+
+Deploy, configure, and maintain a variety of database and cloud technologies
+
+Setting up backups, replication, load balancing and clustering
+
+Diagnose OS, network and storage issues related to database
+
+Coordinating with IT and developers on new product releases
+
+Database tuning for high performance
+
+Create tools and processes to automate administration and monitoring
+
+Work with Database and Cloud vendors to resolve challenges as needed
+
+Database Security checks and audits, including compliance related reporting and controls
+
+Developing SOP (Standard Operating Procedures)
+
+Handle Disaster Recovery (switchover / failover) scenarios
+
+What you will need :
+
+Bachelor’s degree or equivalent in Computer Science or a related field
+
+Proven track record with a minimum of 5+ years of DBA experience
+
+Problem-solving skills with various SQL and No-SQL technologies (Oracle, MS SQL, MySQL, MongoDB, Snowflake)
+
+Scripting language Exposure / Experience (Bash, Korn, Perl, Python)
+
+3+ years of Infrastructure support experience
+
+What will set you apart :
+
+Certifications in Oracle, SQL Server, MySQL, MongoDB, Snowflake
+
+Experienced in one or more of the following database management systems : Oracle DataGuard, Snowflake, BigQuery, Terraform, SQL Server AlwaysOn, MongoDB, Percona XtraDB Cluster and Galera cluster.
+
+Experience with Oracle Enterprise Manager
+
+Understands the competitive landscape from both a business and technical perspective
+
+Certifications in Cloud services like AWS, GCP and MS Azure
+
+Working knowledge of Chef and Ansible
+
+Primary Locations : Mexico City
+
+Mexico City
+
+Additional Locations (if applicable) :",True,1712016000,2024-04-02T00:00:00.000Z,Ciudad de México,CDMX,MX,19.432608,-99.13321,,https://www.google.com/search?gl=us&hl=en&rciv=jb&q=network+and+computer+systems+administratorin+mexico&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=network+and+computer+systems+administratorin+mexico&htidocid=7TWbDqPYwi4rrJRSAAAAAA%3D%3D,2024-04-23T00:00:00.000Z,1713830400.0,"{'no_experience_required': False, 'required_experience_in_months': 60, 'experience_mentioned': True, 'experience_preferred': False}",,"{'postgraduate_degree': False, 'professional_certification': False, 'high_school': False, 'associates_degree': False, 'bachelors_degree': False, 'degree_mentioned': True, 'degree_preferred': False, 'professional_certification_mentioned': True}",False,,,,,{},,en,15114100,4,,,
