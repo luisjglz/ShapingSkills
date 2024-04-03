@@ -6,8 +6,7 @@ https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
 
 Following the Python snippet:
 
-`
-`
+```
 import http.client
 
 conn = http.client.HTTPSConnection("jsearch.p.rapidapi.com")
@@ -23,5 +22,4 @@ res = conn.getresponse()
 data = res.read()
 
 print(data.decode("utf-8"))
-`
-`
+```
