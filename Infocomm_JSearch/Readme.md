@@ -55,5 +55,5 @@ data_dict = json.loads(data.decode("utf-8"))
 df = pd.DataFrame(data_dict['data'])
 ```
 
-`images/dataframeexample.png`
+<img src='images/dataframeexample.png'>
 
