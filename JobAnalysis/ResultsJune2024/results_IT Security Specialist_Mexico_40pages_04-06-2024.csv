@@ -1,0 +1,2321 @@
+Position,Company_Name,Location,Post_Month,Post_Year,Details
+Analista Ciberseguridad T1,Analista Ciberseguridad T1,Axtel,May,2024,"Administrar, operar y mantener los equipos que brindan los servicios de seguridad,
+
+asegurando su funcionamiento apropiado para cuidar la confidencialidad, integridad y
+
+disponibilidad de la información de los clientes, creando las condiciones necesarias para
+
+minimizar los riesgos de seguridad aplicables.
+
+Realizar troubleshooting, administrar y gestionar equipos de seguridad perimetral y endpoints:
+Dar seguimiento y documentar incidentes, requerimientos, cambios y/o problemas relacionados a los servicios administrados de seguridad.
+
+Solucionar e investigar la causa raíz de los incidentes y problemas mediante el uso de herramientas computacionales y documentación especializada.
+
+Dar asesoría a clientes para mejoras en términos de seguridad y ayudar en la evolución del nivel de seguridad aplicado para el manejo de la información del cliente. Implementar soluciones
+
+alternas que reestablezcan el servicio afectado. Analizar los problemas a un nivel de detalle especializado. Investigar la causa raíz del problema mediante el uso de herramientas sniffer y
+
+documentación especializada. Atención a Clientes sobre reportes de falla de sus equipos de seguridad.
+
+Desarrollar Métodos de Procedimientos, Procesos Operativos, Mejores Prácticas, Metodoligías de Diagnóstico y Manuales de Instrucción que nos permintan tener un mejor control sobre los
+
+servicios para prevenir afectaciones y, en caso de falla, darle una atención más eficiente para reducir tiempos de afectación.
+
+Dar seguimiento a los programas periódicos de análisis de vulnerabilidad, pruebas de penetración, pruebas de laboratorio o similares que ayuden a mejorar el nivel de seguridad a las
+
+diferentes soluciones de seguridad que se operan.
+
+Experiencia en troubleshooting de Seguridad de
+
+Información, haber trabajado con equipos firewall Palo
+
+Alto, Fortinet, Cisco, Checkpoint, Meraki, balanceadores,
+
+tecnología SDWAN, switches capa 3, routers.
+
+Manejo de protocolos de ruteo OSPF, GBP. Manejo de VPN
+
+Site to Site entre diferentes fabricantes
+
+Certificacion Fortinet NSE4"
+Security Analyst / Incident Response,Security Analyst / Incident Response,Lyft,May,2024,"At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+Lyft connects people to transportation to change the way we live and get around our communities. Lyft’s engineering team is growing rapidly, and we are looking for Security Engineers to help us scale. Come be part of a new team at Lyft focused on enabling and empowering engineering teams to deliver at scale.
+
+Our drivers and passengers entrust Lyft with their personal information and travel details to get where they're going and expect us to keep that data safe. Lyft's security team leads efforts across the company to ensure our systems are secure and worthy of our users' trust.
+
+Lyft Security builds systems to protect and defend infrastructure. We consult with teams as they build and launch new products and features, proactively plans for the unexpected, and responds to incidents that occur. Our work has company-wide impact and takes place at all levels of the stack, from infrastructure to web application security, as well as mobile apps, IT, bikes, scooters, and autonomous vehicles. We believe in scaling security through engineering fundamentals, automation, and tooling. Check out our blog posts at https://eng.lyft.com/tagged/security to learn more about some of the things we’ve built.
+
+The Incident Response team owns mitigation and handling of security indents as well as our proactive hypothesis based Threat Hunting program.
+
+Responsibilities:
+
+Respond to security incidents; orchestrating response across engineering and other disciplines
+Define and execute threat hunting operations across Lyft's systems with the objective of finding detection gaps, identifying gaps in security controls, and processes
+Develop automation and tooling to multiply the impact of the incident response team
+Build and maintain relationships with key partners, both internally and externally
+
+Experience:
+
+Responding to security incidents in a DFIR or SOC
+Defining and executing threat hunting operations that yield impactful findings
+Present findings, recommendations and results to leadership
+Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means
+Ability to manage multiple tasks and priorities
+Ability to work independently with minimal supervision
+Nice to have: scripting and automation skills, experience with cloud technologies such as AWS/GCP/Azure
+
+This role will be in-office on a hybrid schedule if an established Lyft Location is available to the Mexico City region — Hybrid Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid"
+"Security Analyst, Incident Response","Security Analyst, Incident Response",Lyft,May,2024,"At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+
+Lyft connects people to transportation to change the way we live and get around our communities. Lyft’s engineering team is growing rapidly, and we are looking for Security Engineers to help us scale. Come be part of a new team at Lyft focused on enabling and empowering engineering teams to deliver at scale.
+
+Our drivers and passengers entrust Lyft with their personal information and travel details to get where they're going and expect us to keep that data safe. Lyft's security team leads efforts across the company to ensure our systems are secure and worthy of our users' trust.
+
+Lyft Security builds systems to protect and defend infrastructure and services from cyber attacks. We consult with teams as they build and launch new products and features, proactively plans for the unexpected, and responds to incidents that occur. Our work has company wide impact and takes place at all levels of the stack, from infrastructure to web application security, as well as mobile apps, IT, bikes, scooters, etc. We believe in scaling security through engineering fundamentals, automation, and tooling. Check out our blog posts at https://eng.lyft.com/tagged/security to learn more about some of the things we’ve built.
+
+The Incident Response team owns identification, and response of security indents as well as our proactive hypothesis based Threat Hunting program.
+
+The Security Analyst is part of the detection and response group obsessed with quality of security alerts, feedback loops to respond quickly to incidents, reducing time to detect and executing proactive actions.
+
+Responsibilities:
+
+Swiftly Respond to Security Incidents:
+
+Respond promptly to security incidents by orchestrating coordinated responses across engineering teams and other relevant disciplines.
+
+Analyze and Prioritize High-Quality Security Alerts:
+
+Assess and prioritize security alerts of high quality with the potential to impact the organization, based on SOCLess approach
+
+Collaborate with the Detection Engineering Team:
+
+Work closely with the Detection Engineering Team to identify and implement new security strategies aimed at detecting threats, reducing the attack surface, and enhancing the organization's overall cybersecurity posture.
+
+Conduct Proactive Threat Hunting Operations:
+
+Define and execute proactive threat hunting operations across the organization's systems and services, aiming to uncover detection gaps, identify weaknesses in security controls, and refine existing processes.
+
+Assess the Organization's Threat Landscape:
+
+Evaluate the threat landscape specific to the organization to prioritize proactive security measures and actions.
+
+Develop Automation and Tooling:
+
+Create and maintain automation tools to enhance the efficiency and impact of the incident response team's activities.
+
+Cultivate and Maintain Key Partnerships:
+
+Establish and nurture relationships with critical partners both within the organization and externally to foster collaboration and information sharing.
+
+Experience, Knowledge and Skills:
+
+Cybersecurity Knowledge:
+
+A deep understanding of cybersecurity principles, including threat landscape, attack vectors, and security best practices
+knowledge of security frameworks, standards, and compliance requirements relevant to your industry (e.g., NIST, ISO 27001). (Nice to have)
+
+Technical:
+
+Proficiency in using security tools and technologies such as SIEM (Security Information and Event Management), EDR (Endpoint Detection and Response), and IDS/IPS (Intrusion Detection System/Intrusion Prevention System)
+Strong understanding of operating systems (Windows, Linux, macOS) and their security features.
+Scripting and automation skills, experience with cloud technologies such as AWS/GCP and their tech stack
+
+Incident Detection and Analysis:
+
+Experience in monitoring and analyzing security alerts and events generated by security systems.
+The ability to identify and investigate potential security incidents and determine their severity.
+knowledge of structure analysis techniques and decision making as OODA loop.
+
+Incident Response Experience:
+
+Hands-on experience with incident response processes, including identification, containment, eradication, and recovery.
+Experience in handling different types of security incidents, such as malware infections, data breaches, insider threats, zero day vulnerabilities, third-party
+
+Threat Hunting Experience (Nice to have):
+
+Proven ability to proactively identify and investigate potential threats and vulnerabilities in the organization's environment.
+Familiarity with threat hunting techniques, including TTPs (Tactiques, technique and procedures) analysis, anomaly detection, and behavior analysis.
+Experience in creating and refining threat hunting camping based on hypothesis or cyber threat intelligence.
+
+Communication Skills:
+
+Strong communication skills to collaborate effectively with other team members, stakeholders, and management.
+Ability to document incident response and threat hunting activities clearly and concisely.
+The ability to adapt to evolving cybersecurity threats and technologies and stay current with industry trends
+Ability to manage multiple tasks and priorities, and work independently with minimal supervision
+
+Certifications: Although we are not requiring security certification, the following could be a plus to be considered:
+
+Certified Incident Handler (GCIH)
+Certified Threat Intelligence Analyst (CTIA)
+CompTIA Security+
+Certified SOC Analyst (CSA+)
+vendor-specific certifications
+
+This role will be in-office on a hybrid schedule if an established Lyft Location is available to the Mexico City region — Hybrid Team Members will be expected to work in the office 3 days per week on Mondays, Thursdays and a team-specific third day. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid"
+Analista SOC de ciberseguridad,Analista SOC de ciberseguridad,TRUST People Solutions,May,2024,"Empresa encargada de proveer soluciones y servicios en comunicaciones unificadas y redes convergentes de voz y datos se encuentra en búsqueda de
+
+Analista de ciberseguridad de la información
+
+Funciones:
+
+Operar las plataformas de seguridad de CAT
+Implementar nuevas herramientas de seguridad
+Realizar monitoreo y detección de actividad sospechosa
+Generar alertas sobre posibles amenazas
+Ejecutar procesos de enriquecimiento de observables
+Analizar artefactos maliciosos (primer nivel)
+Generar reportes de desempeño y eficiencia de las plataformas de seguridad
+
+Requisitos:
+
+Titulado
+Experiencia de al menos 1 año en:
+Herramientas de seguridad
+Endpoints
+Servidores
+DLP, SIEM
+Análisis de información
+Plataformas de inteligencia Power BI
+Estándares de seguridad
+Certificación CEH, EICH
+
+La posición ofrece
+
+Rango de sueldo $30,000 a 35,000 brutos de acuerdo a experiencia.
+
+Ubicación: Reforma, CDMX
+
+Modalidad: Presencial
+
+Beneficios: De ley
+
+Ayuda en cursos y certificaciones"
+Auxiliar en Seguridad de la Información,Auxiliar en Seguridad de la Información,PREMO,May,2024,"PREMO somos una empresa 100% Mexicana con más de 15 años en el mercado, con la misión de apoyar a pequeños y medianos empresarios que confían en sus negocios y requieren financiamiento u inversión para capital de trabajo.
+
+Intégrate a nuestro equipo como: Auxiliar en Seguridad de la Información
+
+Te Ofrecemos
+
+Salario base de acuerdo a experiencia
+Prestaciones de ley (IMSS, Vacaciones, Aguinaldo, Prima Vacacional)
+IMSS desde el primer día
+Cotización al 100%
+Contratación directa por PREMO
+Buen ambiente laboral
+Oportunidad de crecimiento
+Beneficios adicionales
+Oportunidad para hacer practicas o estadías.
+Horario completo o medio día por la mañana.
+
+Algunas de las actividades que estarás haciendo con nosotros:
+
+Realizar monitoreos a sistemas principales, identificación, documentación y seguimiento de hallazgos
+Creación de manuales para el personal sobre vulnerabilidades, phishing, malware, etc, y en función a revisiones internas ó boletines de seguridad
+Creación y coordinación de capacitaciones presenciales en materia de seguridad de la información al personal de PREMO
+Realizar documentación sobre procesos o manuales internos de seguridad, redactar informes detallados de respuesta a incidentes
+Participar en la remediación de incidentes de seguridad, mitigaciones, documentación y aplicación de medidas correctivas en las estrategias de mitigación de riesgos
+Revisiones del cumplimiento de la mitigación de vulnerabilidades en la infraestructura
+Participar activamente en la correlación de eventos, supervisar el tráfico de la red, detección de anomalías y en escalamientos de casos al SOC
+Participar activamente en la detección de amenazas en los equipos de usuario final, revisión de logs de DLP, EDR, XDR, logs de consolas de seguridad.
+Participar en el desarrollo de Políticas y Protocolos de Seguridad, participar en las Pruebas de Penetración y Auditorías de Seguridad
+
+Requisitos deseables
+
+Ingeniería o cursando en: Sistemas Computacionales / Informática / Técnico Superior en Seguridad Informática / Ingeniería en Seguridad Informática y Redes, Ingeniería en Ciberseguridad
+
+Hard Skills: Detección de intrusiones, Gestión de puntos finales, Antivirus, Seguridad Informática, Redes y seguridad de las redes, Modelo OSI, Sistemas Operativos.
+
+Soft Skills: Atención al detalle, Trabajo en equipo, Proactividad, Comunicación, Planificación, Pensamiento crítico, Curiosidad, Auto-Aprendizaje, Integridad, Discreción y Profesionalismo al trabajar con información confidencial.
+
+Conocimientos Deseables
+
+ITILv3 ó v4, MTA Microsoft, Security Fundamentals de Microsoft, Cisco CCNA, Explorations o Discovery.
+
+Ingles técnico, para lecturas de documentos de fabricantes o procesos.
+
+¡Postúlate si cumples con los requerimientos!"
+Operador y Analista de seguridad informática,Operador y Analista de seguridad informática,EducacionIT,April,2024,"Se busca técnico en seguridad informática para trabajar en importante empresa financiera.
+
+Más de 2 años de experiencia comprobable en tareas de seguridad informática.
+
+Es EXCLUYENTE indicar remuneración pretendida en BRUTO.
+
+Modalidad híbrida.
+
+Responsabilidades
+
+Implementar, gestionar y documentar soluciones de seguridad.
+Investigar y responder a incidentes de seguridad.
+Control de accesos y de usuarios.
+Batch Nivel Medio (Linux/Windows)
+Gestión de Certificados
+
+Requisitos
+
+Formación técnica en seguridad informática.
+Experiencia mínima COMPROBABLE de 2 años en el sector.
+Conocimientos de scripting en PowerShell y bash Linux. (NO EXCLUYENTE)
+Manejo de Active Directory o gestión de usuarios
+Conocimientos en Gestión de Certificados
+
+Ofrecemos
+
+Salario competitivo
+Beneficios sociales
+Oportunidades de desarrollo profesional
+
+Si estás interesado en esta oportunidad, envía tu CV y remuneración pretendida en BRUTO (EXCLUYENTE)."
+Analista de ciberseguridad de la información,Analista de ciberseguridad de la información,TRUST People Solutions,May,2024,"Empresa encargada de proveer soluciones y servicios en comunicaciones unificadas y redes convergentes de voz y datos se encuentra en búsqueda de
+
+Analista de ciberseguridad de la información -DLP-SIEM-Endpoints
+
+Funciones:
+
+Operar las plataformas de seguridad de CAT
+Implementar nuevas herramientas de seguridad
+Realizar monitoreo y detección de actividad sospechosa
+Generar alertas sobre posibles amenazas
+Ejecutar procesos de enriquecimiento de observables
+Analizar artefactos maliciosos (primer nivel)
+Generar reportes de desempeño y eficiencia de las plataformas de seguridad
+
+Requisitos:
+
+Titulado
+Experiencia de al menos 1 año en:
+Herramientas de seguridad
+Endpoints
+Servidores
+DLP, SIEM
+Análisis de información
+Plataformas de inteligencia Power BI
+Estándares de seguridad
+Certificación CEH, EICH
+
+La posición ofrece
+
+Rango de sueldo $30,000 a 35,000 brutos de acuerdo a experiencia.
+
+Ubicación: Reforma, CDMX
+
+Modalidad: Presencial
+
+Beneficios: De ley
+
+Ayuda en cursos y certificaciones"
+Information Security Analyst 2,Information Security Analyst 2,"Skyworks Solutions, Inc.",May,2024,"If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high performance analog semiconductors whose solutions are powering the wireless networking revolution. At Skyworks, you will find a fast-paced environment with a strong focus on global collaboration, minimal layers of management and the freedom to make meaningful contributions in a setting that encourages creativity and out-of-the-box thinking. Our work culture values diversity, social responsibility, open communication, mutual trust and respect. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together can change the way the world communicates.
+
+Please access Privacy Notice for Mexico for important information on personal data and electronic communications.
+
+Req ID: 73051
+
+Job Description
+
+We are looking for a Cybersecurity Analyst to join our team to protect our organization from cyberattacks by monitoring our systems and evaluating threats as they arise. The Cybersecurity Analyst responsibilities include reviewing computer networks and identifying any potential vulnerabilities, installing the necessary software in order to protect it from unauthorized access, and documenting detections so that future breaches can be mitigated efficiently. Ultimately, you will defend an organization’s computer hardware, software and other systems from theft, loss and other cyberattacks.
+
+Document security breaches and assess the damage they cause
+Work with the security team to perform tests and uncover network vulnerabilities
+Fix detected vulnerabilities to maintain a high-security standard
+Stay current on Information Technology (IT) security trends and news
+Develop company-wide best practices for IT security
+Help colleagues install security software and understand information security management
+Recent college graduate with a degree program in pursuit of Information Security, Cybersecurity, Information Technology, or related field preferred
+Strong attention to detail and ability to work independently
+Desire and aptitude to learn and apply security concepts and best practices
+Excellent communication and collaboration skills
+Intermediate skills in Microsoft Office applications
+
+Skyworks is proud to be an equal opportunity employer supporting diversity in the workplace."
+Cybersecurity Analyst,Cybersecurity Analyst,eINDUSTRIFY,April,2024,"Implement and maintain cybersecurity frameworks and standards, such as ISO 27001, NIST Cybersecurity Framework, and PCI DSS, to ensure compliance and alignment with best practices.
+Conduct regular assessments to identify security vulnerabilities and develop remediation plans to address any gaps in security controls.
+Collaborate with cross-functional teams to integrate cybersecurity practices into the overall development and operations processes.
+Monitor the ecommerce platform and related systems for potential security breaches or unauthorized access attempts.
+Develop and implement robust incident response procedures, including investigation, containment, mitigation, and recovery.
+Stay updated on the latest cybersecurity threats and trends and proactively implement measures to protect against emerging risks.
+Evaluate, select, and implement cybersecurity tools and technologies specific to the ecommerce domain, such as web application firewalls (WAFs), intrusion detection systems (IDS), and data loss prevention (DLP) solutions.
+Configure and manage security tools to effectively monitor and detect security incidents, vulnerabilities, and malicious activities.
+Conduct regular assessments of security tools to ensure optimal performance and effectiveness.
+Perform regular vulnerability assessments and penetration tests on the ecommerce platform to identify and address potential security weaknesses.
+Collaborate with development and IT teams to prioritize and remediate identified vulnerabilities in a timely manner.
+Monitor and track the progress of vulnerability remediation efforts.
+Develop and deliver cybersecurity training and awareness programs for employees to promote a culture of security awareness and best practices.
+Create educational materials and conduct workshops to educate employees on ecommerce-specific security risks and preventive measures.
+Stay updated on industry standards and trends related to ecommerce cybersecurity and disseminate relevant information to stakeholders.
+Ensure compliance with relevant industry regulations and standards, such as GDPR, CCPA, and Payment Card Industry Data Security Standard (PCI DSS).
+Prepare for and support internal and external cybersecurity audits and assessments.
+Collaborate with legal and compliance teams to address any findings or recommendations from audits and assessments.
+Bachelor's degree in Computer Science, Information Technology, or a related field. Advanced degree is a plus.
+8+ years of experience in cybersecurity, preferably with a focus on ecommerce platforms and online transactions.
+Strong knowledge of cybersecurity frameworks and standards, such as ISO 27001, NIST Cybersecurity Framework, and PCI DSS.
+Experience with ecommerce-specific security challenges, including secure payment processing, data privacy, and web application security.
+Familiarity with common cybersecurity tools and technologies used in the ecommerce industry, such as WAFs, IDS, DLP solutions, and vulnerability scanning tools.
+In-depth understanding of secure coding practices, encryption algorithms, and network security protocols.
+Strong analytical and problem-solving skills, with the ability to identify and address security vulnerabilities and threats.
+Excellent communication and collaboration skills to effectively work with cross-functional teams.
+Relevant certifications, such as Certified Information Systems Security Professional (CISSP) or Certified Ethical Hacker (CEH), are highly desirable.
+
+Note: All applicants must submit their Resumes in English"
+Information Security Specialist,Information Security Specialist,Capgemini,May,2024,"About Capgemini
+
+Capgemini is a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 360,000 team members in more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2022 global revenues of €22 billion.
+
+Our client is one of the United States’ largest insurers, providing a wide range of insurance and financial services products with gross written premiums well over US$25 Billion (P&C). They proudly serve more than 10 million U.S. households with more than 19 million individual policies across all 50 states through the efforts of over 48,000 exclusive and independent agents and nearly 18,500 employees. Finally, our client is part of one the largest Insurance Groups in the world.
+Get The Future You Want | https://www.capgemini.com/mx-es/
+
+
+Job Summary
+Utilize a wide range of risk-based methodologies to independently perform intermediate to advanced technical analysis of a broad range of interdependent medium to high cybersecurity risks. Analyze and establish security requirements for all company systems/networks; advise how to protect a highly complex information system to ensure the confidentiality, integrity, and availability of systems and data. Independently perform security testing and security risk assessments of high complexity according to best practices to address business challenges while also improving business processes. Independently manage and serve as a SME for all company security and technology platforms; analyze severe security breaches and incidents; participate in architectural discussion for any company technology platform; and document corporate security policies
+
+
+Essential Job Functions
+assess, document, and articulate all types of data security and data privacy risks in addition to appropriate countermeasures and controls to address data security and data privacy concerns.
+opportunities to proactively mitigate moderate to major risks, and manage threat or target analysis of cyber defense information and production of threat information within the enterprise.
+third party data security risk assessments, project security assessments, business risk assessments and security testing for most company systems and potential new systems.
+technical and nontechnical risk, and vulnerability assessments of relevant technology focus areas including local and global computing environment, network, infrastructure and applications, etc. Perform risk analysis when any application or system undergo a major change.
+security controls to integrate security within the process, to identify key security objectives, and to maximize software security while minimizing disruption to plans and schedules.
+processes to ensure legal and regulatory security compliance requirements are met.
+process improvement in detecting and responding to cybersecurity incidents and events.
+approve and ensure implementation of sophisticated security configurations.
+irregular and indeterminate patterns of noncompliance to determine their impact on levels of risk and overall effectiveness of the enterprise’s cybersecurity program.
+detective, protective or corrective measures when cybersecurity incidents are discovered.
+in audits of cyber programs and projects. Track audit findings and recommendations to ensure appropriate mitigation actions are taken.
+ownership of assigned audit actions or regulator requests by diligently providing responses and evidence within established timeframes.
+and manage relationships with a wide network of local business and IT front-line and senior stakeholders.
+cross-functional projects that incorporate local and global teams.
+the value of information technology (IT) security throughout all levels of the organization.
+business and IT teams to create innovative and sophisticated solutions to complex problems.
+review, and update security policies, procedures, standards and guidelines.
+as a SME for most company technology platforms and main contact point for IT groups seeking intermediate to advanced security input.
+in architectural discussions for all company technology platforms.
+creation of milestones and timelines for assigned security projects/initiatives.
+ownership of assigned projects from initiation to completion.
+as an internal consultant in multiple areas of security expertise.
+medium-scale to enterprise-wide projects forward with minimal oversight.
+security reporting data to recommend leading-edge solutions or policy changes.
+and educate Analysts on job responsibilities and security processes. Develop and/or assist in the development of on-the-job training materials or programs. Perform other duties as assigned.
+
+
+Education
+Bachelor’s degree in information systems or related discipline preferred.
+
+
+Experience
+Five to seven years professional experience in IT Security or Information Security Risk consulting and Project Management, or comparable base of knowledge/expertise in the field, required.
+
+
+Disclaimer
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law."
+IT Security Specialist,IT Security Specialist,Axented,April,2024,"Requirements
+
+A Security Specialist focused on app development and IT infrastructure plays a crucial role in ensuring the security and integrity of digital assets. They are responsible for identifying vulnerabilities, implementing security measures, and responding to security breaches. Below are the tools commonly used by Security Specialists to perform their duties effectively across different aspects of cybersecurity:
+
+Vulnerability and Threat Assessment
+Nessus or Qualys: For vulnerability scanning and identifying security weaknesses in software, networks, and systems.
+Burp Suite or OWASP ZAP (Zed Attack Proxy): Tools for web application security testing, useful in identifying vulnerabilities in web apps.
+Penetration Testing
+Metasploit: An open-source framework for developing, testing, and executing exploits.
+Kali Linux: A Linux distribution designed for digital forensics and penetration testing, containing numerous tools for security testing and research.
+Security Compliance and Frameworks
+Chef Compliance: For automating compliance checks and managing configuration policies across the enterprise.
+Nmap: For network discovery and security auditing, useful in compliance assessments and audits.
+Kibana and Elastic search for analysis over logs
+CloudWatch and other AWS tools for gathering relevant information
+Perform audit testing in endpoints and APIS to ensure compliance with the best security standards (JWE Encryption one of them)
+
+Responsibilities
+
+Risk Assessment and Management: Identify, assess, and prioritize risks to the organization's information assets, and implement measures to mitigate these risks.
+Vulnerability Assessment and Penetration Testing: Conduct regular scans of systems, networks, and applications to identify vulnerabilities. Perform penetration testing to evaluate the security of systems by simulating attacks.
+Security Monitoring and Incident Response: Monitor security systems and logs for unusual activities that might indicate a breach. Develop and execute incident response plans to contain and mitigate the impacts of security incidents.
+Security Policies and Procedures Development: Develop, implement, and maintain policies, procedures, and controls to ensure the security and compliance of systems and data.
+User Education and Awareness Training: Conduct training sessions and awareness programs for employees to ensure they understand security risks and adhere to best practices and company policies.
+Compliance and Auditing: Ensure systems and processes comply with relevant laws, regulations, and standards (such as GDPR, HIPAA, ISO 27001). Prepare for and facilitate security audits.
+Data Protection and Privacy: Implement measures to protect sensitive data from unauthorized access and breaches, ensuring data privacy and compliance with data protection regulations.
+Threat Intelligence: Keep abreast of the latest security threats, vulnerabilities, and mitigation techniques. Share intelligence with the team and use it to improve security measures.
+Access Control and Identity Management: Manage access to systems and data through robust identity and access management (IAM) practices. Ensure that only authorized individuals can access certain data and systems.
+Security Architecture and Design Review: Participate in the design and development of new systems and applications to ensure that security is integrated into the architecture from the ground up.
+Disaster Recovery and Business Continuity Planning: Develop and maintain plans to ensure the organization can recover from security incidents or disasters and continue operations with minimal downtime.
+Endpoint Security Management: Secure all endpoints, including mobile devices, laptops, and desktops, against malware, ransomware, and other threats.
+Network Security Management: Implement and manage network security measures such as firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS) to protect data in transit and at rest.
+Encryption and Data Security: Implement encryption strategies for data at rest and in transit to protect sensitive information.
+Third-Party Security Management: Assess and manage the security risks associated with third-party vendors and service providers to ensure they comply with the organization's security requirements."
+Analista de Ciberseguridad,Analista de Ciberseguridad,AvantGarde Human Capital Consultants,May,2024,"Somos una empresa mexicana de tecnología financiera, multi certificada y premiada, con 28 años de experiencia, la primera y más importante Sociedad de Información Crediticia en México.
+
+Queremos invitarte a formar parte de nuestro equipo como Analista de Ciberseguridad
+
+Objetivo:
+
+Ejecutar las actividades de seguridad lógica asignadas por la Gerencia de Seguridad y supervisión de seguridad, así como administrar y proponer mejoras en los controles. Operar los sistemas de protección contra código malicioso y seguridad en puntos finales, así como el aseguramiento de equipos de proveedores. Atención a auditorías internas y externas así como evaluar tecnologías de seguridad. Identificar activos de información para asignación de controles.
+
+Competencias Clave:
+
+Comunicación Efectiva
+
+Orientación al Cliente
+
+Manejo y Solución de Conflictos
+
+Trabajo en Equipo
+
+Toma decisiones
+
+Capacidad Analítica
+
+Requisitos:
+
+Licenciatura en Sistemas Computacionales Administrativas, Ciencias Computacionales , Tecnologías de la Información o Ingeniería en Sistemas
+
+Indispensable: Titulo o cédula profesional
+
+3 a 4 años de experiencia ejecutando actividades y procesos de Soporte técnico, respuesta a incidentes, administración de sistemas computacionales, configuración de herramientas de Seguridad de Endpoints
+
+Lugar de trabajo: Polanco
+
+Horario de trabajo: Lunes a Viernes de 9:00am a 6:00pm
+
+Contratación directa, tiempo indefinido, 100% nómina
+
+Prestaciones superiores de ley
+
+**La empresa no discrimina por motivos de sexo, edad, personas con discapacidad, orientación y preferencia sexual, expresión e identidad de género, condición de salud, embarazo, raza u origen étnico, respeta la diversidad y no hace ninguna discriminación.**"
+Cybersecurity Analyst II - PCI,Cybersecurity Analyst II - PCI,The Home Depot Global Technology Center In Mexico,June,2024,"In this role supporting the Secure Solution Advisors, you will have the opportunity to be a part and contribute to building the secure solution advisory program aligned to designated IT portfolios. The emphasis will be on providing excellent customer service and understanding business requirements. You will consult on key business initiatives ensuring comprehensive end-to-end risk identification and management. You will advise teams regarding remediation of vulnerability, configuration, and other security deficiencies. You will have the opportunity to coach customers to mature their understanding of security tools. This role requires cross-functional collaboration to identify trends, solve problems, ability to build relationships, influence without authority and drive outcomes across multiple stakeholder groups.
+Preferred Qualifications:
+least 2-3 years in an analyst role within cybersecurity or as an engineer on an IT team with a security focus
+to provide clear oral and written communication to a variety of business and technical audiences.
+resolution of cyber findings and PCI vulnerabilities.
+with our advisory program aligned with designated IT portfolios.
+on key business initiatives.
+large datasets and provide risk metrics/themes through dashboards or presentations.
+related certifications like CompTIA+, CISSP, etc., an added plus"
+Administrador/a de Sistemas área de Seguridad de la Información / Anti Fraude,Administrador/a de Sistemas área de Seguridad de la Información / Anti Fraude,BBVA en México,May,2024,"En BBVA llevamos más de 80 años trabajando para nuestros clientes.
+Nuestro propósito es poner al alcance de todos las oportunidades de esta nueva era.
+Este propósito refleja nuestro papel facilitador para ofrecer a nuestros clientes las mejores soluciones bancarias, ayudarles a tomar las mejores decisiones financieras e impactar positivamente en su vida.
+
+La Dirección General de Engineering es pieza fundamental dentro de la organización del Grupo BBVA México. Participamos como un solo equipo con las demás direcciones generales, aportando valor en la transformación de nuestro banco y de nuestro grupo, nuestra principal responsabilidad reside en desarrollar y operar soluciones tecnológicas y procesos seguros para mejorar la experiencia de nuestros clientes, ofrecer mejores productos y servicios y garantizar la continuidad operativa de nuestro banco.
+
+Sobre el puesto
+Administrador de Sistemas con experiencia en implementación de soluciones tecnológicas con experiencia deseable en desarrollo de Back-end Java con habilidades relacionadas a tareas de Instalación, Soporte y Mtto a producción; migraciones y atención de incidencias.
+
+Responsabilidades:
+Es una vacante muy enfocada a la implementación, mantenimiento, soporte y atención de incidentes de la operación bancaria, NO es para desarrollo, aunque si es necesario que tenga experiencia en desarrollo, dado que el perfil realizará Despliegue de las piezas Anti Fraude en América e integración de servicios de arquitectura.
+Actualización y mantenimiento de las piezas globales Anti Fraude.
+Experiencia trabajando con API REST, flujos de consumo de servicios entre aplicativos.
+● Construcción, Despliegue de componentes mediante herramientas de DevOps. (Implementación y Mantenimiento)
+● Atención, análisis y solución de problemas relacionados a incidentes de la
+operación de acuerdo a SLA’s soporte a componentes. (Esquema de Guardia)
+● Atención de incidentes productivos.
+● Interlocutor entre los equipos globales (España) y los equipos locales en
+LATAM (México, Colombia, Venezuela, Argentina, Perú y Uruguay) para la atención de requerimientos y consultas técnicas.
+
+Si te interesa formar parte de un equipo cuya principal responsabilidad reside en desarrollar y operar soluciones tecnológicas y procesos seguros para mejorar la experiencia de nuestros clientes, ofrecer mejores productos y servicios y garantizar la continuidad operativa de nuestro banco, ¡esta oportunidad es para ti!
+La vacante tiene un esquema laboral de asistencia híbrido, con sede en el Corporativo Parques Polanco, Ciudad de México.
+
+Y algo más personal
+Buscamos una persona con conocimientos técnicos y experiencia como:
+Ingeniero en Sistemas Computacionales
+Se requiere un/a profesional en implementación de soluciones tecnológicas, con habilidades de instalación, mantenimiento, soporte y atención de incidencias en entornos productivos
+Necesario conocimiento y experiencia en implementación de sistemas tecnológicos desarrollados de manera interna o bien productos comerciales/terceros. De manera adicional se requiere experiencia previa en desarrollo backend, análisis de código para poder brindar mantenimiento y soporte.
+
+Conocimientos Técnicos al menos 4 años:
+-Sistemas Operativos: Uso de Linux/Unix
+-Herramientas: Jenkins, Git, Bitbucket, Maven, SOAP UI, Postman, clientes SQL, Docker.
+-Otros: Webservices (REST y SOAP)
+-Criptografía (Básico), entendimiento uso de certificados, https, SSL, TLS, etc
+-Lenguajes de Programación: Java, Phyton, Spring y SQL
+-Capacidad de análisis, solución de problemas y atención en detalles.
+
+∙Conocimientos deseables en aplicaciones web, API REST, mecanismos de autenticación, autorización, arquitectura orientada a servicios, Bases de Datos estructuradas, DevOps.
+Se valora para la posición conocimientos en Backends Antifraude como lo pueden ser ARIC FeatureSpace, Lynx, Monitorplus, Trusteer, entre otros.
+∙ Habilidades de análisis y síntesis
+Enfoque hacia el cliente.
+∙ Buen desempeño en entornos de estrés.
+∙ Trabajo en equipo, valorando los resultados generales del equipo por encima de las preferencias individuales.
+***Disponibilidad para laborar en modelo Híbrido en Polanco CDMX
+*** La posición estará integrada en un esquema de rotación de guardias.
+
+
+
+Nuestros colaboradores son el motor de BBVA y nos tomamos muy en serio su bienestar. Por ello les otorgamos prestaciones que mejoren no solo su vida, sino la de sus familias. Al integrarte a nuestro equipo podrías acceder a muchos beneficios, te compartimos algunos:
+Prestaciones bancarias superiores a las de la ley.
+Seguro de vida.
+Vacaciones superiores a las de la ley.
+Plan de retiro.
+Préstamos exclusivos.
+Promociones exclusivas.
+Membresía a deportivos.
+Oportunidad de crecimiento dentro del Grupo.
+Participación en los juegos bancarios.
+
+Nuestros valores son muy importantes, por ello te compartimos nuestro modelo de sostenibilidad y banca responsable, entra a bbva.com > Información corporativa.
+Si te encuentras interesado/a, postúlate dando clic en “Solicitar ahora”. No olvides adjuntar tu CV actualizado."
+IT Security Specialist,IT Security Specialist,Axented,May,2024,"Requirements
+
+A Security Specialist focused on app development and IT infrastructure plays a crucial role in ensuring the security and integrity of digital assets. They are responsible for identifying vulnerabilities, implementing security measures, and responding to security breaches. Below are the tools commonly used by Security Specialists to perform their duties effectively across different aspects of cybersecurity:
+
+Vulnerability and Threat Assessment
+Nessus or Qualys: For vulnerability scanning and identifying security weaknesses in software, networks, and systems.
+Burp Suite or OWASP ZAP (Zed Attack Proxy): Tools for web application security testing, useful in identifying vulnerabilities in web apps.
+Penetration Testing
+Metasploit: An open-source framework for developing, testing, and executing exploits.
+Kali Linux: A Linux distribution designed for digital forensics and penetration testing, containing numerous tools for security testing and research.
+Security Compliance and Frameworks
+Chef Compliance: For automating compliance checks and managing configuration policies across the enterprise.
+Nmap: For network discovery and security auditing, useful in compliance assessments and audits.
+Kibana and Elastic search for analysis over logs
+CloudWatch and other AWS tools for gathering relevant information
+Perform audit testing in endpoints and APIS to ensure compliance with the best security standards (JWE Encryption one of them)
+
+Responsibilities
+
+Risk Assessment and Management: Identify, assess, and prioritize risks to the organization's information assets, and implement measures to mitigate these risks.
+Vulnerability Assessment and Penetration Testing: Conduct regular scans of systems, networks, and applications to identify vulnerabilities. Perform penetration testing to evaluate the security of systems by simulating attacks.
+Security Monitoring and Incident Response: Monitor security systems and logs for unusual activities that might indicate a breach. Develop and execute incident response plans to contain and mitigate the impacts of security incidents.
+Security Policies and Procedures Development: Develop, implement, and maintain policies, procedures, and controls to ensure the security and compliance of systems and data.
+User Education and Awareness Training: Conduct training sessions and awareness programs for employees to ensure they understand security risks and adhere to best practices and company policies.
+Compliance and Auditing: Ensure systems and processes comply with relevant laws, regulations, and standards (such as GDPR, HIPAA, ISO 27001). Prepare for and facilitate security audits.
+Data Protection and Privacy: Implement measures to protect sensitive data from unauthorized access and breaches, ensuring data privacy and compliance with data protection regulations.
+Threat Intelligence: Keep abreast of the latest security threats, vulnerabilities, and mitigation techniques. Share intelligence with the team and use it to improve security measures.
+Access Control and Identity Management: Manage access to systems and data through robust identity and access management (IAM) practices. Ensure that only authorized individuals can access certain data and systems.
+Security Architecture and Design Review: Participate in the design and development of new systems and applications to ensure that security is integrated into the architecture from the ground up.
+Disaster Recovery and Business Continuity Planning: Develop and maintain plans to ensure the organization can recover from security incidents or disasters and continue operations with minimal downtime.
+Endpoint Security Management: Secure all endpoints, including mobile devices, laptops, and desktops, against malware, ransomware, and other threats.
+Network Security Management: Implement and manage network security measures such as firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS) to protect data in transit and at rest.
+Encryption and Data Security: Implement encryption strategies for data at rest and in transit to protect sensitive information.
+Third-Party Security Management: Assess and manage the security risks associated with third-party vendors and service providers to ensure they comply with the organization's security requirements."
+Information Security Analyst,Information Security Analyst,Launchpad Technologies Inc.,May,2024,"Launchpad, a people-first technology company, is a leader in North America´s rapidly growing tech sector. Through two solutions, Launchpad supports its clients with digital transformation:
+
+PaasportTM, our iPaaS solution, streamlines software integration and automates workflows.
+Nearshore Staff Augmentation, our managed IT staffing service, connects top IT talent across various geographical regions, bringing industry expertise to leading clients.
+
+Based in Vancouver, Canada, our operational footprint spans across North and South America, with a second headquarters in Santiago, Chile.
+
+In 2023, our unwavering dedication to innovation garnered recognition as a Deloitte Technology Fast 50™ Program Company. Our clientele boasts industry leaders such as Walmart, GM, TIME Magazine, Salesforce, Tableau, Splunk, Bolt.com, Freedom House, and more.
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then we’d love to hear from you.
+
+Are you a skilled Information Security Analyst eager to explore new opportunities? We want to introduce you to our Information Security Analyst talent pool. While we may not have an immediate opening, we are building a selected pool of professionals for upcoming projects. At Launchpad, we value innovation and expertise. By being part of our Talent Pool, you're positioning yourself for exciting opportunities in the future.
+
+Why join our Talent Pool?
+
+Stay ahead: By becoming a part of our Talent Pool, you'll be first in line for consideration when a suitable role opens up.
+Showcase your expertise: Share your skills, projects, and experience with us, so we can match you with the right role.
+
+Responsibilities:
+
+Conduct regular security assessments and risk assessments.
+Monitor security alerts, incidents, and vulnerabilities; respond promptly to security incidents.
+Implement and manage security measures to protect computer systems, networks, and data.
+Collaborate with IT and other departments to ensure security best practices are integrated into all aspects of the business.
+Develop and maintain security policies, procedures, and documentation.
+Stay informed about the latest security trends, threats, and technologies.
+Conduct security awareness training for employees.
+Participate in the development and implementation of security standards.
+
+Qualifications:
+
+Bachelor's degree in Information Security, Computer Science, or a related field.
+Proven experience as an Information Security Analyst or in a similar role.
+Strong understanding of security protocols and frameworks.
+Knowledge of risk management and compliance frameworks (e.g., ISO 27001, NIST).
+Experience with security tools and technologies (firewalls, antivirus, SIEM, etc.).
+Familiarity with vulnerability assessment tools and methodologies.
+Excellent problem-solving and analytical skills.
+Effective communication skills to convey security concepts to technical and non-technical audiences.
+
+Preferred Skills:
+
+Relevant certifications (e.g., CISSP, CISM, CompTIA Security+).
+Experience with cloud security and virtualization technologies.
+Knowledge of regulatory requirements related to information security.
+Incident response and forensic investigation skills.
+
+Why work for Launchpad?
+
+100% remote
+People first culture
+Excellent compensation in US Dollars
+Hardware setup for working from home
+Work with global teams and prominent brands based in North America, Europe, and Asia
+Training allowances
+Personal time off (PTO) for vacations, study leave, personal time, etc.
+...and more!
+
+At Launchpad, we genuinely care about our people as individuals. If you are looking for a team that values growth, drive, and passion for your craft, if you’re seeking a place to achieve your goals and dreams with fairness and integrity, then you are the future of Launchpad. Launchpad is committed to fostering a diverse and representative workforce and an inclusive work environment where all employees are respected and treated equally.
+
+Are you ready to elevate your career at Launchpad? We want to hear your story! Contact us today."
+Cybersecurity Analyst - Audit,Cybersecurity Analyst - Audit,The Home Depot Global Technology Center In Mexico,June,2024,"In this role supporting The Home Depot’s Cybersecurity team, you will work with the Identity and Access Management team and ongoing internal / external audits. This role requires cross-functional collaboration to identify trends, solve problems, ability to build relationships, influence without authority and drive outcomes across multiple stakeholder groups.
+
+Will work with large sets of IAM compliance-related work.
+SOX requests during both mid and year-end.
+Non-SOX requests that are generated from Internal Audit.
+Engage with Identity and Access Management teams to coordinate, review and submit the various requests/questions from Audit and PCI Assessors.
+Assist with remediations efforts within IAM.
+Assist with gathering and reporting of monthly metrics.
+Coordinate updates of the SOX Audit walk-thru documentation and pre-walk thru meetings."
+Analista de ciberseguridad,Analista de ciberseguridad,MasterEDI,May,2024,"¡Únete a nuestro equipo como Analista de Ciberseguridad!
+
+Requisitos:
+2 años de experiencia en comunicaciones y redes.
+Experiencia en seguridad perimetral, VPNs, Firewalls, Cloud Computing y auditorías de seguridad.
+Conocimientos en ISO 27000, 27001 (deseable certificación ISO 27001).
+Habilidad en análisis de riesgos y cumplimiento de controles.
+
+Beneficios:
+Sueldo $20,000 - $23,000 brutos mensuales.
+Prestaciones de ley.
+Crecimiento profesional.
+Vales de despensa y restaurante.
+SGMM y transporte zona sur (Perisur).
+
+Horario: Lunes a Viernes de 09:00 a 19:00.
+Zona: Santa Fe, Ciudad de México."
+ANALISTA DE CIBERSEGURIDAD,ANALISTA DE CIBERSEGURIDAD,fonYou,May,2024,"FinTech que ofrece servicios de software, pagos digitales y micropréstamos en mercados en desarrollo. Llegamos a más de 300 millones de clientes en 18 países. Nuestros socios son empresas líderes en los sectores de Telecomunicaciones, Banca y Tech como Telcel, Claro, Meta, Telefónica, BBVA, Google, Banco Azteca, Daviplata, Nequi y Airtel entre otros.
+
+Tenemos presencia en más de 18 paises en todo el mundo...
+
+Analista de Seguridad de la Información
+
+Objetivo
+
+• Monitorear el cumplimiento de las políticas de seguridad de la organización.
+• Supervisar y dar seguimiento a las violaciones de la seguridad de la información.
+• Atención de auditorías internas, externas y de clientes en materia de seguridad de la información.
+• Generación de informes sobre el comportamiento y resultados de la evaluación de controles/requerimientos de seguridad de la información y ciberseguridad.
+• Identificar y evaluar riesgos de seguridad de la información, Identificar Amenazas, Vulnerabilidades, Impactos y Posibilidades de Ocurrencia relativo a la Ciberseguridad, de las Unidades de Negocio asignadas.
+
+Realizar un diagnóstico inicial a través de un análisis rápido en busca de incidentes potenciales, y hacer en consecuencia el cierre del evento o el escalamiento según aplique.
+
+- Documentar incidentes de seguridad a nivel ejecutivo y técnico.
+- Análisis de vulnerabilidades (Web e infraestructura)
+experiencia en soporte a usuario final y operación de alguna herramienta de seguridad (Antimalware, identificación de vulnerabilidades, elaboración de reportes de operación, generación de indicadores de riesgo, atención de incidentes de seguridad
+Inglés intermedio
+
+Competencias Técnicas
+
+Manejo de infraestructura en la nube, preferentemente GCP 
+Conocimiento en Docker , Kubernetes 
+CI/CD Integration
+conocimientos en algún WAF 
+Conocimiento básico de herramientas de seguridad (Anti Malware, Filtrado de contenido, IPS,IDS)
+Conocimiento de análisis de vulnerabilidades
+Conocimiento de incidentes de seguridad
+Administración de sistemas Linux y windows 
+Uso de herramientas en seguridad y redes.
+Implementación de proyectos TI.
+ Habilidades de desarrollo de Shell scripts
+Capacidad y curiosidad tenaz para llegar a la raíz de problemas.
+Altamente deseable estar familiarizado con el uso de pruebas de penetración (ethical hacker o pentester)
+Conocimiento avanzado en soporte a usuario final.
+
+Deseable
+
+Pentester
+Conocimiento de Sistema cloud GCP
+
+Soft Skills
+
+● Capacidad de autodidacta
+● Actitud de servicio
+● Trabajo en equipo
+● Tolerancia al trabajo bajo presión
+● Ordenado y Analítico
+● Proactivo
+● Propositivo
+● Orientado a resultados
+● Orientado a seguir procedimientos
+● Orientado a seguir políticas
+● Orientado a mejora continúa
+
+Ofrecemos:
+
+Contrato directo
+Prestaciones de ley y superiores
+Esquema de trabajo híbrido 90% home office
+$30,000 brutos mensual"
+IT Cyber Security Associate,IT Cyber Security Associate,myGwork - LGBTQ+ Business Community,May,2024,"This inclusive employer is a member of myGwork – the largest global platform for the LGBTQ+ business community.
+
+If you’re ready to bring the best, come join the IT team as an IT Security Associate for Mexico. You’ll be responsible for participating in the execution of projects set by the architecture team, assuring proper testing, implementation, maintenance, and optimization of security technology and operations in accordance with security policies and guidelines, together with more senior engineers. Additional functions and processes include service and product management, vendor management, collaboration with regional and global teams on security event investigation, mitigation, and remediation, and other operations support. You will work on one or more projects or initiatives as a team member, responsible for analysis, improvements, and activities execution of the assigned IT processes to provide high-quality services to internal clients. This role offers a moderate level of autonomy, engagement with clients, and frequent vendor engagement and management.
+
+This hybrid role is located in Querétaro with the expectation to be in the office 3 days per week / 2 days at home office – subject to change. Based on your performance, you’ll have the opportunity to grow in your role. Plus, on the days you’re in the office, no matter which office you’ll be at, there will be a free snack to enjoy the brands we’re all so proud to represent.
+
+A Taste Of What You’ll Be Doing
+
+Implementing Security Requirements: Assist in implementing solutions for intrusion detection and notification, security auditing, alerting and response, virus detection and removal, password complexity enforcement, and media protection as directed by the global and regional teams. Test functionality, adjust solutions as needed, and monitor progress with the Project Manager against baseline plans, reporting, and controlling deviations.
+Communication for Security Awareness: Proactively participate in continuous security awareness initiatives for the Latin America region to promote safe behaviors, best practices, and the adoption of new controls. Identify training and communication needs, propose, and deliver communications, and training on a biweekly to monthly basis.
+IT Vendor and Solutions’ Security Evaluation: Coordinate sessions with key business users and vendors to perform vendor evaluations, solutions evaluations, disaster recovery capability assessments, and architecture reviews. Monitor vendor compliance with IT governance, initiate re-evaluations after compliance failures, report status on vendor compliance, and work with vendors to resolve issues or deliver solutions.
+Security Incident Management & Request Fulfillment: Collaborate with security teams on incident investigation and response. Assess business requests for exceptions, access, installations, or troubleshooting, escalating to global teams as needed. Participate in the development, building, and testing of solutions or security systems to meet business requirements and functional specifications.
+Project Planning: Assist security architects in developing technical solutions based on business requirements and functional specifications provided by Business Analysts. Ensure completeness of technical requirements and functional architecture analysis is delivered to architects for the evaluation and implementation of security solutions.
+
+We’re Looking for Someone With
+
+Bachelor’s degree in Programming/Systems or Computer Science or other relevant field / equivalent work experience.
+General knowledge in Computer Operating System (Windows), Software and Hardware management, Network Design and Management, Backup and Recovery Services, Virtual/Cloud environments.
+Requires analytical, technical, and communication skills.
+Advance or fluent in English Language (Writing, reading & Speaking).
+At least 18 months of experience in IT Security and Network Security and administration.
+One or more Information Security Certifications desirable: Certified Ethical Hacker (CEH) or EC-Council Network Security Administrator, CISSP, COBIT, CISSP, ISO/IEC 27001, ISC2 CCSP, etc.
+Basic Networking training / certification desirable: CCNA or equivalent.
+
+What’s Next
+
+After you apply, your application will be reviewed by a real recruiter, so it may take us a few weeks to get back with you by email or phone. Visit our How We Hire page to get insights into our hiring process and more about what we offer.
+
+If you join our team, you’ll be rewarded for the difference you make. Our comprehensive benefits offer you the support you need through your life events, big or small. Visit our benefits page & be sure to ask your recruiter for more specific information.
+
+Get to Know Us
+
+At Kellanova, we are driven by our vision to be the world’s best-performing snacks-led powerhouse, unleashing the full potential of our differentiated brands and our passionate people. Our portfolio of iconic, world-class brands include Pringles, Cheez-It, Pop-Tarts, MorningStar Farms, Special K, Krave, Zucaritas, Tresor, Crunchy Nut, among others.
+
+Kellanova’s Culture of Best means we bring our best to all that we do in pursuit of our vision to be the world’s best performing snacks-led powerhouse. Our culture celebrates boldness and empowers our people to challenge the status quo, achieve results, and win together.
+
+Our focus on Equity, Diversity, and Inclusion (ED&I) enables us to build a culture of belonging where all employees have a place at the table and are inspired to share their passion, talents and ideas to work.
+
+The future is full of flavor at Kellanova.
+
+Kellanova is an Equal Opportunity Employer that strives to provide an inclusive work environment, a seat for everyone at the table, and embraces the diverse talent of its people. All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, disability, religion, national origin, gender, gender identity, gender expression, marital status, sexual orientation, age, protected veteran status, or any other characteristic protected by law. For more information regarding our efforts to advance Equity, Diversity & Inclusion, please visit our website here."
+IT Cyber Security Associate,IT Cyber Security Associate,Kellanova,May,2024,"If you’re ready to bring the best, come join the IT team as an IT Security Associate for Mexico. You’ll be responsible for participating in the execution of projects set by the architecture team, assuring proper testing, implementation, maintenance, and optimization of security technology and operations in accordance with security policies and guidelines, together with more senior engineers. Additional functions and processes include service and product management, vendor management, collaboration with regional and global teams on security event investigation, mitigation, and remediation, and other operations support. You will work on one or more projects or initiatives as a team member, responsible for analysis, improvements, and activities execution of the assigned IT processes to provide high-quality services to internal clients. This role offers a moderate level of autonomy, engagement with clients, and frequent vendor engagement and management.
+
+This hybrid role is located in Querétaro with the expectation to be in the office 3 days per week / 2 days at home office – subject to change. Based on your performance, you’ll have the opportunity to grow in your role. Plus, on the days you’re in the office, no matter which office you’ll be at, there will be a free snack to enjoy the brands we’re all so proud to represent.
+
+A Taste Of What You’ll Be Doing
+
+Implementing Security Requirements: Assist in implementing solutions for intrusion detection and notification, security auditing, alerting and response, virus detection and removal, password complexity enforcement, and media protection as directed by the global and regional teams. Test functionality, adjust solutions as needed, and monitor progress with the Project Manager against baseline plans, reporting, and controlling deviations.
+Communication for Security Awareness: Proactively participate in continuous security awareness initiatives for the Latin America region to promote safe behaviors, best practices, and the adoption of new controls. Identify training and communication needs, propose, and deliver communications, and training on a biweekly to monthly basis.
+IT Vendor and Solutions’ Security Evaluation: Coordinate sessions with key business users and vendors to perform vendor evaluations, solutions evaluations, disaster recovery capability assessments, and architecture reviews. Monitor vendor compliance with IT governance, initiate re-evaluations after compliance failures, report status on vendor compliance, and work with vendors to resolve issues or deliver solutions.
+Security Incident Management & Request Fulfillment: Collaborate with security teams on incident investigation and response. Assess business requests for exceptions, access, installations, or troubleshooting, escalating to global teams as needed. Participate in the development, building, and testing of solutions or security systems to meet business requirements and functional specifications.
+Project Planning: Assist security architects in developing technical solutions based on business requirements and functional specifications provided by Business Analysts. Ensure completeness of technical requirements and functional architecture analysis is delivered to architects for the evaluation and implementation of security solutions.
+
+We’re Looking for Someone With
+
+Bachelor’s degree in Programming/Systems or Computer Science or other relevant field / equivalent work experience.
+General knowledge in Computer Operating System (Windows), Software and Hardware management, Network Design and Management, Backup and Recovery Services, Virtual/Cloud environments.
+Requires analytical, technical, and communication skills.
+Advance or fluent in English Language (Writing, reading & Speaking).
+At least 18 months of experience in IT Security and Network Security and administration.
+One or more Information Security Certifications desirable: Certified Ethical Hacker (CEH) or EC-Council Network Security Administrator, CISSP, COBIT, CISSP, ISO/IEC 27001, ISC2 CCSP, etc.
+Basic Networking training / certification desirable: CCNA or equivalent.
+
+What’s Next
+
+After you apply, your application will be reviewed by a real recruiter, so it may take us a few weeks to get back with you by email or phone. Visit our How We Hire page to get insights into our hiring process and more about what we offer.
+
+If you join our team, you’ll be rewarded for the difference you make. Our comprehensive benefits offer you the support you need through your life events, big or small. Visit our benefits page & be sure to ask your recruiter for more specific information.
+
+Get to Know Us
+
+At Kellanova, we are driven by our vision to be the world’s best-performing snacks-led powerhouse, unleashing the full potential of our differentiated brands and our passionate people. Our portfolio of iconic, world-class brands include Pringles, Cheez-It, Pop-Tarts, MorningStar Farms, Special K, Krave, Zucaritas, Tresor, Crunchy Nut, among others.
+
+Kellanova’s Culture of Best means we bring our best to all that we do in pursuit of our vision to be the world’s best performing snacks-led powerhouse. Our culture celebrates boldness and empowers our people to challenge the status quo, achieve results, and win together.
+
+Our focus on Equity, Diversity, and Inclusion (ED &I) enables us to build a culture of belonging where all employees have a place at the table and are inspired to share their passion, talents and ideas to work.
+
+The future is full of flavor at Kellanova.
+
+Kellanova is an Equal Opportunity Employer that strives to provide an inclusive work environment, a seat for everyone at the table, and embraces the diverse talent of its people. All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, disability, religion, national origin, gender, gender identity, gender expression, marital status, sexual orientation, age, protected veteran status, or any other characteristic protected by law. For more information regarding our efforts to advance Equity, Diversity & Inclusion, please visit our website here."
+Analista de Ciberseguridad,Valuglobal Consultoria,"Mexico City, Mexico",February,2024,"Requisitos...
+
+Ing. / lic. Sistemas computacionales, Ciencias informáticas, Computación, seguridad informática
+
+Buscamos experiencia en ...
+
+Análisis de IP´s
+Análisis de Dominios
+Atención de tickets relacionados con eventos de ciberseguridad: posible phishing, correo malicioso, etc.
+
+Conocimientos en...
+
+Seguridad de la información y Ciberseguridad - ISO 27001
+
+Atención de Tickets
+
+Resolución de incidentes
+
+Análisis de dominios web y de IP´s
+
+Tus actividades seran...
+
+Atención de tickets relacionados con eventos de ciberseguridad: posible phishing, correo malicioso, etc.
+Generación de reportes
+Analisis de dominios web y de IP´s
+Ejecución de actividades de apoyo al responsable de ciberseguridad"
+Associate Security Analyst,Associate Security Analyst,Fortra,May,2024,"Problem Solvers. Proactive Protectors. Relentless Allies.
+
+Ready to join us? Let's get started.
+
+Responsible for investigating and defending against cybersecurity incidents such as credential theft phishing attacks, domain abuse, social media impersonations, business email compromise (BEC) attacks, and additional threats to the digital risk landscape. This is an entry-level position for someone passionate and knowledgeable about information and cyber security.
+
+What You'll Do
+
+Monitor internal proprietary detection systems for new attacks and validate malicious threats that are detected.
+Monitor systems for attack reports from our clients and their customers.
+Analyze potential attack vectors and explore resolution options.
+Build relationships with partnering providers and clients alike.
+Collaborate with across multiple teams to better protect and serve our clients.
+Utilize various programs and tools including: DNS tools, WhoIs records, open-source tools, basic scripting (Bash, GO, Python), Linux, and more!
+
+Qualifications
+
+Relevant education or experience relating to the IT industry is preferred
+Knowledge of Internet innerworkings such as IP subnetting, DNS, zone files, TLDs, HTTP, SMTP, etc.
+Knowledge of common internet attacks to include various types of fraud, social engineering, and scams across different channels (including social media and mobile channels)
+Ability to apply analytical concepts for solving complex problems
+Ability to work well as part of a team
+Excellent communication skills across verbal, written, and electronic communication channels
+Self-motivated and passionate toward delighting our clients
+Able to work with remote-based team members
+Basic understanding of Unix/Linux command line
+
+ID: 2960
+
+About Us
+
+This is Fortra, where we're making a difference by offering a best-in-class solutions portfolio, proactively adapting to the ever-evolving cybersecurity threat landscape, and putting people first. Fortra is a cybersecurity company like no other. We're known for our innovative software and services, world-class support, and the commitment and satisfaction of employees across the globe. Our approach is different, and we’re proud of that. For more information about what it's like to work for us, and learn about our culture, benefits, or perks, connect with us on LinkedIn.
+
+We Are Fortra
+
+Our people make us great. Our employees are a resilient and diverse group of global problem solvers, proactive protectors, and relentless allies, empowered to show up every day authentically, ready to fight the good fight with Fortra. Here at Fortra, we believe we're stronger when we're all stronger. That's why we're committed to supporting and empowering our employees through a host of offerings, including competitive benefits and salaries, personal and professional development opportunities, flexibility, and much more!
+
+Visit our website to learn more about why employees choose to work for Fortra. Remember to check out our Glassdoor to learn what our employees are saying and connect with us on LinkedIn.
+
+As an EEO/Affirmative Action Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, veteran or disability status."
+Security Operations Center Analyst,Security Operations Center Analyst,DB Schenker,June,2024,"Security Analyst
+
+At DB Schenker, you are part of a global logistics network that connects the world. A network that allows you to shape your career by encouraging you to contribute and truly make a difference. With more than 76,000 colleagues worldwide, we welcome diversity and thrive on individual backgrounds, perspectives, and skills. Together as one team, we are Here to move.
+
+Job Overview
+
+At Schenker International S.A. de C.V. we are looking for a Security Analyst to be part of our IT team, for our office in Guadalajara, Mexico.
+
+What you need to succeed (Qualifications, experience, skills, attributes)
+
+3 + years of related experience in information technology and/or information security preferred.
+Rooted interest and passion for information security is a plus.
+Essential administrative knowledge of Windows and Linux operating systems. (exclusive)
+Verifiable experience working in a SOC (Security Operations Center).
+Intermediate experience in Linux. Preferably 1 year as a Linux Admin (sysadmin).
+General understanding of these areas is a plus: Active Directory/Entra, Azure/AWS/GCP, network administration.
+An understanding of Cyber Security Incident Response and Network Security Monitoring.
+Fundamental understanding of computer networking TCP/IP.
+Some knowledge of Intrusion Detection Systems IDS and SIEM technologies; Splunk or ELK, Antivirus, Firewalls, ZScaler, Endpoint Security and Cisco Sourcefire and similar tools preferred.
+SOC Tier 1 Analyst must be willing to work in a 24x7x365 Security Operations Center environment. Including Holidays.
+Knowledge of creating Security Information Event Management (SIEM) tool rules.
+University degree in related technical/business areas or equivalent work experience.
+Some experience in working according to professional processes in the area of ITSM and knowledge of the processes of service management (ITIL).
+Some experience in working in international teams a plus.
+Fluent in English language, both written and spoken.
+Relevant Security Certifications would be a plus.
+
+What will be your challenges?
+
+Performs network security monitoring and incident response for a large organization, coordinates with Tier 1 colleagues and with Tier 2 to record, prioritize and initiate incident tickets.
+Maintains records of security monitoring and incident response activities, utilizing case management and ticketing technologies.
+Monitors and analyzes Security Information and Event Management (SIEM) to identify security issues for remediation.
+Recognizes potential, successful, and unsuccessful intrusion attempts and compromises thorough reviews and analyses of relevant event detail and summary information.
+Communicates alerts regarding intrusions and compromises to their network infrastructure, applications and operating systems.
+Consolidates and conducts comprehensive analysis of threat data obtained from classified, proprietary, and open source resources to provide indication and warnings of impending attacks against unclassified and classified networks.
+Recommend changes to Standard Operating Procedures and other similar documentation.
+Generates end-of-shift reports for documentation and knowledge transfer to subsequent analysts on duty.
+
+Competences:
+
+Strong aptitude for problem-solving and effective troubleshooting abilities.
+Proficient in customer service skills and adept at engaging with clients, staff, and management teams.
+Effective interpersonal skills to interact with team members, management, and SOC stakeholders.
+Strategic vision.
+Flexibility for changes.
+Fluent Business English (written and spoken).
+
+Why you will love DB Schenker
+
+Many of our jobs come with great benefits-including healthcare, ways to save for the future, and opportunities for career path.
+
+How to Get Started
+
+You can begin by applying above or visit us at https://dbschenker.com/global/careers
+
+Stay Connected With Us
+
+Web Page: http://www.dbschenker.com
+DB Schenker is committed to a diverse and inclusive workplace. DB Schenker is an equal opportunity employer and does not discriminate based on race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status."
+Associate Security Analyst,Associate Security Analyst,Fortra,May,2024,"Problem Solvers. Proactive Protectors. Relentless Allies.
+
+Ready to join us? Let's get started.
+
+Responsible for investigating and defending against cybersecurity incidents such as credential theft phishing attacks, domain abuse, social media impersonations, business email compromise (BEC) attacks, and additional threats to the digital risk landscape. This is an entry-level position for someone passionate and knowledgeable about information and cyber security.
+
+What You'll Do
+
+Monitor internal proprietary detection systems for new attacks and validate malicious threats that are detected.
+Monitor systems for attack reports from our clients and their customers.
+Analyze potential attack vectors and explore resolution options.
+Build relationships with partnering providers and clients alike.
+Collaborate with across multiple teams to better protect and serve our clients.
+Utilize various programs and tools including: DNS tools, WhoIs records, open-source tools, basic scripting (Bash, GO, Python), Linux, and more!
+
+Qualifications
+
+Relevant education or experience relating to the IT industry is preferred
+Knowledge of Internet innerworkings such as IP subnetting, DNS, zone files, TLDs, HTTP, SMTP, etc.
+Knowledge of common internet attacks to include various types of fraud, social engineering, and scams across different channels (including social media and mobile channels)
+Ability to apply analytical concepts for solving complex problems
+Ability to work well as part of a team
+Excellent communication skills across verbal, written, and electronic communication channels
+Self-motivated and passionate toward delighting our clients
+Able to work with remote-based team members
+Basic understanding of Unix/Linux command line
+
+ID: 2961
+
+About Us
+
+This is Fortra, where we're making a difference by offering a best-in-class solutions portfolio, proactively adapting to the ever-evolving cybersecurity threat landscape, and putting people first. Fortra is a cybersecurity company like no other. We're known for our innovative software and services, world-class support, and the commitment and satisfaction of employees across the globe. Our approach is different, and we’re proud of that. For more information about what it's like to work for us, and learn about our culture, benefits, or perks, connect with us on LinkedIn.
+
+We Are Fortra
+
+Our people make us great. Our employees are a resilient and diverse group of global problem solvers, proactive protectors, and relentless allies, empowered to show up every day authentically, ready to fight the good fight with Fortra. Here at Fortra, we believe we're stronger when we're all stronger. That's why we're committed to supporting and empowering our employees through a host of offerings, including competitive benefits and salaries, personal and professional development opportunities, flexibility, and much more!
+
+Visit our website to learn more about why employees choose to work for Fortra. Remember to check out our Glassdoor to learn what our employees are saying and connect with us on LinkedIn.
+
+As an EEO/Affirmative Action Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, veteran or disability status."
+Security Operations Center Analyst,Security Operations Center Analyst,Cloudflare,June,2024,"About Us
+
+At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.
+
+We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us!
+
+Job Locations: Remote, Mexico City, MX
+
+To the attention of candidates (Mexico City):
+
+This role requires full time work over the Weekends. Candidates should be comfortable working with a “Wed-Sun” or “Sat-Wed” 5-day working week schedule. Candidates MUST have right-to-work in Mexico. Visa sponsorship is NOT provided for this position.
+
+About The Department
+
+The Cloudflare Customer Support Team solves complicated problems and answers technical questions via phone, email, chat and social media. Whether it is a Wordpress blogger using our services for free or a global Enterprise business with petabytes of web traffic, we are always eager to assist. We are the eyes and ears of Cloudflare, acting as the real-time voice of the customer to help communicate their needs and real-world use cases back to the rest of the company - for better service and future product development.
+
+Description
+
+Security Operations Center Analysts provide premium-level support for Cloudflare’s security products and features. Our largest and most technically sophisticated customers will contact the SOC as a Service team for assistance and intelligence in dealing with threats or attacks on their infrastructure at OSI Layers 3, 4, and 7. This will span the range of Cloudflare security products from Magic Transit Infrastructure Protection, DDoS mitigation and Network Firewall, to using the Web Application firewall (WAF), Spectrum, Bot Management and Rate Limiting to help customers.
+
+Security Operations Center Analysts analyze threats, make detailed and informed suggestions for mitigation and may need to implement mitigation strategies directly on behalf of the customer. The team also provides attack reporting beyond Cloudflare’s self-service reports.
+
+Responsibilities
+
+Monitor and investigate the alerts to identify attacks
+Work with Engineering and Operations teams to mitigate attacks, suggest steps to mitigate, and apply the appropriate mitigation, when applicable
+Work with Engineering and Product teams to improve the products and tools
+Extensive communications with customers via chat, email, and phone
+Review the latest alerts to determine relevancy and urgency. Create new tracking tickets for alerts that signal an incident and require review or escalation
+Configure / Manage security monitoring rules and contribute to tool improvements
+Compare traffic signatures and attributes including IP addresses, cookie variations, HTTP headers, and JavaScript footprints to determine what is good traffic and what is malicious
+Participation in a weekend and holiday rotation required with main working hours 9 to 5 Pacific time
+
+
+Key skill sets
+
+Strong understanding of the OSI model, TCP, UDP, BGP, QUIC
+Advanced understanding of iptables
+Analysis of traffic for attack anomaly detection and creation of mitigation rules
+Experience in handling attack mitigation and thorough knowledge of various attacks (L3/4 and L7)
+At least 2 years of technical support experience and customer support experience is a must
+Strong communication skills with high-value customers
+Command line / Bash shell
+Sysadmin skills (Linux/Mac/Windows) & Programming skills (Python, Ruby, PHP, C, C#, Java, Perl, Git etc.)
+Security skills and certifications preferred: CISSP, GCIA GCIH, GCFA, GCFE, etc.
+
+
+Bonus Points:
+
+Previous DDoS mitigation for OSI layers 3,4, & 7, filter malicious traffic using Cloudflare tools like Magic Transit, Network Firewall, WAF, IP reputation lists, packet inspection, blacklisting, whitelisting, and/or rate limiting is a plus
+
+
+What Makes Cloudflare Special?
+
+We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.
+
+Project Galileo: We equip politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.
+
+Athenian Project: We created Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration.
+
+Path Forward Partnership: Since 2016, we have partnered with Path Forward, a nonprofit organization, to create 16-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one.
+
+1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers.
+
+Sound like something you’d like to be a part of? We’d love to hear from you!
+
+This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.
+
+Cloudflare is proud to be an equal opportunity employer. We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. All qualified applicants will be considered for employment without regard to their, or any other person's, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AA/Veterans/Disabled Employer.
+
+Cloudflare provides reasonable accommodations to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hr@cloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107."
+ANALISTA DE SEGURIDAD DE LA INFORMACIÓN,ANALISTA DE SEGURIDAD DE LA INFORMACIÓN,Axtel,May,2024,"En Axtel nos reinventamos, nos transformamos y nos adaptamos a través de nuestra pasión: La innovación.
+
+Somos la suma del talento y esfuerzo de la gente que integra nuestra organización , nos diferenciamos por ofrecer un servicio al cliente que supera sus expectativas a través de su satisfacción permanente, y eso nos hace la empresa mexicana líder en ofrecer soluciones de Tecnologías de Información y Comunicaciones a la cuál tú puedes pertenecer.
+
+Queremos integrar a nuestro equipo a un
+
+ANALISTA DE SEGURIDAD DE LA INFORMACIÓN
+
+Lo Que Realizarás
+
+Operar, Mantener y Administrar nuevas tecnologías, y actuales, en la red de equipos de Seguridad.
+Monitorear la red de equipos de Seguridad a fin de adelantarnos a los eventos de vulnerabilidades que puedan afectar los servicios de nuestros clientes.
+Monitoreo de eventos de seguridad (IDS, IPS, FW).
+
+Experiencia Requerida
+
+Manejo de SIEM´s ( QRadar, Splunk, LogRhythm
+Manejo de Firewalls (Palo Alto, Fortinet, checkpoint)
+Conocimiento y manejo de SIEM
+Conocimiento en redes (routing , switching)
+Monitoreo y atención a incidentes de seguridad perimetral.
+Apertura a Rotar turnos
+
+Te Ofrecemos
+
+Contrato directo
+Esquema 100% nominal
+Prestaciones superiores a las de ley.,
+Excelentes beneficios para tu salud y bienestar, tu economía y balance con tu vida, te están esperando para que disfrutes de ellos a cambio de tu contribución. intermedio- técnico.
+En Axtel promovemos y vivimos la igualdad laboral. Por ello, evaluamos competencias laborales sin distinción de género, preferencia sexual, raza, edad, estatus y religión, así como de personas con discapacidades, para TODAS nuestras vacantes.
+Servicios Axtel NO realiza ningún cobro a los candidatos por ningún trámite del proceso de reclutamiento, selección y/o contratación.
+
+Al participar en nuestros procesos de selección apruebas el tratamiento de datos que se describe en el Aviso de Privacidad en nuestra página. Te invitamos a consultarlo."
+Cybersecurity Incident Response Specialist,Cybersecurity Incident Response Specialist,Azkait,May,2024,"AZKAIT es una empresa Mexicana que busca y conecta el mejor talento IT con empresas Latinoamericanas y de Estados Unidos.
+
+Estamos en la búsqueda de tu talento como IT Cyber Defense Specialist.
+
+Requisitos:
+
+Como IT Cyber Defense Specialist serás responsable de identificar las desviaciones locales/regionales relevantes en materia de seguridad de TI y garantizar la implementación de medidas para remediar las desviaciones de los estándares de seguridad de TI definidos.
+
+Requisitos:
+
+Inglés Conversacional Avanzado (Indispensable)
+Licenciatura o Ingeniería en Sistemas o afín concluida
+A partir de 3 años de experiencia en Ciberdefensa o roles similares como ciberseguridad, respuesta a incidentes o inteligencia de amenazas.
+Experiencia trabajando con sistemas de prevención de intrusiones (IDS)(IPS)
+
+Conocimientos:
+
+Experiencia práctica en la dirección de CSIRT / respuesta y resolución a incidentes de seguridad informática
+Conocimientos y experiencia práctica en Network, Firewalls, detección y prevención de intrusiones, herramientas de gestión de clientes
+Experiencia en herramientas como Splunk, Endpoint o Nessus
+
+Prestaciones y Beneficios:
+
+Contratación 100% en nómina
+Prestaciones de Ley y Superiores
+Aguinaldo
+Prima vacacional
+Fondo de Ahorro
+Vales de despensa
+Bono a mitad de año
+Bono por cumplimiento de metas anual
+
+Lugar de trabajo:
+
+Oficinas ubicadas en Monterrey, Blvd. Antonio L. Rodríguez
+Modalidad de trabajo híbrido (1 Semana Onsite, 2 semanas Home Office)"
+Analista de Seguridad Corporativa,Analista de Seguridad Corporativa,Actinver,May,2024,"En ACTINVER generamos bienestar a las personas y empresas mexicanas a través de brindarles asesoría en el manejo de inversiones para mantener y crecer su patrimonio.
+
+Responsabilidades
+
+Evaluar y analizar los sistemas de seguridad existentes para identificar posibles vulnerabilidades tanto en las oficinas corporativas como centros financieros.
+Dar apoyo a las actividades relacionadas con la operación del centro nacional de monitoreo ( atención telefónica, alta de coloaboradores en sistema, control de acceso, biométricos etc.)
+Apoyar con la gestión de requisiciones, facturas, cotizacion de proyectos de seguridad.
+Verificar fallas en el sistema y mantenerse al tanto de las últimas tendencias en seguridad para mejorar los sistemas de la empresa.
+
+Requisitos
+
+Licenciatura culminada o trunca en Administración, Ingeniería Industrial o carrera afin.
+Experiencia previa en seguridad, preferiblemente en un entorno corporativo.
+Manejo de Paqueteria Office 365, conocimiento sólido de sistemas de seguridad física y digital.
+Habilidades analíticas y capacidad para tomar decisiones informadas en situaciones de crisis.
+
+Beneficios
+
+Oportunidades de crecimiento profesional y desarrollo personal.
+Ambiente de trabajo colaborativo y dinámico.
+Paquete de compensación competitivo y beneficios adicionales.
+
+En Actinver valoramos la igualdad de oportunidades y la diversidad. Por ello, no discriminamos por género, edad, discapacidad, orientación sexual, religión o cualquier otra condición personal."
+Information Security Governance Specialist,Information Security Governance Specialist,Diebold Nixdorf,May,2024,"Job Description
+
+Supports development of a highly effective information security culture by contributing to the development, implementation and administration of a strategic and comprehensive Information Security Governance framework. Supports development and implementation of Information Security policies and standards. Implements and monitors key performance indicators, working across the organization to ensure that security programs, projects and activity are managed effectively, efficiently and in a manner that is compliant with company standards and expectations.
+
+Responsibilities
+
+Performs a broad range of basic Information & Cyber Security tasks within an assigned organization or functional area.
+Monitors, analyzes, investigates and responds to information provided in daily security reports.
+Assists in monitoring security events and incidents generated from the security information management system.
+Executes various operational security tasks and responds to security related inquiries from internal and external customers.
+Monitors and assesses vendor and third-party information security reports and documentation.
+Conducts information security risk assessments and control selection activities.
+
+
+Qualifications
+
+
+Required Qualifications
+
+Diploma or equivalent work experience required.
+Minimum of 2-4 years of relevant experience or equivalent combination of education and experience in Information Security Governance.
+Good business English skills (Written and spoken).
+Knowledge of security, privacy and process frameworks (for example, ISO 27001, SOX, PCI, GLBA, GDPR).
+Knowledge of risk management concepts and risk assessment best practices.
+Experience of security assessments/audits (internal/external).
+Strong interpersonal skills and experience of building relationships at middle management levels of the organization.
+Proficiency in PowerPoint, MS Word, MS Excel and MS Visio.
+Ability to communicate fluently in English (speak, read, write)
+
+
+Why should you join Diebold Nixdorf?
+
+Brightest minds + technology and innovation + business transformation The people of Diebold Nixdorf are 23,000+ teammates of diverse talents and expertise in more than 130 countries, harnessing future technologies to deliver personalized, secure consumer experiences that connect people to commerce. Our culture is fueled by our values of collaboration, decisiveness, urgency, willingness to change, and accountability.
+
+–Diebold Nixdorf is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+To all recruitment agencies: Diebold Nixdorf does not accept agency resumes. Please do not forward resumes to our jobs alias, Diebold Nixdorf employees or any other organization location. Diebold Nixdorf is not responsible for any fees related to unsolicited resumes**
+
+
+About Us
+
+Why should you join Diebold Nixdorf?
+
+Brightest minds + technology and innovation + business transformation The people of Diebold Nixdorf are 23,000+ teammates of diverse talents and expertise in more than 130 countries, harnessing future technologies to deliver personalized, secure consumer experiences that connect people to commerce. Our culture is fueled by our values of collaboration, decisiveness, urgency, willingness to change, and accountability.
+
+–Diebold Nixdorf is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status.
+
+To all recruitment agencies: Diebold Nixdorf does not accept agency resumes. Please do not forward resumes to our jobs alias, Diebold Nixdorf employees or any other organization location. Diebold Nixdorf is not responsible for any fees related to unsolicited resumes**
+
+We are a global Company operating in multiple Locations and Entities. As we are keen to find the best solution for our candidates several legal entities might be applicable for a Job offer. A List of our operating entities can be found here - https://www.dieboldnixdorf.com/en-us/about-us/global-locations"
+IT Application Security,IT Application Security,Azkait,May,2024,"AZKAIT es una empresa Mexicana que busca y conecta el mejor talento IT con empresas Latinoamericanas y de Estados Unidos.
+
+Estamos en la búsqueda de tu talento como IT Application Security.
+
+Requisitos:
+
+IT Application Security
+
+Como IT Application Security trabajarás junto a una importante empresa multinacional de soluciones comerciales de consultoría y de servicios de TI.
+
+Requisitos:
+
+4 años de experiencia en funciones como: Codificación segura, Modelado de amenazas, Gestión de identidades y autenticación, Desarrollo de software y Seguridad de redes.
+Inglés conversacional (se hará evaluación)
+Licenciatura o Ingeniería concluida
+
+Skills:
+
+Comprensión de los protocolos relacionados con la red y la web (como TCP/IP, UDP, IPSEC, HTTP, HTTPS, protocolos de enrutamiento)
+Experiencia con lenguajes de programación como Java, C++, Ruby, Python o Perl
+Comprensión de los servicios web.
+Conocimientos de seguridad aplicados de AWS, Azure y otros proveedores de nube pública.
+Experiencia con vulnerabilidades de seguridad comunes en aplicaciones web.
+Fuerte sentido de propiedad, urgencia e impulso.
+
+Beneficios:
+
+Esquema de contratación 100% nómina
+Sueldo competitivo de hasta $85,000 mensuales brutos
+Modalidad de trabajo híbrido
+SGMM para el colaborador y su familia directa
+Seguro de Vida
+Vales de despensa
+PTU de ley
+Aguinaldo de 30 días
+Vacaciones de ley
+Certificaciones gratuitas
+
+Lugar de trabajo:
+
+Modalidad de trabajo híbrido
+Es importante contar con disponibilidad para presentarse en las oficinas más cercanas ubicadas en: CDMX, Querétaro, Nuevo León, Guadalajara"
+Especialista en seguridad de TI Jr/Ssr,Especialista en seguridad de TI Jr/Ssr,Empresa Confidencial,May,2024,"Somos una empresa transnacional que ofrece servicios de TI a diversos sectores del mercado y en la actualidad nos encontramos en la búsqueda de un Especialista en Seguridad Jr/Ssr para asumir nuevos retos y ser parte de nuestra expansión continua.
+
+Requerimientos
+
+🔧Conocimiento profundo de sistemas operativos, redes y aplicaciones
+🔧Habilidades de programación
+🔧Experiencia en pruebas de penetración.
+🔧Conocimiento de las últimas amenazas y vulnerabilidades:
+🔧Offensive Security Certified Professional (OSCP):
+🔧Certified Ethical Hacker (CEH)
+🔧Penetration Testing with Kali Linux (PWK):
+
+Principales Funciones
+
+🚀Identificar y evaluar vulnerabilidades
+🚀Realizar pruebas de penetración:
+🚀Desarrollar herramientas y scripts de seguridad
+🚀Mantenerse actualizado sobre las últimas amenazas y vulnerabilidades
+🚀Redactar informes de seguridad
+🚀Colaborar con otros equipos de seguridad
+
+
+Beneficios:
+🏥EPS
+💼Beneficios corporativos
+💻Trabajo Remoto
+
+Posición apta para personas con discapacidad"
+Gerente seguridad de la información,Gerente seguridad de la información,Coppel,May,2024,"Coordinar y supervisar la ejecución de los análisis de seguridad en las aplicaciones para identificar las amenazas tanto externas como internas a las que pueden estar expuestos los activos de Grupo Coppel, con el fin de que estas sean reportadas a los equipos de desarrollo para su corrección o mitigación; así como para validar la eficacia de los controles defensivos que forman parte de la estrategia de seguridad.
+
+Responsabilidades
+
+Ejecutar los análisis de seguridad estáticos y dinámicos en las aplicaciones de GC.
+Coordinar con terceros la ejecución de pruebas de seguridad de manera periódica para evaluar la eficacia de los controles defensivos en las distintas capas de seguridad de GC.
+Presentar los resultados de los análisis de seguridad a los equipos responsables para la atención de la remediación y/o mitigación de las vulnerabilidades encontradas en las aplicaciones.
+Proponer cambios en los procesos, políticas y procedimientos relacionados con la realización de análisis de seguridad en las aplicaciones para mantener una mejora continua.
+
+
+Requisitos
+
+
+Escolaridad
+
+Ingeniería en sistemas computacionales, Ingeniería en computación, Ingeniería en Informática, Licenciatura en sistemas o afines.
+
+Otros conocimientos
+
+Pruebas en caja negra, caja blanca, caja gris, ISO 27000, Gestión de vulnerabilidades, NIST, seguridad de aplicaciones, programación, cloud, Sistemas operativos, hacking ético, security testing, Base de datos, OWASP
+
+Experiencia
+
++2 años en puestos gerenciales con conocimientos en análisis de código, hackeo ético, programación, desarrollo de software, análisis de código estático y dinámico.
+
+Beneficios
+
+Beneficios
+
+Prestaciones de ley y superiores
+Reparto de Utilidades (PTU)
+Becas para estudios académicos, computación o idiomas (colaborador y familia directa)
+Fondo de Ahorro para el retiro
+Descuentos exclusivos en tienda
+Seguro de gastos médicos menores
+Seguro de Vida
+Planes de carrera con cursos, capacitaciones y certificaciones constantes
+Incentivo por término de estudios
+Útiles para tus hijos en edad escolar
+
+STAFF - BKVM
+
+Somos una empresa mexicana, fundada en Culiacán, Sinaloa. En 2021 cumplimos 80 años mejorando la vida de millones de mexicanos.
+
+Tenemos presencia en todos los estados de la república y contamos con más de 139 mil colaboradores, lo que nos convierte en uno de los 10 principales empleadores del país.
+
+Nuestro modelo de negocio está conformado por una amplia oferta de productos y servicios comerciales y financieros que operan transversalmente bajo el ecosistema omnicanal, lo que significa que podemos tener acceso a nuestros clientes por varios medios como
+
+Tiendas Coppel
+BanCoppel
+Afore Coppel
+Ambiente digital (.com y apps)
+
+Coppel es una comunidad en donde la dignidad humana prevalece sobre cualquier otra condición, por ese motivo, apoyamos la inclusión, la diversidad y la igualdad de oportunidades, sin hacer diferencia por raza, lugar de origen, religión, creencias, edad, imagen, orientación
+
+sexual, identidad de género, discapacidad, etc.
+
+Propósito
+
+Apoyarte en tus necesidades y deseos, acercándote un mundo de posibilidades para que mejores tu vida.
+
+Valores
+
+Confianza
+
+Responsabilidad
+
+Atención y Servicio
+
+Eficiencia y Sencillez
+
+Innovación"
+Analista SR Seguridad de la Información,Analista SR Seguridad de la Información,Citibanamex,June,2024,"The Info Sec Prof Senior Analyst is an intermediate level position responsible for leading efforts to prevent, monitor and respond to information/data breaches and cyber-attacks. The overall objective of this role is to ensure the execution of Information Security directives and activities in alignment with Citi's data security policy.
+
+Responsibilities:
+
+Identify potential information security (IS) risks and make recommendations for enhancement
+Collect and analyze security risk evidence and coordinate with internal and external compliance and auditing agencies / officials
+Execute meetings and communicate complex security topics and safe IS practices with all levels of the organization
+Ensure that controls are utilized daily and that non-compliance remediation is addressed
+Provide IS consulting services, including interpreting and/or clarifying information security policy, procedures, standards or concepts
+Assist with defining and implementing IS standards to align procedures and practices in compliance with Citi standards
+Educate and advise on safe information security practices and current, changing, and/or recommended information security requirements
+Validate compliance with IS policies, practices, and procedures, and resolve a variety of IS related issues in coordination with the business
+Assume informal/formal mentorship role within teams and assist with the coaching and training of new team members
+Has the ability to operate with a limited level of direct supervision.
+Can exercise independence of judgement and autonomy.
+Acts as SME to senior stakeholders and /or other team members.
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+Qualifications:
+
+5-8 years of relevant experience
+Applicable Certifications or willingness to earn within 12 months of joining
+Consistently demonstrates clear and concise written and verbal communication
+Proven influencing and relationship management skills
+Proven analytical skills
+
+Education:
+
+Bachelor’s degree/University degree or equivalent experience
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+CRISC / CISA/ CISM Certification deseable
+Inglés conversacional avanzado deseable
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Information Security
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting"
+IAM Security Analyst,IAM Security Analyst,Cloudflare,May,2024,"About Us
+
+At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.
+
+We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us!
+
+Available Locations: Lisbon, Portugal or Mexico City, Mexico
+
+About The Role
+
+As an Identity and Access Management (IAM) Security Analyst you will play a key role in efficiently managing user identities and access across the enterprise. You will be responsible for implementing technologies and designing processes to ensure users have authorized access to resources and systems.
+
+What You’ll Do
+
+Automate user provisioning and deprovisioning processes to enhance efficiency.
+Design, implement, and manage Identity Access & Governance policies and procedures.
+Conduct access certifications and enforce access controls based on organizational policies.
+Define and enforce privileged access management (PAM) policies to secure sensitive systems and data.
+Manage user onboarding, offboarding, and role changes, ensuring adherence to security policies and compliance requirements.
+Define and enforce access control policies, including, but not limited to, role-based access control (RBAC), least privilege principle, and segregation of duties (SoD).
+Conduct periodic access reviews and audits to maintain compliance.
+Collaborate with cross-functional teams, including IT, security, and compliance, to ensure IAM aligns with business goals.
+Communicate IAM-related updates and recommendations to stakeholders.
+Maintain comprehensive documentation of IAM policies, processes, and configurations.
+Generate reports and metrics related to IAM activities and security posture.
+Stay current with industry best practices, regulations, and compliance standards related to IAM, such as FedRamp, SOX, GDPR, PCI, and NIST.
+
+
+Examples Of Desirable Skills, Knowledge And Experience.
+
+In-depth understanding of IAM concepts, technologies, standards, and best practices.
+Experience in Identity and Access Governance performing policy enforcement, role management, and access certifications
+Experience implementing privileged access management (PAM)
+Experience drafting IAM security standards and policies
+Preferred background in scripting and/or application development to automate identity and access management processes.
+
+
+What Makes Cloudflare Special?
+
+We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.
+
+Project Galileo: We equip politically and artistically important organizations and journalists with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.
+
+Athenian Project: We created Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration.
+
+Path Forward Partnership: Since 2016, we have partnered with Path Forward, a nonprofit organization, to create 16-week positions for mid-career professionals who want to get back to the workplace after taking time off to care for a child, parent, or loved one.
+
+1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers.
+
+Sound like something you’d like to be a part of? We’d love to hear from you!
+
+This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.
+
+Cloudflare is proud to be an equal opportunity employer. We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. All qualified applicants will be considered for employment without regard to their, or any other person's, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AA/Veterans/Disabled Employer.
+
+Cloudflare provides reasonable accommodations to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hr@cloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107."
+Analista SR. Seguridad de la información,Analista SR. Seguridad de la información,Citibanamex,June,2024,"The Info Sec Prof Senior Analyst is an intermediate level position responsible for leading efforts to prevent, monitor and respond to information/data breaches and cyber-attacks. The overall objective of this role is to ensure the execution of Information Security directives and activities in alignment with Citi's data security policy.
+
+Responsibilities:
+
+Identify potential information security (IS) risks and make recommendations for enhancement
+Collect and analyze security risk evidence and coordinate with internal and external compliance and auditing agencies / officials
+Execute meetings and communicate complex security topics and safe IS practices with all levels of the organization
+Ensure that controls are utilized daily and that non-compliance remediation is addressed
+Provide IS consulting services, including interpreting and/or clarifying information security policy, procedures, standards or concepts
+Assist with defining and implementing IS standards to align procedures and practices in compliance with Citi standards
+Educate and advise on safe information security practices and current, changing, and/or recommended information security requirements
+Validate compliance with IS policies, practices, and procedures, and resolve a variety of IS related issues in coordination with the business
+Assume informal/formal mentorship role within teams and assist with the coaching and training of new team members
+Has the ability to operate with a limited level of direct supervision.
+Can exercise independence of judgement and autonomy.
+Acts as SME to senior stakeholders and /or other team members.
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+Qualifications:
+
+5-8 years of relevant experience
+Applicable Certifications or willingness to earn within 12 months of joining
+Consistently demonstrates clear and concise written and verbal communication
+Proven influencing and relationship management skills
+Proven analytical skills
+
+Education:
+
+Bachelor’s degree/University degree or equivalent experience
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+CRISC / CISA/ CISM Certification deseable
+Inglés conversacional avanzado deseable
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Information Security
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting"
+"Professional, Information Security (SOC)","Professional, Information Security (SOC)",SGF Global,May,2024,"Job Name: Professional, Information Security (SOC)
+
+Job Type: Permanent
+
+Country: Mexico
+
+City: CDMX
+
+State: FL
+
+Languages: English (Advanced 80%-100%)
+
+Job Descriptions
+
+The focus of the Professional Information Security is to distinguish, interrupt and suppress threat actors on enterprise networks. To execute this, you will use data analysis, threat intelligence, and cutting-edge security technologies. Working within the Security Operations Center Team at Ingram Micro, you will be responsible for detecting and assessing cyber security events and incidents across the enterprise environment. Sr. Professional Cyber Security will also participate in developing processes, procedures, training, etc. for new technologies. We seek a candidate to have a curious investigative mind, a passion in information security, and the ability to communicate complex ideas to varied audiences.
+
+Essential?Functions
+
+
+Investigate events and incidents to gather evidence and analyze in a comprehensive, consistent, and measurable manner
+Evaluate, respond, and mitigate alerts that originate from the SIEM and other security tools
+Hunt for suspicious and malicious threats within the environment
+Identify common false positives and make suggestions on tuning to reduce alert-fatigue
+Join forces with internal Security Incident Response Team (SIRT) during investigations
+Train and mentor other team members to develop a high-performing team
+Author investigation reports for technical and non-technical audience
+Willing to work in shift pattern (4 teams with two 12-hour shift, shift pattern working and non-working hours 2 days on, 2 days off, 3 days on, 2 days off, 2 days on, 3 days off)
+Ability to provide on call support when needed.
+
+
+Education and Experience
+
+
+A bachelor/s degree in I.T.,?Engineering,?Cyber Security or related science and math discipline with an information emphasis.
+EngIish?Proficiency?is a must (fluent in reading,?writing?and speaking).
+One or more years of full-time professional experience in the information security field.
+Experience working in an internal Security Operations Center (SOC) or Managed Security Service (MSS) Collaborate with Security Architecture, Engineering to Operationalize new security controls.
+Have in depth working on security tools such as Security Incident and Event Management (SIEM), Endpoint Detection and Response (EDR), Anti-Virus.
+Familiarity with MITRE ATT&CK and methods to detect suspicious and malicious behavior.
+Basic understanding of vulnerability assessment tools.
+Previous experience as a point of escalation in a technical environment.
+This position requires availability to work different shifts.
+
+
+Desired?Certifications? (nice to have)
+
+
+Security +
+GSEC
+CEH
+GMON
+GCIH
+CISSP
+
+
+One or more security related certification preferred."
+Analista de Ciberseguridad Fortinet Sr (NS4),Analista de Ciberseguridad Fortinet Sr (NS4),Scitum S.A. de C.V.,May,2024,"¡¡Importante Empresa Líder en brindar servicios de seguridad informática busca talento como tú!!
+Analista de Ciberseguridad Fortinet Sr
+Escolaridad: Ing. y/o Lic. en Sistemas o carrera afín
+CONOCIMIENTOS:
+NGFW
+DNS
+Routing & Switching
+Filtrado de contenido
+Antivitus / IPS
+Application Control
+Redes
+VPN
+EXPERIENCIA:
+· Gestión de herramientas en seguridad y redes.
+· Análisis y hardening de seguridad.
+· Contacto directo con clientes a cualquier nivel.
+· Operación en centros de seguridad.
+· Soporte a tecnologías de seguridad.
+· Troubleshooting a tecnologías de seguridad.
+· Uso de herramientas de monitoreo
+· Uso de herramientas de Service Desk
+
+CERTIFICACION INDISPENSABLE
+- Fortinet NSE4 –NSE5
+Zona de Trabajo: CDMX
+Ofrecemos sueldo base competitivo + Prestaciones de Ley y Superiores!!
+""En Scitum no discriminamos, por tal motivo en nuestros procesos de reclutamiento queda prohibido la solicitud de certificados médicos de no embarazo y virus de inmunodeficiencia humana (VIH) como requisitos para el ingreso, permanencia o ascenso en el empleo"""
+Remote Security Operations Analyst,Remote Security Operations Analyst,Computech Corporation,May,2024,"Title: Security Operations Analyst
+Location: Mexico (Remote work can be considered, but the person should currently be residing in Mexico)
+
+Summary: The Security Operations Analyst is responsible for managing and maintaining security technologies, while following HIPAA, PCI, and NIST standards. The Security Operations Analyst is also responsible for offensive security testing to identify vulnerabilities, exploitation capabilities, and organizational impact to internal and external threats.
+
+Responsibilities:
+Support implementation, management, and maintaining of information security technologies such as security information and event management systems, intrusion detection/prevention systems, vulnerability scanners, filesystem auditors, multi-factor/strong authentication technologies and logging servers
+Perform offensive security testing such as vulnerability exploitation and social engineering exercises
+Conduct regular and ongoing monitoring of and reporting on enterprise-wide compliance with information security and IT control standards and policies
+Develop technical documentation to support information security technology deployments and configurations
+Provide project support for both IT and business initiatives requiring security technologies and services
+Assist in response to security emergencies both during and after business hours
+Other duties as assigned
+
+Knowledge, Skills, and Abilities:
+Technology experience with network administration, systems administration, or information security administration
+Ability to learn offensive technology principles and technologies
+Proficiency in troubleshooting and communicating technical issues
+Ability to continuously monitor the health of multiple technologies
+Excellent team player
+Ability to provide excellent customer service
+
+Education:
+Associate degree in MIS, Computer Science, or related discipline with appropriate exposure to information security concepts, processes, and systems. A technical diploma or certificate will substitute for the associate degree.
+Information Technology related training and/or certifications (e.g. Network+, Security+, and CCNA Security) is preferred
+
+Work Experience:
+Minimum of one (1) year of Information Security or Information Technology experience
+Experience with information technology monitoring and troubleshooting is a plus
+Experience with enterprise technology administration (e.g. network administration or systems administration) is a plus"
+Especialista en seguridad de la información,Especialista en seguridad de la información,GRUPO LAMOSA,May,2024,"Grupo Lamosa, importante empresa líder en su ramo, esta en búsqueda de un Especialista en Seguridad de la Información para su corporativo ubicado en SPGG.
+OBJETIVO
+Es el responsable de diseñar, implementar y monitorear las medidas de seguridad informática que protejan los activos, la información y la infraestructura de la organización. Asimismo, debe analizar los riesgos, las amenazas y las vulnerabilidades, y proponer soluciones innovadoras y eficientes para mitigarlos y prevenirlos.
+REQUISITOS
+Ing. en Sistemas, Seguridad de la información o afín.
+Experiencia mínima de 3 años en posiciones similares
+Experiencia en Gestión de proyectos y Sistemas operativos Linux, Windows, MacOS
+Experiencia en administración de consolas Antivirus, Antispam
+Experiencia en marcos de ciberseguridad (ISO 27000 / NIST)
+Alguna de las certificaciones deseables CompTIA Security+ /CISSP / CISM
+Inglés Intermedio Alto
+ACTIVIDADES
+Desarrollar e implementar políticas, estándares y procedimientos de seguridad informática, de acuerdo con las mejores prácticas y las normativas vigentes.
+Realizar auditorías, pruebas y evaluaciones periódicas de los sistemas, las redes y las aplicaciones, para detectar y corregir las brechas de seguridad.
+Investigar y responder a los incidentes de seguridad, y elaborar informes y recomendaciones para su resolución y prevención.
+Coordinar y supervisar al equipo de Seguridad y brindar capacitación y asesoría al personal técnico.
+Investigar y evaluar las nuevas tecnologías y tendencias en materia de seguridad informática, y proponer su adopción e integración en la organización.
+OFRECEMOS
+SBM nominal atractivo
+Prestaciones superiores a las de ley
+Horario de trabajo de Lunes a Viernes
+Esquema híbrido
+Favor de postularse por este medio."
+Especialista Seguridad de la Información,Especialista Seguridad de la Información,Axtel,May,2024,"En Axtel nos reinventamos, nos transformamos y nos adaptamos a través de nuestra pasión: l a I nnovación.
+
+Somos la suma del talento y esfuerzo de la gente que integra nuestra organización, nos diferenciamos por ofrecer un servicio al cliente que supera sus expectativas a través de su satisfacción permane nte , y eso nos hace la empresa mexicana líder en ofrecer soluciones de Tecnologías de Información y Comunicaciones a la cuál tú puedes pertenecer.
+
+Queremos Integrar a Nuestro Equipo a Un
+
+Especialista Seguridad de la Información
+
+Lo Que Realizarás
+
+Operar, m antener y a dministrar nuevas tecnologías y las actuales en la red de equipos de Seguridad.
+Administración y configuración de Firewalls .
+Monitoreo de eventos de S eguridad (IDS, IPS, FW).
+
+Requisitos: Carrera en Seguridad en T ecnologías de la I nformación , Ing. Electrónica y Comunicaciones, Admin . de Sistemas, Admin . de TI o afín / A partir de 2 año s de experiencia en el área.
+
+Experiencia Requerida
+
+Administración y configuración de Firewalls (ASA, Firepower , Checkpoint , Fortinet, Palo Alto)
+Administración de SIEM
+Conocimiento en protocolos de ruteo (OSPF, BGP, EIGRP)
+Routing y Switching .
+Atención a incidentes de Seguridad Perimetral (N2 y N3)
+
+Certificaciones d eseable s : Cisco CCNP Security / Fortinet NSE 4,5 / Cisco ASA / Palo Alto
+
+Te Ofrecemos
+
+Horario lunes a viernes de 8:30am a 6:30pm / Modalidad híbrida
+Contrato directo / Esquema 100% nominal
+Prestaciones S uperiores a las de L ey
+
+¡ Excelentes beneficios para tu salud y bienestar, tu economía y balance con tu vida te están esperando para que disfrutes de ellos a cambio de tu contribución !
+
+En Axtel promovemos y vivimos la igualdad laboral. Por ello, evaluamos competencias laborales sin distinción de género, preferencia sexual, raza, edad, estatus y religión, así como de personas con discapacidades, para TODAS nuestras vacantes.
+Servicios Axtel NO realiza ningún cobro a los candidatos por ningún trámite del proceso de reclutamiento, selección y/o contratación.
+
+Al participar en nuestros procesos de selección apruebas el tratamiento de datos que se describe en el Aviso de Privacidad en nuestra página. Te invitamos a consultarlo."
+Analista de ciberseguridad,Velcas Capital Humano,"Mérida, Yucatán, Mexico",May,2024,"1. Lunes a viernes de 8.00 am a 7.00 pm.
+2. Sábado de 8.00 am a 1.30 pm.
+3. Sueldo de $18,000 netos mensuales (pago quincenal).
+4. Prestaciones de ley.
+5. Estudios universitarios en Informática o afín. 
+6. Posgrado Afín. (DESEABLE).
+7. Experiencia mínima de 3 años en roles de ciberseguridad y soporte técnico en TI.
+8. Responsable de mantener las políticas de seguridad actualizadas y mejorar las misma conforme a la evolución de la empresa.
+9. Responsable de la estrategia de seguridad que seguiremos para lograr el blindaje interno y externo de la compañía.
+10. Gestión de documentación, diseño de la arquitectura en seguridad.
+11. Gestión del Riesgo.
+12. Capacitación y concienciación a usuarios.
+13. Interacción con proveedores para respuesta de incidentes.
+14. Dar cumplimiento normativo a las políticas establecidas
+15. Implementar herramientas de monitoreo y auditoria.
+16. Participar activamente en sesiones con los proveedores de servicios con la capacidad técnica de validar y optimizar y mejorar las soluciones propuesta en el entorno de seguridad.
+17. Nivel de intermedio o avanzado en el manejo de los siguientes softwares: CISCO, Fortinet, Aruba, Azure M365, Kaspersky."
+Especialista en Seguridad informática y de sistemas,Especialista en Seguridad informática y de sistemas,AvantGarde Human Capital Consultants,May,2024,"Somos una empresa mexicana de tecnología financiera, multi certificada y premiada, con 28 años de experiencia, la primera y más importante Sociedad de Información Crediticia en México.
+
+Queremos invitarte a formar parte de nuestro equipo como Especialista en Seguridad Informática y de Sistemas
+
+Principales funciones:
+
+Análisis, diseño, desarrollo e implantación de controles tecnológicos de seguridad.
+Atender y remediar los hallazgos generados por parte de las auditorías internas y externas relacionados con seguridad.
+Atención de las requerimientos operativos generados por los empelados de las distintas áreas
+
+Conocimientos específicos:
+
+Sistemas operativos Windows, Linux, Bases de datos MSSQL, Informix, arquitectura de procesamiento distribuido Conocimientos en seguridad de telecomunicaciones, navegación a Internet, Correo electrónico, gestión de vulnerabildiades, Owasp Top 10, Seguridad en Operaciones de Desarrollo (DevSecOps)
+
+Requisitos:
+
+Formación como Licenciado o Ingeniero en Informática. Ing. En Telecomunicaciones o Ing. En Comunicaciones y Electrónica
+
+Indispensable: Titulo y/o cédula profesional
+
+Experiencia mínima de 5 a 6 años: Coordinando y ejecutando las actividades de seguridad lógica, así como administrar y proponer mejoras en los controles de seguridad.
+
+Alto nivel de Dominio de sistemas Linux. MSSQL
+
+Lugar de trabajo: Polanco
+
+Horario de trabajo: Lunes a Viernes de 9:00am a 6:00pm
+
+Contratación directa, tiempo indefinido, 100% nómina
+
+Prestaciones superiores de ley
+
+**La empresa no discrimina por motivos de sexo, edad, personas con discapacidad, orientación y preferencia sexual, expresión e identidad de género, condición de salud, embarazo, raza u origen étnico, respeta la diversidad y no hace ninguna discriminación.**"
+Analista de Sistemas – Ciberinteligencia y ciberseguridad,Banco de México (Banxico),"Mexico City, Mexico",May,2024,"¡Banco de México solicita!
+
+Banxico busca mujeres y hombres profesionistas con gran interés de contribuir al bienestar económico y social de México.
+
+Vacante: Analista de Sistemas – Ciberinteligencia y ciberseguridad.
+
+Requisitos
+
+Escolaridad: Lic. en Sistemas y T.I.
+Estatus académico: Titulado/a.
+Promedio académico de egreso: Igual o superior a 8.0.
+Cartilla Militar liberada (hombres)
+
+Experiencia
+
+Experiencia en servicios de ciberinteligencia y ciberseguridad. (Deseable)
+
+Conocimientos
+
+Nivel Medio en: Sistemas operativos y redes informáticas
+Nivel Medio en: Seguridad Informática
+Nivel Medio en: Idioma Inglés
+Nivel Medio - Avanzado en: Microsoft Office (Excel)
+
+Actividades a Realizar
+
+Controlar las actividades relacionadas con los servicios de ciberinteligencia y búsqueda proactiva de amenazas, gestión de incidentes de seguridad informática, análisis forense digital y de código malicioso, mitigación de ataques de denegación de servicio (DDoS) a la TI institucional, para contar con una infraestructura de TI eficiente y segura que genere estándares de calidad y buen funcionamiento.
+Desarrollar la documentación (presentaciones, dictámenes, informes, notas, etc.) relacionada con la atención de requerimientos de información solicitados por los diversos administradores de tecnología del Banco
+Desarrollar y controlar Las actividades y la calidad de los ejercicios simulados de ataque-defensa en coordinación con la Oficina de Pruebas de Seguridad Informática y el Centro de Monitorización Unifica.
+
+Ofrecemos
+
+Apoyos académicos
+Estabilidad laboral
+
+Lugar de trabajo: Centro Histórico de la Ciudad de México.
+
+¡Te estamos esperando!
+
+Banco de México, Institución de excelencia comprometida con la igualdad de oportunidades laborales para mujeres y hombres y primer banco central certificado por EDGE.
+
+El Banco de México no solicita certificados médicos de no embarazo y Virus de Inmunodeficiencia Humana (VIH) como requisito para el ingreso, permanencia o ascenso en el empleo."
+IT Support Specialist,IT Support Specialist,DearDoc,May,2024,"Who we are...
+
+Great Places to work 2022 and 2023
+
+DearDoc provides top doctors with a suite of technology and marketing tools, allowing them to run their practices more efficiently, so that they can give their full attention to their patients. DearDoc works endlessly to ensure that every practice is given whatever they need to run smoothly, and more importantly, to continuously grow with new patients. We are a passionate and hard-working team, dedicated to the 4,500+ practices who use our technology and working to innovate the healthcare space each and every day.
+
+Working with teammates all over the world, we enjoy the autonomy and innovation of a startup environment where people rally around a shared vision, advance quickly within the company, and are invigorated by our fun, fast-paced culture. Truly…we have a LOT of fun.
+
+We’ve been doing this since 2019 and we’d like to think we’re pretty good at it. We are always looking for people who will make us better.
+
+We are looking for a highly capable IT support specialist to provide technical assistance to our staff. In this role, your duties will include ensuring optimal use of our hardware and software technologies, enhancing system performance, and securing data.
+
+ONLY RESUMES IN ENGLISH WILL BE CONSIDERED.
+
+Location: Guadalajara, Jalisco - Remote (Work from Home)
+
+Employment Type: Contractor, Indefinite - Part-Time, Tuesday & Friday, 9-6pm EST
+
+Salary Range: $12,500 MXN per Month
+
+Essential Functions & Responsibilities
+
+Providing IT assistance to staff and US IT Operations
+Responding to tickets from MX team
+Resolving logged errors in a timely manner.
+Purchasing IT Equipment for MX
+Offboarding and Onboarding (IT related)
+Monitoring hardware, software, and system performance metrics.
+Updating computer software. as well as upgrading hardware and systems.
+Maintaining databases and ensuring system security.
+Documenting processes and performing diagnostic tests.
+Keeping track of technological advancements and trends in IT support.
+
+Skills & Background
+
+A bachelor’s degree in computer science, information technology, or equivalent experience
+1 - 3 years of IT support specialist experience
+Exceptional ability to provide technical support and resolve queries.
+In-depth knowledge of computer hardware, software, and networks.
+Ability to determine IT needs
+Proficiency in IT helpdesk software, such as Comodo,Freshservice and or Zendesk is preferred
+Excellent oral and written communication skills
+Attentive, considerate, inquisitive and empathetic to others
+Exceptional time management skills
+
+DearDoc, Inc. is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. All employment is decided on the basis of qualifications, merit, and business needs.
+
+We do our best to respond to all applications as quickly as possible. We look forward to reviewing your background and connecting shortly to learn more about you! In the meantime….CHECK US OUT!
+
+Instagram
+LinkedIn
+Great Places to work 2022 and 2023"
+Analista SR. de Seguridad de la Información,Analista SR. de Seguridad de la Información,Citibanamex,June,2024,"The Information Security Operations (ISO) Sr. Analyst is an intermediate level position responsible for leading efforts to prevent, monitor and respond to information/data breaches and cyber-attacks. The overall objective of this role is to ensure the execution of Information Security directives and activities in alignment with Citi's data security policy.
+
+Responsibilities:
+
+Address security issues identified in the various information security programs
+Review and address issues identified within various Information Security (IS) programs and ensure all IS issues related to Internal Audit, and External Auditors are closed by their original target date
+Improve the efficacy of governance processes by identifying risks, monitoring controls, and remediating issues
+Establish cross-sector working relationships and complete weekly awareness discussions with local team to efficiently tackle security issues
+Ensure risk exceptions are raised, registered and closed on a timely basis and communicate updates and changes to the global standards
+Complete Risk Assessment process, including completing accurate inventory reporting, data classification, threat analysis, and action plans
+Test and validate that the business complies with applicable IS requirements; develop and implement IS policies and procedures
+Determine and validate appropriate level of controls are being implemented to safeguard sensitive data
+Develop Corrective Action Plans for all Information Security-related gaps and approve all closures through reviewing evidence to ensure each closure meets Citi Requirements
+Assume informal/formal mentorship role within teams and assist with the coaching and training of new team members
+Has the ability to operate with a limited level of direct supervision.
+Can exercise independence of judgement and autonomy.
+Acts as SME to senior stakeholders and /or other team members.
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+Qualifications:
+
+5-8 years of relevant experience
+Proficient in interpreting and applying policies, standards and procedures
+Consistently demonstrates clear and concise written and verbal communication
+Proven influencing and relationship management skills
+Proven analytical skills
+
+Education:
+
+Bachelor’s degree/University degree or equivalent experience
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+CRISC / CISA/ CISM Certification deseable
+Inglés conversacional avanzado deseable
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Information Security
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting"
+Manager SR. Seguridad de la Información,Manager SR. Seguridad de la Información,Citibanamex,June,2024,"The Info Security Ops Sr Manager is a senior management level position responsible for accomplishing results through the management of a team or department in an effort to prevent, monitor and respond to information/data breaches and cyber-attacks. The overall objective of this role is to ensure the execution of Information Security directives and activities in alignment with Citi's data security policy.
+
+Responsibilities:
+
+Validate compliance with security practices/standards and validate controls to ensure no major IS issues are present
+Reduce the likelihood of audit, regulatory and legal liabilities through controls and testing
+Reduce the risk of confidential data disclosure and successful cyber-attacks by engaging appropriate people and validating controls
+Create detailed project schedules and lead the organization of work breakdown between teams
+Present system requirements to development teams, and communicate project plans and updates to appropriate stakeholders/management
+Manage and lead work group meetings, including preparing the meeting agenda and minutes
+Report project metrics and status in presentations for senior management
+Manage project deadlines, deliverables, progression, budget and project planning for the team
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency, as well as effectively supervise the activity of others and create accountability with those who fail to maintain these standards.
+
+Qualifications:
+
+6-10 years of relevant experience
+Experience at a bank or financial institution preferred
+Advanced proficiency with Microsoft Office tools and software preferred
+Information Security Certifications or willingness to earn within 12 months of joining
+Consistently demonstrates clear and concise written and verbal communication
+Proven influencing and relationship management skills
+Proven analytical skills
+
+Education:
+
+Bachelor’s degree/University degree or equivalent experience
+Master’s degree preferred
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+CRISC / CISA/ CISM Certification deseable
+Experiencia en gestión de equipos de trabajo deseable
+Inglés conversacional avanzado deseable
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Information Security
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting"
+Analista de Seguridad Informática,Analista de Seguridad Informática,KTI Talent Indicator,May,2024,"En KTI Key Talent Indicator, buscamos un apasionado y altamente capacitado Especialista en Ciberseguridad para proteger nuestros sistemas informáticos y datos sensibles. Si te apasiona el mundo de la ciberseguridad y quieres marcar una diferencia real, ¡únete a nuestro equipo!
+
+Descripción Del Puesto
+
+Como Especialista en Ciberseguridad, serás responsable de todos los aspectos relacionados con la seguridad informática, desde la prevención hasta la detección y contención de ciberataques. Tu misión será mantener nuestros sistemas seguros y nuestros datos protegidos.
+
+Responsabilidades Clave
+
+Prevención Proactiva: Diseñar y ejecutar planes de acción robustos para prevenir ciberataques y mantener nuestros sistemas protegidos.
+Detección y Respuesta: Monitorear continuamente los sistemas informáticos para detectar fallos y ataques maliciosos, respondiendo rápidamente para mitigar riesgos.
+Auditorías y Consultorías: Realizar auditorías exhaustivas y proporcionar consultorías expertas para asegurar que nuestros archivos y sistemas estén libres de intrusos y amenazas.
+
+Requisitos
+
+Experiencia comprobada en ciberseguridad y gestión de incidentes.
+Conocimiento profundo de herramientas y técnicas de seguridad informática.
+Capacidad para realizar auditorías de seguridad y desarrollar planes de prevención.
+Excelentes habilidades de análisis y resolución de problemas.
+Habilidades de comunicación efectivas y capacidad para trabajar de manera remota en un equipo colaborativo.
+
+Beneficios
+
+Teletrabajo: Disfruta de la flexibilidad de trabajar desde cualquier lugar.
+Horario Flexible: Trabaja de 9 a 17 horas, asegurando un equilibrio perfecto entre vida laboral y personal.
+Salario Competitivo: Ofrecemos un salario bruto anual de 25.000€, con oportunidades de crecimiento profesional.
+Entorno Innovador: Únete a un equipo dinámico y participa en proyectos que están transformando el sector de la tecnología.
+
+Sector: Tecnología
+
+¡No pierdas esta oportunidad de ser el héroe de la ciberseguridad! Envía tu solicitud ahora y forma parte de KTI Key Talent Indicator, donde transformarás datos en decisiones estratégicas y protegerás nuestro futuro digital."
+Security Analyst,Security Analyst,Fortra,May,2024,"Problem Solvers. Proactive Protectors. Relentless Allies.
+
+Ready to join us? Let's get started.
+
+We are actively seeking a Security Analyst to join our league of extraordinary Threat Security Experts. You'll be on the frontlines of the daily battle to protect our customers IT environments and critical business data. You’ll use your skills and knowledge of our extensive proprietary toolset to monitor our customers' environments, triage, and respond to security incidents. You will be a virtual shield — protecting our customers on a global scale and providing unrivaled security guidance on existing and emerging cyber security threats. Your hyper-focus will be keenly set on Customer Obsessed. You will be relentless in your pursuit of value creation for the customer, tuning and optimizing our incident output in alignment with their environment and application stack. If you just said to yourself, “That’s me!” then read on.
+
+What You'll Do
+
+Develop comprehensive knowledge of our products and services and effectively utilize this to provide world-class customer experience and security outcomes for our customers.
+Protect customers on a global scale and provide security guidance on existing and emerging cyber security threats.
+Analyze, escalate, and respond to security events, observables and incidents detected by our propriety security products.
+Threat hunt across thousands of customer environments, identifying threats and observables and contribute to content management and threat intelligence activities.
+Conduct incident response activities, supporting customers through containment, eradication, and recovery
+Tune our propriety security products in line with customer specific environments in order to maximize detection coverage and minimize noise.
+Effectively communicate and collaborate with a global team and across multiple departments to identify improvements to the customer experience and to maximize operational efficiencies.
+Represent customer and team interests in product, engineering, and security content discussions.
+Produce Knowledge Base Articles for best practices in your team’s specific area of expertise as they pertain to the use of our solutions.
+
+Qualifications
+
+Bachelor’s degree or equivalent experience
+Must have at least one industry-recognized security certification
+1+ years of experience in the security industry
+1+ years of experience with Frontline Vulnerability Manager
+2+ years’ experience as a security analyst
+Basic understanding of cloud environments & infrastructure (preferably AWS)
+Knowledge of SOAR tools (Security Orchestration and Automation, Security Incident Response Platforms (such as TheHive), Threat Intelligence Platforms)
+Basic experience using an IDS eg., Snort or Suricata
+Basic command of Linux systems administration and working with BASH
+Basic knowledge of configuring Windows or Linux system logging
+Basic understanding of networking including TCP/IP
+Basic experience with network monitoring and packet analysis tools
+Basic understanding of HTTP, SSL/TLS, SOAP, and reverse proxies
+Basic understanding of the OWASP Top 10
+Basic knowledge of threat vectors against the Windows or Linux platform
+
+ID:2963
+
+About Us
+
+This is Fortra, where we're making a difference by offering a best-in-class solutions portfolio, proactively adapting to the ever-evolving cybersecurity threat landscape, and putting people first. Fortra is a cybersecurity company like no other. We're known for our innovative software and services, world-class support, and the commitment and satisfaction of employees across the globe. Our approach is different, and we’re proud of that. For more information about what it's like to work for us, and learn about our culture, benefits, or perks, connect with us on LinkedIn.
+
+We Are Fortra
+
+Our people make us great. Our employees are a resilient and diverse group of global problem solvers, proactive protectors, and relentless allies, empowered to show up every day authentically, ready to fight the good fight with Fortra. Here at Fortra, we believe we're stronger when we're all stronger. That's why we're committed to supporting and empowering our employees through a host of offerings, including competitive benefits and salaries, personal and professional development opportunities, flexibility, and much more!
+
+Visit our website to learn more about why employees choose to work for Fortra. Remember to check out our Glassdoor to learn what our employees are saying and connect with us on LinkedIn.
+
+As an EEO/Affirmative Action Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, veteran or disability status."
+Security Operations Center Analyst,Security Operations Center Analyst,Tata Consultancy Services,May,2024,"SOCs were created to facilitate collaboration among security personnel, with a primary focus on security monitoring and alerting, including the collection and analysis of data to identify suspicious activity and improve the organization's security.
+
+Security Operations Center"
+"Professional, Information Security (SOC)","Professional, Information Security (SOC)",Ingram Micro,May,2024,"As a global leader in technology, working in partnership with thousands of experts, you’ll be part of the respected Ingram Micro international team delivering cutting-edge solutions worldwide.
+
+Be part of our tomorrow as a Professional, Information Security (SOC)
+
+Job Descriptions
+
+The focus of the Professional Information Security is to distinguish, interrupt and suppress threat actors on enterprise networks. To execute this, you will use data analysis, threat intelligence, and cutting-edge security technologies. Working within the Security Operations Center Team at Ingram Micro, you will be responsible for detecting and assessing cyber security events and incidents across the enterprise environment. Sr. Professional Cyber Security will also participate in developing processes, procedures, training, etc. for new technologies. We seek a candidate to have a curious investigative mind, a passion in information security, and the ability to communicate complex ideas to varied audiences.
+
+Essential Functions
+
+Investigate events and incidents to gather evidence and analyze in a comprehensive, consistent, and measurable manner
+Evaluate, respond, and mitigate alerts that originate from the SIEM and other security tools
+Hunt for suspicious and malicious threats within the environment
+Identify common false positives and make suggestions on tuning to reduce alert-fatigue
+Join forces with internal Security Incident Response Team (SIRT) during investigations
+Train and mentor other team members to develop a high-performing team
+Author investigation reports for technical and non-technical audience
+Willing to work in shift pattern (4 teams with two 12-hour shift, shift pattern working and non-working hours 2 days on, 2 days off, 3 days on, 2 days off, 2 days on, 3 days off)
+Ability to provide on call support when needed.
+
+Education and Experience
+
+A bachelor/s degree in I.T., Engineering, Cyber Security or related science and math discipline with an information emphasis.
+EngIish Proficiency is a must (fluent in reading, writing and speaking).
+One or more years of full-time professional experience in the information security field.
+Experience working in an internal Security Operations Center (SOC) or Managed Security Service (MSS) Collaborate with Security Architecture, Engineering to Operationalize new security controls.
+Have in depth working on security tools such as Security Incident and Event Management (SIEM), Endpoint Detection and Response (EDR), Anti-Virus.
+Familiarity with MITRE ATT&CK and methods to detect suspicious and malicious behavior.
+Basic understanding of vulnerability assessment tools.
+Previous experience as a point of escalation in a technical environment.
+This position requires availability to work different shifts.
+
+Desired Certifications
+
+Security +
+GSEC
+CEH
+GMON
+GCIH
+CISSP
+
+One or more security related certification preferred.
+
+Let’s shape tomorrow.
+
+Ingram Micro is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or any other protected category under applicable law."
+Analista Sr. de Seguridad de la Información,Analista Sr. de Seguridad de la Información,Citibanamex,June,2024,"The Information Security Operations (ISO) Sr. Analyst is an intermediate level position responsible for leading efforts to prevent, monitor and respond to information/data breaches and cyber-attacks. The overall objective of this role is to ensure the execution of Information Security directives and activities in alignment with Citi's data security policy.
+
+Responsibilities:
+
+Address security issues identified in the various information security programs
+Review and address issues identified within various Information Security (IS) programs and ensure all IS issues related to Internal Audit, and External Auditors are closed by their original target date
+Improve the efficacy of governance processes by identifying risks, monitoring controls, and remediating issues
+Establish cross-sector working relationships and complete weekly awareness discussions with local team to efficiently tackle security issues
+Ensure risk exceptions are raised, registered and closed on a timely basis and communicate updates and changes to the global standards
+Complete Risk Assessment process, including completing accurate inventory reporting, data classification, threat analysis, and action plans
+Test and validate that the business complies with applicable IS requirements; develop and implement IS policies and procedures
+Determine and validate appropriate level of controls are being implemented to safeguard sensitive data
+Develop Corrective Action Plans for all Information Security-related gaps and approve all closures through reviewing evidence to ensure each closure meets Citi Requirements
+Assume informal/formal mentorship role within teams and assist with the coaching and training of new team members
+Has the ability to operate with a limited level of direct supervision.
+Can exercise independence of judgement and autonomy.
+Acts as SME to senior stakeholders and /or other team members.
+Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+Qualifications:
+
+5-8 years of relevant experience
+Proficient in interpreting and applying policies, standards and procedures
+Consistently demonstrates clear and concise written and verbal communication
+Proven influencing and relationship management skills
+Proven analytical skills
+
+Education:
+
+Bachelor’s degree/University degree or equivalent experience
+
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+
+CRISC / CISA/ CISM Certification deseable
+Inglés conversacional avanzado deseable
+
+------------------------------------------------------
+
+Job Family Group:
+
+Technology
+
+------------------------------------------------------
+
+Job Family:
+
+Information Security
+
+------------------------------------------------------
+
+Time Type:
+
+Full time
+
+------------------------------------------------------
+
+Citi is an equal opportunity and affirmative action employer.
+
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Citigroup Inc. and its subsidiaries (""Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+View the ""EEO is the Law"" poster. View the EEO is the Law Supplement.
+
+View the EEO Policy Statement.
+
+View the Pay Transparency Posting"
+Cyber Security Analyst,Cyber Security Analyst,Trustwave,May,2024,"About Trustwave
+Trustwave is a leading cybersecurity and managed security services provider focused on threat detection and response. We uncover threats that others can’t and respond quicker than others can to protect against the devastating impacts of cyberattacks. We’re a world-class team of cyber consultants, threat hunters and researchers serving clients in 96 countries. At Trustwave, you can learn alongside the best, make a personal impact on a global scale, and solve new challenges every day. Learn more about us at https://www.trustwave.com.
+
+The Cyber Threat Analyst is a member of the Global Threat Operations (GTO) team within Trustwave Managed Security Services (MSS). In addition to possessing technical knowledge, a Threat Analyst interacts extensively with customers and partners using polite, professional etiquette.
+
+Cyber Threat Analysts perform the following duties:
+Use strong TCP/IP networking skills to perform network analysis and understand detected threats.
+Analyze and respond to security events from firewalls, IDS, IPS, SIEM, Web Application Firewall (WAF) and other security data sources within documented SLA.
+Respond within service level agreement (SLA) standards to customer tickets and threats requiring incident notification.
+Tune devices for blocking and reporting based on customer business need.
+Use effective written and verbal communication skills to interact with customers and internal resources in a polite, positive, and professional manner.
+Take responsibility for customer satisfaction and overall success of managed services.
+Respond to needs and questions of customers concerning their managed services, managed devices and detected threats.
+Adhere to policies, procedures, and security best practices.
+Resolve problems independently and understands the correct escalation procedures.
+
+Skills & Knowledge Requirements:
+Information security best practices & network security architecture
+Current events in Cyber Security and associated patching and remediation efforts
+Unix / Linux operating systems
+TCP/IP networking
+Sourcefire/Snort based security products
+IP Tables/Packet filter firewalls
+Scanning technologies
+Log collection and analysis tools
+
+Desired experience:
+Information security, web server administration, or networking
+Excellent customer service skills
+Excellent analytical thinking and problem solving skills
+Strong oral and written communication skills
+Self-managed and team oriented
+Deadline and detail oriented
+Highly motivated
+
+Required:
+English: Demonstrated Fluency
+
+Preferred:
+Certified in Security related Industry, Vendor or Professional Certification- GCIA, GCIH, Security+, OSCP, or CEH preferred.
+
+Education:
+A high school diploma or equivalent is required; a college or university degree is a plus.
+This is a remote opportunity open to anyone legally authorized to work in Mexico. Guided by our flexible workplace philosophy, Moments That Matter, people gather in the office when in-person interaction is most impactful; full-time remote employees may be asked to travel occasionally based on the needs of the team and the business.
+Trustwave is an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities
+
+To All Agencies:
+Please, no phone calls or emails to any employee of Trustwave outside of the Talent Acquisition team. Trustwave’s policy is to only accept resumes from agencies via the Trustwave Agency Portal. Agencies must have a valid fee agreement in place and they must have been assigned the specific requisition to which they submit resumes, by the Talent Acquisition team. Any resume submitted outside of this process will be deemed the sole property of Trustwave and in the event a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid."
+Business Information Security Analyst,Business Information Security Analyst,HP,May,2024,"The BISA is responsible for supporting an IT wide information security management program along with Cybersecurity team, to ensure that information assets are adequately protected. This position is responsible for identifying, evaluating and reporting on information security risks in a manner that meets compliance and regulatory requirements, and aligns with and supports the risk posture of the enterprise. The position requires an expert with sound knowledge of information security technologies and a working knowledge of business management. The BISA will proactively work with IT towers/units to implement practices that meet defined policies and standards for information security. He or she will also oversee a variety of IT-related risk management activities. The BISE serves as the process owner of all assurance activities related to the availability, integrity and confidentiality of customer, business partner, employee and business information in compliance with the organization's information security policies. The BISA must be highly knowledgeable about the business environment and ensure that information systems are maintained in a fully functional, secure mode.
+
+The BISA's role is to act as an interface between the Management's strategic and process-based activities and the work of the technology-focused analysts, engineers and administrators in the IT organization. The BISA must be able to translate the IT-risk requirements and constraints of the business into technical control requirements and specifications, as well as report on ongoing performance.
+
+The BISA coordinates the IT organization's technical activities to implement and manage security infrastructure, and to provide regular status and service-level reports to management. While the BISA is an expert of the security program, he or she must also be able to coordinate disparate drivers, constraints and personalities, while maintaining objectivity and a strong understanding that security is just one of the business's activities.
+
+Expertise in leading project teams and developing and managing projects is essential for success in this role. The BISA must be able to prioritize work efforts — balancing operational tasks with longer-term strategic security efforts. Other project management tasks will include resource balancing across multiple IT and security teams, task prioritizing and project reporting. Vendor relationship management — ensuring that service levels and vendor obligations are met — is also an important aspect of the position.
+
+Responsibilities
+
+Security liaison
+Architecture/engineering coordination
+Develop, implement and monitor a strategic, comprehensive enterprise information security and IT risk management program to ensure that the integrity, confidentiality and availability of information is owned, controlled or processed by the organization.
+Facilitate information security governance through the implementation of a hierarchical governance program, including the formation of an information security steering committee or advisory board.
+Be knowledgeable and keep updated and publish up-to-date information security policies, standards and guidelines.
+Oversee the approval, training, and dissemination of security policies and practices.
+Create, communicate and implement a risk-based process for vendor risk management, including the assessment and treatment for risks that may result from partners, consultants and other service providers.
+Create and manage information security and risk management awareness training programs for all employees, contractors and approved system users.
+Work directly with the IT units to facilitate IT risk assessment and risk management processes, and work with stakeholders throughout the enterprise on identifying acceptable levels of residual risk
+Provide regular reporting on the current status of the information security program to enterprise risk teams, senior business leaders and the board of directors as part of a strategic enterprise risk management program.
+Create a framework for roles and responsibilities with regard to information ownership, classification, accountability and protection.
+Provide strategic risk guidance for IT projects, including the evaluation and recommendation of technical controls.
+Create a framework for roles and responsibilities for main players
+
+Education & Experience Recommended
+
+Four-year or Graduate Degree in Computer Science, Information Technology, or any other related discipline or commensurate work experience or demonstrated competence.
+Typically has 4-7 years of work experience, preferably in IT projects, process improvement, or a related field or an advanced degree with 3-5 years of work experience."
+Network Security Operations Specialist,Network Security Operations Specialist,Azkait,April,2024,"AZKAIT is a Mexican company that seeks and connects the best IT talent with Latin American and United States companies.
+
+We are looking for your talent as a Network Security Operations Specialist
+
+Duties and responsibilities:
+
+Provides top-level support for internal clients
+Remain abreast of changes in user and system software and hardware requirements
+Maintain the lifecycle of network security devices
+Manage security infrastructure related to the firewall
+Create and maintain procedures related to Security and Network Activities
+Collaboration and managing with local teams for physical onsite support as well for IMACD of local systems
+
+Requirements:
+
+At least 2 years of experience with security infrastructure, Firewalls, and CISCO network solutions.
+Practical knowledge of configuration and management of Fortinet FWs, Forti Web, Fortianalyzer, Cisco FWs (ASA, Firepower), Cisco ISE and RAS VPN (AnyConnect), L2L VPN, Cisco FMC management tool,
+Working knowledge of web application firewalls and proxy systems.
+Knowledge of network security concepts (radius, 802.1x, DMZ), and DHCP, DNS, and IPAM.
+Ability to physically install IT security in the data center and operationalize them.
+Automation skills (ansible, python) and Fortigate NSE Certification, will be an advantage
+Hybrid: 2 weeks Home Office
+
+What can we offer?
+
+Christmas bonus, 80% bonus, savings fund, food vouchers, mid-year bonus for 8 days, and bonus for meeting annual goals."
+Network Security Engineer,Network Security Engineer,Compucom,May,2024,"Why Compucom?
+
+Compucom Systems, Inc. provides end-to-end IT managed services to enable the digital workplace for enterprise, midsize and small businesses. To enable our clients to focus on what matters most, we employ a customer-centric, hard-working, and talented group of people that Act Like an Owner, Do the Right Thing, and Have Fun Doing It!
+
+Job Summary
+
+The Specialist Network & Security Services Engineer is responsible for maintaining the daily security and operation of the global enterprise data network. This position involves supporting the maintenance, implementation, and configuration of network and security infrastructure and the associated services. This includes routers, switches, firewalls, VPN appliances, and SaaS-based solutions supporting our internet, LAN, and WAN environments. It also includes the daily interaction of our monitoring and reporting services.
+
+The Specialist Network & Security Services Engineer is expected to maintain professional working relationships at all times with internal and external peers, stakeholders, management, partners, and vendors. The position requires being part of an on-call rotation schedule, and carrying a company issued smart phone.
+
+How You'll Shine:
+
+Implement, maintain, manage, and support Travel + Leisure’s global network and security infrastructure, both operationally and in support of key initiatives and projects.
+Perform change control and device configuration management activities on all network and security infrastructure and services.
+Provides management level reporting of firewall, proxy, and Intrusion Protection System (IPS) device activity on a periodic basis.
+Participates in security incident response team activities, providing and implementing tactical risk mitigation to incidents.
+Work with the business to develop network and security infrastructure solutions and strategies to satisfy customer requirements, all while ensuring adherence to formal processes, standards, and policies.
+Work closely with fellow Network Engineers, various IT Architects, analysts, IT peers, outside vendors, partners, and other resources to evaluate, develop, and propose innovative new technologies, methodologies, processes, and other improvements aimed at improving the effectiveness of the organization.
+Perform technical support coordination between Network & Security Services and other IT technical engineering groups, supporting the maintenance and installation, and modification of systems including interfaces, migration of new software releases, system upgrades, and general technical modifications.
+Engineer will be required to participate in a rotating on-call shift.
+
+What You'll Bring:
+
+Bachelor’s degree in an IT related discipline or equivalent experience
+Advanced knowledge and experience with Cisco IOS, NXOS, Palo Alto PANOS, Cloud Proxy Solutions (Zscaler is a plus),
+Expert knowledge of dynamic routing protocols such as OSPF, BGP, EIGRP, and RIP, including configuration, optimization, and troubleshooting in complex network environments.
+Active Certifications: CCNP, PCNSE, and AWS related certifications are highly desirable.
+NetDevOps and/or SecDevOps and automation practices for the configuration, deployment, and management of related infrastructure (Python, Ansible, Terraform, bash scripting, etc.)
+Experience with Splunk or similar SEIM platforms (CrowdStrike LogScale a plus)
+Fundamental knowledge of SOX/PCI/PII standards and regulations to meet compliance demands.
+Other preferred knowledge includes wireless networking, network monitoring, (SolarWinds HCO a plus)
+3 to 5 years of relevant work experience in a mid-to-large enterprise with 24x7 production operations
+Advanced level of English speaking
+
+We offer
+
+Base salary between 50K & 56K mxn pesos per month
+Christmas bonus averaging 30 days’ pay for every year.
+Grocery vouchers equivalent to 10% of your monthly salary and $2,388 mxn pesos in restaurant vouchers (both additional to your base salary)
+Major Medical Expense Plan.
+Life insurance
+Saving fund: 10% of your base salary,
+
+*If you are interested, please send your resume in English
+
+Equal Employment Opportunity
+
+CompuCom is committed to providing equal employment opportunities in all employment practices. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, citizenship status, marital status, age, disability, protected veteran status, sexual orientation or any other characteristic protected by law."

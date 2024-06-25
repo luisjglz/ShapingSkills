@@ -1,0 +1,2144 @@
+Position,Company_Name,Location,Post_Month,Post_Year,Details
+DevOps Engineer,DevOps Engineer,Stori,June,2024,"About Stori
+
+Stori is a fast-growing, venture-backed financial technology company, on a mission to democratize credit access for 400 million underbanked LatAm consumers. Stori currently operates in Mexico and has a global team with offices in Arlington Virginia, Mexico City, and Asia. We have quickly made our mark as one of the top digital banks in Mexico with more than two million applicants for our credit card product since launching.
+
+Stori is one of the top-funded startups in the region with US$250 million raised to date. We are backed by top global venture capital funds, such as GGV Capital, GIC, Lightspeed Venture Partners, General Catalyst, Goodwater Capital, Mexico's Tresalia Capital, Vision Plus Capital, BAI Capital and Source Code Capital; who have successfully invested in startups such as Affirm, Airbnb, Alibaba, Stripe, and TikTok.
+
+Stori has a standout founder team among fintechs, leveraging 100+ years of accumulated experience in consumer finance, banking and technology across Mastercard, Intel, Capital One, Morgan Stanley, GE Capital, and HSBC in the U.S., Mexico and Asia. The team has launched and managed many multi-million-customer credit card products globally, providing a wide breadth of experience and knowledge to our team.
+
+We welcome diversity of background, experience and thinking. Storians are passionate about our mission and take pride in the products we build. Our culture thrives off of a flat structure and an inclusive environment where all of our employees can be their authentic selves, with boundless opportunities for professional growth.
+
+The Role:
+
+Stori is looking for an experienced DevOps engineer with a proven track record of optimizing infrastructure, enabling DevOps culture and promoting CICD best practices.
+
+Responsibilities:
+
+Defining enterprise CICD process standards and best practices
+Building tools that to enable a DevOps culture where others can easily automate deployments, tests and monitoring
+Optimizing infrastructure and scaling systems efficiently through tuning and architecture changes
+Troubleshooting performance issues and ensuring system reliability
+
+You are a good fit for the role if:
+
+You enjoy solving problems from inception to implementation with everything in between.
+You think in efficiencies and you break down ambiguity into tactical deliverable
+You love the thought about CICD and knowing that you can build, test and deploy new features without any risk of an impact to production.
+You want to build highly scalable products in a serverless environment on AWS with all infrastructure managed as code
+You believe in building tools that to enable a DevOps culture where others can easily automate deployments, tests and monitoring
+You are not (overly) intimidated by networking and have the will to automate deployments of VPCs, security groups, subnets, etc.
+You have strong ideas for how products and features should work and you are willing to voice those opinions.
+You have several years of experience with AWS and you would like to get into a mission driven startup backed by some of the most renowned investors and a proven leadership team.
+You love working as a team and knowing that your teammates value you and will not let you down.
+
+Required years of experience
+
+4+ development in the AWS ecosystem
+4+ developing CICD pipelines (e.g. Jenkins, CircleCI, AWS CodeBuild, Bamboo, etc.)
+3+ Defining enterprise CICD process standards and best practices
+2+ deploying infrastructure with AWS Cloud Formation Templates (CFTs)
+
+Our Tech Stack:
+
+We are serverless! Just about wherever possible, we are taking a serverless approach to development, highly leveraging containerized services and Lambdas on AWS. When we need a little more control over the environment or if we can't fit into the AWS constraints of a Lambda we leverage ECS and EKS for our containerized services. In the few places where we can't go serverless (e.g. databases), we select the product that best fits our needs. We use MySQL, Postgres and DynamoDB heavily for different use-cases but also Redis, graph DBs and a few others to meet specific use-case needs.
+
+We use AWS extensively for nearly all of our services and we give all of our engineers full control to develop and test microservices within our development environment which exactly matches our production environment. Pipelines to deploy to production are managed by simply checking code into master in GitHub (although we can always make this more robust!).
+
+What we offer
+
+Make a positive impact on the lives of our customers via financial inclusion
+Professional development opportunities
+International exposure & work experience
+Company swag
+Legally required benefits"
+DevOps Engineer,DevOps Engineer,Cognizant,May,2024,"We’re hiring!
+At Cognizant we have an ideal opportunity for you to be part of one of the largest companies in the digital sector worldwide. A Great Place To Work where we look for people who contribute new ideas, experiencing a dynamic and growing environment. At Cognizant we promote an inclusive culture, where we value different perspectives providing career growth and development opportunities. #WelcomeToCognizant! We have an exciting opportunity for an exceptional individual to work supporting one of our clients as a Azure DevOps
+
+Preferred experience:
+· Azure PAAS – (Profile remains Azure DevOPS with PaaS service experience).
+· Kubernetes services
+· Application gateway
+· APIM
+· Front door
+· KV
+· troubleshooting skills and monitoring tool experience.
+· DevOps – Jenkins, Azure, Docker, GitHub
+· Azure Application Insights/Log analysis
+· English advaced (must have)"
+DevOps Engineer,DevOps Engineer,DaCodes.,October,2023,"¡Trabaja en DaCodes!
+
+Somos una firma de expertos en software y transformación digital de alto impacto.
+
+Durante 9 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de 220 talentosos #DaCoders, Desarrolladores, arquitectos, Diseñadores UX/UI, PMs, QA testers y más, que se integran a nuestros proyectos con clientes en LATAM y Estados Unidos para lograr resultados sobresalientes.
+
+Con nosotros lograrás impulsar y acelerar tu desarrollo profesional, colaborando en diversidad de proyectos, sectores y giros empresariales.
+
+Trabajar en DaCodes te permitirá ser versátil y ágil al poder trabajar con diversas tecnologías y colaborar con profesionales de alto nivel.
+
+Los DaCoders tienen gran impacto en el éxito de nuestro negocio, así como en el éxito de nuestros clientes. Serás el experto que participará en nuestros proyectos y tendrás acceso a startups disruptivas y marcas globales; ¿Te pareció interesante?
+
+¡Estamos en busca de talento para unirse al equipo, vamos a trabajar juntos!
+
+El candidato o candidata ideal tiene una combinación única de experiencia técnica, curiosidad, mentalidad lógica y analítica, proactividad, ownership, y gusto por el trabajo en equipo
+
+Buscamos un ingeniero DevOps para trabajar directamente con el área de operaciones y desarrollo, nos ayudarás a crear sistemas funcionales que mejoren la experiencia de los clientes, nos ayudarás con las actualizaciones de productos, identificación de problemas de producción e implementación de integraciones. Trabajarás en la configuración, aprovisionamiento de aplicativos web, microservicios en la nube.
+
+Deberás ejecutar y automatizar procesos operativos de manera rápida, precisa y segura
+
+Requirements
+
+Experiencia laboral como ingeniero DevOps o en un puesto de ingeniería de software similar
+Buenos conocimientos Python o Node Js te serán de gran ayuda
+Conocimiento práctico de bases de datos y SQL
+Buena actitud para solucionar problemas
+Guía de buenas prácticas - Well Architect
+Espíritu de equipo
+Microservicios
+Nube: AWS, Azure o GCP
+Terraform
+Contenedores
+Docker
+Jenkins
+Orquestadores
+Kubernetes
+Seguridad de datos
+Generación de pipelines CI/CD
+Experiencia haciendo scriptings
+
+
+Benefits
+
+Integración a marcas globales y startups disruptivas
+Trabajo remoto/ Home office
+Estarás informado desde la primer sesión si alguna de las posiciones llega a requerir algún formato híbrido o presencial ¡Descuida la mayoría son remotas!
+Horario ajustado a tu célula de trabajo/proyecto asignado. (Zona horaria del cliente asignado)
+Trabajo de Lunes a Viernes
+Beneficios Legales
+Días festivos oficiales de tu célula de trabajo/proyecto asignado
+Vacaciones *Puedes hacer uso de éstos días posterior a los 6 meses en la empresa
+Día off en tu cumpleaños
+Seguro de gastos médicos mayores
+Seguro de vida
+Eventos virtuales de integración y grupos de interés
+Meetup con invitados especiales de empresas y profesionales del área de IT y Universidades de prestigio
+Feedback constante y seguimiento a performance
+Acceso a cursos y certificaciones
+Equipos de trabajo multiculturales
+Clases de inglés
+Oportunidades en nuestras diferentes líneas de negocio
+
+¡Orgullosamente certificados como Great Place to Work!"
+DevOps Engineer,DevOps Engineer,Ten Lifestyle Group,May,2024,"Description
+
+About Us
+
+Ten Group is the global leader in lifestyle and travel services. Since 1998, our personalized, world-class, and expert service has enabled world-renowned companies to achieve maximum customer satisfaction and retention. Today, we work with more than 50 global companies and serve millions of customers in over 52 countries from 22 select locations in major financial capitals worldwide.
+
+As a certified B company, Ten Lifestyle Group is part of a global community of companies united by the common goal of making a positive impact on society and the environment.
+
+Requirements
+
+A DevOps Engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment to maintenance and updates.
+
+Main Responsibilities
+
+In charge of closing the gap between actions needed to quickly change an application, and the tasks that maintain its reliability
+Responsible of introducing new features to an application
+Work closely with developers to deploy and manage code changes, and with operations staff to ensure that systems are up and running smoothly
+Designs, implements, and maintains tools and processes for continuous integration, delivery, and deployment of software
+
+
+General Requirements
+
+Experience in running and maintaining complex infrastructure setups
+Experience of a Continuous Integration and Continuous Delivery environment
+Experience with Docker or other containerisation services
+Good understanding on networking including IP subnets etc
+Experience with monitoring solutions such as OpenTelemetry or Prometheus
+Scripting experience with Bash/Python
+Deep understanding of both development and operations processes, as well as a strong technical background
+Advanced/Fluent level of English
+Commitment to supporting the delivery of Ten's environmental, social and governance goals, and promoting policy adherence
+At least 2 years of experience in the area
+Experience working with:
+AWS
+
+VPCs with traffic security using Network ACLs and Security Groups
+
+EKS & Helm, ECS, Lambda Functions
+
+CloudFront, ALB / NLB, with WAF rules
+
+RDS, Redis, ElasticSearch / OpenSearch, KMS, SecretsManager
+
+Compute resources like EC2, Fargate
+
+Traefik
+HashiCorp Terraform
+Docker
+TeamCity
+
+We encourage diverse philosophies, cultures and experiences. We appreciate diversity and are dedicated to creating an inclusive work environment for our employees. All aspects of our relationship, including the decision to hire, promote, discipline and terminate, will be based on merit, competence performance and business needs."
+Looking for Junior DevOps Engineer,Looking for Junior DevOps Engineer,Xoriant,May,2024,"Looking for Junior DevOps Engineer
+
+Responsibilities:
+
+Infrastructure Automation:
+• Assist in the design, implementation, and maintenance of automated infrastructure provisioning and configuration management solutions.
+• Learn and utilize infrastructure as code (IaC) tools and practices to automate deployment and management processes.
+• Continuous Integration/Continuous Deployment (CI/CD):
+• Support the implementation and maintenance of CI/CD pipelines to automate software delivery and deployment processes.
+• Collaborate with development teams to integrate automated testing and deployment workflows.
+
+Cloud Services:
+• Gain hands-on experience with cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP).
+• Assist in the deployment and management of cloud-based infrastructure and services.
+
+Qualifications:
+• Bachelor’s degree in Computer Science, Information Technology, or a related field.
+• Basic understanding of software development lifecycle (SDLC) and DevOps principles.
+• Familiarity with scripting languages such as Python, Bash, or PowerShell.
+• Strong problem-solving and analytical skills.
+• Excellent communication and collaboration abilities.
+• Eagerness to learn new technologies and tools.
+• Relevant internship or work experience is a plus.
+
+Please share your resume to discuss more about this role"
+DevOps Engineer,DevOps Engineer,eJAmerica,May,2024,"Estamos buscando un Ingeniero Senior de DevOps altamente calificado y experimentado para unirse a nuestro equipo. El candidato ideal tendrá una sólida experiencia en prácticas de DevOps, con experiencia en control de versiones, integración continua, entrega continua (CI/CD), contenerización utilizando Kubernetes, escaneo de código y migración a la nube.
+
+Este rol implicará migrar nuestra infraestructura local a la nube, lo que requiere competencia en scripting de Terraform y un alto nivel de experiencia en servicios en la nube de AWS. El candidato también debería tener experiencia en migración de SVN a Git, actualizaciones de nodos maestros de Jenkins y poseer sólidas habilidades para resolver problemas.
+
+Responsabilidades:
+Colaborar con los equipos de desarrollo, operaciones y seguridad para implementar y mantener pipelines efectivos de CI/CD.
+Diseñar, implementar y gestionar estrategias de contenerización utilizando Kubernetes para aplicaciones escalables y resilientes.
+Realizar escaneo de código e implementar las mejores prácticas de seguridad a lo largo del ciclo de vida de desarrollo de software.
+Liderar la migración de la infraestructura local a la nube, aprovechando scripts de Terraform y servicios de AWS. Realizar la migración de SVN a Git y garantizar una transición fluida para el control de versiones.
+Actualizar nodos maestros de Jenkins y gestionar la infraestructura de Jenkins para flujos de trabajo de CI/CD eficientes.
+Proporcionar orientación técnica y mentoría a los miembros junior del equipo.
+Evaluar y mejorar continuamente los procesos y herramientas de DevOps para optimizar la eficiencia y confiabilidad.
+
+Requisitos:
+Licenciatura en Ciencias de la Computación, Ingeniería o un campo relacionado.
+8-10 años de experiencia práctica en prácticas y herramientas de DevOps.
+Gran competencia en sistemas de control de versiones, como Git, SVN, y familiaridad con la migración entre ellos.
+Experiencia extensa con pipelines de CI/CD, incluyendo Jenkins y plugins relacionados.
+Experiencia en tecnologías de contenerización, particularmente Kubernetes.
+Sólida comprensión de los principios de infraestructura como código (IaC), con experiencia práctica en el uso de Terraform.
+Certificación AWS Solution Architect o experiencia equivalente en diseño e implementación de soluciones de AWS a escala.
+Conocimiento profundo de los servicios en la nube de AWS, incluyendo EC2, S3, VPC, ECS y Lambda.
+Experiencia en lenguajes de script como Python, Bash o PowerShell para tareas de automatización.
+Excelentes habilidades de comunicación y colaboración, con capacidad para trabajar de manera efectiva en un entorno de equipo.
+Fuertes habilidades para resolver problemas y un enfoque proactivo para solucionar problemas técnicos.
+Capacidad para adaptarse rápidamente a nuevas tecnologías y metodologías en un entorno dinámico.
+
+Cualificaciones Preferidas:
+Experiencia con otros proveedores de servicios en la nube como Azure o Google Cloud Platform.
+Familiaridad con herramientas de monitoreo y registro de infraestructura como Prometheus, Grafana, ELK Stack o Splunk.
+Conocimiento de las mejores prácticas de seguridad y experiencia en implementar controles de seguridad en entornos en la nube.
+Experiencia previa con metodologías ágiles y trabajo en equipos Agile/Scrum.
+Certificaciones en tecnologías relevantes como Kubernetes, Docker o AWS DevOps Engineer."
+Entry-level DevOps Engineer,Entry-level DevOps Engineer,Thomson Reuters,June,2024,"Are you driven to DevOps practices?
+
+We are on the lookout for an enthusiastic entry-level DevOps Engineer to kickstart their career as part of our global service management team. This dynamic team is at the heart of supporting Thomson Reuters' FindLaw Segment — the world's leading provider of legal information and internet marketing solutions tailored to consumers, small businesses, and law firms. In this role, you'll engineer scalable, high-performance infrastructure solutions and refine our deployment processes using CI/CD best practices. Your objectives will be ensuring the rapid delivery of code to our customers while maintaining the highest standards of site reliability, system performance, and availability. We invite you to join us in crafting innovative solutions with a commitment to operational excellence using cutting-edge technology.
+
+About the role:
+
+As a DevOps Engineer you will:
+
+Assist in the development and maintenance of our CI/CD pipelines to enhance code integration and deployment processes (GitHub repos & actions, AWS CodePipeline, AWS CodeBuild, AWS Secrets Manager).
+Proactively monitor system performance and respond to alerts promptly to meet or exceed high availability goals (Datadog, New Relic, AWS CloudWatch, AWS CloudTrail).
+Document system designs and operational procedures, ensuring they are up-to-date and accessible (Lucid, Microsoft Office 365, Microsoft SharePoint, Microsoft Teams).
+Participate in the evaluation of emerging technologies and tools, recommending solutions that drive innovation and technical excellence.
+Leverage AI/ML technologies to enhance automation, improve system diagnostics, and optimize operational workflows (OpenAI's GPT, Anthropic's Claude, Microsoft's Copilot).
+Implement security measures and compliance protocols to safeguard our systems and data.
+Provide troubleshooting and technical support for operations across our non-production and production environments.
+Collaborate with software development, QA, and product teams to align requirements and expedite software releases (Datadog Synthetics, Selenium).
+
+
+About you:
+
+You're a fit for the role of DevOps Engineer if your have:
+
+Bachelor’s degree in Computer Science, Engineering, or related field, or equivalent experience.
+Familiarity with DevOps and Site Reliability Engineering responsibilities, as well as Agile methodologies.
+Experience with scripting languages such as Python, Bash, or PowerShell.
+Basic understanding of cloud services such as AWS, Azure, or GCP (strong AWS understanding is a plus!).
+Experience with version control and infrastructure as code tooling (Git, Terraform, CloudFormation, JFrog Artifactory).
+Exposure to containerization and orchestration technologies (e.g., Docker, Fargate) is desirable.
+Proven problem-solving skills and the ability to adapt to a rapidly changing environment.
+Excellent communication skills and the ability to collaborate effectively across diverse teams.
+A strong drive to learn and apply new technologies as industry trends and best practices evolve in the DevOps and Site Reliability spaces.
+
+
+What's in it For You?
+
+You will join our inclusive culture of world-class talent, where we are committed to your personal and professional growth through:
+
+Hybrid Work Model: We've adopted a flexible hybrid working environment for our office-based roles while delivering a seamless experience that is digitally and physically connected
+Wellbeing: Comprehensive benefit plans; flexible and supportive benefits for work-life balance: flexible vacation, two company-wide Mental Health Days Off; work from another location for up to a total of 8 weeks in a year, 4 of those weeks can be out of the country and the remaining in the country, Headspace app subscription; retirement, savings and employee incentive programs; resources for mental, physical, and financial wellbeing.
+Culture: Globally recognized and award-winning reputation for equality, diversity and inclusion, flexibility, work-life balance, and more.
+Learning & Development: LinkedIn Learning access; internal Talent Marketplace with opportunities to work on projects cross-company; Ten Thousand Coffees Thomson Reuters café networking.
+Social Impact: Ten employee-driven Business Resource Groups; two paid volunteer days annually; Environmental, Social and Governance (ESG) initiatives for local and global impact.
+Purpose Driven Work: We have a superpower that we’ve never talked about with as much pride as we should – we are one of the only companies on the planet that helps its customers pursue justice, truth and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.
+
+
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we’ve been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world’s most global news services – Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+Protect yourself from fraudulent job postings click here to know more.
+
+More information about Thomson Reuters can be found on https://thomsonreuters.com."
+DevOps Engineer,DevOps Engineer,GlobalLogic,May,2024,"Qualifications:
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Strong understanding of cloud infrastructure (AWS, Azure, Google Cloud) and its components.
+Proficiency in programming/scripting languages like Python, Bash, PowerShell, etc., for automating cloud processes, security remediation, and cost optimization.
+Familiarity with security tools such as Wiz and Snyk for vulnerability assessment and remediation.
+Experience in conducting cloud cost analysis and implementing cost optimization strategies.
+Solid understanding of networking concepts, security principles, and compliance requirements in cloud environments.
+Experience with infrastructure-as-code tools like Terraform, CloudFormation, or Ansible.
+Familiarity with containerization technologies like Docker and orchestration tools like Kubernetes.
+Excellent problem-solving, troubleshooting, and analytical skills.
+Proficiency in English with strong communication and collaboration abilities.
+
+Responsibilities:
+Develop and implement automation scripts using Python, Bash, PowerShell, etc., to manage cloud infrastructure components.
+Collaborate with cross-functional teams to understand and remediate security vulnerabilities identified through tools like Wiz and Snyk using automation.
+Monitor and optimize cloud resource utilization for cost efficiency, identifying areas for cost reduction.
+Build and maintain tools for automating security assessments, vulnerability remediation, and cost optimization processes.
+Provide technical guidance and support to teams for remediating security vulnerabilities and optimizing cloud costs.
+Conduct regular audits and assessments of cloud infrastructure to ensure compliance with security standards.
+Stay updated with industry trends and best practices in cloud infrastructure automation, security, and cost optimization.
+Identify areas for improvement in security, compliance, and cost optimization, proposing innovative solutions.
+Collaborate with cloud service providers, vendors, and internal teams to drive continuous improvement and implement industry best practices."
+DevOps Engineer,DevOps Engineer,Altair,May,2024,"Transforming the Future with the Convergence of Simulation and Data 
+
+DevOps Engineer 
+
+Do you like a challenge, are you a complex thinker who likes to solve problems? If so, then you might be the new Altairian we are searching for. At Altair, your curiosity matters. We pride ourselves on a business culture that enables open, creative thinking, and we deeply value our employees and their contributions towards our clients' success, as well as our own. 
+
+Job Summary:
+The selected candidate will be responsible for providing assistance in managing and maintaining the Altair One platform, as well as implementing and deploying applications in both Cloud and On-Premises environments. They will work closely with the team to ensure smooth and efficient operation of the platform, while also troubleshooting issues as they arise. The ideal candidate should have a solid understanding of Cloud and On-Premises deployment methods and be able to work collaboratively in a fast-paced and dynamic environment.
+
+Job Requirements:
+2+ years of experience in DevOps/SRE, systems engineering, build/release/deployment automation, Public/Private/Hybrid cloud deployment, etc.  
+2+ years of experience in Azure, AWS, GCP, or OCI is necessary.
+Strong Docker and Kubernetes skills are required.
+Familiarity with working on an Agile/Iterative development framework.
+Experience with modern deployment mechanisms like Canary, and Blue Green. 
+Experience with Infrastructure as Code Tooling – Terraform or AWS CloudFormation or Azure ARM.  
+Experience with Configuration Management tools such as Salt Stack, Ansible, Chef, and Puppet. 
+Experience with Application Observability/Metrics – Grafana stack, Honeycomb, Prometheus, Loki, etc. 
+Experience with Continuous Integration and Continuous Deployment Pipelines - Jenkins CI, GitLab CI/CD, Flux or ArgoCD.
+DevOps tooling (GitLab, Jenkins, GitHub, Jira, Jenkins DSL, Hashi Corp Vault, Consul, Boundary, Istio, Packer, Linkerd, Kapitan, Helm, Keda etc.)
+Experience with Windows and Linux administration.
+Understanding of High-Performance Computing (HPC) is a plus. 
+
+Job Responsibilities:
+Debug Production issues by working with the Development and Operations team. 
+Understand and improve the reliability and scaling of Production deployments.  
+Deploy microservices on Cloud and On-premises K8s environments.
+Provide quick fixes and solutions and rollout software fixes to Production. 
+Develop scripts to automate routine tasks.
+Research innovative technology and solution alternatives to find the best solutions to problems. 
+Set up monitoring and alerting systems to detect issues before they become problems, ensuring our systems are always available. 
+Analyse Requirements and proactively estimate and project the requirements for infrastructure, security, and DevOps initiatives. 
+
+How You Will Be Successful:
+Envision the Future
+Communicate Honestly and Broadly 
+Seek Technology and Business “Firsts” 
+Embrace Diversity and Take Risks  
+
+What We Offer: 
+Mexico offers the following benefits:
+75% prima vacacional.
+1 mes de Aguinaldo.
+12 días de vacaciones.
+SGMM – seguro de gastos médicos mayores.
+Seguro de vida.
+Seguro dental.
+Fondo de ahorro.
+Vales de despensa. 
+
+Why Work with Us:
+Altair is a global technology company providing software and cloud solutions in the areas of product development, high-performance computing (HPC) and artificial intelligence (AI). Altair enables organizations in nearly every industry to compete more effectively in a connected world, while creating a more sustainable future. With more than 3,000 engineers, scientists, and creative thinkers in 25 countries, we help solve our customer’s toughest challenges and deliver unparalleled service, helping the innovators innovate, drive better decisions, and turn today’s problems into tomorrow’s opportunities.  
+
+Our vision is to transform customer decision making with data analytics, simulation, and high-performance computing and artificial intelligence (AI).  
+
+For more than 30 years, we have been helping our customers integrate electronics and controls with mechanical design to expand product value, develop AI, simulation, and data-driven digital twins to drive better decisions, and deliver advanced HPC and cloud solutions to support unlimited idea exploration. To learn more, please visit altair.com.   
+
+Ready to go? #ONLYFORWARD  
+
+At our core we are explorers; adventurers; pioneers. We are the brains behind some of the world’s most revolutionary innovations and are not only comfortable in new and uncharted waters, we dive in headfirst. We are the original trailblazers that make the impossible possible, discovering new solutions to our customer’s toughest challenges.   
+
+Altair is an equal opportunity employer. Our backgrounds are diverse, and every member of our global team is critical to our success. Altair's history demonstrates a belief that empowering each individual authentic voice reinforces a culture that thrives because of the uniqueness among our team.  "
+DevOps Engineer,DevOps Engineer,Azkait,May,2024,"AZKA IT is a Mexican company that seeks and connects the best IT talent with Latin American and United States companies.
+
+We are looking for your talent as DevOps Engineer
+
+Requirements:
+
+SKILLS:
+
+3 + years experience in DevOps
+Design infrastructure using Azure or other cloud platforms.
+Scripting experience.
+Design automated build and deployment processes along with rollback mechanisms.
+Identify and mitigate infrastructure performance and security risks.
+Experience in cloud database technologies.
+Design of infrastructure/application monitoring processes and tools.
+Design the DevOps strategy for a given project taking into account quality, performance and cost.
+Data operations: SQL DB, (MongoDB, CassandraDB)
+CICD: GitHub, Jenkins.
+Platform: Confluent Kafka, JIRA, Confluence.
+
+Beneficios:
+
+IMSS, Infonavit and PTU of the law.
+100% of payroll
+30-day Christmas bonus
+SGMM for the resource and his direct family
+Life Insurance for 1 million pesos (individual)
+Dental insurance (individual)
+Free courses and certifications
+Food vouchers
+Discount card in department stores and medical networks.
+Work Monday through Friday.
+Contract 3 months trial at the beginning, then indeterminate."
+DevOps Engineer,DevOps Engineer,PF Hunters,May,2024,"Technology company is looking for
+
+DevOps Engineer
+
+Requirements:
++3 years as DevOps 
+CI/CD
+GitOps
+IaC
+Terraform
+Cloud Training
+Kubernetes
+AWS
+Azure
+Python
+Go
+Shell
+
+We offer:
+Base salary + Benefits of law and above.
+
+Work Zone: Zapopan, Jalisco "
+DevOps Engineer,DevOps Engineer,NTT DATA,May,2024,"NTT Data Company, somos todas las personas que la formamos. Un equipo de más de 139.000 profesionales, tan diverso cómo diversos son los 50 países en los que estamos presentes y los diferentes sectores en los que desarrollamos nuestra actividad; telecomunicaciones, entidades financieras, industria, utilities, energía, administración pública y sanidad.
+
+¿Nuestra misión? Ofrecer soluciones tecnológicas, de negocio, estrategia, desarrollo y mantenimiento de aplicaciones, siendo un referente en consultoría. Todo gracias a la colaboración entre equipos, la calidad humana de nuestra gente y a que no nos conformamos con lo establecido, buscamos siempre la innovación que nos acerca al futuro
+
+Nos encontramos en búsqueda de:
+
+INGENIERO DEVOPS
+
+Años de experiencia: 5 años
+
+Conocimiento base:
+
+5 años de automatización de procesos CI/CD
+2 años automatizando despliegues de aplicaciones Java Springboot y Angular
+2 años Realización de Análisis, Diseño, Construcción, Configuración y Pruebas de pipelines de CI/CD
+Jenkins
+Openshift 4
+SonarQube
+Nexus o Artifactory
+Automatización de pruebas en pipelines
+Automatización de servicios Java Springboot, Angular, Python
+
+Conocimiento deseable
+Azure DevOps o CodeCommit
+Checkmarx
+Automatización de pruebas DAST
+Certificación en Azure o AWS
+
+Responsabilidades:
+
+Realización de Análisis, Diseño, Construcción, Configuración y Pruebas de pipelines de CI/CD
+Generación de documentación relacionada con los procesos de CI/DC
+Automatización de pruebas en pilelines
+
+Ofrecemos
+
+Sueldo acorde a experiencia en esquema 100% nómina
+Prestaciones de Ley
+Seguro de vida
+Seguro de gastos médicos mayores
+Seguro Dental
+Fondo de ahorro
+Vales de despensa
+Apoyo a Home Office
+Plan de carrera enfocado a persona (capacitaciones, certificaciones, cursos)"
+DevOps Engineer,DevOps Engineer,Persistent Systems,May,2024,"About Persistent
+
+We are a trusted Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what’s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 14 of the 30 most innovative US companies, 80% of the largest banks in the US and India, and numerous innovators across the healthcare ecosystem.
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum by reporting $300.6M revenue in Q3FY24, delivering 13.7% Y-o-Y growth. Our 23,000+ global team members, located in 21 countries, have been instrumental in helping the market leaders transform their industries. We’re also pleased to share that Persistent has been recognized as the “Most Promising Company” of the Year at the 2023 CNBC-TV18 India Business Leader Awards and named a Leader in Everest Group’s Talent Readiness for Next-Generation IT Services PEAK Matrix® 2023. We also won four 2023 ISG Star of Excellence™ Awards, reflecting the highest standard of customer service excellence. Throughout this market-leading growth, we’ve maintained strong employee satisfaction - over 94% of our employees approve of the CEO, and 89% would recommend working at Persistent to a friend.
+
+About the Job:
+
+Migrate the CI pipeline of a large existing .NET codebase from TeamCity, Veracode (SAST), Docker, GNU Make, and a few other tools to GitHub Actions, GitHub Advanced Security, and SonarQube.Collaborate with in-house development and DevOps teams. Existing pipelines include build, unit testing, API testing, UI testing, and other forms of automated testing pipelines. This effort includes splitting a large git mono-repo into smaller repositories that are then integrated in stages through the CI pipeline and quality gates, so will involve restructuring code projects and dependencies between them.
+
+Key Skills: Must have
+
+Experience in developing continuous integration pipelines with both Team City and GitHub Actions
+Experience using git and GitHub
+Familiarity with MSBuild and .NET, Docker, GNU Make, Linux, shell scripting (Bash, Powershell), Markdown
+
+Good to have
+
+Experience with security/vulnerability scanning (SAST, DAST), continuous deployment, Ansible
+Experience with JIRA, Confluence
+Familiarity with developing and leveraging Linux packages, including APT/DEB and YUM/RPM
+Familiarity with C#, Node.js, Typescript, Angular, makeself
+
+Benefits:
+
+30 days Christmas bonus (Aguinaldo)
+13% Saving fund, capped to the law limit.
+12% Grocery coupons, capped to the law limit.
+12 vacation days first year + 6 floating days – number of vacation days increase according to seniority.
+Annual performance evaluation with rewards and recognitions.
+Up to USD 200 pre-approved annually for certifications relevant to the employee’s role.
+Free courses available at internal platforms.
+Major medical insurance (Spouse and children Included)
+Minor medical insurance (Spouse and children Included)
+Dental Insurance (Spouse and children Included)
+Visual Insurance (Spouse and children Included)
+Life insurance.
+Preferential price on car insurance (car fleet)
+
+Our company fosters a values-driven and people-centric work environment that enables our employees to:
+Accelerate growth, both professionally and personally
+Impact the world in powerful, positive ways, using the latest technologies
+Enjoy collaborative innovation, with diversity and work-life wellbeing at the core
+Unlock global opportunities to work and learn with the industry’s best
+
+Let’s unleash your full potential at Persistent - persistent.com/careers"
+DevOps Engineer,DevOps Engineer,System Soft Technologies,May,2024,"DevOps Engineer
+7+ years of overall experience in System Operations , Software Development or both plus 3+ years of experience in design, provisioning and automation of distributed infrastructure/applications in cloud and on-premise environments
+Strong work experience in managing Distributed even driven enterprise level production system support using Apache Kafka is mandatory
+Strong experience with Kubernetes container orchestration and Docker
+Strong experience deploying and managing applications to public cloud systems i.e. AWS, Azure, Google Cloud Platform, RedHat Openshift (experience with OpenShift will be preferred).
+Strong practical Windows and Linux-based systems administration skills in a Cloud or Virtualized environment.
+Experience building sophisticated and highly automated infrastructure.
+Prior success in automating a real-world production environment.
+Experience with seamless/automated build scripts used for release management across all environments.
+Strong ASP.NET, JavaScript and C# programming skills.
+Experience with configuration management tools like Chef, Puppet, Salt, or Ansible in production environments with many nodes.
+Experience building CI/CD pipelines with products like TeamCity/Octopus, Jenkins, Bamboo, Azure DevOps
+Strong scripting skills, i.e., PowerShell, Python, Bash, Ruby, Perl, etc.
+Knowledge of IP networking, VPN's, DNS, load balancing and firewall.
+Familiarity with any monitoring tools like Splunk, AppDynamics, Nagios, New Relic.
+Experience with version control source code repositories like Git, TFS, SVN, Mercurial.
+Experience with automated testing tools (ie. Selenium, JMeter).
+Understanding and experience with code deployment (tagging).
+Understanding of Service-Oriented Architecture (SOA and REST)."
+DevOps Engineer,DevOps Engineer,Infosys,May,2024,"DevOps
+MANDATORY TECHNOLOGIES
+2 - 5 + years of experience in CICD Servers: Jenkins, Bamboo, TeamCity
+3 – 5 + years of experience Cloud Technologies: EC2, S3, RDS, VPC, IAM, EKS, CloudFront, SNS, SQS, CloudWatch
+2 – 5 + years of experience AWS DevOps: AWS CodeBuild, CodeDeploy, CodePipeline, CloudFormation, Terraform
+2 – 5 + years of experience Scripting Language: PowerShell, Python, Perl, Ruby, Bash
+2 – 5 + years of experience Experience with Github, Datadog (dashboards, traces, logs, events), Veracode, Sonarqube.
+2 – 5 + years of experience DynamoDB – BDS backend datastore, ALB – application load balancer, Route53 – DNS, and used for DR switchovers.
+2 – 5 + years of experience with proxy, discovery, mesh, sidecars, control plan, worker nodes.
+MANDATORY EXPERIENCE
+3 - 5 + years of experience in CICD Servers.
+3 – 5 + years of experience Cloud Technologies.
+3 – 5 + years of experience AWS DevOps.
+3 – 5 + years of experience Scripting Language.
+2 – 5 + years of experience DynamoDB – BDS backend datastore, ALB – application load balancer, Route53 – DNS, and also used for DR switchovers.
+Business Proficiency in English language
+
+PROJECT ACTIVITIES AND RESPONSIBILITIES
+Must have strong communication and Analytical skills.
+Ability to work in a team in a diverse/ multiple stakeholder environment.
+Experience and desire to work in a Global delivery environment.
+Automate development, build and release pipeline using Continuous Integration Server.
+Implementing various development, testing, automation tools, and IT infrastructure.
+Experience with developing containerization and clustering technologies like Docker and Kubernetes.
+Experience administering and deploying development CI/CD tools such as Git, Jira, GitLab, or Jenkins.
+Experience in provisioning AWS services using infrastructure as code tools like Cloud Formation and Terraform.
+Experience in using Artifactory, Nexus Repository Managers for Maven builds.
+Experience in baselining, branching & merging strategies.
+Managing different environments and responsible for release process.
+Significant experience with Windows and Linux operating system environments.
+Experience with infrastructure scripting solutions such as PowerShell or Python.
+Experience in analysing Applications Logging, Performance and Security.
+Troubleshooting and problem-solving Skills.
+Good English communication skills, both written and verbal.
+
+About Us
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem."
+DevOps Engineer,DevOps Engineer,Tata Consultancy Services,May,2024,"Role: DevOps Engineer
+Work Mode: Hybrid
+Experience : 4+ years
+
+You are good to go, if you have:
+
+Skills Must Have and Field-Experience Demonstratable:
+Azure Cloud: Strong experience -. Strong Cloud concepts IaaS, PaaS, SaaS with experience in Azure IaC CLI, deployment and configuration of a wide variety of Azure IaaS + PaaS, Network Security Groups, App Gateways + WAF, Log Analytics / Insights (including querying), Identity and Access Management, Key Vault
+Containers: Docker, Dockerfile authoring, container build, security practices, Artifactory (Azure Container Registry, JFrog)
+Kubernetes: core concepts, cluster management + monitoring + scalling, kubectl, kubernetes manifests, resource types, resource requests / limits, nginx / ingresses, networking,
+
+Should have good communication in English."
+AWS DevOps Engineer,AWS DevOps Engineer,Inflection Point Systems,May,2024,"Why is Perficient the best option?
+
+Inflection Point by Perficient is a leading global digital consultancy and has a presence around the globe transforming and connecting the most prominent brands with their customers. At Inflection Point by Perficient, we seek to grow alongside professionals promoting agile cultures and values as we challenge, champion, and celebrate our people for us to build a great future together.
+
+Job Summary
+
+Perficient is looking for a DevOps Engineer with experience developing and managing reliable and modern continuous software delivery pipelines. Additionally, you are expected to monitor and help software engineers diagnose mission critical systems in a virtualized cloud infrastructure. You are expected to work closely with the core IT infrastructure and development teams to enable a robust code delivery process and improve the reliability and availability of our test and production systems. You will also play a key role in application architecture design in collaboration with software architects to ensure mechanical sympathy between the software and the underlying execution environment and resource dependencies.
+
+What do you need to come aboard?
+
+Bachelor’s degree in computer science, engineering, or related field
+Extensive experience in deploying and managing cloud-based applications on AWS
+Proficiency in Python programming, with knowledge of Typescript for specific requirements
+Familiarity with Java and NodeJS to understand and migrate existing codebases
+AWS certifications at the Practitioner and Senior DevOps levels
+Strong understanding of DevOps principles and best practices
+Hands-on experience with AWS services such as CodePipeline, CodeBuild, CodeCommit, AWS Development Kit, CloudFormation, Lambda, EKS, ECR, CloudWatch, Systems Manager, Config, and KMS
+Excellent problem-solving skills and ability to troubleshoot complex technical issues
+Strong communication and collaboration skills, with the ability to work effectively in a team environment
+Commitment to continuous learning and professional development in cloud technologies and DevOps practices
+English level high inter to advanced
+
+To Rock This Role, You Should
+
+Lead the deployment of cloud-based applications on AWS, utilizing DevOps methodologies to streamline processes and ensure efficient delivery
+Serve as a senior technical consultant for DevOps practices, providing expertise in application deployment, infrastructure management, and automation
+Develop solutions using Python as the primary programming language, with additional knowledge of Typescript for specific components
+Analyze and understand code written in Java and NodeJS to facilitate migration processes, optimizing functionalities in accordance with acceptance criteria and required modifications
+Obtain AWS certifications at the Practitioner and Senior DevOps levels to demonstrate proficiency in AWS cloud services and best practices
+Implement and manage AWS services such as CodePipeline, CodeBuild, CodeCommit, AWS Development Kit, CloudFormation, Lambda, EKS, ECR, CloudWatch, Systems Manager, Config, and KMS
+Collaborate with cross-functional teams to design, implement, and maintain scalable and reliable cloud architectures
+Provide technical guidance and mentorship to junior team members, fostering a culture of continuous learning and improvement
+Monitor system performance, troubleshoot issues, and implement solutions to optimize application performance and reliability
+Ensure compliance with security standards and best practices, implementing encryption key management and access control measures using AWS services
+
+What can we offer you?
+
+Law benefits
+Certifications
+Internal & External Courses
+English Classes
+Medical Insurance (Personal and Familiar)
+Life Insurance
+Savings Fund
+Pantry Vouchers
+Additional Holidays
+
+*Once you apply you accept the terms and conditions of Perficient in Latin America and agree to be contacted by the talent acquisition team.
+
+Powered by JazzHR
+
+ReyoI3gJAO"
+Cloud Engineer,Cloud Engineer,DaCodes.,July,2023,"¡Trabaja en DaCodes!
+
+Somos una firma de expertos en software y transformación digital de alto impacto.
+
+Durante 9 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de 220 talentosos #DaCoders, Desarrolladores, arquitectos, Diseñadores UX/UI, PMs, QA testers y más, que se integran a nuestros proyectos con clientes en LATAM y Estados Unidos para lograr resultados sobresalientes.
+
+Con nosotros lograrás impulsar y acelerar tu desarrollo profesional, colaborando en diversidad de proyectos, sectores y giros empresariales.
+
+Trabajar en DaCodes te permitirá ser versátil y ágil al poder trabajar con diversas tecnologías y colaborar con profesionales de alto nivel.
+
+Los DaCoders tienen gran impacto en el éxito de nuestro negocio, así como en el éxito de nuestros clientes. Serás el experto que participará en nuestros proyectos y tendrás acceso a startups disruptivas y marcas globales; ¿Te pareció interesante?
+
+¡Estamos en busca de talento para unirse al equipo, vamos a trabajar juntos!
+
+El candidato o candidata ideal tiene una combinación única de experiencia técnica, curiosidad, mentalidad lógica y analítica, proactividad, ownership, y gusto por el trabajo en equipo.
+
+Administrar y aprovisionar recursos de infraestructura en la nube
+Desarrollar soluciones de automatización para ayudar a agilizar procesos, como la creación de scripts o programas diseñados para ejecutar tareas específicas en sistemas informáticos de forma automática
+Implementar medidas de seguridad para proteger los datos contra accesos o usos no autorizados
+Supervisar el rendimiento de los sistemas de computación en la nube en tiempo real para garantizar una alta disponibilidad y un rendimiento eficiente
+Diseñar e implementar soluciones de recuperación ante desastres para mitigar riesgos de desastres naturales o errores humanos
+Crear documentación detallada de todos los aspectos técnicos de un sistema de computación en la nube, como configuraciones y procedimientos de resolución de problemas
+Mantener la seguridad de los sistemas de una organización mediante la monitorización de registros de actividad y la detección de signos de intrusiones o infecciones de malware
+Realizar planificación de capacidad para determinar si los recursos tienen suficiente espacio para manejar el crecimiento esperado en la demanda
+Monitorear la salud de las aplicaciones analizando registros del sistema en busca de errores y problemas de rendimiento
+Recomendar cambios en la arquitectura o diseño de aplicaciones para mejorar la eficiencia y el rendimiento
+Trabajar en estrecha colaboración con el gerente de productos para asegurar que la hoja de ruta se entregue según los Epics y User Stories definidos
+Gestionar el ciclo de vida de tu trabajo pero saber cuándo pedir ayuda cuando sea necesario
+
+
+Requirements
+
+Licenciatura en informática, ingeniería o disciplina relacionada para trabajar como ingeniero de operaciones en la nube
+Experiencia práctica en administración de plataformas Google, Azure o AWS
+Tecnologías de contenerización como Docker, Kubernetes, Amazon ECS
+Mejores prácticas de configuración para recursos en la nube como cómputo, bases de datos, redes y almacenamiento
+Lenguajes de secuencias de comandos como Bash, Python y PowerShell
+Herramientas de canalización de construcción de aplicaciones
+Principios de seguridad OWASP
+Conocimiento de herramientas para Infraestructura como código (IaC)
+Autodisciplina y organización para poder trabajar de forma remota
+Eres un jugador de equipo
+Tienes habilidades excepcionales de escritura y comunicación
+Tienes atención al detalle y habilidades analíticas
+
+
+Benefits
+
+Conocimientos técnicos:
+Manejo de las diferentes versiones de Angular, preferentemente las más actuales
+Experiencia en micro front-end (NX)
+Dominio de: Typescript (Avanzado), HTML, CSS, SCSS, Axios y Bootstrap 5. otros
+Bases de datos: PostgreSQL, MySQL , MongoDB
+Experiencia con bibliotecas y API de terceros, consumo de servicios REST, REST APIs y Web Services
+Versionamiento de código con Git
+Manejo de pruebas unitarias con Jest u otra herramienta
+Conocimiento sólido de patrones de diseño y arquitecturas limpias
+Conocimiento de principios SOLID
+Conocimiento en NgRx
+Conocimiento sólido de patrones de diseño y arquitecturas limpias
+Conocimiento de principios SOLID
+Conocimiento en NgRx
+Comprensión profunda de la programación orientada a objetos
+
+
+Importante:
+
+Contamos con vacantes que requieren inglés conversacional fluido (B2, C1) y vacantes en las que no es necesario el dominio del idioma por favor especifica con honestidad cuál es tu nivel y experiencia
+
+
+Plus: Experiencia en roles Full stack en las diferentes combinaciones (Angular+Java o Angular+Node, Angular+Net)Prestaciones
+
+Integración a marcas globales y startups disruptivas
+Trabajo remoto/ Home office
+Estarás informado desde la primer sesión si alguna de las posiciones llega a requerir algún formato híbrido o presencial ¡Descuida la mayoría son remotas!
+Horario ajustado a tu célula de trabajo/proyecto asignado. (Zona horaria del cliente asignado)
+Trabajo de Lunes a Viernes
+Beneficios Legales
+Días festivos oficiales de tu célula de trabajo/proyecto asignado
+Vacaciones *Puedes hacer uso de éstos días posterior a los 6 meses en la empresa
+Día off en tu cumpleaños
+Seguro de gastos médicos mayores
+Seguro de vida
+Eventos virtuales de integración y grupos de interés
+Meetup con invitados especiales de empresas y profesionales del área de IT y Universidades de prestigio
+Feedback constante y seguimiento a performance
+Acceso a cursos y certificaciones
+Equipos de trabajo multiculturales
+Clases de inglés
+Oportunidades en nuestras diferentes líneas de negocio
+
+¡Orgullosamente certificados como Great Place to Work!"
+"DevOps SR Engineer – Palermo, CABA ID 10070","DevOps SR Engineer – Palermo, CABA ID 10070",EducacionIT,March,2024,"Nuestro cliente es un importante holding de medios y está lanzando un nuevo producto educativo.
+
+Estamos ayudándolos a armar su equipo y necesitamos sumar un DevOps Sr Engineer
+
+Experiencia Basica Y/o Requerida
+
+Herramientas para CI/CD: Jenkins, Drone.io, Gitlab-CI, Travis-CI, AWS Code Build, GCP Cloud Build. (Alguna de ellas)
+
+Conocimientos Cloud con Amazon Web Services [Excluyente] y Google Cloud Platform [No Excluyente]
+
+Experiencia con servicios de AWS: ECS Fargate, Route53, EC2, ELB, VPC, RDS, EBS, Elastic Cache, S3 + Cloudfront [Excluyente]
+
+Experiencia con Kubernetes en Cloud: AWS EKS, KOPS, GKE, KubeSpray [No Excluyente]
+
+Conocimientos en lenguajes de programación: Bash, Python, Javascript con NodeJS [No Excluyente]
+
+Contar con conocimientos en construir Pipelines con: AWS CodePipeline, Spinnaker, Jenkins-X [No Excluyente]
+
+Trabajar con metodologias y herramientas agiles: Atlassian Jira, Confluence. [No Excluyente]"
+DevOps Engineer,DevOps Engineer,PwC Acceleration Centers,May,2024,"Our team covers a variety of responsibilities that are executed by DevSecOps with Openshift
+-Defining standard release automation patterns for infrastructure and application components
+-Defining standard CI/CD pipeline patterns that include a common set of DevOps and SecOps tools
+-Developing reports and metrics to validate existing and new pipelines use standard DevSecOps tools
+-Proactive optimization of redundancies, monitoring and alerting practices and patterns
+-Developing resilient and highly available cloud patterns -Controlling and executing the promotion of code through all environments
+-Infrastructure as Code development for buildout cloud infrastructure -Building and Releasing pipeline development
+-Secrets and configuration management
+-Monitoring systems and services, providing incident and emergency response to triage and resolve system or client issues
+-Management of the application ecosystem improving platform infrastructure and applications with high reliability, resiliency, performance and quality
+-Supporting documentation, knowledge articles, and runbooks
+-Designing, building and Implementing devops patterns that adhere to PwC’s security guidelines and policies.
+To really stand out and make us fit for the future in a constantly changing world, each and every one of us at PwC needs to be a purpose-led and values-driven leader at every level. To help us achieve this we have the PwC Professional; our global leadership development framework. It gives us a single set of expectations across our lines, geographies and career paths, and provides transparency on the skills we need as individuals to be successful and progress in our careers, now and in the future.
+As a Senior Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to:
+Use feedback and reflection to develop self awareness, personal strengths and address development areas.
+Delegate to others to provide stretch opportunities, coaching them to deliver results.
+Demonstrate critical thinking and the ability to bring order to unstructured problems.
+Use a broad range of tools and techniques to extract insights from current industry or sector trends.
+Review your work and that of others for quality, accuracy and relevance.
+Know how and when to use tools available for a given situation and can explain the reasons for this choice.
+Seek and embrace opportunities which give exposure to different situations, environments and perspectives.
+Use straightforward communication, in a structured way, when influencing and connecting with others.
+Able to read situations and modify behavior to build quality relationships.
+Uphold the firm's code of ethics and business conduct.
+Required skills:
+Minimum Years of Experience: 4 year(s) as DevOps Engineer
+C2 and C1 in oral and written English proficiency required
+Bachelor Degree required.
+CI/CD: Solid understanding of CI/CD core concepts, 4 years of experience building pipelines in Azure DevOps (ADO), Jenkins, or similar.
+Working experience in scripting: Bash, PowerShell, Python, groovy, or similar.
+Cloud platform experience required intermediate knowledge in Azure administration.
+Kubernetes experience in foundational understanding of concepts and components
+Preferred Qualifications:
+Degree Preferred: Master Degree
+Preferred Fields of Study:
+Computer and Information Science, Computer and Information Science & Accounting, Computer Engineering, Accounting & Technology, Engineering
+Preferred Knowledge/Skills:
+Demonstrates thorough abilities and/or a proven record of success as a team leader including the following areas:
+Leading and motivating distributed teams;
+Fostering team commitment to tasks and influencing key people inside and outside of the group;
+Demonstrating a flexible communication style based on the audience (i.e., eliminating technical jargon when needed or deep diving into technical details with the development team);
+Collaborating with cross-functional teams, building relationships and achieving results without a direct reporting relationship;
+Collaborating with Solution, Application and Data Architects to understand and enable our rapidly evolving development infrastructure;
+Working with our Product Managers defining infrastructure requirements, SLAs and support requirements for their respective analytic apps/business platforms and associated market facing offerings;
+Managing the support infrastructure requirements across a portfolio of analytic apps/business platforms with a team of offshore members;
+Implementing a monitoring and review process to proactively manage needs and establish uptime, stability and reliable access to apps/platforms;
+Establishing all issues are resolved in a timely manner, while maintaining customer satisfaction;
+Coordinating the escalation of major technical service issues to the appropriate teams within PwC IT/Cloud;
+Supporting provider/3rd party as needed;
+Communicating planned infrastructure activities proactively to the stakeholders;
+Performing necessary security monitoring, log analysis, and collecting performance metrics for continuous monitoring and improvement; and,
+Leading continual efforts to automate processes and procedures around apps/ platform infrastructure and provide reliable performance.
+Maintaining large infrastructure on premise and/or in the cloud;
+Working with automated configuration and deployment;
+Working with Docker and related containerization and orchestration technologies;
+Working with both cloud deployment and on premise release workflows;
+Working with cloud providers and large hardware installations;
+Working knowledge and a foundation in the basics around how to operate and secure: web servers, databases, systems and configuration management;
+Working with networking, load balancing, clustering and firewall/security group security concepts;
+Working knowledge with Linux and Windows systems administration and security concepts;
+Working knowledge and experience with of several distributions of Linux (Ubuntu, Red Hat) and Windows;"
+Cloud Engineer I- Cybersecurity (Remote),Cloud Engineer I- Cybersecurity (Remote),The Home Depot,May,2024,"Cybersecurity Engineer Job Description
+Position Purpose:
+Protecting what matters most to our associates and consumers by securing our sensitive data and critical assets from current and emerging threats. At The Home Depot, Cybersecurity consists of Architecture, Governance, Identity & Access Management, Internal Threat Operations, Issue and Compliance Management, Risk Assessment/Advisory, Security Consulting, Security Operations, Service Optimization and Strategic Planning.
+
+Cloud Engineers utilize business knowledge and technical experience of cybersecurity to provide a secure environment for the business.
+
+Understanding of public cloud platforms; GCP is preferred but not required
+Understanding of cloud engineering with respect to data pipelines; familiarity with IaC, such as Terraform, is a strong plus
+General understanding of cybersecurity processes and workflows preferred but not required
+
+
+Major Tasks, Responsibilities & Key Accountabilities:
+100% - Deliver Execution & Problem Solving - Troubleshoot and quickly resolve escalated incidents Investigate and recommend corrective actions related to incidents Collaborate with Enterprise Technology to configure and integrate cybersecurity systems and services that mitigate risk Design, build, configure, maintain and monitor cybersecurity threat defense capabilities and user access management
+
+Nature and Scope:
+This Position typically reports to Manager or Sr. Manager
+
+This Position has 0 Direct Reports
+
+Environmental Job Requirements:
+Environment:
+1. Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable.
+Travel:
+No travel required.
+
+Additional Environmental Job Requirements:
+Standard Minimum Qualifications:
+Must be eighteen years of age or older.
+Must be legally permitted to work in the United States.
+
+
+Education Required:
+The knowledge, skills and abilities typically acquired through the completion of a high school diploma and/or GED.
+
+Years of Relevant Work Experience:
+0 years
+
+Physical Requirements:
+Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.
+
+Knowledge, Skills, Abilities and Competencies:
+- Action Oriented
+- Collaborates
+- Communicates Effectively
+- Customer Focus
+- Drives Results"
+Devops Engineer,Devops Engineer,Inflection Point Systems,February,2024,"Why is Perficient the best option?
+
+Inflection Point by Perficient is a leading global digital consultancy and has a presence around the globe transforming and connecting the most prominent brands with their customers. At Inflection Point by Perficient, we seek to grow alongside professionals promoting agile cultures and values as we challenge, champion, and celebrate our people for us to build a great future together.
+
+Job Summary
+
+Perficient is looking for a DevOps Engineer with experience developing and managing reliable and modern continuous software delivery pipelines. Additionally, you are expected to monitor and help software engineers diagnose mission critical systems in a virtualized cloud infrastructure. You are expected to work closely with the core IT infrastructure and development teams to enable a robust code delivery process and improve the reliability and availability of our test and production systems. You will also play a key role in application architecture design in collaboration with software architects to ensure mechanical sympathy between the software and the underlying execution environment and resource dependencies.
+
+What do you need to come aboard?
+
+BS/MS degree in Computer Science or a related subject or equivalent industry experience
+3+ years of experience working in IT infrastructure automation
+2+ years of experience working in a Dev Ops role specifically
+Strong hands-on experience configuring and administering Linux virtual machines
+Experience with scripting languages to automate provisioning of virtual infrastructure resources
+Strong experience with DevOps automation toolchains like Jenkins, Ansible and Terraform
+Experience with configuring monitoring and logging from various application sources
+Experience administering a virtualized on-prem and/or cloud-based infrastructure is a big plus
+GitHub Actions & Troubleshooting Build Issues
+SonarQube enablement and Support
+Writing and calling API’s, SQL Queries, joins etc..,
+Advance English
+Monterrey, N.L
+
+To Rock This Role, You Should
+
+Always maintain a professional manner in appearance and communications
+Participate in staff and/or customer meetings if required
+Initiate action to prevent the occurrence of any non-conformities relating to product, process, and quality systems.
+Identify and record any issues relating to product, processes and/or quality
+Initiate, recommend, or provide solutions through appropriate channels
+Verify the implementation of solutions
+Follow posted security procedures at all times while in the building
+Participate in Safety and Educational Training
+
+What can we offer you?
+
+Law benefits
+Certifications
+Internal & External Courses
+English Classes
+Medical Insurance (Personal and Familiar)
+Life Insurance
+Savings Fund
+Pantry Vouchers
+Additional Holidays
+
+Powered by JazzHR
+
+zyMmyUoKBj"
+Jr AWS Cloud Engineer,Jr AWS Cloud Engineer,S&P Global,May,2024,"Application Support Analyst - Data Support | S&P Dow Jones Indices
+We are seeking an Application Support Analyst - Data Support to be a key player in the implementation and support of our Global Index Data Platform that supports our major headline indices like S&P 500, Dow Jones Industrial Averages & also the co-branded indices with our exchange partners such as S&P/BMV, S&P/TSX, S&P/ASX, S&P/NZX, S&P/BSE, etc.
+The technologist will work effectively to undertake the production support for our Index calculation platforms. The candidate should be a delivery-focused person who is familiar with Market Data such as Equity, Commodities, Forex, Futures, and Options asset classes.
+Our SPDJI team’s structure will allow you to be exposed to and can provide the opportunities to build your skills across functions within technology.
+
+Responsibilities:
+Manage daily production support for the index calculation platforms.
+Monitoring of daily data load jobs
+Respond to critical production issues and provide immediate workarounds to maintain business continuity.
+Interact with business operations to provide day-to-day data & technical support.
+Analyze production issues, report defects, and collaborate with application development team for resolution.
+Escalate critical or non-resolvable issues to the next level and provide ETA to customers.
+Support the application code deployments and infrastructure maintenances.
+Maintain support procedures & run-books, system checkout tasks, escalation contacts.
+
+Qualifications:
+Bachelor’s degree in computer science, Information Systems or Engineering is required.
+Candidates with minimum 1-3 years of technology experience would be preferred.
+Experience in Database programming languages, SQL, PL/SQL are required.
+Experience in writing Unix Shell scripts is required.
+Experience or knowledge of AWS services like ECS, EKS, S3, Cloud front etc. would be a plus.
+Excellent communication skills are essential, with strong verbal and writing proficiencies in English.
+Experience or knowledge of orchestration tools like Jenkins would be a plus.
+
+Note: 2 days onsite- Mexico City, Santa Fe"
+Devops Engineer,Devops Engineer,IntelliPro,May,2024,"Job Title: DevOps Engineer
+
+Position Type: Permanent- Full Time
+
+Location: Remote- Guadalajara, Mexico
+
+Salary Range / Rate (Currency): Open
+
+Overview:
+
+We are seeking a DevOps with extensive experience in automating and streamlining IT operations. The successful candidate will play a key role in designing and implementing DevOps solutions to drive efficiency and scalability.
+
+Key Responsibilities:
+
+Must Have:
+
+Implement CI/CD pipelines using Terraform, Ansible, Jenkins, and GitHub Repo Management
+Assist in managing Kubernetes-based container orchestration platforms using Rancher-K8s
+Support the configuration and optimization of Harness for continuous delivery and automation
+Assist in setting up and maintaining monitoring solutions using Splunk, SignalFX, LogicMonitor, Satellite, and Sailpoint
+Assist in AWS cloud services setup, network configuration, and Helm for Kubernetes package management
+Participate in code quality and security scans using SonarQube, Veracode, Black Duck, and Qualys
+Collaborate with team members to implement DevOps best practices and improve operational efficiency
+
+Good To Have:
+
+Assist in implementing security tools such as ForgeRock, Okta, CyberArk, Vault, and Venafi
+
+Requirements:
+
+Bachelor's or Master's degree in Computer Science, Engineering, or related field
+5+ years of experience in DevOps roles or related field
+Familiarity with Terraform, Ansible, Jenkins, GitHub, Rancher-K8s, and other DevOps tools
+Basic understanding of AWS cloud services and Helm
+Eagerness to learn and adapt to new technologies
+Strong communication and teamwork skills
+
+About Us:
+
+Founded in 2009, IntelliPro stands as a global leader in talent acquisition and HR solutions. Our commitment to delivering unparalleled service to clients, fostering employee growth, and building enduring partnerships sets us apart. With a dynamic presence in the USA, China, Canada, Singapore, Philippines, UK, India, Netherlands, and Germany, we continue to lead the way in global talent solutions.
+
+IntelliPro, a global leader in connecting individuals with rewarding employment opportunities, is dedicated to understanding your career aspirations. As an Equal Opportunity Employer, IntelliPro values diversity and does not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, disability, or any other legally protected group status. Moreover, our Inclusivity Commitment emphasizes embracing candidates of all abilities and ensures that our hiring and interview processes accommodate the needs of all applicants. Learn more about our commitment to diversity and inclusivity at https://intelliprogroup.com/.
+
+Compensation: The pay offered to a successful candidate will be determined by various factors, including education, work experience, location, job responsibilities, certifications, and more. Additionally, IntelliPro provides a comprehensive benefits package, all subject to eligibility.
+
+Powered by JazzHR
+
+518oVXbWYL"
+DevOps Engineer,DevOps Engineer,HCLTech,May,2024,"HCL Tech is hiring: DevOps Engineer
+This position is: Remote
+
+The Principal I of DevOps acts as a technical expert, focusing on providing expertise, guidance, and support on solutions requiring deep technical experience. This role leads all development activities and coordinates with other cross-functional teams to ensure delivery.
+
+
+DETAILED RESPONSIBILITIES:
+
+Level I
+Experience with the Infrastructure Modernization domain area.
+Understanding the networking and security implications of cloud-native design.
+Migrating n-tiered workloads from on-prem and other clouds to Azure/GCP with near-zero downtime (includes full-spectrum of lift and shift to complete re-platforming scenarios).
+Building hybrid-cloud solutions based on VM and containerization technologies, such as Docker, Kubernetes, Istio, and Anthos.
+Installing, deploying, configuring, recommending improvements and maintaining the docker/Kubernetes cluster itself through deployment pipelines and automation.
+Create and deploy Kubernetes clusters on different cloud environments, especially in Azure KS and Google KE.
+Build and implement CI/CD pipelines
+Experience in creating and managing production scale Kubernetes clusters and implement best practices.
+Support our Kubernetes based projects to resolve critical and complex technical issue.
+Design, build and run elastic, cost-effective, resilient, robust, and secure architectures in the cloud using modern approaches like service-mesh and loosely coupled design
+Design & implement Network connectivity, Provisioning Strategy Assess & Design RBAC needs to Ensure Cloud foundation is strong and with needed compliance requirements.
+Maintain, configure and monitor containers using Infrastructure as Code principles in Development, Test, and Live environments;
+Implement Continuous Integration, Delivery, and Deployment using different CI/CD tools.
+
+Required:
+
+Knowledge of Linux
+Learning, and also sharing knowledge with others.
+Understanding of observability, what are the key metrics to monitor, and how to establish a monitoring foundation.
+Proficient in a wide variety of Cloud Native Services, and to an extent able to consult others.
+Familiar with programming paradigms and concepts like OOP, multi-threading, idempotency.
+But most importantly, you care about others, about the culture around you, and are not afraid of new opportunities.
+
+Certificates / Training:
+Certified Kubernetes Administrator (CKA) and/or Certified Kubernetes Application Developer (CKAD) is a plus
+Azure/GCP Certification is a plus"
+DevOps Engineer,DevOps Engineer,PwC,June,2024,"DevOps candidates with experience in Openshift and at least 4 years as DevOps engineer
+
+To really stand out and make us fit for the future in a constantly changing world, each and every one of us at PwC needs to be a purpose-led and values-driven leader at every level. To help us achieve this we have the PwC Professional; our global leadership development framework. It gives us a single set of expectations across our lines, geographies and career paths, and provides transparency on the skills we need as individuals to be successful and progress in our careers, now and in the future.
+As a Senior Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to:
+Use feedback and reflection to develop self awareness, personal strengths and address development areas.
+Delegate to others to provide stretch opportunities, coaching them to deliver results.
+Demonstrate critical thinking and the ability to bring order to unstructured problems.
+Use a broad range of tools and techniques to extract insights from current industry or sector trends.
+Review your work and that of others for quality, accuracy and relevance.
+Know how and when to use tools available for a given situation and can explain the reasons for this choice.
+Seek and embrace opportunities which give exposure to different situations, environments and perspectives.
+Use straightforward communication, in a structured way, when influencing and connecting with others.
+Able to read situations and modify behavior to build quality relationships.
+Uphold the firm's code of ethics and business conduct.
+
+Additional Job Description
+• Overall around 4-5 years experience.
+• Working knowledge of administration of Kubernetes or OpenShift
+• Working knowledge of RDBMS Administration
+• Building end to end WebSphere application server environments
+• Experience in Installation, Configuration, Trouble-Shooting and performance tuning of IBM WebSphere Application Server ND
+• WebSphere Fix Pack Upgrade, Certificate Management, Security Management
+• Experience in installation and configuration of Directory Server
+• Technical support to applications on troubleshooting Environment, software and application-level issues for WebSphere, Apache and IBM HTTP Server
+• Excellent problem resolving interpersonal good communication skills with ability to work under pressure
+• Design and Develop tools to standardize and automate monitoring, application support activities
+• Good knowledge of Unix / Linux based systems and experience in performing Linux administration tasks
+• Working knowledge of Azure cloud fundamentals is added advantage
+• Working knowledge of Ansible, python, PHP is added advantage
+• Working knowledge of scripting languages like unix shell and/or powershell is added advantage
+. Advanced English Level - Required"
+Junior DevOps Engineer - Mexico City,Junior DevOps Engineer - Mexico City,Oliver Wyman,May,2024,"Oliver Wyman is a global leader in management consulting. With offices in 70 cities across 30 countries, Oliver Wyman combines deep industry knowledge with specialized expertise in strategy, operations, risk management, and organization transformation. Our 7000 professionals help clients optimize their business, improve their operations and risk profile, and accelerate their organizational performance to seize the most attractive opportunities. Oliver Wyman’s thought leadership is evident in our agenda-setting books, white papers, research reports, and articles in the business press. Our clients are the CEOs and executive teams of the top Global 1000 companies.
+
+Visit our website for more details about Oliver Wyman: www.oliverwyman.com
+
+Job Overview:
+The OW Tech department is looking to hire a highly motivated Junior DevOps Engineer. You will play a crucial role in our DevOps team, contributing to the design and implementation of our DevOps processes and procedures. You will collaborate closely with development, architecture, and engineering teams to understand their CI/CD requirements and infrastructure runtime environments. Your primary responsibility will be to automate software deployment, testing, and infrastructure setup processes, ensuring the safe, secure, and efficient deployment of features to production through pipeline automation. Additionally, you will be responsible for maintaining, patching, and securing environments, as well as identifying and troubleshooting technical issues that arise in the DevOps pipeline.
+
+**This is a hybrid role that requires 2 days per week in the Mexico City office. There is no option to be fully remote.**
+
+Please submit CVs in English
+
+Key Responsibilities:
+
+Manage assigned tasks in the DevOps Team backlog.
+Contribute to the design and implementation of DevOps processes and procedures.
+Collaborate with development, architecture, and engineering teams to understand and implement their CI/CD requirements and infrastructure runtime environments.
+Automate software deployment, testing, and infrastructure setup processes.
+Ensure safe, secure, and fast deployment of features to production through pipeline automation.
+Maintain, patch, and secure environments.
+Identify and troubleshoot technical issues
+
+Requirements:
+
+Bachelor's degree in Computer Engineering, Information Technology, or a related field.
+Minimum 1-2+ years of experience in a DevOps or equivalent role.
+Practical experience using Container-orchestration, infrastructure-as-code, configuration management and deployment technologies such as Rancher, Docker, Kubernetes, Helm and Terraform is required.
+Practical experience with CI/CD tools and processes, such as Jira/ADO and GitHub/GitHub Actions/Jenkins, Ansible, SysDig, HashiCorp Vault
+Strong understanding of artifact repositories and package management concepts (e.g., Nexus, Artifactory, npm, Docker registries).
+Strong understanding of Agile driven software development practices and development methodologies. (e.g. Trunk Based Development, Test Driven Development)
+Experience with code quality and security tools like SonarQube.
+Experience with Linux (Redhat/Oracle) systems administration.
+Experience with scripting and automation (e.g., Bash, Python).
+Good working knowledge of infrastructure and security services like DNS, AD, LDAP, DHCP, PKI, HA Proxy, TLS, RBAC components.
+100% fluency in English is a must.
+
+Skills and Attributes
+
+Strong problem-solving and troubleshooting skills.
+Strong communicator, in both verbal and written form, able to articulate concepts and ideas, break through barriers, engage people, and work effectively with others under pressure.
+Neutral toward technology, vendor, and product choices more interested in results than in personal preferences.
+Unflappable in the face of opposition to ideas
+
+Marsh & McLennan Companies is a global professional services firm providing advice and solutions in the areas of risk, strategy and human capital. It is the parent company of a number of the world's leading risk experts and specialty consultants, including Marsh, the insurance broker and risk advisor; Guy Carpenter, the risk and reinsurance specialist; Mercer, the provider of HR and related financial advice and services; and Oliver Wyman, the management consultancy. With over 81,000 colleagues advise clients in 130 countries and annual revenue of nearly $19 billion, Marsh & McLennan Companies provides analysis, advice and transactional capabilities to clients in more than 130 countries. Its stock (ticker symbol: MMC) is listed on the New York, Chicago and London stock exchanges.
+
+Marsh & McLennan Companies offers competitive salaries and comprehensive benefits and programs including health and welfare, tuition assistance, 401K, employee assistance program, domestic partnership benefits, career mobility, employee network groups, volunteer opportunities, and other programs. For more information about our company, please visit us at: www.mmc.com. We embrace a culture that celebrates and promotes the many backgrounds, heritages and perspectives of our colleagues and clients. For more information, please visit us at: www.mmc.com/diversity. Marsh McLennan and its Affiliates are EOE Minority/Female/Disability/Vet/Sexual Orientation/Gender Identity employers."
+Sr. DevOps Engineer,Sr. DevOps Engineer,MindTech,June,2024,"Mindtech is looking for a highly skilled and experienced Senior DevOps Engineer to join our team and work with a leading cybersecurity company. The ideal candidate will have extensive experience in Terraform, Helms, cloud platforms (AWS, Azure, GCP), and CI/CD processes. This role requires a strong background in Linux administration, scripting, and automation, as well as a deep understanding of containerization and serverless architecture.
+
+Responsibilities
+
+Develop, maintain, and execute Terraform scripts for provisioning and managing cloud infrastructure.
+Implement and manage Helm charts, including structure, installation, and deployments.
+Troubleshoot Helm issues and execute basic and complex Helm commands.
+Collaborate with development and operations teams to implement ArgoCD for continuous deployment.
+Administer and optimize Linux systems to ensure high availability and performance.
+Develop and maintain automation scripts using Bash, Python, and Ansible.
+Manage containerized applications using Docker and Kubernetes.
+Design and implement CI/CD pipelines using GitLab to streamline development and deployment processes.
+Work with serverless architecture to optimize resource usage and scalability.
+Ensure security best practices are followed throughout the DevOps processes.
+
+Requirements
+
+Bachelor's degree in Computer Science, Engineering, or related field.
+Minimum of 6 years of experience in Linux administration.
+Extensive experience with Terraform for infrastructure as code (IaC).
+Proficient in Helm, including structure, installation, deployments, and troubleshooting.
+Experience with cloud platforms AWS, Azure, and GCP.
+Strong knowledge of ArgoCD for continuous deployment.
+Proficiency in scripting languages such as Bash and Python.
+Experience with Ansible for configuration management and automation.
+Hands-on experience with Docker and Kubernetes for container orchestration.
+Expertise in CI/CD processes using GitLab.
+Knowledge of serverless architecture and its implementation.
+
+Desired Skills
+
+Strong problem-solving and troubleshooting skills.
+Excellent communication and collaboration abilities.
+Ability to work effectively in a fast-paced, dynamic environment.
+Experience in the cybersecurity industry is a plus.
+
+If you are a seasoned DevOps professional looking for an exciting opportunity to work with a leading cybersecurity company through Mindtech, we encourage you to apply. Join us and be a part of a team dedicated to pushing the boundaries of technology and security.
+
+General Conditions
+
+100% remote
+USD based salary
+15 vacation days
+Local holidays"
+DevOps Engineer,DevOps Engineer,Intelliswift Software,May,2024,"Detailed Job Description
+MUST HAVE :-
+Devops Engineering
+CI/CID
+Azure or GCP.
+Terraform,
+Docker
+Kubernetes
+HARNESS
+Apigee
+Job Description (Details):
+Design, test and implement continuous integration and deployment pipelines using Gitlab, Jenkins, Harness , Apigee SaaS, Apigee Hybrid, Terraform, Nexus, Docker and Kubernetes Google Cloud Platform, Pipeline etc.
+Hands-on experience to create CI/CD pipeline using Gitlab , Harness and deploy the proxy to Apigee Gateway .
+Hands-on experience to work on Nexus as a artifact .
+Hands-on experience in Docker as a container to run the pipeline .
+Excellent knowledge on Apigee SaaS and Hybrid.
+Design and develop deployment automation and validation tools across the entire software stack.
+Perform security, performance, and availability assessments
+Troubleshoot source code management and deployment issues
+Good knowledge in configure and maintain Linux servers, containers, and services in the cloud
+Perform security audits and assist with hardening servers and systems against attacks
+Configure and administer our APIGEE API gateway
+Define and implement environing monitoring and alerting standards
+Technologies You’ve Worked With:
+Linux and/Windows
+APIGEE Gateway
+APM: Dyna
+Deployment Apps
+GitLab/GitHub
+Kubernetes/Docker
+Database: MS SQL, Postgres
+Authentication: Auth, OpenID, SAML, Okta
+Cloud technologies: Azure or GPC
+Terraform, Ansible
+CD : Harness
+Log aggregation: Splunk
+Scripting: Bash, Python and/or Power Shell"
+DevOps Engineer,DevOps Engineer,Omnicom Media Group Mexico,May,2024,"Acerca de nosotros
+
+Somos una agencia global, especialista en medios, marketing y tecnología. Líderes en el ramo con presencia en más de 100 países. Creamos soluciones integrales para todos nuestros clientes de forma rápida y eficaz.
+
+Nuestra búsqueda constante de mejorar en lo que hacemos comienza contactando con personas como tú.
+
+OMG, te invita a unirte a nuestro equipo como: DevOps
+
+¿Cuáles son las principales actividades?
+Investigar, desarrollar e implementar códigos para las soluciones y automatizaciones de los procesos del negocio
+Diseñar soluciones tecnológicas y automatizaciones
+Crear, programar y administrar las soluciones tecnológicas diseñadas.
+Crear entidades RPA con Power Automate y Power Apps de Microsoft
+Crear procesos de ETL (Extract, Transform and Load) que procesen la data y transformarla en data accionable
+Resolver problemas técnicos relacionados a las soluciones que se desarrollen en el equipo
+
+
+¿Qué buscamos?
+Experiencia previa en agencias de medios y creatividad (deseable)
+Fuerte comprensión del proceso de ETL
+Experiencia en lenguajes de programación Python, Visual Studio Code, y Excel Avanzado.
+Manejo de herramientas como Microsoft Power Apps, Power Automate, Microsoft Dataverse (Deseable) o Experiencia en sistemas RPA como UiPath o similares
+Entendimiento en Excel, Power Bi, Tableau o Google Studio
+
+¿Qué ofrecemos?
+Prestaciones superiores a la ley: 30 días de aguinaldo, vales de despensa, fondo de ahorro 13%, SGMM, Seguro de vida, días de vacaciones superiores a la ley, días de descanso adicionales, cursos de inglés y descuentos corporativos, entre otros.
+Equipo de cómputo.
+Modalidad de trabajo híbrido.
+Contratación directa (100% nómina).
+
+Si cumples con el perfil y quieres formar parte de la mejor agencia de medios, postúlate por este medio.
+
+¡Nos encantaría tenerte en nuestro equipo!
+
+En OMG NO discriminamos por razón de raza, origen étnico, edad, sexo, género, estado civil, ideología, opiniones políticas, nacionalidad, religión, orientación sexual, identidad o expresión de género o cualquier otra condición personal, física o social. A través de ello, construimos una cultura incluyente, de respeto y diversa."
+DevOps Engineer,DevOps Engineer,Omnicom Media Group Mexico,May,2024,"Acerca de nosotros
+
+Somos una agencia global, especialista en medios, marketing y tecnología. Líderes en el ramo con presencia en más de 100 países. Creamos soluciones integrales para todos nuestros clientes de forma rápida y eficaz.
+
+Nuestra búsqueda constante de mejorar en lo que hacemos comienza contactando con personas como tú.
+
+OMG, te invita a unirte a nuestro equipo como: DevOps
+
+¿Cuáles son las principales actividades?
+Investigar, desarrollar e implementar códigos para las soluciones y automatizaciones de los procesos del negocio
+Diseñar soluciones tecnológicas y automatizaciones
+Crear entidades RPA y procesos de ETL (Extract, Transform and Load)
+Resolver problemas técnicos relacionados a las soluciones que se desarrollen en el equipo
+
+
+¿Qué buscamos?
+Experiencia previa en agencias de medios y creatividad (deseable)
+Fuerte comprensión del proceso de ETL
+Experiencia en lenguajes de programación Python, Visual Studio Code, y Excel Avanzado.
+Experiencia en sistemas RPA como UiPath o similares
+Conocimiento de Microsoft Power Apps, Power Automate, Microsoft Dataverse (Deseable)
+Entendimiento en Excel, Power Bi, Tableau o Google Studio
+
+¿Qué ofrecemos?
+Prestaciones superiores a la ley: 30 días de aguinaldo, vales de despensa, fondo de ahorro 13%, SGMM, Seguro de vida, días de vacaciones superiores a la ley, días de descanso adicionales, cursos de inglés y descuentos corporativos, entre otros.
+Equipo de cómputo.
+Modalidad de trabajo híbrido.
+Contratación directa (100% nómina).
+
+Si cumples con el perfil y quieres formar parte de la mejor agencia de medios, postúlate por este medio.
+
+¡Nos encantaría tenerte en nuestro equipo!
+
+En OMG NO discriminamos por razón de raza, origen étnico, edad, sexo, género, estado civil, ideología, opiniones políticas, nacionalidad, religión, orientación sexual, identidad o expresión de género o cualquier otra condición personal, física o social. A través de ello, construimos una cultura incluyente, de respeto y diversa."
+Senior DevOps Engineer,Senior DevOps Engineer,Zipdev,April,2024,"Our client, a leading provider of software solutions aimed at enhancing patient engagement in medical, dental/ortho, and optometry practices, is seeking a Senior DevOps Engineer to join their dynamic team.
+
+As a Senior DevOps Engineer, you will play a crucial role in optimizing and maintaining the infrastructure and deployment processes for their all-in-one platform. You will work closely with cross-functional teams to ensure seamless delivery of services and uphold high standards of performance, reliability, and security.
+
+Requirements
+
+4+ years of hands-on experience in DevOps roles, with a strong focus on AWS
+Proven expertise in performance monitoring, incident response, and cloud-based infrastructure management
+Proficiency in Docker for containerization and orchestration
+Experience with deployment automation tools such as GitLab
+Strong understanding of API development and integration techniques
+Excellent analytical and problem-solving skills
+Ability to work autonomously and effectively manage time and priorities
+Excellent communication and collaboration skills
+
+
+Nice to Have:
+
+Familiarity with the Ruby on Rails stack
+Experience with Kubernetes and AWS Copilot
+Knowledge of data charting tools and techniques
+
+
+Responsibilities:
+
+Propose, analyze, and implement improvements to the existing DevOps infrastructure and processes
+Design, deploy, and manage cloud-based solutions on Amazon Web Services (AWS), utilizing services such as EC2, ECS, etc
+Monitor system performance, troubleshoot incidents, and implement effective incident response strategies
+Develop and maintain deployment automation pipelines using GitLab
+Utilize Docker for containerization and orchestration of applications
+Implement and maintain API integrations, including Webhooks and RESTful APIs
+Collaborate with development teams to streamline the deployment process and optimize application performance
+Participate in an on-call rotation to ensure 24/7 availability and timely resolution of critical issues
+
+This is an excellent opportunity for a seasoned DevOps professional to join a forward-thinking organization and contribute to the enhancement of a cutting-edge platform that positively impacts patient engagement in healthcare practices. If you are passionate about DevOps and thrive in a fast-paced, collaborative environment, we encourage you to apply.
+
+Benefits
+
+Work remotely Monday - Friday, 40 hours a week (no weekends) in a Marketing related company.
+Vacation: 10 business days a year
+Holidays: 5 National Holidays a year
+Company Holidays: 5 Company Holidays a year (Christmas Eve, Christmas Day, New Year's Eve, New Year's Day, Zipdev Day)
+Parental Leave
+Health Care Reimbursement
+Active Lifestyle Reimbursement
+Quarterly Home Office Reimbursement
+Payroll Deduction Purchase Plans
+Longevity Bonus
+Continuous Learning Bonus
+Access to Training and Professional Development Platforms
+Did we mention it's REMOTE?!!
+
+One of our core values at Zipdev is ""Be authentic."" that's why we encourage you to answer the application form in your own words; we are interested in getting to know you, not a digital assistant."
+DevOps Engineer,DevOps Engineer,Hexaware Technologies,May,2024,"Your Key Responsibilities
+Tooling and Automation: Architect and develop advanced tooling solutions for SRE and DevOps to optimize system reliability and streamline development workflows. Automate repetitive tasks and processes to improve efficiency and reduce error rates
+Monitoring and Incident Management: Design and implement comprehensive monitoring solutions that proactively detect issues and trigger incident response. Ensure minimal downtime and rapid recovery through effective troubleshooting and coordinated response strategies
+Development Practices and Security Standards: Uphold and enhance modern development practices, including the integration of security standards from the outset. Ensure all solutions comply with the highest standards of security and usability
+Lifecycle Management and Strategic Planning: Take ownership of the end-to-end lifecycle of services and tools, from inception through to decommission. Balance tactical day-to-day activities with strategic planning for future enhancements and scalability
+Skills and Attributes for Success
+Expertise in designing, developing, and troubleshooting solutions with a strong focus on system reliability
+Extensive experience with cloud security including authentication and authorization techniques and standards
+Solid experience with Kubernetes
+Demonstrated ability to implement SRE best practices, including performance tuning, and proactive system monitoring
+Strong leadership qualities, superior problem-solving abilities, and a mindset geared towards constant innovation and reliability
+Technical Requirements
+Category
+Tool/Vendor
+Requirement
+Cloud
+Azure
+Must have
+Scripting
+PowerShell or Python
+Must have
+Containerization
+Kubernetes, Docker
+Must have
+Lens
+Nice to have
+Programming
+C#
+Nice to have
+Query languages
+SQL
+Must have
+KQL, Elastic Search
+Nice to have
+Source control
+GitHub
+Nice to have
+Azure DevOps
+Nice to have
+Education & Experience
+Bachelor's degree or higher in Computer Science, Data Science, Engineering, IT, Cyber Security, or equivalent professional experience
+At least 5 years of proven experience in DevOps with a dedicated focus on SRE practices
+Fluent in English, with exemplary written and verbal communication skills"
+Cloud Engineer,Cloud Engineer,"Pyramid Consulting, Inc",May,2024,"Job Description:
+Job Title: Azure DevOps Engineer
+Location: Remote
+• Top Skills : Azure DevOps, Docker and Kubernetes, Terraform & Ansible
+• Bachelor’s degree in computer science, Engineering, IT, Mathematics, or related field preferred
+• 5-7 years in an engineering role using service and hosting solutions such as private/public cloud IaaS, PaaS, and SaaS platforms.
+• 3+ years of hands-on technical experience in Container Orchestration (Azure Kubernetes Services), Container Registry (Azure Container Registry) etc.
+• 3+ years of functional knowledge of programming scripting and data science languages such as JavaScript, PowerShell, Python, Bash, SQL, .NET, Java, PHP, Ruby, PERL, C++, R, etc.
+• 3+ years CI/CD delivery using code management, configuration management and automation tools such as GitHub, VSTS, Ansible, DSC, Puppet, Ambari, Chef, Salt, Jenkins, Maven, etc.
+• 3+ years of hands-on technical experience implementing Infrastructure as Code (IaC) delivery pipelines using HashiCorp’s Terraform & Ansible Tower.
+• Experience with any of the following: Azure, O365, Azure Stack, Azure AD
+• Multi-system Integration using industry standards such as REST, API, JSON, SOAP, gRPC, etc
+• Container knowledge using Azure, Docker and Kubernetes orchestration.
+• Communicate fluently in English, both written and verbal"
+DevOps Engineer,DevOps Engineer,System Soft Technologies,May,2024,"Job Summary:
+Client is looking for DevOps Engineer and this is remote position from Mexico
+
+
+Required Skills and Experience:
+7+ years of overall experience in System Operations , Software Development or both plus 3+ years of experience in design, provisioning and automation of distributed infrastructure/applications in cloud and on-premise environments
+Strong work experience in managing Distributed even driven enterprise level production system support using Apache Kafka is mandatory
+Strong experience with Kubernetes container orchestration and Docker
+Strong experience deploying and managing applications to public cloud systems i.e. AWS, Azure, Google Cloud Platform, RedHat OpenShift (experience with OpenShift will be preferred).
+Strong practical Windows and Linux-based systems administration skills in a Cloud or Virtualized environment.
+Experience building sophisticated and highly automated infrastructure.
+Prior success in automating a real-world production environment.
+Experience with seamless/automated build scripts used for release management across all environments.
+Strong ASP.NET, JavaScript and C# programming skills.
+Experience with configuration management tools like Chef, Puppet, Salt, or Ansible in production environments with many nodes.
+Experience building CI/CD pipelines with products like TeamCity/Octopus, Jenkins, Bamboo, Azure DevOps
+Strong scripting skills, i.e., PowerShell, Python, Bash, Ruby, Perl, etc.
+Knowledge of IP networking, VPN's, DNS, load balancing and firewall.
+Familiarity with any monitoring tools like Splunk, AppDynamics, Nagios, New Relic.
+Experience with version control source code repositories like Git, TFS, SVN, Mercurial.
+Experience with automated testing tools (i.e.. Selenium, JMeter).
+Understanding and experience with code deployment (tagging).
+Understanding of Service-Oriented Architecture (SOA and REST)."
+DevOps Engineer,DevOps Engineer,System Soft Technologies,May,2024,"DevOps Engineer
+Remote-Mexico / LATAM
+6+ Months
+
+Job Summary
+Client is looking for Devops Engineer
+
+Qualifications
+7+ years of DevOps experience.
+Azure
+Kafka
+Kubernetes"
+SR Devops Engineer,SR Devops Engineer,remoti,June,2024,"Ciudad de mexico!
+
+We are seeking a highly skilled and experienced SR DEVOPS ENGINEER for the leading Telematics company in Mexico, pioneering innovation in the automotive and insurance industry. With a commitment to revolutionizing the way vehicles are tracked, managed, and connected.
+
+We are searching for a Senior DevOps Engineer who will play a crucial role in ensuring the seamless deployment, scalability, and security of our cloud-based solutions.
+
+Responsibilities
+Design, implement, and manage our AWS infrastructure using Terraform, ensuring high availability, scalability, and resilience.
+Streamline our CI/CD pipelines, ensuring rapid and reliable code deployments.
+Monitor system performance, identify bottlenecks, and implement optimizations.
+Implement and maintain security best practices, ensuring the integrity and confidentiality of our data.
+Leverage AI tools and methodologies to write sophisticated provisioning code and enhance automation processes.
+Manage and optimize our Kubernetes clusters for application deployment, scaling, and management.
+
+Qualifications:
+Professional/bachelors degree is a MUST
+Minimum of 5 years of experience in a DevOps role with a strong focus on AWS services.
+Proficiency in scripting languages such as Python and Bash.
+3 years of experience with Kubernetes and Terraform.
+Demonstrated experience in leveraging AI for code provisioning and automation.
+Strong understanding of CI/CD tools and methodologies.
+
+We offer growth opportunities, direct contract with the company and hybrid work in CDMX.
+
+If you feel this job might be just for you, do not hesitate and apply!"
+DevOps Engineer,DevOps Engineer,AgileThought,May,2024,"AgileThought exists to disrupt the status quo and build transformative digital solutions to solve our client's biggest problems. We know the cutting-edge technology and customer experience business needs, and we hire the best-in-class technologists to bring those solutions to life.
+
+You will fit in here if...
+You love to solve complex business problems and work with clients who value your technical expertise.
+You aren't afraid to fail, and you thrive in an ever-evolving environment.
+You enjoy working on a team in a diverse, multi-disciplinary capacity driving toward common goals and outcomes.
+
+On any given day you might..
+
+Coach and develop practice members through hands-on experience in complex DevOps projects. At the same time promote the adoption of new ways of working, tools and processes to strengthen the practice and keep it on the industry trend.
+
+The ideal person...
+Minimum 5 years of experience working in Infrastructure and DevOps high level projects
+Bilingual in both Spanish/English (strong written & verbal in both)
+Experience bringing Infrastructure as Code to existing projects using tools such as Terraform, Pulumi, CloudFormation, and/or Azure Bicep (expert in at least one
+Cloud Technology: Azure
+CI/CD experience
+Automation + Scripting (powershell, bash, python)
+Git
+Designing + hands-on experience
+Microsoft SQL server scripting/replication is a plus (nice to have)
+
+Details on this position…
+Fully remote position
+
+What We Offer...
+Globally distributed workforce who will challenge you to be better
+Smashing benefits that work for your lifestyle
+Flexible time-away
+Virtual Work
+Optional office locations for drop-in collaboration in unique destinations"
+Remote DevOps Engineer,Remote DevOps Engineer,Launch by NTT DATA,June,2024,"Req ID: 283931
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Remote DevOps Engineer to join our team in Mexico City, México (MX-MEX), Mexico (MX).
+
+Who We Are
+
+At NTT DATA America's, we are committed to hiring innovative and passionate individuals eager to contribute and grow with us. Launch by NTT DATA represents our strategic initiative to integrate the expertise and technology of leading digital firms, leveraging NTT DATA’s global reach and core strengths.
+
+How You’ll Help Us
+
+A Platform Engineer is first and foremost a software developer who specializes in the domain of the processes and resources necessary to enable the development, build, test, deploy, and release of changes to enterprise applications delivered to market while ensuring this occurs as frequently as needed, with the least amount of error possible, and the maximum uptime. Our product, a dynamic virtual platform and its resources include an automated software factory, its logistics and utilities, a digital showroom, and consumer feedback loops. Our customers encompass the entire IT organization including ourselves.
+
+How We Will Help You
+
+By joining this highly selective elite group of industry thought leaders and experts at the leading edge, redefining the boundaries of what was conventionally thought possible, you will gain the opportunity to break through plateaus and accelerate your technical and leadership acumen to new heights. Expectations for excellence and pace set by your peers are high, but rest assured any lead or peer will jump in the mud alongside you to help you succeed, grow, and catch you when you falter.
+
+Once You Are Here, You Will
+
+Quickly be steeped in a suite of custom accelerators which include:
+Continuously tested & delivered Infrastructure, Pipeline, and Policy as Code
+Extensible automation & dependency management code frameworks
+Development of event driven functions, APIs, backend services, Command Language Interfaces, and Self-Service Developer Portals.
+We eat our own dog food; all your work will be covered with unit, security, governance, and functional testing utilizing appropriate frameworks.
+Armed with these accelerators you will be among the first on the ground to customize and deploy the delivery platform that will enable the application developers that follow us to rapidly create, demonstrate, and deliver value sprint over sprint for much of the Global Fortune 500.
+Basic Qualifications
+
+1+ years coding in either Python, Typescript, or Golang
+1+ years scripting experience in bash or powershell
+2+ years of networking experience (security, DNS, VPN, Cloud, load balancing)
+2+ years of systems administration experience with at least one operating system (Linux or Windows)
+
+Desired Experience & Skills
+
+1+ years' experience with one of the following public cloud platforms (AWS, Azure, or GCP)
+1+ years setting of CI/CD experience
+Experience with monitoring and logging systems. Can understand best practices and how to consume them for automation.
+Follows SOLID principles when developing
+Experience using cloud patterns
+
+#LaunchDevOps #LaunchJobs #LaunchEngineering
+
+About NTT DATA
+
+NTT DATA is a $30+ billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long term success. We invest over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure, and connectivity. We are also one of the leading providers of digital and AI infrastructure, and connectivity. We are also one of the leading providers of digital and AI infrastructure in the world. NTT DATA is part of NTT Group and headquartered in Tokyo. Visit us at nttdata.com
+
+NTT DATA Services is an equal opportunity employer and considers all applicants without regarding to race, color, religion, citizenship, national origin, ancestry, age, sex, sexual orientation, gender identity, genetic information, physical or mental disability, veteran or marital status, or any other characteristic protected by law. We are committed to creating a diverse and inclusive environment for all employees. If you need assistance or an accommodation due to a disability, please inform your recruiter so that we may connect you with the appropriate team."
+AWS Cloud Engineer,AWS Cloud Engineer,Syntax,June,2024,"Cloud Engineer
+
+Responsibilities:
+Drive infrastructure design and lead the development and implementation of cloud applications, systems and automated processes.
+Provide hands-on technical design and implementation to automate application build and deployment solutions.
+Collaborate with Security and Development teams to identify and implement the most optimal cloud-based solutions for the company.
+Build, release, and manage the configuration of all production systems.
+Troubleshoot incidents to identify root cause; participate in blameless postmortems and contribute to an aspiring culture of continuous improvement and learning.
+Implement continuous integration/continuous delivery providing feedback where system constraints prevent scalable solutions.
+Regularly review existing systems and making recommendations for improvements.
+Ensure application performance, uptime, and scale, maintaining high standards of quality and design.
+Responsible for technical documentation for areas of oversight including implementations and procedures.
+Provide on-call rotation for production support; support local offices and production servers as needed via in-person, over the phone, through IM/chat or other remote tools.
+Understand and maintain IT security principles to support compliance or regulatory requirements.
+
+Required Knowledge, Education & Experience:
+Minimum three (3) of years of directly related work experience with responsibility for an enterprise-wide cloud environment
+Experience must include architecting, designing, developing, and implementing and support cloud solutions on AWS platforms, and possess a solid background in Linux System Administration and SysOps
+Demonstrated familiarity with firewall, networking and internet protocols, including TCP/IP, DNS, SMTP, HTTP, and distributed networks
+Experience installing and configuring application servers (e.g., SFYP, Tomcat)
+Experience with information systems security principles, practices, and technologies, and using security and monitoring solutions
+Proficiency in script development (e.g., Bash, Python)
+Successful record of managing multiple projects with demonstrated ability to work independently in rapidly-changing environments
+Experience supporting and working with cross-functional teams in a dynamic environment; highly collaborative team approach to work
+
+Highly Preferred Skills, Abilities & Qualifications:
+Experience with AWS Redshift and/or Quicksight
+Understanding of and experience in organizations using the five pillars of AWS well-architected framework
+Hands-on troubleshooting skills
+Flexibility to meet changing priorities and technologies through continuous learning and improvement
+Strong time management skills and the ability to establish reasonable deadlines for resolution
+Mindset to automate tasks and eliminate toil work
+Demonstrate leadership ability and skills in critical thinking, strategic planning, analysis and systems thinking
+Excellent verbal, written and interpersonal communication skills
+Able to convey complex or technical information in a manner that others can understand and understand and interpret complex information from others
+
+
+▪ Education:
+- University Degree Preferred
+Strong English Communication's
+
+What we offer:
+Competitive salary
+Working in a well-established and ambitious company.
+Personal development opportunities"
+DevOps Engineer,DevOps Engineer,Tata Consultancy Services,May,2024,"Role : Azure Devops
+Years of Experience: 4+ years
+Location: Across Mexico City
+English Speaking Level: Advanced
+
+Requirements:
+
+SRE, DevOps engineer, Docker, Kubernets.
+Understanding of Azure cloud platform. Deploy/configure Azure resources.
+Monitor and trouble shoot Azure infrastructure resources and resolve issues.
+Deploy and manage Kubernetes clusters on Azure Kubernetes Services(AKS).
+Deploy, manage and troubleshoot containerized applications on AKS clusters.
+Monitor and troubleshoot AKS clusters and applications deployed on AKS clusters and resolve issues.
+Candidates must have Advanced English Level
+
+""If you are interested, please share your resume to anitha.govindan@tcs.com"""
+DevOps Engineer,DevOps Engineer,Active Alliance,June,2024,"Experiencia requerida: 6 - 8 años
+Habilidades: Kubernetes, ArgoCD, Circle CI, Python, Jenkins, Github, Shell scripting, New Relic, Docker
+Descripción general del puesto: Estamos buscando un ingeniero sénior de DevOps con experiencia y un sólido conjunto de habilidades en la gestión y optimización de la infraestructura en la nube y las canalizaciones de implementación.
+El candidato ideal poseerá experiencia en Kubernetes, ArgoCD, Circle CI, Python, Jenkins, GitHub, secuencias de comandos de Shell, New Relic y Docker.
+Como miembro clave de nuestro equipo de DevOps, desempeñará un papel fundamental en la arquitectura, la implementación y el mantenimiento de procesos de implementación e infraestructura escalables, confiables y seguros.
+• Mínimo de 4-5 años de experiencia en DevOps o rol relacionado.
+• Dominio de Kubernetes, ArgoCD, Circle CI, Jenkins, GitHub, Shell scripting, New Relic y Docker.
+• Sólida comprensión de los principios de computación en la nube y experiencia con los principales proveedores de nube como AWS, Azure o GCP.
+• Excelentes habilidades de resolución de problemas y atención al detalle.
+• Fuertes habilidades de comunicación y colaboración, con la capacidad de trabajar de manera efectiva en un entorno dinámico y de ritmo rápido.
+• Historial comprobado de entrega de soluciones de alta calidad a tiempo y dentro del presupuesto."
+DevOps Engineer,DevOps Engineer,Tata Consultancy Services,May,2024,"Hi,
+
+Warm greetings! I work with Tata Consultancy Services and I'm excited to connect with you. I noticed that you are open to work and I have a job opportunity that could be a perfect match for you, given your open-to-work preferences.
+
+Tata Consultancy Services is looking for a Devops to join our team on a full-time basis.
+Work location: Guadalajara-Onsite
+
+
+If you are interested. Kindly share updated resume in English to m.ammu@tcs.com
+
+
+Best regards,
+Ammu"
+DevOps Engineer,DevOps Engineer,Minsait,May,2024,"Un lugar para ti - Talento Minsait
+
+Trae tu talento a una compañía global de consultoría y tecnología, con presencia en los 5 continentes y más de 40.000 profesionales. Trabajarás en un entorno de soluciones y servicios innovadores para nuestros clientes en los principales sectores de actividad, aportándoles valor añadido. Participarás de la transformación de los negocios trabajando con profesionales de referencia.
+
+Estamos en busca de Devops
+
+Descripción de perfil:
+
+Ingeniería en Sistemas o Carrera a fin
+
+Conocimientos Técnicos:
+Experiencia en la implementación de herramientas de automatización de flujos CI/CD.
+Experiencia con herramientas de análisis de código estático y detección de vulnerabilidades.
+Creación de imágenes Docker. Despliegues a Kubernetes (openshift, rancher, AKS, etc.). YAML.
+Despliegues a bases de datos SQL y NoSQL. Desarrollo de micro servicios.
+Conocimientos en mejores prácticas de seguridad. Coordinación de las actividades del equipo en general para logara las metas del equip
+
+Zona de trabajo Polanco, esquema hibrido elprimer mes, después remoto.
+
+Beneficios:
+
+100% nómina
+Beneficios superiores a las de Ley (Vales de despensa, fondo de ahorro, Seguro de Vida, SGMM Familiar, Cursos, etc.)
+Plan de carrera
+
+En Indra tendrás una carrera profesional adaptada a tus objetivos personales, con formación continua y en un entorno flexible. Participarás en proyectos internacionales, con equipos multiculturales o locales, según tus preferencias, en un entorno diverso y con igualdad de oportunidades.
+
+Disfrutarás de numerosos beneficios sociales y un interesante paquete retributivo, al tiempo que creces en un entorno innovador."
+DevOps Engineer,DevOps Engineer,Evidente AI,May,2024,"About Evidente AI
+Evidente AI is building a Retail-specialized AI Data Analyst that generates automated insights in the form of data experiences like personalized reports, podcasts, and charts. We're on a mission to empower businesses with actionable insights and data-driven decision-making, enabling our clients to 'Steer the Focus Forward'. We are a proud Google Cloud Partner.
+
+About the Role:
+We are looking for a talented and passionate DevOps Engineer to take ownership of our infrastructure and champion the automation of our deployment and development processes. You will be a key player in ensuring the stability, scalability, and security of our platform as we expand our reach internationally. If you're a curious and capable individual who thrives in a dynamic environment and loves working with cutting-edge cloud technologies, this role is for you.
+
+What you'll do:
+Manage and maintain our cloud infrastructure on Google Cloud Platform (GCP), including IAM, networking, and data services.
+Design, implement, and maintain a robust CI/CD pipeline using GitHub Actions.
+Utilize your advanced Terraform skills to automate and manage infrastructure as code.
+Manage and deploy updates to our development, staging, and production environments.
+Collaborate closely with our engineering team to ensure smooth deployments and rapid iteration cycles.
+Proactively identify and address potential infrastructure bottlenecks and security vulnerabilities.
+
+What you bring:
+Proven experience (ideally 3+ years) as a DevOps Engineer or similar role, preferably with GCP experience.
+Expert-level proficiency in Terraform.
+Strong understanding and experience implementing CI/CD pipelines using GitHub Actions.
+Solid understanding of GCP services, including IAM, networking, storage, and security best practices.
+Experience working with observability tools like Grafana, Prometheus, etc.
+Scripting and Automation experience.
+Ability to work independently and manage your own time effectively in a remote work environment.
+A strong desire to learn and adapt to new technologies.
+
+Bonus points if you have:
+Google Cloud Professional DevOps Certification.
+A portfolio of work showcasing your skills and experience (GitHub, personal projects, blog posts, etc.).
+Experience working with AI/ML workloads in a cloud environment.
+
+What we offer:
+Fully remote work environment.
+Competitive salary, negotiable based on your experience and skills.
+Work with cutting-edge technology: Be at the forefront of AI, LLMs, and RAG.
+Access to Google Cloud Skills Boost catalog.
+Minimal coordination overhead: We trust you to manage your time effectively.
+Opportunity to make a real-world impact: Help us revolutionize the retail industry in Latin America.
+
+* Although this is not an exhaustive list, it includes the main responsibilities for the position"
+DevOps Engineer,DevOps Engineer,Northware,March,2024,"Función
+
+Construir pipelines de integración para frontend y backend.
+Construir pipelines de despliegue para frontend y backend.
+Administrar clusters AKS.
+Administrar el repositorio de código fuente, manteniendo el orden entre ramas para su despliegue entre ambientes.
+Administrar recursos en Azure.
+Brindar soporte al flujo CICD global.
+
+
+Requisitos
+
+
+Conocimientos / Habilidades
+
+Experiencia en GIT, TFS y Azure DevOps.
+Capacidad para crear pipelines utilizando el editor clásico y/o YAML.
+Conocimiento de arquitectura de microservicios (API Rest).
+Familiaridad con contenerización y orquestación.
+Comprensión del ciclo de vida del desarrollo de software (SDLC).
+Experiencia trabajando en un entorno ágil.
+
+Otros
+
+Familiaridad con recursos de Azure.
+Experiencia en la administración de Service Connections en Azure.
+Conocimiento de Management Groups, Resource Groups, Subscriptions y Service Connections.
+Familiaridad con API Management/API Gateway.
+Conocimientos básicos de Vnet.
+
+Beneficios
+
+Requisitos adicionales
+
+Experiencia laboral de 2 a 3 años en roles similares.
+Vivir en la República Mexicana.
+Estudios a nivel licenciatura o ingeniería.
+
+Beneficios
+
+Prestaciones de ley.
+Contrato por tiempo indefinido.
+Seguro de vida.
+Sueldo competitivo de acuerdo a experiencia."
+DevOps Engineer Intern,DevOps Engineer Intern,Grid Dynamics,May,2024,"Are you looking for a great opportunity to expand your skills and knowledge? Want to join a multinational company with interesting projects and learn from our professionals? If you are ready to start your career in IT, just show us your potential, and we will give you the experience!
+
+Responsibilities
+
+Hands-on technical experience
+Learning under the supervision of mentors
+Experience in commercial projects
+Working with leaders in their industries
+
+Requirements
+
+Basic knowledge of Linux OS internals
+Ability to use the Linux command line and write simple one-liners
+Basic knowledge of bash scripting
+Strong motivation, high interest in software development, and ability to self-study
+Desire and willingness to be DevOps specialist
+English: Intermediate or higher (spoken and written)
+
+Nice to have
+
+Generic knowledge about DevOps practice and its main principles
+Knowledge of the CI/CD process
+Knowledge of cloud platforms of any cloud (AWS, GCP and Azure)
+Student of faculties of Computer Science, Computer Engineering, Information Technologies, Graphic Design, or related discipline
+
+We offer
+
+100% payroll scheme, benefits by law (IMSS, INFONAVIT, 12+ vacation days)
+Benefits above the law: Vacation premium 50%, 5 PTOs, 3 sick days, grocery cards/vouchers (Vales de Despensa), 30 days End of the Year Bonus (Aguinaldo), savings fund
+Major medical and Life insurance, Dental and Vision plan for an employee and direct family members
+Medical Emergency Service EMME for employees in Guadalajara
+Opportunity to work on bleeding-edge projects with a highly motivated and dedicated team all over the world
+Individual career development plan and support from the best experts
+Professional development opportunities (Linkedin Learning, Cloud certification programs, access to corporate LMS integrated with other learning platforms)
+Well-equipped office in a business area of Guadalajara (quiet room, games room, air hockey, PS5, Nintendo Switch and Xbox Series X, pool table, ping pong, snacks, smoothies, and much more)
+Corporate social events (yoga, massages, sport tournaments, discussion panels, technical talks, lunch & learns)
+Flexible working hours
+Opportunity to relocate to another country where the company's offices are present.
+
+About Us
+
+Grid Dynamics (Nasdaq:GDYN) is a digital-native technology services provider that accelerates growth and bolsters competitive advantage for Fortune 1000 companies. Grid Dynamics provides digital transformation consulting and implementation services in omnichannel customer experience, big data analytics, search, artificial intelligence, cloud migration, and application modernisation. Grid Dynamics achieves high speed-to-market, quality, and efficiency by using technology accelerators, an agile delivery culture, and its pool of global engineering talent. Founded in 2006, Grid Dynamics is headquartered in Silicon Valley with offices across the US, UK, Netherlands, Mexico, and Central and Eastern Europe. To learn more about Grid Dynamics, please visit www.griddynamics.com. Follow us on Facebook, Twitter, and LinkedIn."
+DevOps Engineer,DevOps Engineer,Brightcove,May,2024,"The Brightcove platform is capturing the growth in online media streaming services and is looking for engineers to help make the product rock solid. The team is building a rich user experience across multiple devices including smart TVs, mobile, web and Roku. We have a modern development process that allows our team to rapidly adjust and release new features to our customers. We are dedicated to delivering a superior media streaming experience without ever missing a beat. If you are bright, enthusiastic and eager to contribute we want to hear from you!
+
+Job Responsibilities
+
+Work with a variety of internal engineering teams to support services on a Kubernetes-based common infrastructure.
+Contribute ideas to coding best practices and new technologies as necessary.
+Define, implement, maintain, support, and improve platform features that will enable engineering teams to deliver the next generation of services powering Brightcove.
+Develop and continuously improve common monitoring that quickly identifies problems, identifies root causes, and performs corrective action with minimal human intervention.
+Provide on-going operational consultation and feedback to Engineering teams, providing recommendations and best practices to drive further operational rigor and excellence.
+Deliver a comprehensible platform that allows other engineering teams to be productive with minimal training.
+
+Qualifications/Experience
+
+3+ years of software engineering experience.
+Experience with Amazon Web Services (AWS).
+Experience with Infrastructure-as-code using Terraform.
+Experience with Python and BASH Scripting.
+Experience with Docker and Kubernetes.
+Experience with CI/CD platforms and flows.
+Experience with logging and observability tools.
+High attention to detail with excellent project management and problem solving abilities.
+Process-oriented, with an eye for improvement and building greater efficiencies.
+Positive attitude with strong collaboration and team player mentality.
+Ability to work closely with a team but self-sufficient enough to execute with minimal supervision.
+
+Nice to have:
+
+Experience with DBMS: Mongo, Postgres, MySQL, Dynamo.
+Experience with OpenSearch, ElastiCache.
+Knowledge of Java, nodeJS, GO and PHP.
+Experience working within the media/video industry.
+Experience with automated test suites.
+
+About Brightcove
+
+Brightcove is a diverse, global team of smart, passionate people who are revolutionizing the way organizations deliver video. We’re hyped up about storytelling, and about helping organizations reach their audiences in bold and innovative ways. When video is done right, it can have a powerful and lasting effect. Hearts open. Minds change.
+
+Since 2004, Brightcove has been supporting customers that are some of the largest media companies, enterprises, events, and non-profit organizations in the world. There are over 600 Brightcovers globally, each of us representing our unique talents and we have built a culture that values authenticity, individual empowerment, excellence and collaboration. This culture enables us to harness the incredible power of video and create an environment where you will want to grow, stay and thrive. Bottom line: We take our video seriously, and we take great pride in doing it as #oneteam.
+
+WORKING AT BRIGHTCOVE
+
+We strive to provide our employees with an environment where they can do their best work and be their best selves. This includes a focus on our employees’ work experience, and we actively support a culture where inclusion and growth are at the center. We hire, recognize, and promote employees who are committed to these same ideals. We value collaboration, creativity, work/life balance, professional growth, and creating an empowering space for open communication. No matter where our employees work, remotely or in one of our global offices, employees have plenty of opportunities to meet colleagues and celebrate a variety of personal interests and perspectives.
+
+While remote work arrangements are available for most positions we also offer hybrid or on-site working options in our vibrant Guadalajara office located right in front of Andares shopping mall where employees enjoy access to fully-stocked kitchens, company events and social activities as well as an inspiring work environment. We are focused on creating a culture where inclusion and growth are at the center. We value collaboration, creativity, work/life balance, professional growth and providing an empowering space for open communication.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. Brightcove embraces diversity and seeks candidates who support persons of all identities and backgrounds. We strongly encourage individuals from underrepresented and/or marginalized identities to apply. If you need any accommodations for your interview, please email recruiting@brightcove.com.
+
+BC21073"
+DevOps Engineer,DevOps Engineer,"KMS Technology, Inc.",June,2024,"Company Description
+
+A career within KMS Technology will provide you with the opportunity to leverage new technologies to build innovative solutions for clients across a wide range of industries. Our services span the entire spectrum of the Product and Software Development lifecycle, leveraging global talent in Vietnam, Mexico, and the US.
+
+Job Description
+
+Job Summary:
+
+We are seeking two experienced DevOps Engineers to join our team in Guadalajara. The successful candidates will have over 4 years of experience working with AWS/Azure, Terraform, Helm Scripting, and Kubernetes clusters. You will collaborate closely with our existing DevOps team, contributing to the development, deployment, and maintenance of our infrastructure. This is a hybrid position, requiring a good command of English and the flexibility to work both remotely and on-site as needed.
+
+Key Responsibilities:
+
+Infrastructure Management: Design, implement, and manage scalable, reliable, and secure cloud infrastructure on AWS/Azure.
+Automation: Develop and maintain Infrastructure as Code (IaC) using Terraform and Helm scripting (Nice to have) to automate deployments and configurations.
+Kubernetes: Deploy, manage, and troubleshoot Kubernetes clusters to ensure high availability and performance.
+Collaboration: Work closely with the US-based DevOps team to align on project goals, share knowledge, and ensure seamless integration and operation of systems.
+Monitoring and Logging: Implement monitoring, logging, and alerting solutions to ensure system health and performance.
+Continuous Improvement: Participate in code reviews, contribute to continuous integration and delivery (CI/CD) pipelines, and advocate for best practices in DevOps.
+Documentation: Maintain comprehensive documentation of system configurations, procedures, and changes.
+
+Qualifications
+
+Qualifications:
+
+Experience: Minimum of 4 years of experience in DevOps, with a strong focus on AWS or Azure, Terraform, Helm scripting, and Kubernetes.
+Education: Bachelor’s degree in Computer Science, Information Technology, or a related field is preferred.
+Proficient in AWS or Azure cloud platforms.
+Strong knowledge of Terraform and Helm for infrastructure automation.
+Hands-on experience with Kubernetes cluster management.
+Familiarity with CI/CD pipelines and tools (e.g., Jenkins, GitLab CI).
+Experience with monitoring tools (e.g., Prometheus, Grafana).
+Language Skills: Good command of English, both written and spoken, to effectively communicate with the US-based team.
+
+Soft Skills: Strong problem-solving abilities, attention to detail, and the ability to work collaboratively in a team environment.
+
+Additional Information
+
+Location: Guadalajara, Jalisco, Mexico,"
+DevOps Engineer,DevOps Engineer,Tata Consultancy Services,May,2024,"Hi,
+
+Warm greetings! I work with Tata Consultancy Services and I'm excited to connect with you. I noticed that you are open to work and I have a job opportunity that could be a perfect match for you, given your open-to-work preferences.
+
+Tata Consultancy Services is looking for a Devops to join our team on a full-time basis.
+Work location: Guadalajara (onsite)
+Above:4+ years of Experience.
+
+
+If you are interested. Kindly share updated resume in English to m.ammu@tcs.com
+
+
+Best regards,
+Ammu"
+Cloud Engineer,Cloud Engineer,Grupo Salinas,May,2024,"Grupo Salinas es un conjunto de empresas dinámicas y a la vanguardia tecnológica, que se enfoca en la creación de valor económico, social y ambiental. Grupo Salinas fue creado por el empresario Ricardo B. Salinas, susorígenes datan de 1906 y actualmente operamos en 6 países de América como México, Estados Unidos, Guatemala, Honduras, Panamá y Colombia. La familia Grupo Salinas está integrada por: • Más de 110,000 colaboradores. • Banco Azteca, Elektra, Italika, TV Azteca, Totalplay, Grupo Dragón, UPAX, Tiendas Neto, Agencia i, entre otras. • Estamos cerca de nuestros clientes en más de 7,000 puntos de contacto.
+
+Objetivos del puesto:
+
+Entender y diseñar soluciones de infraestructura / plataforma en la nube pública, las cuales se usen para poder desplegar aplicaciones monolíticas, microservicios, portales u otras aplicaciones del grupo.
+
+Actividades:
+
+Implementación de las soluciones de infraestructura / plataforma para ambientes PRODUCTIVOS
+Diseño para propuestas de implementaciones para aplicaciones criticas
+Corrección de incidencias productivas en la nube
+Apoyar a áreas de sistemas en dudas generales sobre el uso de nube pública
+Diseñar soluciones de infraestructura / plataforma en la nube
+
+Conocimientos técnicos:
+
+Experiencia con Infraestructura / plataforma en la nube pública
+Arquitecto de Soluciones Cloud
+Desarrollo de Software / microservicios
+ECS
+CloudFront
+Jenkins
+
+Ofrecemos:
+Vacaciones iniciando con 12 días al año, prima vacacional del 25% anual, aguinaldo de 15 días al año, el cual aumenta de acuerdo con la antigüedad.
+Beneficios Financieros: Adelanto de nómina, acceso a tarjeta de crédito, crédito personal con tasa preferencia a partir de los 2 años.
+Beneficios del puesto: Descuentos desde el 10% en productos dentro de tiendas Elektra y Salinas & Rocha en compras de contado desde el primer día. Servicios: Acceso al nutriólogo, psicólogo, odontólogo, biblioteca, concursos y programas para mejorar tu salud. Promociones y convenios para ti y tu familia:
+Descuentos en gimnasios, cines, conciertos, restaurantes, tiendas departamentales,ópticas, laboratorio clínico, colegios, escuela de idiomas, universidades,aerolíneas, viajes, agencias automotrices y guarderías."
+DevOps Engineer,DevOps Engineer,Eviden,May,2024,"Eviden, part of the Atos Group, with an annual revenue of circa € 5 billion is a global leader in data-driven, trusted and sustainable digital transformation. As a next generation digital business with worldwide leading positions in digital, cloud, data, advanced computing and security, it brings deep expertise for all industries in more than 47 countries. By uniting unique high-end technologies across the full digital continuum with 53,000 world-class talents, Eviden expands the possibilities of data and technology, now and for generations to come.
+
+Responsibility
+Certain Scripting experience in languages like Java or Python or Shell scripting, Docker, Kubernetes, GitHub Actions
+
+• 5 years of significant experience in working as Site Reliability Engineer
+
+• Strong in Terraform, Ansible, Packer, Vault, service mesh, API gateway).
+
+• Substantial Knowledge of Monitoring tools like Datadog, New Relic, Prometheus.
+
+• Relevant Experience in any cloud platform preferably on GCP/PCF.
+
+• Strong in CICD experience using Jenkins, TeamCity etc
+
+• Good to have - SLOs/SLAs, Infrastructure-as-code, secrets management, deployment strategies, cloud networking.
+
+• Knowledge about Kubernetes/docker.
+
+• Should be familiar with primitives like deployments and cronjob.
+
+
+Language: English fluent
+
+Location: current living in any state of Mexico"
+DevOps Engineer,DevOps Engineer,Tata Consultancy Services,June,2023,"TATA IS LOOKING FOR YOUR TALENT
+
+
+
+
+Requisitos mandatorio:
+• Kubernetes
+• Herramientas para operar sobre Kubernetes: Helm o Kustomize o ArgoCD
+• Continuous Integration: Bamboo o Gitlab o Jenkins o Github Actions
+• Gestión de versiones: GIT en cualquier sabor (Bitbucket, Gitlab, Github), branching model y esquemas de PR
+• Batch Scripting o Python, en cualquiera de los dos casos nivel experto.
+• Capacidad de troubleshooting con equipos de desarrollo
+5 years experience
+
+Habilidades deseadas
+Linux, Shell, Python and Groovy, Terraform, Ansible & Chef scripting
+Github, Jenkins, Artifactory, Jira, Confluence, SonarQube
+Docker, Kubernetes, AKS, azure
+Nivel entendimiento
+• Arquitectura (Front, API, Microservicios)
+• Cloud (Networking, Storage, Compute)
+• Base de datos (SQL y NoSQL) a nivel developer y administración básic"
+DevOps Engineer,DevOps Engineer,nomiso,April,2024,"Location: Remote, Mexico
+
+Specification of main tasks /areas of responsibility
+
+Setup infrastructure and maintain Production, Development and Test environments in AWS.
+Monitor production systems for system health, performance and security.
+Be the technical expert on key operations and infrastructure projects to evaluate and improve the performance.
+Understand the workload requirements and perform capacity planning.
+Monitor the SLAs for the Glooko Cloud Platform for compliance.
+Design, implement and manage security tools and systems to ensure effectiveness of controls.
+Perform security reviews of server / network / application and ensure compliance with security policies and best practices.
+
+Qualifications
+
+5+ years of working experience in configuration management and engineering for large scale websites
+Knowledge of container and orchestration technologies (Docker, Kubernetes)
+Experience with Linux environments and scripting languages (Python, bash)
+Experience with cloud platform (AWS preferred) and cloud automation tools (Terraform/CloudFormation/Chef/Puppet/Ansible)
+Experience with SQL and NoSQL databases (MySQL, Postgres and MongoDB experience preferred).
+Hands-on experience with Protocols, Load Balancers and VPN.
+Experience with monitoring, trending and diagnostics tools (New Relic, Cloud watch etc)
+Have knowledge of application and web servers/reverse proxies such as Apache, Nginx and HAProxy
+Experience with logging tools such as Papertrail, ThreatStack, etc.
+Deep understanding of version control systems (Github, bitbucket), including branching and merging strategies
+Prior experience with build tools and continuous integration tools (Jenkins)
+Have the ability to take on-call rotation for production support and coordinate work under production critical situations
+
+About NomiSo:
+
+NomiSo is a Product Engineering company currently focussed on Video Stream Engineering, backed by AI and ML. We are a team of Software Engineers, Architects and Cloud Experts with more than 100 years of combined expertise in Technology and Delivery Management.
+
+Our mission is to Empower and Enhance the lives of our customers, through simple solutions for their complex business problems.
+
+At NomiSo we encourage entrepreneurial spirit - to learn, grow and improve. A great workplace, thrives on ideas and opportunities. That is a part of our DNA. We're in pursuit of colleagues who share similar passions, are nimble and thrive when challenged. We offer a positive, stimulating and fun environment – with opportunities to grow, a fast-paced approach to innovation, and a place where your views are valued and encouraged.
+
+We invite you to push your boundaries and join us in fulfilling your career aspirations!
+
+We are an equal opportunity employer and are committed to diversity, equity, and inclusion. We do not discriminate on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected characteristics."
+Site Reliability Engineer,Site Reliability Engineer,Tata Consultancy Services,May,2024,"Role: SRE
+Work Mode: Hybrid
+Experience : 4+ years
+
+You are good to go, If you have:
+Ability to program (structured and OOP) using one or more high-level languages, such as Python, Java, C/C++, Ruby, and JavaScript
+Experience with distributed storage technologies such as NFS, HDFS, Ceph, and Amazon S3, as well as dynamic resource management frameworks (Apache Mesos, Kubernetes, Yarn)
+Proactive approach to identifying problems, performance bottlenecks, and areas for improvement
+Skills:
+Azure/AWS, Docker, Kubernates, Ansible, Terraform, Powershell, Window and Linux Admin and Shell Script
+
+Should have good communication skill in English."
+DevOps Engineer,DevOps Engineer,Tata Consultancy Services,May,2024,"TCS Mexico is looking for a DevOps Engineer
+
+Location: Queretaro, CDMX, Guadalajara or Monterrey (hybrid modality)
+
+Skill Sets
+English: intermediate-advanced
+Design and programming experience with Java/Spring/Microservices, SQL Server
+Experience implementing AWS technology and services
+Experience with terraform or similar infrastructure as code tools, Hands on experience with CI tools such as GitLab CI, Gradle, Terraform
+Experience working with container technologies and cloud deployments
+
+
+Main activities
+DevOps with extensive automation and programming experience throughout the software development lifecycle (SDLC)
+Ability to service and develop capabilities across multiple teams or organizations.
+DevOps has technical depth across the full DevOps spectrum along with leading and evangelizing transformations, and driving innovation
+Experience with Chef, Puppet, Salt, or Ansible in production environments.
+Knowledge of IP networking, VPN's, DNS, load balancing and firewall.
+Experience with monitoring and log aggregating frameworks such as Kafka, Logstash, Splunk, ElastiSearch, and Kibana.
+Strong presentation, verbal communication and written communications skills.
+Ability to lead effectively across organizations and engagements, preferably from a professional services organization or similar.
+
+
+What we offer to you:
+Direct contract (indeterminate time with initial probation period)
+Full payroll scheme
+Benefits of the law and above
+
+
+Be part of our team!!"
+Oliver Wyman - Junior DevOps Engineer - Mexico City,Oliver Wyman - Junior DevOps Engineer - Mexico City,Marsh McLennan,May,2024,"Oliver Wyman is a global leader in management consulting. With offices in 70 cities across 30 countries, Oliver Wyman combines deep industry knowledge with specialized expertise in strategy, operations, risk management, and organization transformation. Our 7000 professionals help clients optimize their business, improve their operations and risk profile, and accelerate their organizational performance to seize the most attractive opportunities. Oliver Wyman’s thought leadership is evident in our agenda-setting books, white papers, research reports, and articles in the business press. Our clients are the CEOs and executive teams of the top Global 1000 companies.
+
+Visit our website for more details about Oliver Wyman: www.oliverwyman.com
+
+Job Overview:
+
+The OW Tech department is looking to hire a highly motivated Junior DevOps Engineer. You will play a crucial role in our DevOps team, contributing to the design and implementation of our DevOps processes and procedures. You will collaborate closely with development, architecture, and engineering teams to understand their CI/CD requirements and infrastructure runtime environments. Your primary responsibility will be to automate software deployment, testing, and infrastructure setup processes, ensuring the safe, secure, and efficient deployment of features to production through pipeline automation. Additionally, you will be responsible for maintaining, patching, and securing environments, as well as identifying and troubleshooting technical issues that arise in the DevOps pipeline.
+
+**This is a hybrid role that requires 2 days per week in the Mexico City office. There is no option to be fully remote.**
+
+Please submit CVs in English
+
+Key Responsibilities:
+
+Manage assigned tasks in the DevOps Team backlog.
+Contribute to the design and implementation of DevOps processes and procedures.
+Collaborate with development, architecture, and engineering teams to understand and implement their CI/CD requirements and infrastructure runtime environments.
+Automate software deployment, testing, and infrastructure setup processes.
+Ensure safe, secure, and fast deployment of features to production through pipeline automation.
+Maintain, patch, and secure environments.
+Identify and troubleshoot technical issues
+
+Requirements:
+
+Bachelor's degree in Computer Engineering, Information Technology, or a related field.
+Minimum 1-2+ years of experience in a DevOps or equivalent role.
+Practical experience using Container-orchestration, infrastructure-as-code, configuration management and deployment technologies such as Rancher, Docker, Kubernetes, Helm and Terraform is required.
+Practical experience with CI/CD tools and processes, such as Jira/ADO and GitHub/GitHub Actions/Jenkins, Ansible, SysDig, HashiCorp Vault
+Strong understanding of artifact repositories and package management concepts (e.g., Nexus, Artifactory, npm, Docker registries).
+Strong understanding of Agile driven software development practices and development methodologies. (e.g. Trunk Based Development, Test Driven Development)
+Experience with code quality and security tools like SonarQube.
+Experience with Linux (Redhat/Oracle) systems administration.
+Experience with scripting and automation (e.g., Bash, Python).
+Good working knowledge of infrastructure and security services like DNS, AD, LDAP, DHCP, PKI, HA Proxy, TLS, RBAC components.
+100% fluency in English is a must.
+
+Skills And Attributes
+
+Strong problem-solving and troubleshooting skills.
+Strong communicator, in both verbal and written form, able to articulate concepts and ideas, break through barriers, engage people, and work effectively with others under pressure.
+Neutral toward technology, vendor, and product choices more interested in results than in personal preferences.
+Unflappable in the face of opposition to ideas
+
+Marsh & McLennan Companies is a global professional services firm providing advice and solutions in the areas of risk, strategy and human capital. It is the parent company of a number of the world's leading risk experts and specialty consultants, including Marsh, the insurance broker and risk advisor; Guy Carpenter, the risk and reinsurance specialist; Mercer, the provider of HR and related financial advice and services; and Oliver Wyman, the management consultancy. With over 81,000 colleagues advise clients in 130 countries and annual revenue of nearly $19 billion, Marsh & McLennan Companies provides analysis, advice and transactional capabilities to clients in more than 130 countries. Its stock (ticker symbol: MMC) is listed on the New York, Chicago and London stock exchanges.
+
+Marsh & McLennan Companies offers competitive salaries and comprehensive benefits and programs including health and welfare, tuition assistance, 401K, employee assistance program, domestic partnership benefits, career mobility, employee network groups, volunteer opportunities, and other programs. For more information about our company, please visit us at: www.mmc.com. We embrace a culture that celebrates and promotes the many backgrounds, heritages and perspectives of our colleagues and clients. For more information, please visit us at: www.mmc.com/diversity. Marsh McLennan and its Affiliates are EOE Minority/Female/Disability/Vet/Sexual Orientation/Gender Identity employers.
+
+R_263647"
+DevOps Engineer,DevOps Engineer,Cognizant,May,2024,"We’re hiring!
+
+At Cognizant we have an ideal opportunity for you to be part of one of the largest companies in the digital sector worldwide. A Great Place To Work where we look for people who contribute new ideas, experiencing a dynamic and growing environment. At Cognizant we promote an inclusive culture, where we value different perspectives providing career growth and development opportunities. #WelcomeToCognizant!
+
+We have an exciting opportunity for an exceptional individual to work supporting one of our clients as a DevOps Engineer.
+
+Skills
+
+Good written and oral communication skills.
+Demonstrated ability to work with and manage distributed teams.
+Thrives in a fast paced environment with continuously changing priorities
+Ability to move forward given ambiguous conditions
+Strong analytical and organizational skills.
+Results Oriented and go getter attitude.
+Ability to manage multiple build and deployments simultaneously and prioritize time with minimal supervision
+
+Knowledge In The Next Skills
+
+Linux
+Kubernetes
+Shell
+Infrastructure Knowledge
+Scripting knowledhe
+Advanced English
+
+Why Cognizant?
+
+Improve your career in one of the largest and fastest growing IT services providers worldwide
+
+Receive ongoing support and funding with training and development plans
+
+Have a highly competitive benefits and salary package
+
+Get the opportunity to work for leading global companies
+
+We are committed to respecting human rights and build a better future by helping your minds and the environment
+
+We invest in people and their wellbeing.
+
+We create conditions for everyone to thrive. We do not discriminate based on race, religion, color, sex, age, disability, nationality, sexual orientation, gender identity or expression, or for any other reason covered.
+
+At Cognizant we believe than our culture make us stronger!
+
+Join us now!
+
+#BeCognizant #IntuitionEngineere
+
+Igualdad de Empleo y Política de Acción Afirmativa:
+
+Cognizant es un empleador que ofrece igualdad de oportunidades. Todos los solicitantes calificados recibirán consideración para el empleo sin distinción de sexo, identidad de género, orientación sexual, raza, color, religión, origen nacional, discapacidad, estado de veterano protegido, edad o cualquier otra característica protegida por la ley."
+Cloud Engineer,Cloud Engineer,System Soft Technologies,May,2024,"Job Description – Cloud Infrastructure Engineer II
+
+System Soft Technologies is a leading technology company that provides innovative technical solutions and consulting services to enhance innovation, business value, and competitiveness. For over 23 years, our focus on becoming a trusted partner to each client has allowed us to become a $230MM+ company with a pool of over 1900 associates who cover the full spectrum of IT expertise. We are distinguished by our ability to anticipate the unique needs of our clients and deliver a level of quality that far exceeds their expectations.
+
+Why System Soft Technologies?
+
+At System Soft Technologies, we are a family unit powered by diversity, inclusion, transparency, respect, integrity, and passion for our clients and our people. Our business growth depends on your professional development, as we collaborate, share ideas and innovation, and invest in our future. By forging a meaningful partnership with our people, we come together with the same purpose, exceeding our goals. This keeps us nimble, ahead of the competition, and on top of our industry. Our continued success begins with you.
+
+Job Summary:
+
+This role will support the existing cloud-based production environments of our clients while providing assistance to development teams as requested for cloud services. For production environments, this will include the handling of support tickets, regular maintenance and updates to client environments, applying mitigation strategies to known issues, and handling urgent outages. Assistance to development teams can include providing consultation on infrastructure architecture design and configuration, including creating relevant artifacts, as well as cost estimations for cloud-based hosting. This role includes ownership of technical, commercial, and service elements related to cloud project engagements. The successful applicant will be able to work independently under the provided policies and procedures while providing clear communications to the technical and support teams they assist.
+
+Responsibilities:
+
+Role responsibilities for this position include:
+
+Ability to create artifacts for cloud infrastructure projects to include migration strategies, roadmaps, business cases, and transformation recommendations.
+Design and build end-to-end hybrid DC and Cloud solutions for multiple types of service offerings and/or technology offerings.
+Manage production operation and support of multiple client cloud environments within AWS, AZURE, or GCP.
+Assess infrastructure requirements for new client projects and existing environments and provide cost estimates based on current vendor prices.
+Work independently to address client tickets within contractual SLAs for timeliness in handling support tickets.
+Handling the creation and configuration of client cloud environments consistent with the productivity and financial performance objectives of the project. This also includes the handling of internal team environments.
+Provide routine maintenance, upgrades, and improvements for client production environments and internal team environments.
+Efficient and effective communication, both verbal and written to facilitate issue resolution and complex infrastructure design discussions.
+Assess and provide a variety of technology solutions to support client and company infrastructure needs while providing the pros and cons of each technology to enable business decision-making choices.
+Manage standards, procedures, and practices for record keeping of contractual agreements and internal IT Cloud strategy
+Identify potential project risks and incorporate risk mitigation strategy and contingency plan
+Continued professional development and growth by staying in touch with the latest technology offerings and trends as well as proper industry procedures and standards.
+
+Qualifications:
+
+5+ years of infrastructure engineering experience
+Infrastructure Transition and/or Data Center Migration to the Cloud experience
+Experience in two or more of the industry's common cloud hosting environments: AWS, AZURE, or GCP, as well as the development and configuration of new infrastructures within those environments.
+Experience in managing the production operation and support of one or more technology solutions, including custom development applications, IaaS, PaaS, and SaaS.
+Experience in designing and creating architecture diagrams/artifacts to be used for both business and technical teams. This includes artifacts and designs about:
+AS-IS to TO-BE Transformation Mappings and Roadmaps
+The different architectural layers (e.g., Network, Storage, Databases, etc.)
+Virtualization technologies (e.g., VMware, Hyper-V, Nutanix, Containers, LPAR, etc.)
+Cloud migration strategies (i.e., Public, Hybrid, or Private cloud)
+Security components
+Deep knowledge of On-Prem technologies like KVM, VMWare, Nutanix, converged architecture, Hyper-converged infrastructure, Private Cloud technologies, etc.
+Experience working within both project-centric and project-matrix resourcing models
+Experience in working with support tickets under defined SLAs.
+Exposure to the full procurement life cycle (e.g., working with third parties to receive quotations, assisting in the commercial aspects of procuring data center-related hardware and licensing, etc.)
+Excellent communication skills in both verbal and written communication.
+Familiar with ITIL processes.
+
+Up to 10% Travel May Be Required
+
+System Soft Technologies is a proud equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, sexual orientation, or any other characteristic protected by law.
+
+System Soft Technologies is a proud equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, sexual orientation, or any other characteristic protected by law.
+
+We are committed to the full inclusion of all qualified individuals. If you are an individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to access job openings or apply for a job on this site as a result of your disability. You can request reasonable accommodations by contacting us at talent.acquisition@sstech.us."
