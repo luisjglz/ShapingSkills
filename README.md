@@ -15,3 +15,11 @@ Competence extraction process.
 
 
 
+# Test files (not used)
+
+EmbeddedSystemsEngineeringManagerKSA.json
+raptorSingaporeNOApi.ipynb
+self_rag_skills.ipynb
+singapore_infocomm.txt
+
+
