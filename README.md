@@ -6,9 +6,11 @@ Scraps Indeed for Infocomm jobs.
 
 
 
+
 # Infocomm_JSearch
 
 Uses JSearch API from RapidAPI to extract job posts based on the Infocomm occupations available in the code.
+
 
 
 
