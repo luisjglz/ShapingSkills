@@ -42,7 +42,7 @@ That creates a JSON like variable in `data` with the following structure:
     ]
 ```
 
-We then convert it to a Panda's Dataframe:
+Then convert it to a Panda's Dataframe:
 
 ```
 import pandas as pd
