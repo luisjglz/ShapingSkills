@@ -1,4 +1,4 @@
-# IndeedJobWebScrapper
+# Indeed JobWebScrapper
 
 Scraps Indeed for Infocomm jobs.
 
